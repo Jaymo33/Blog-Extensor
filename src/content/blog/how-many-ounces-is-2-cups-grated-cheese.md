@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of grated cheese?",
-        "description": "Find out exactly how many ounces are in 2 cups of grated cheese for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of grated cheese?",
+    "description": "Find out exactly how many ounces are in 2 cups of grated cheese for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-grated-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-grated-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cheese affect how many ounces are in 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of cheese makes a difference. Hard cheeses like Parmesan or cheddar will weigh more per cup (around 4 ounces per cup) compared to softer cheeses like mozzarella or feta, which may be closer to 3.5 ounces per cup. Always check your recipe for specific cheese types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of cheese makes a difference. Hard cheeses like Parmesan or cheddar will weigh more per cup (around 4 ounces per cup) compared to softer cheeses like mozzarella or feta, which may be closer to 3.5 ounces per cup. Always check your recipe for specific cheese types."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Pre-shredded cheese works, but it often contains anti-caking agents that can affect melting and weight. Freshly grated cheese melts more evenly and gives a more accurate measurement. If using pre-shredded, fluff it lightly before measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pre-shredded cheese works, but it often contains anti-caking agents that can affect melting and weight. Freshly grated cheese melts more evenly and gives a more accurate measurement. If using pre-shredded, fluff it lightly before measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2 cups of grated cheese to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "2 cups of grated cheese is roughly 226 grams. This conversion is based on semi-hard cheeses like cheddar. For softer cheeses, it may be slightly less, around 200 grams. Use a kitchen scale for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2 cups of grated cheese is roughly 226 grams. This conversion is based on semi-hard cheeses like cheddar. For softer cheeses, it may be slightly less, around 200 grams. Use a kitchen scale for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for ounces instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ounces provide a more accurate measurement, especially for air fryer cooking where even heat distribution is key. Cups can vary based on how tightly packed the cheese is, but weight ensures consistency every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ounces provide a more accurate measurement, especially for air fryer cooking where even heat distribution is key. Cups can vary based on how tightly packed the cheese is, but weight ensures consistency every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of grated cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of grated cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese",
     "description": "Find out exactly how many ounces are in 2 cups of grated cheese for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of grated cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-grated-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of grated cheese equals approximately 8 ounces (or 226 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up cheesy garlic bread or a gooey quesadilla, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

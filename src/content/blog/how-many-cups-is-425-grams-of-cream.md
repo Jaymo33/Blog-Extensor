@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream"
-        },
-        "headline": "Quick Guide: Convert 425 Grams of Cream to Cups Easily",
-        "description": "Learn how to convert 425 grams of cream to cups for perfect baking and cooking results every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream"
+    },
+    "headline": "Quick Guide: Convert 425 Grams of Cream to Cups Easily",
+    "description": "Learn how to convert 425 grams of cream to cups for perfect baking and cooking results every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-425-grams-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-425-grams-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cream affect the conversion from grams to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the fat content in cream can slightly alter the volume. Double cream, with its higher fat content, is denser than single cream, so 425 grams might take up slightly less space. For most recipes, the standard conversion works, but for precision, weigh your cream."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the fat content in cream can slightly alter the volume. Double cream, with its higher fat content, is denser than single cream, so 425 grams might take up slightly less space. For most recipes, the standard conversion works, but for precision, weigh your cream."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for whipped cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Whipped cream is aerated, so 425 grams will occupy more volume than liquid cream. If your recipe calls for whipped cream by weight, it's best to measure it before whipping. For volume measurements, whip the cream first and then measure the cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Whipped cream is aerated, so 425 grams will occupy more volume than liquid cream. If your recipe calls for whipped cream by weight, it's best to measure it before whipping. For volume measurements, whip the cream first and then measure the cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 425 grams of cream without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without a scale, use a liquid measuring cup and the rough conversion of 425 grams to 1.75-1.8 cups. Spoon the cream into the cup and level it off for accuracy. Remember, this method is less precise than weighing, so results may vary slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without a scale, use a liquid measuring cup and the rough conversion of 425 grams to 1.75-1.8 cups. Spoon the cream into the cup and level it off for accuracy. Remember, this method is less precise than weighing, so results may vary slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK and US cup measurements differ for cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The difference stems from the standard cup sizes in each region. A UK cup is 250ml, while a US cup is 240ml. This small variation means 425 grams of cream will fill slightly more of a UK cup than a US one, though the difference is minimal for most recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The difference stems from the standard cup sizes in each region. A UK cup is 250ml, while a US cup is 240ml. This small variation means 425 grams of cream will fill slightly more of a UK cup than a US one, though the difference is minimal for most recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 425 Grams of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 425 Grams of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream",
     "description": "Learn how to convert 425 grams of cream to cups for perfect baking and cooking results every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 425 Grams of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>425 grams of cream is roughly equivalent to 1.8 cups in the UK or 1.75 cups in the US. This conversion is essential for baking, cooking, or even whipping up air fryer recipes where precision matters. Whether you're making a creamy sauce or a decadent dessert, knowing how to measure cream accurately ensures perfect results every time.</p>

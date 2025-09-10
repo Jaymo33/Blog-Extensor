@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion"
-        },
-        "headline": "Quick Answer: How Many Ounces is 5g of Minced Onion?",
-        "description": "Discover how to convert 5g of minced onion to ounces for precise air fryer recipes. Get accurate measurements for perfect results every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion"
+    },
+    "headline": "Quick Answer: How Many Ounces is 5g of Minced Onion?",
+    "description": "Discover how to convert 5g of minced onion to ounces for precise air fryer recipes. Get accurate measurements for perfect results every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-minced-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-minced-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 5g of minced onion to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can estimate 5g of minced onion as roughly 1 teaspoon when packed tightly. However, this isn’t as precise as using a digital scale. For best results in air fryer recipes, consider investing in a kitchen scale for accurate measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can estimate 5g of minced onion as roughly 1 teaspoon when packed tightly. However, this isn’t as precise as using a digital scale. For best results in air fryer recipes, consider investing in a kitchen scale for accurate measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is 5g of minced onion a common measurement in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "5g of minced onion provides enough flavour to enhance dishes without overpowering them. It’s a balanced amount for marinades, seasonings, and toppings, especially in air fryer cooking where ingredients cook quickly and flavours concentrate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5g of minced onion provides enough flavour to enhance dishes without overpowering them. It’s a balanced amount for marinades, seasonings, and toppings, especially in air fryer cooking where ingredients cook quickly and flavours concentrate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use dried minced onion instead of fresh for 5g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but dried minced onion is more concentrated. Use about half the amount (2.5g or 0.09 oz) for the same flavour intensity. Rehydrate dried onion with a bit of water before adding it to air fryer recipes for better texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but dried minced onion is more concentrated. Use about half the amount (2.5g or 0.09 oz) for the same flavour intensity. Rehydrate dried onion with a bit of water before adding it to air fryer recipes for better texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover minced onion after measuring 5g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover minced onion in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in small portions. Always label with the weight (e.g., 5g portions) for easy use in future air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover minced onion in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in small portions. Always label with the weight (e.g., 5g portions) for easy use in future air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 5g of minced onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of minced onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion",
     "description": "Discover how to convert 5g of minced onion to ounces for precise air fryer recipes. Get accurate measurements for perfect results every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 5g of minced onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-minced-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5g of minced onion equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re preparing a savoury topping or a flavourful marinade, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

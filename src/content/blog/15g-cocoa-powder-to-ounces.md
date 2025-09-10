@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces"
-        },
-        "headline": "Quick 15g cocoa powder to ounces conversion for UK bakers",
-        "description": "Convert 15g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces"
+    },
+    "headline": "Quick 15g cocoa powder to ounces conversion for UK bakers",
+    "description": "Convert 15g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-cocoa-powder-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-cocoa-powder-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 15g of cocoa powder the same as 15ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 15g of cocoa powder doesn't equal 15ml because grams measure weight while millilitres measure volume. The exact volume of 15g cocoa powder depends on how it's packed - it could range from about 30-40ml. For accuracy in air fryer baking, always weigh cocoa powder rather than using volume measures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 15g of cocoa powder doesn't equal 15ml because grams measure weight while millilitres measure volume. The exact volume of 15g cocoa powder depends on how it's packed - it could range from about 30-40ml. For accuracy in air fryer baking, always weigh cocoa powder rather than using volume measures."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use tablespoons to measure 15g of cocoa powder?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can approximate 15g of cocoa powder using 2 UK tablespoons plus 1 teaspoon, but this isn't as precise as weighing. Tablespoons can vary in how much they hold depending on how you fill them. For consistent results in air fryer recipes, especially baked goods, investing in digital kitchen scales is worthwhile."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can approximate 15g of cocoa powder using 2 UK tablespoons plus 1 teaspoon, but this isn't as precise as weighing. Tablespoons can vary in how much they hold depending on how you fill them. For consistent results in air fryer recipes, especially baked goods, investing in digital kitchen scales is worthwhile."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cocoa powder affect the 15g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The type of cocoa powder (natural vs Dutch-processed) doesn't change the weight conversion - 15g always equals about 0.53 ounces. However, different types may have slightly different densities, meaning 15g might take up slightly different volumes. The weight measurement remains the most reliable way to ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The type of cocoa powder (natural vs Dutch-processed) doesn't change the weight conversion - 15g always equals about 0.53 ounces. However, different types may have slightly different densities, meaning 15g might take up slightly different volumes. The weight measurement remains the most reliable way to ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 15g of cocoa powder?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "There are approximately 30-35 calories in 15g (0.53 oz) of unsweetened cocoa powder, depending on the brand. Cocoa powder is relatively low in calories but packed with flavour, making it a great ingredient for healthier air fryer desserts. Remember that added sugar in recipes will increase the total calorie count."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are approximately 30-35 calories in 15g (0.53 oz) of unsweetened cocoa powder, depending on the brand. Cocoa powder is relatively low in calories but packed with flavour, making it a great ingredient for healthier air fryer desserts. Remember that added sugar in recipes will increase the total calorie count."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 15g of cocoa powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of cocoa powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces",
     "description": "Convert 15g of cocoa powder to ounces in seconds with our easy guide. Perfect for air fryer baking and UK recipes.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 15g of cocoa powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/15g-cocoa-powder-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>15g of cocoa powder equals approximately 0.53 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break your chocolatey creations. Whether you're whipping up air fryer brownies or dusting desserts, knowing how to convert 15g cocoa powder to ounces ensures perfect results every time.</p>

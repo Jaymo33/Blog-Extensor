@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds"
-        },
-        "headline": "Easy 35.25 kg to pounds conversion for air fryer cooking",
-        "description": "Convert 35.25 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and meal prep with our simple guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds"
+    },
+    "headline": "Easy 35.25 kg to pounds conversion for air fryer cooking",
+    "description": "Convert 35.25 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and meal prep with our simple guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-21T22:25:08.238Z",
-        "dateModified": "2025-08-21T22:25:08.238Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/35-25-kg-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-21T22:25:08.238Z",
+    "dateModified": "2025-08-21T22:25:08.238Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/35-25-kg-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 35.25 kg exactly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "35.25 kg is exactly 77.712675 pounds when using the precise conversion factor of 1 kg = 2.20462262 pounds. For most practical purposes in the kitchen, especially with air fryer recipes, you can round this to 77.7 pounds. This level of accuracy ensures your cooking times and portion sizes are spot on for perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "35.25 kg is exactly 77.712675 pounds when using the precise conversion factor of 1 kg = 2.20462262 pounds. For most practical purposes in the kitchen, especially with air fryer recipes, you can round this to 77.7 pounds. This level of accuracy ensures your cooking times and portion sizes are spot on for perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 35.25 kg to pounds conversion for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely, converting 35.25 kg to pounds is very useful for air fryer recipes. Many recipes specify weights in pounds, so knowing that 35.25 kg equals approximately 77.7 pounds helps you follow instructions accurately. This is particularly important for larger items like roasts or batch-cooked vegetables, where precise weight affects cooking time and temperature in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely, converting 35.25 kg to pounds is very useful for air fryer recipes. Many recipes specify weights in pounds, so knowing that 35.25 kg equals approximately 77.7 pounds helps you follow instructions accurately. This is particularly important for larger items like roasts or batch-cooked vegetables, where precise weight affects cooking time and temperature in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 35.25 kg to stones and pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 35.25 kg to stones and pounds, first convert kilograms to pounds. 35.25 kg is approximately 77.7 pounds. Since one stone equals 14 pounds, divide 77.7 by 14 to get 5.55 stones. The whole number is 5 stones, and the remainder is 0.55 stones, which is 7.7 pounds (0.55 x 14). So, 35.25 kg is about 5 stone and 7.7 pounds."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 35.25 kg to stones and pounds, first convert kilograms to pounds. 35.25 kg is approximately 77.7 pounds. Since one stone equals 14 pounds, divide 77.7 by 14 to get 5.55 stones. The whole number is 5 stones, and the remainder is 0.55 stones, which is 7.7 pounds (0.55 x 14). So, 35.25 kg is about 5 stone and 7.7 pounds."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 35.25 kg to pounds for cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 35.25 kg to pounds is important for cooking because it ensures accuracy in recipes, especially when using appliances like air fryers that rely on precise measurements for best results. Incorrect conversions can lead to undercooked or overcooked food. Additionally, many cooking guidelines and packaging labels use pounds, so converting helps you portion and plan meals effectively, reducing waste and improving outcomes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 35.25 kg to pounds is important for cooking because it ensures accuracy in recipes, especially when using appliances like air fryers that rely on precise measurements for best results. Incorrect conversions can lead to undercooked or overcooked food. Additionally, many cooking guidelines and packaging labels use pounds, so converting helps you portion and plan meals effectively, reducing waste and improving outcomes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "35.25 kg to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds",
+    "@type": "WebPage",
+    "name": "35.25 kg to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds",
     "description": "Convert 35.25 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and meal prep with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
     "dateModified": "2025-08-21T22:25:08.238000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "35.25 kg to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/35-25-kg-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>35.25 kg is equal to approximately 77.71 pounds. This conversion is particularly useful when you're preparing larger quantities of food in your air fryer, such as a whole chicken or a big batch of roasted vegetables. Knowing how to convert 35.25 kg to pounds ensures you can follow recipes accurately and achieve perfect results every time. Whether you're meal prepping or cooking for a crowd, this measurement helps you portion correctly. For more handy conversion tips, check out the guides available at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

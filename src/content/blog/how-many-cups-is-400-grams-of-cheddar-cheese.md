@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese"
-        },
-        "headline": "Quick Guide: Convert 400 Grams of Cheddar Cheese to Cups",
-        "description": "Learn how to convert 400 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese"
+    },
+    "headline": "Quick Guide: Convert 400 Grams of Cheddar Cheese to Cups",
+    "description": "Learn how to convert 400 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-cheddar-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-cheddar-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many cups is 400 grams of shredded cheddar cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "400 grams of shredded cheddar cheese is roughly 4 cups, as shredded cheese is less densely packed than grated. For accuracy, lightly spoon the cheese into a measuring cup without pressing down."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "400 grams of shredded cheddar cheese is roughly 4 cups, as shredded cheese is less densely packed than grated. For accuracy, lightly spoon the cheese into a measuring cup without pressing down."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese for 400 grams to cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but pre-shredded cheese may contain additives that affect volume. 400 grams of pre-shredded cheddar equals about 4 cups, but for best results in air fryer recipes, freshly grated cheese melts more evenly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but pre-shredded cheese may contain additives that affect volume. 400 grams of pre-shredded cheddar equals about 4 cups, but for best results in air fryer recipes, freshly grated cheese melts more evenly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How much does 1 cup of grated cheddar cheese weigh?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1 cup of grated cheddar cheese weighs approximately 115 grams. So, 400 grams equals roughly 3.5 cups. Always measure by weight for baking recipes to ensure precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1 cup of grated cheddar cheese weighs approximately 115 grams. So, 400 grams equals roughly 3.5 cups. Always measure by weight for baking recipes to ensure precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 400 grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (grams) are more accurate than volume (cups), especially for cheese, which can vary in density. 400 grams ensures consistency, whether you’re making crispy cheese bites or a cheesy casserole in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (grams) are more accurate than volume (cups), especially for cheese, which can vary in density. 400 grams ensures consistency, whether you’re making crispy cheese bites or a cheesy casserole in your air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 400 Grams of Cheddar Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 400 Grams of Cheddar Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese",
     "description": "Learn how to convert 400 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 400 Grams of Cheddar Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-cheddar-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>400 grams of cheddar cheese equals approximately 3.5 cups when grated. This conversion is essential for air fryer recipes, ensuring you get the right consistency and flavour in dishes like cheesy nachos, stuffed mushrooms, or crispy cheese bites. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in cooking.</p>  

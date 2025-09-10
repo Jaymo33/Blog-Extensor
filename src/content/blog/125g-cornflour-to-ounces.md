@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces"
-        },
-        "headline": "Quick 125g cornflour to ounces conversion for air fryer recipes",
-        "description": "Convert 125g of cornflour to ounces in seconds for perfect air fryer baking. Get accurate UK measurements for flawless results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces"
+    },
+    "headline": "Quick 125g cornflour to ounces conversion for air fryer recipes",
+    "description": "Convert 125g of cornflour to ounces in seconds for perfect air fryer baking. Get accurate UK measurements for flawless results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-cornflour-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-cornflour-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of cornflour for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can substitute plain flour, cornflour gives a crispier texture in air fryer cooking. Plain flour absorbs more moisture, which may result in a softer coating. For best results, stick to cornflour when the recipe calls for it."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can substitute plain flour, cornflour gives a crispier texture in air fryer cooking. Plain flour absorbs more moisture, which may result in a softer coating. For best results, stick to cornflour when the recipe calls for it."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 125g of cornflour without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "One UK cup of cornflour is roughly 125g, but this can vary slightly. For accuracy, we recommend investing in digital scales. If using cups, fluff the cornflour first and spoon it gently into the measuring cup without packing it down."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "One UK cup of cornflour is roughly 125g, but this can vary slightly. For accuracy, we recommend investing in digital scales. If using cups, fluff the cornflour first and spoon it gently into the measuring cup without packing it down."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer coating turn out soggy?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Soggy coatings often result from overcrowding the air fryer basket or using too much oil. Ensure your 125g of cornflour coating is evenly distributed and cook in batches if necessary. Preheat your air fryer for optimal crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Soggy coatings often result from overcrowding the air fryer basket or using too much oil. Ensure your 125g of cornflour coating is evenly distributed and cook in batches if necessary. Preheat your air fryer for optimal crispiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cornflour for gluten-free air fryer baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, cornflour is naturally gluten-free and works well in air fryer recipes. Combine it with other gluten-free flours for better texture in baked goods. Always check labels to ensure no cross-contamination if you're cooking for coeliacs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, cornflour is naturally gluten-free and works well in air fryer recipes. Combine it with other gluten-free flours for better texture in baked goods. Always check labels to ensure no cross-contamination if you're cooking for coeliacs."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 125g of cornflour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of cornflour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces",
     "description": "Convert 125g of cornflour to ounces in seconds for perfect air fryer baking. Get accurate UK measurements for flawless results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 125g of cornflour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/125g-cornflour-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>125g of cornflour equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re coating chicken or baking a cake, knowing how many ounces 125g of cornflour translates to ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>  

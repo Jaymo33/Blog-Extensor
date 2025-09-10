@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour"
-        },
-        "headline": "Quick Guide: Convert 1.25 cups of gram flour to ounces easily",
-        "description": "Learn how to convert 1.25 cups of gram flour to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour"
+    },
+    "headline": "Quick Guide: Convert 1.25 cups of gram flour to ounces easily",
+    "description": "Learn how to convert 1.25 cups of gram flour to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-gram-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-gram-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of gram flour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can substitute plain flour for gram flour in some recipes, the results will be different. Gram flour has a nuttier flavour and creates a crispier texture in the air fryer. If you do substitute, you'll need to adjust the liquid in your recipe as gram flour absorbs more moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can substitute plain flour for gram flour in some recipes, the results will be different. Gram flour has a nuttier flavour and creates a crispier texture in the air fryer. If you do substitute, you'll need to adjust the liquid in your recipe as gram flour absorbs more moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my gram flour batter stick to the air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sticking can happen if the batter is too wet or if the air fryer basket isn't properly preheated. Lightly coating the basket with oil or using parchment paper designed for air fryers can help. Also ensure your batter isn't too thin - the 1.25 cups gram flour to ounces measurement helps get the consistency right."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sticking can happen if the batter is too wet or if the air fryer basket isn't properly preheated. Lightly coating the basket with oil or using parchment paper designed for air fryers can help. Also ensure your batter isn't too thin - the 1.25 cups gram flour to ounces measurement helps get the consistency right."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does gram flour last in storage?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Properly stored in an airtight container, gram flour can last 6-8 months in a cool, dry pantry. For longer storage, keep it in the freezer where it will maintain quality for up to a year. Always check for any off smells or discoloration before use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Properly stored in an airtight container, gram flour can last 6-8 months in a cool, dry pantry. For longer storage, keep it in the freezer where it will maintain quality for up to a year. Always check for any off smells or discoloration before use."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I make my own gram flour at home?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can make gram flour by grinding dried chickpeas in a high-powered blender or grain mill until fine. However, store-bought gram flour is usually more consistently ground, which helps with accurate measurements like the 1.25 cups to ounces conversion. Homemade may vary in density."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can make gram flour by grinding dried chickpeas in a high-powered blender or grain mill until fine. However, store-bought gram flour is usually more consistently ground, which helps with accurate measurements like the 1.25 cups to ounces conversion. Homemade may vary in density."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of gram flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of gram flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour",
     "description": "Learn how to convert 1.25 cups of gram flour to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of gram flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-gram-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of gram flour equals approximately 5.3 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up crispy pakoras or fluffy besan chilla, knowing the exact weight ensures consistent results every time. Gram flour, also known as besan, is a staple in many cuisines, and getting the measurements right is key to nailing the texture and flavour. For more air fryer recipe ideas, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a>.</p>

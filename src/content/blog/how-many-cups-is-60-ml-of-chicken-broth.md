@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth"
-        },
-        "headline": "Quick Answer: How Many Cups Is 60 ml of Chicken Broth?",
-        "description": "Find out exactly how many cups 60 ml of chicken broth equals for perfect recipes every time. Essential conversion for air fryer cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth"
+    },
+    "headline": "Quick Answer: How Many Cups Is 60 ml of Chicken Broth?",
+    "description": "Find out exactly how many cups 60 ml of chicken broth equals for perfect recipes every time. Essential conversion for air fryer cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-chicken-broth.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-chicken-broth.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 60 ml of chicken broth the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 60 ml of chicken broth equals 0.25 cups in both the UK and US. While cup sizes can vary slightly by country, the metric measurement (ml) remains consistent worldwide, making it a reliable unit for recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 60 ml of chicken broth equals 0.25 cups in both the UK and US. While cup sizes can vary slightly by country, the metric measurement (ml) remains consistent worldwide, making it a reliable unit for recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use water instead of 60 ml chicken broth in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute water, but the flavour will be less rich. Chicken broth adds depth to dishes, so if replacing it, consider adding a pinch of salt or herbs to compensate. For air fryer recipes, broth also helps retain moisture better than water."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute water, but the flavour will be less rich. Chicken broth adds depth to dishes, so if replacing it, consider adding a pinch of salt or herbs to compensate. For air fryer recipes, broth also helps retain moisture better than water."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 60 ml of chicken broth without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a tablespoon: 4 tablespoons equal 60 ml. Alternatively, a standard shot glass is often 50 ml, so fill it slightly more for an approximate measure. For accuracy, investing in a metric measuring jug is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a tablespoon: 4 tablespoons equal 60 ml. Alternatively, a standard shot glass is often 50 ml, so fill it slightly more for an approximate measure. For accuracy, investing in a metric measuring jug is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes often use small amounts like 60 ml of broth?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook food quickly, so smaller liquid quantities prevent sogginess. 60 ml (0.25 cups) is enough to add flavour and moisture without overwhelming the dish. This precision helps achieve the crispy texture air fryers are known for."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook food quickly, so smaller liquid quantities prevent sogginess. 60 ml (0.25 cups) is enough to add flavour and moisture without overwhelming the dish. This precision helps achieve the crispy texture air fryers are known for."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 60 ml of Chicken Broth?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Chicken Broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth",
     "description": "Find out exactly how many cups 60 ml of chicken broth equals for perfect recipes every time. Essential conversion for air fryer cooking!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 60 ml of Chicken Broth?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-chicken-broth"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>60 ml of chicken broth equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a sauce, soup, or marinade, knowing how to convert 60 ml of chicken broth to cups ensures consistency and flavour balance.</p>

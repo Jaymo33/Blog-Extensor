@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces"
-        },
-        "headline": "Quickly Convert 1000g of Condensed Milk to Ounces UK",
-        "description": "Learn how to convert 1000g of condensed milk to ounces with our easy guide. Perfect for air fryer recipes and accurate baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces"
+    },
+    "headline": "Quickly Convert 1000g of Condensed Milk to Ounces UK",
+    "description": "Learn how to convert 1000g of condensed milk to ounces with our easy guide. Perfect for air fryer recipes and accurate baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-condensed-milk-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-condensed-milk-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1000g of condensed milk without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a scale, you can estimate 1000g of condensed milk using cans. One standard can is 397g, so 1000g is roughly two and a half cans. However, for accuracy, a kitchen scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a scale, you can estimate 1000g of condensed milk using cans. One standard can is 397g, so 1000g is roughly two and a half cans. However, for accuracy, a kitchen scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 1000g of condensed milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 1000g of condensed milk (35.27 ounces) works well in air fryer recipes like caramel, fudge, or cheesecakes. Just ensure you use the right settings and follow the recipe closely for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 1000g of condensed milk (35.27 ounces) works well in air fryer recipes like caramel, fudge, or cheesecakes. Just ensure you use the right settings and follow the recipe closely for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 1000g of condensed milk last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Once opened, condensed milk lasts up to two weeks in the fridge if stored in an airtight container. Use it in desserts, coffee, or other recipes to avoid waste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Once opened, condensed milk lasts up to two weeks in the fridge if stored in an airtight container. Use it in desserts, coffee, or other recipes to avoid waste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 1000g of condensed milk the same as evaporated milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, condensed milk is sweetened and thicker than evaporated milk. 1000g of condensed milk (35.27 ounces) has added sugar, making it unsuitable as a direct substitute for evaporated milk in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, condensed milk is sweetened and thicker than evaporated milk. 1000g of condensed milk (35.27 ounces) has added sugar, making it unsuitable as a direct substitute for evaporated milk in recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of condensed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of condensed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces",
     "description": "Learn how to convert 1000g of condensed milk to ounces with our easy guide. Perfect for air fryer recipes and accurate baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of condensed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-condensed-milk-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of condensed milk equals approximately 35.27 ounces. This conversion is essential for accurate measurements in baking and air fryer recipes. Whether you're making a decadent dessert or a creamy sauce, knowing how to convert grams to ounces ensures perfect results every time.</p>

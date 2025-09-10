@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk"
-        },
-        "headline": "Quick Guide: Convert 1000g of Soy Milk to Ounces Easily",
-        "description": "Learn how to convert 1000g of soy milk to ounces in seconds. Perfect for air fryer recipes and precise measurements. Get accurate results now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk"
+    },
+    "headline": "Quick Guide: Convert 1000g of Soy Milk to Ounces Easily",
+    "description": "Learn how to convert 1000g of soy milk to ounces in seconds. Perfect for air fryer recipes and precise measurements. Get accurate results now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-soy-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-soy-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 1000g of soy milk to ounces for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 1000g of soy milk to ounces (35.27 oz) is crucial for air fryer cooking because many recipes use imperial measurements. Precise liquid measurements affect texture and cooking times in the air fryer's concentrated heat environment. Using the correct amount ensures your dishes turn out as intended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 1000g of soy milk to ounces (35.27 oz) is crucial for air fryer cooking because many recipes use imperial measurements. Precise liquid measurements affect texture and cooking times in the air fryer's concentrated heat environment. Using the correct amount ensures your dishes turn out as intended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use volume measurements instead of weight for 1000g of soy milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 1000g of soy milk is roughly equivalent to 1 litre by volume, weighing is more accurate for air fryer recipes. Different brands may vary in density, and weight measurements eliminate this variability. For baking especially, we always recommend using scales for the most consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 1000g of soy milk is roughly equivalent to 1 litre by volume, weighing is more accurate for air fryer recipes. Different brands may vary in density, and weight measurements eliminate this variability. For baking especially, we always recommend using scales for the most consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of soy milk affect the 1000g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The basic conversion of 1000g to 35.27 ounces remains the same regardless of soy milk type. However, flavored or sweetened varieties may be slightly denser. For most air fryer recipes, this small difference won't matter, but for precise baking, stick to unsweetened varieties when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The basic conversion of 1000g to 35.27 ounces remains the same regardless of soy milk type. However, flavored or sweetened varieties may be slightly denser. For most air fryer recipes, this small difference won't matter, but for precise baking, stick to unsweetened varieties when possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 1000g of soy milk without kitchen scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have scales, you can approximate 1000g of soy milk using a measuring jug - it's roughly 1 litre. However, for air fryer recipes where precision matters, consider investing in digital scales. They're inexpensive and invaluable for consistent cooking results, especially with liquid ingredients like soy milk."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have scales, you can approximate 1000g of soy milk using a measuring jug - it's roughly 1 litre. However, for air fryer recipes where precision matters, consider investing in digital scales. They're inexpensive and invaluable for consistent cooking results, especially with liquid ingredients like soy milk."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of soy milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of soy milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk",
     "description": "Learn how to convert 1000g of soy milk to ounces in seconds. Perfect for air fryer recipes and precise measurements. Get accurate results now!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of soy milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-soy-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of soy milk is approximately 35.27 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements. Whether you're making a creamy sauce or a dairy-free dessert, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

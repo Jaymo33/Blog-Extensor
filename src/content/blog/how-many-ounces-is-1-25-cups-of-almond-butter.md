@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1.25 Cups of Almond Butter?",
-        "description": "Find out exactly how many ounces are in 1.25 cups of almond butter for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1.25 Cups of Almond Butter?",
+    "description": "Find out exactly how many ounces are in 1.25 cups of almond butter for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-almond-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-almond-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use crunchy almond butter instead of smooth for 1.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, crunchy almond butter works fine in the same 1.25-cup (10-ounce) quantity. The texture will add bite to recipes like cookies or granola, but it won’t affect the weight conversion. Just ensure it’s well-stirred to distribute oils evenly before measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, crunchy almond butter works fine in the same 1.25-cup (10-ounce) quantity. The texture will add bite to recipes like cookies or granola, but it won’t affect the weight conversion. Just ensure it’s well-stirred to distribute oils evenly before measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.25 cups of almond butter to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ten ounces of almond butter is roughly 283 grams. If your kitchen scale uses metric measurements, this conversion ensures accuracy. Most air fryer recipes tolerate slight variances, but grams are ideal for precision baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ten ounces of almond butter is roughly 283 grams. If your kitchen scale uses metric measurements, this conversion ensures accuracy. Most air fryer recipes tolerate slight variances, but grams are ideal for precision baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my almond butter measurement seem off?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Natural almond butter separates, so oil may pool at the top. Always stir thoroughly before measuring 1.25 cups to incorporate the oils. If it’s still inconsistent, warm it slightly to soften, then remeasure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Natural almond butter separates, so oil may pool at the top. Always stir thoroughly before measuring 1.25 cups to incorporate the oils. If it’s still inconsistent, warm it slightly to soften, then remeasure."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute peanut butter for almond butter in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, peanut butter can replace almond butter in a 1:1 ratio (1.25 cups or 10 ounces). Flavour and texture will differ slightly, but it works well in most recipes, from sauces to baked goods. Adjust cooking times if the substitute has higher sugar content."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, peanut butter can replace almond butter in a 1:1 ratio (1.25 cups or 10 ounces). Flavour and texture will differ slightly, but it works well in most recipes, from sauces to baked goods. Adjust cooking times if the substitute has higher sugar content."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of almond butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of almond butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter",
     "description": "Find out exactly how many ounces are in 1.25 cups of almond butter for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of almond butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-almond-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of almond butter equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you’re making energy bites, sauces, or baked goods, knowing how many ounces are in 1.25 cups of almond butter helps avoid kitchen mishaps.</p>  

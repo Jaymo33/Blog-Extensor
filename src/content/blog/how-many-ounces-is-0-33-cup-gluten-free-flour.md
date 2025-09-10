@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour"
-        },
-        "headline": "Quick Guide: Convert 0.33 Cup Gluten-Free Flour to Ounces Easily",
-        "description": "Discover how to convert 0.33 cup of gluten-free flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour"
+    },
+    "headline": "Quick Guide: Convert 0.33 Cup Gluten-Free Flour to Ounces Easily",
+    "description": "Discover how to convert 0.33 cup of gluten-free flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-gluten-free-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-gluten-free-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of gluten-free flour affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different gluten-free flours can vary slightly in weight. Rice-based blends tend to be denser than nut-based flours, but most commercial gluten-free flour mixes average around 4.5 ounces per cup. For precise baking in your air fryer, it's best to weigh your flour or use the same brand consistently."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different gluten-free flours can vary slightly in weight. Rice-based blends tend to be denser than nut-based flours, but most commercial gluten-free flour mixes average around 4.5 ounces per cup. For precise baking in your air fryer, it's best to weigh your flour or use the same brand consistently."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for regular flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, regular all-purpose wheat flour weighs about 4.25 ounces per cup, slightly less than most gluten-free blends. If substituting regular flour in a gluten-free recipe that calls for 0.33 cup (1.5 ounces), you'd use about 1.4 ounces instead. Always adjust liquids as wheat flour absorbs differently."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, regular all-purpose wheat flour weighs about 4.25 ounces per cup, slightly less than most gluten-free blends. If substituting regular flour in a gluten-free recipe that calls for 0.33 cup (1.5 ounces), you'd use about 1.4 ounces instead. Always adjust liquids as wheat flour absorbs differently."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.33 cup without a 1/3 cup measure?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can measure 0.33 cup by using 5 tablespoons plus 1 teaspoon of gluten-free flour. Alternatively, use 1/4 cup plus 1 tablespoon for a close approximation. For air fryer recipes where precision matters, weighing out 1.5 ounces is the most accurate method."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can measure 0.33 cup by using 5 tablespoons plus 1 teaspoon of gluten-free flour. Alternatively, use 1/4 cup plus 1 tablespoon for a close approximation. For air fryer recipes where precision matters, weighing out 1.5 ounces is the most accurate method."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe with gluten-free flour turn out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free flour often requires more moisture than wheat flour. If your 0.33 cup measurement is correct but results are dry, try adding an extra teaspoon of liquid to your recipe. Also ensure you're not overmixing, which can develop starches and create a dense texture in air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free flour often requires more moisture than wheat flour. If your 0.33 cup measurement is correct but results are dry, try adding an extra teaspoon of liquid to your recipe. Also ensure you're not overmixing, which can develop starches and create a dense texture in air fryer baking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of gluten-free flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of gluten-free flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour",
     "description": "Discover how to convert 0.33 cup of gluten-free flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of gluten-free flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-gluten-free-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of gluten-free flour equals approximately 1.5 ounces. This conversion is essential for air fryer recipes where precision matters. Whether you're whipping up gluten-free muffins or coating chicken, getting the measurements right ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate conversions are for perfect dishes every time.</p>

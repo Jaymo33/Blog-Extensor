@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces"
-        },
-        "headline": "Quick 20g almond milk to ounces conversion for UK cooks",
-        "description": "Convert 20g of almond milk to ounces in seconds with our easy guide—perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces"
+    },
+    "headline": "Quick 20g almond milk to ounces conversion for UK cooks",
+    "description": "Convert 20g of almond milk to ounces in seconds with our easy guide—perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-almond-milk-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-almond-milk-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use fluid ounces instead of weight ounces for almond milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but be cautious—fluid ounces measure volume, while weight ounces measure mass. For almond milk, 20g (0.71 weight ounces) is roughly 0.68 fluid ounces. For precise air fryer recipes, stick to weight measurements unless the recipe specifies volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but be cautious—fluid ounces measure volume, while weight ounces measure mass. For almond milk, 20g (0.71 weight ounces) is roughly 0.68 fluid ounces. For precise air fryer recipes, stick to weight measurements unless the recipe specifies volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does almond milk’s brand affect the 20g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slight variations exist between brands due to thickness or additives, but the difference is minimal. Most unsweetened almond milks weigh similarly, so 20g will still approximate 0.71 ounces. For sweetened or flavoured versions, check the label for density changes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slight variations exist between brands due to thickness or additives, but the difference is minimal. Most unsweetened almond milks weigh similarly, so 20g will still approximate 0.71 ounces. For sweetened or flavoured versions, check the label for density changes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 20g of almond milk for air fryer baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale for accuracy, or if unavailable, measure just over 1.3 tablespoons (0.71 ounces). For recipes like <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>desserts</a>, precision ensures the right texture, so scales are recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale for accuracy, or if unavailable, measure just over 1.3 tablespoons (0.71 ounces). For recipes like <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>desserts</a>, precision ensures the right texture, so scales are recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK air fryer recipes use grams instead of ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The UK predominantly uses metric measurements, so grams are standard. However, many air fryer brands provide dual measurements. Converting 20g almond milk to ounces (0.71) helps when using international recipes or older cookbooks."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The UK predominantly uses metric measurements, so grams are standard. However, many air fryer brands provide dual measurements. Converting 20g almond milk to ounces (0.71) helps when using international recipes or older cookbooks."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 20g of almond milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of almond milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces",
     "description": "Convert 20g of almond milk to ounces in seconds with our easy guide—perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 20g of almond milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/20g-almond-milk-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>20g of almond milk is approximately 0.71 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or preparing sauces. Whether you’re making a creamy dessert or a light breakfast, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  

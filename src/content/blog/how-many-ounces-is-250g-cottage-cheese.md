@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese"
-        },
-        "headline": "Quick Guide: Convert 250g of Cottage Cheese to Ounces Easily",
-        "description": "Learn how to convert 250g of cottage cheese to ounces in seconds. Perfect for air fryer recipes and meal prep. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese"
+    },
+    "headline": "Quick Guide: Convert 250g of Cottage Cheese to Ounces Easily",
+    "description": "Learn how to convert 250g of cottage cheese to ounces in seconds. Perfect for air fryer recipes and meal prep. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-cottage-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-cottage-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 250g of cottage cheese the same as 8 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 250g of cottage cheese is approximately 8.82 ounces, not 8 ounces. The slight difference matters in recipes where precision is key, especially in air fryer cooking where ingredient ratios affect texture and cooking times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 250g of cottage cheese is approximately 8.82 ounces, not 8 ounces. The slight difference matters in recipes where precision is key, especially in air fryer cooking where ingredient ratios affect texture and cooking times."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of grams or ounces for cottage cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, cups are less accurate due to variations in cottage cheese density and moisture. For best results in air fryer recipes, use a scale to measure 250g (8.82 oz) directly. If using cups, 250g is roughly one metric cup, but check your recipe for specifics."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, cups are less accurate due to variations in cottage cheese density and moisture. For best results in air fryer recipes, use a scale to measure 250g (8.82 oz) directly. If using cups, 250g is roughly one metric cup, but check your recipe for specifics."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does cottage cheese perform in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cottage cheese works wonderfully in air fryers, adding moisture and protein to dishes like frittatas or stuffed vegetables. Its mild flavour absorbs seasonings well, making it a versatile ingredient for both savoury and sweet air fryer creations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cottage cheese works wonderfully in air fryers, adding moisture and protein to dishes like frittatas or stuffed vegetables. Its mild flavour absorbs seasonings well, making it a versatile ingredient for both savoury and sweet air fryer creations."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 250g of cottage cheese specifically?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "250g (8.82 oz) is a standard measurement that balances moisture and structure in recipes. Too much can make dishes soggy, while too little may dry them out. Always follow the recipe’s measurements for the best air fryer results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "250g (8.82 oz) is a standard measurement that balances moisture and structure in recipes. Too much can make dishes soggy, while too little may dry them out. Always follow the recipe’s measurements for the best air fryer results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 250g of cottage cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese",
+    "@type": "WebPage",
+    "name": "How many ounces is 250g of cottage cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese",
     "description": "Learn how to convert 250g of cottage cheese to ounces in seconds. Perfect for air fryer recipes and meal prep. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 250g of cottage cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-cottage-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250g of cottage cheese equals approximately 8.82 ounces. This conversion is essential for air fryer recipes, meal prep, or any cooking where precise measurements matter. Whether you're whipping up a cheesy breakfast bake or a light lunch, knowing the exact weight ensures perfect results every time.</p>

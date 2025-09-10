@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream"
-        },
-        "headline": "Quick Conversion: How Many ml Is 3.25 Cups of Cream?",
-        "description": "Discover the exact ml measurement for 3.25 cups of cream with our easy conversion guide—perfect for air fryer recipes and baking precision.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream"
+    },
+    "headline": "Quick Conversion: How Many ml Is 3.25 Cups of Cream?",
+    "description": "Discover the exact ml measurement for 3.25 cups of cream with our easy conversion guide—perfect for air fryer recipes and baking precision.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 3.25 cups of cream the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 3.25 cups of cream is roughly the same in both the UK and US, though cup sizes can vary slightly. In the UK, a metric cup is 250 ml, while in the US, it’s 236.6 ml. For precise air fryer cooking, it’s best to use millilitres (768 ml for 3.25 cups) to avoid discrepancies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 3.25 cups of cream is roughly the same in both the UK and US, though cup sizes can vary slightly. In the UK, a metric cup is 250 ml, while in the US, it’s 236.6 ml. For precise air fryer cooking, it’s best to use millilitres (768 ml for 3.25 cups) to avoid discrepancies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 3.25 cups of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! A kitchen scale is a great alternative for measuring cream. Since 1 ml of cream weighs about 1 gram, 3.25 cups (768 ml) would weigh approximately 768 grams. This method ensures accuracy, especially for air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! A kitchen scale is a great alternative for measuring cream. Since 1 ml of cream weighs about 1 gram, 3.25 cups (768 ml) would weigh approximately 768 grams. This method ensures accuracy, especially for air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to convert cups to ml for other ingredients?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For most liquids, 1 cup equals 236.6 ml (US) or 250 ml (UK). Dry ingredients vary by density, so it’s best to use a conversion chart or scale. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> covers common ingredients for easy reference."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For most liquids, 1 cup equals 236.6 ml (US) or 250 ml (UK). Dry ingredients vary by density, so it’s best to use a conversion chart or scale. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> covers common ingredients for easy reference."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 3.25 cups of cream last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Once opened, cream typically lasts 3–5 days in the fridge if stored in an airtight container. For longer storage, freeze it in portions. Always check for off smells or separation before using. For more tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Once opened, cream typically lasts 3–5 days in the fridge if stored in an airtight container. For longer storage, freeze it in portions. Always check for off smells or separation before using. For more tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.25 Cups of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.25 Cups of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream",
     "description": "Discover the exact ml measurement for 3.25 cups of cream with our easy conversion guide—perfect for air fryer recipes and baking precision.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.25 Cups of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.25 cups of cream equals approximately 768 ml, making it easy to measure for your air fryer recipes. Whether you’re whipping up a dessert or adding richness to a savoury dish, precise measurements are key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is in cooking, especially when using an air fryer. This guide will help you convert 3.25 cups of cream to millilitres effortlessly, so you can focus on creating delicious meals.</p>

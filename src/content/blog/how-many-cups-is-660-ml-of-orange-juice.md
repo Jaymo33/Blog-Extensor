@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice"
-        },
-        "headline": "Quick Guide: Convert 660 ml of Orange Juice to Cups Easily",
-        "description": "Learn how to convert 660 ml of orange juice to cups for perfect recipes every time. Includes UK & US measurements for baking and cooking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice"
+    },
+    "headline": "Quick Guide: Convert 660 ml of Orange Juice to Cups Easily",
+    "description": "Learn how to convert 660 ml of orange juice to cups for perfect recipes every time. Includes UK & US measurements for baking and cooking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-orange-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-orange-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 660 ml of orange juice the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 660 ml of orange juice equals approximately 2.79 US cups or 2.32 UK cups. The difference stems from varying cup sizes—240 ml in the US versus 250 ml in the UK. Always check your recipe's origin for accurate conversions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 660 ml of orange juice equals approximately 2.79 US cups or 2.32 UK cups. The difference stems from varying cup sizes—240 ml in the US versus 250 ml in the UK. Always check your recipe's origin for accurate conversions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 660 ml of orange juice in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 660 ml of orange juice works well for glazes, marinades, or even baking in an air fryer. Just ensure you convert it correctly (2.79 US cups or 2.32 UK cups) to maintain the recipe's balance and prevent excess moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 660 ml of orange juice works well for glazes, marinades, or even baking in an air fryer. Just ensure you convert it correctly (2.79 US cups or 2.32 UK cups) to maintain the recipe's balance and prevent excess moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 660 ml of orange juice without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring cup, use a kitchen scale. Orange juice weighs roughly 1.04 grams per ml, so 660 ml should weigh about 686 grams. Alternatively, a standard UK mug holds roughly 300 ml, so just over two mugs would suffice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring cup, use a kitchen scale. Orange juice weighs roughly 1.04 grams per ml, so 660 ml should weigh about 686 grams. Alternatively, a standard UK mug holds roughly 300 ml, so just over two mugs would suffice."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes commonly use 660 ml of orange juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "660 ml of orange juice is ideal for large-batch marinades, citrus cakes, or glazes for meats like chicken or pork. It's also perfect for making orange-based sauces or dressings in bulk, especially when cooking for a crowd."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "660 ml of orange juice is ideal for large-batch marinades, citrus cakes, or glazes for meats like chicken or pork. It's also perfect for making orange-based sauces or dressings in bulk, especially when cooking for a crowd."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 660 ml of Orange Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 660 ml of Orange Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice",
     "description": "Learn how to convert 660 ml of orange juice to cups for perfect recipes every time. Includes UK & US measurements for baking and cooking.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 660 ml of Orange Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-orange-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>660 ml of orange juice equals approximately 2.79 US cups or 2.32 UK cups. Whether you're whipping up a citrusy cake or a tangy marinade, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when using an air fryer.</p>

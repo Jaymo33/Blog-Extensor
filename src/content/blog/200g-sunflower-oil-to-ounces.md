@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces"
-        },
-        "headline": "Quickly Convert 200g of Sunflower Oil to Ounces (UK Guide)",
-        "description": "Discover how to convert 200g of sunflower oil to ounces with our easy UK guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces"
+    },
+    "headline": "Quickly Convert 200g of Sunflower Oil to Ounces (UK Guide)",
+    "description": "Discover how to convert 200g of sunflower oil to ounces with our easy UK guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-sunflower-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-sunflower-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a different oil if I don't have sunflower oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute sunflower oil with other high-smoke point oils like vegetable, canola, or peanut oil. Just keep in mind that the flavour might slightly differ, and you should use the same weight (200g or 7 ounces) for accurate results in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute sunflower oil with other high-smoke point oils like vegetable, canola, or peanut oil. Just keep in mind that the flavour might slightly differ, and you should use the same weight (200g or 7 ounces) for accurate results in your air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 200g of sunflower oil without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have scales, you can use measuring cups or spoons. 200g of sunflower oil is approximately 14 tablespoons or just under 1 cup (0.85 cups to be precise). However, for the most accurate measurement, especially in air frying, investing in a digital kitchen scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have scales, you can use measuring cups or spoons. 200g of sunflower oil is approximately 14 tablespoons or just under 1 cup (0.85 cups to be precise). However, for the most accurate measurement, especially in air frying, investing in a digital kitchen scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of sunflower oil affect the conversion to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion from grams to ounces remains the same regardless of whether you're using refined or unrefined sunflower oil. 200g will always equal about 7.05 ounces. The difference lies in flavour and smoke point, which might affect your cooking results but not the weight conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion from grams to ounces remains the same regardless of whether you're using refined or unrefined sunflower oil. 200g will always equal about 7.05 ounces. The difference lies in flavour and smoke point, which might affect your cooking results but not the weight conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is sunflower oil often recommended for air fryers?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sunflower oil is ideal for air fryers because it has a high smoke point (around 230°C), meaning it won't burn at typical air frying temperatures. It's also neutral in flavour and contains vitamin E. When using 200g (7 ounces) in recipes, it provides just enough coating without making food greasy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sunflower oil is ideal for air fryers because it has a high smoke point (around 230°C), meaning it won't burn at typical air frying temperatures. It's also neutral in flavour and contains vitamin E. When using 200g (7 ounces) in recipes, it provides just enough coating without making food greasy."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of sunflower oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of sunflower oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces",
     "description": "Discover how to convert 200g of sunflower oil to ounces with our easy UK guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of sunflower oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/200g-sunflower-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200g of sunflower oil equals approximately 7.05 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact the outcome of your recipes. Whether you're frying, baking, or roasting, knowing the exact weight ensures consistency and perfect results every time.</p>

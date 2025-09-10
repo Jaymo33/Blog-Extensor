@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese"
-        },
-        "headline": "Quick Guide: Convert 500 Grams of Grated Cheese to Cups Easily",
-        "description": "Learn how to convert 500 grams of grated cheese to cups for perfect recipes every time. Get accurate measurements for baking and cooking in seconds.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese"
+    },
+    "headline": "Quick Guide: Convert 500 Grams of Grated Cheese to Cups Easily",
+    "description": "Learn how to convert 500 grams of grated cheese to cups for perfect recipes every time. Get accurate measurements for baking and cooking in seconds.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T08:17:57.988Z",
-        "dateModified": "2025-07-27T08:17:57.988Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-grated-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T08:17:57.988Z",
+    "dateModified": "2025-07-27T08:17:57.988Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-grated-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cheese affect how many cups 500 grams yields?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of cheese makes a difference. Harder cheeses like cheddar or Parmesan pack more densely, so 500 grams may yield closer to 4.5 cups. Softer cheeses like mozzarella or feta are lighter, so you might get around 5 cups per 500 grams. Always fluff the cheese before measuring for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of cheese makes a difference. Harder cheeses like cheddar or Parmesan pack more densely, so 500 grams may yield closer to 4.5 cups. Softer cheeses like mozzarella or feta are lighter, so you might get around 5 cups per 500 grams. Always fluff the cheese before measuring for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese for the 500-gram measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Pre-shredded cheese works fine, but it often contains anti-caking agents that can slightly alter volume. For best results, weigh 500 grams first, then measure the cups. Freshly grated cheese melts better in air fryer recipes, so consider grating your own if possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pre-shredded cheese works fine, but it often contains anti-caking agents that can slightly alter volume. For best results, weigh 500 grams first, then measure the cups. Freshly grated cheese melts better in air fryer recipes, so consider grating your own if possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 500 grams of grated cheese to cups for different recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baked dishes like lasagna, use a lightly packed cup measurement (around 4.5 cups per 500 grams). For toppings or lighter dishes, fluff the cheese more for a looser 5 cups. Always adjust based on the cheese type and recipe requirements for optimal results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baked dishes like lasagna, use a lightly packed cup measurement (around 4.5 cups per 500 grams). For toppings or lighter dishes, fluff the cheese more for a looser 5 cups. Always adjust based on the cheese type and recipe requirements for optimal results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 500 grams of grated cheese without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have scales, use the spoon-and-level method: gently spoon grated cheese into a measuring cup without packing it down. 500 grams is roughly 4.5 to 5 cups this way. For air fryer recipes, err on the side of slightly less cheese to avoid overflow or uneven cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have scales, use the spoon-and-level method: gently spoon grated cheese into a measuring cup without packing it down. 500 grams is roughly 4.5 to 5 cups this way. For air fryer recipes, err on the side of slightly less cheese to avoid overflow or uneven cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 500 Grams of Grated Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 500 Grams of Grated Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese",
     "description": "Learn how to convert 500 grams of grated cheese to cups for perfect recipes every time. Get accurate measurements for baking and cooking in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T08:17:57.988000+00:00",
     "dateModified": "2025-07-27T08:17:57.988000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 500 Grams of Grated Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-grated-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500 grams of grated cheese equals approximately 4.5 to 5 cups, depending on how tightly it's packed. This conversion is essential for air fryer recipes, where precise measurements can make or melt your dish. Whether you're making cheesy nachos, crispy gratins, or gooey melts, knowing how many cups 500 grams of grated cheese yields ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

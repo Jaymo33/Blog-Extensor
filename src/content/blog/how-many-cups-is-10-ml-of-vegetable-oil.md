@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil"
-        },
-        "headline": "Quick Guide: Convert 10 ml of Vegetable Oil to Cups Easily",
-        "description": "Learn how to convert 10 ml of vegetable oil to cups for precise air fryer cooking. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Guide: Convert 10 ml of Vegetable Oil to Cups Easily",
+    "description": "Learn how to convert 10 ml of vegetable oil to cups for precise air fryer cooking. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-10-ml-of-vegetable-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-10-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use olive oil instead of vegetable oil for 10 ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, olive oil can substitute vegetable oil in the same quantity (10 ml equals 0.042 cups). However, olive oil has a lower smoke point, so reduce the air fryer temperature slightly to avoid burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, olive oil can substitute vegetable oil in the same quantity (10 ml equals 0.042 cups). However, olive oil has a lower smoke point, so reduce the air fryer temperature slightly to avoid burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 10 ml of vegetable oil without a measuring spoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A standard teaspoon holds about 5 ml, so two level teaspoons equal 10 ml. Alternatively, use a bottle cap from a 500 ml water bottle—it’s roughly 10 ml when filled to the brim."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard teaspoon holds about 5 ml, so two level teaspoons equal 10 ml. Alternatively, use a bottle cap from a 500 ml water bottle—it’s roughly 10 ml when filled to the brim."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 10 ml of vegetable oil change weight when heated?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the volume remains the same, but the oil becomes less dense when hot. For air frying, measure 10 ml at room temperature to ensure accuracy before preheating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the volume remains the same, but the oil becomes less dense when hot. For air frying, measure 10 ml at room temperature to ensure accuracy before preheating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes skip oil measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes may assume you’ll lightly spray or drizzle oil. For precision, always measure—10 ml of vegetable oil is ideal for most single-serving dishes in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes may assume you’ll lightly spray or drizzle oil. For precision, always measure—10 ml of vegetable oil is ideal for most single-serving dishes in the air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 10 ml of Vegetable Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 10 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil",
     "description": "Learn how to convert 10 ml of vegetable oil to cups for precise air fryer cooking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 10 ml of Vegetable Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-vegetable-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>10 ml of vegetable oil equals approximately 0.042 cups (or roughly 1/24 of a cup). This precise measurement is essential for air fryer cooking, where even small variations can affect texture and crispiness. Whether you're preparing a marinade, coating veggies, or baking, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs.</p>  

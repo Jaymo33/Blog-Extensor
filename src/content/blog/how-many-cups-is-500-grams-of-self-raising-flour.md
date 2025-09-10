@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour"
-        },
-        "headline": "Quick Guide: Convert 500g Self-Raising Flour to Cups Easily",
-        "description": "Learn how to convert 500 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements for UK and US cups.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour"
+    },
+    "headline": "Quick Guide: Convert 500g Self-Raising Flour to Cups Easily",
+    "description": "Learn how to convert 500 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements for UK and US cups.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T22:50:31.547Z",
-        "dateModified": "2025-07-26T22:50:31.547Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-self-raising-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T22:50:31.547Z",
+    "dateModified": "2025-07-26T22:50:31.547Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-self-raising-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 500 grams of self-raising flour equal the same in cups worldwide?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cup measurements vary by region. In the UK, 500 grams of self-raising flour equals about 3.5 cups (142g per cup), while in the US, it’s closer to 4 cups (125g per cup). Always check which standard your recipe uses, especially for air fryer baking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cup measurements vary by region. In the UK, 500 grams of self-raising flour equals about 3.5 cups (142g per cup), while in the US, it’s closer to 4 cups (125g per cup). Always check which standard your recipe uses, especially for air fryer baking where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour for 500g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute plain flour, but you’ll need to add baking powder. For every 500 grams of plain flour, mix in 10 grams (2 tsp) of baking powder and 5 grams (1 tsp) of salt to mimic self-raising flour. Adjust air fryer cooking times slightly, as the rise may differ."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute plain flour, but you’ll need to add baking powder. For every 500 grams of plain flour, mix in 10 grams (2 tsp) of baking powder and 5 grams (1 tsp) of salt to mimic self-raising flour. Adjust air fryer cooking times slightly, as the rise may differ."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer bake collapse when using 500g self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Collapsing often stems from inaccurate measurements or expired flour. Ensure your 500 grams of self-raising flour is fresh and properly converted to cups (3.5 UK or 4 US). Overmixing batter or opening the air fryer too soon can also disrupt the rise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Collapsing often stems from inaccurate measurements or expired flour. Ensure your 500 grams of self-raising flour is fresh and properly converted to cups (3.5 UK or 4 US). Overmixing batter or opening the air fryer too soon can also disrupt the rise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover self-raising flour after measuring 500g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep it in an airtight container in a cool, dry place to preserve its leavening power. Self-raising flour loses potency over time, so use within 3–4 months. For best results in air fryer recipes, test a small batch if your flour is older."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep it in an airtight container in a cool, dry place to preserve its leavening power. Self-raising flour loses potency over time, so use within 3–4 months. For best results in air fryer recipes, test a small batch if your flour is older."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 500 Grams of Self-Raising Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 500 Grams of Self-Raising Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour",
     "description": "Learn how to convert 500 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements for UK and US cups.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T22:50:31.547000+00:00",
     "dateModified": "2025-07-26T22:50:31.547000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 500 Grams of Self-Raising Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500 grams of self-raising flour equals approximately 3.5 cups in UK measurements or 4 cups in US measurements. Getting this conversion right is crucial for baking, especially when using an air fryer where precise ingredient ratios affect texture and rise. Whether you're making cakes, muffins, or even air fryer-friendly doughs, knowing how to measure 500g of self-raising flour in cups ensures consistent results every time.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream"
-        },
-        "headline": "Quick Guide: Convert 1000g of Whipping Cream to Ounces Easily",
-        "description": "Discover how to convert 1000g of whipping cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream"
+    },
+    "headline": "Quick Guide: Convert 1000g of Whipping Cream to Ounces Easily",
+    "description": "Discover how to convert 1000g of whipping cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-whipping-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-whipping-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1000g of whipping cream the same as 1000ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 1000g of whipping cream isn’t the same as 1000ml. While they’re close, whipping cream’s density means 1000g equals roughly 970ml. Always weigh cream for accuracy in air fryer recipes, especially for baked goods where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 1000g of whipping cream isn’t the same as 1000ml. While they’re close, whipping cream’s density means 1000g equals roughly 970ml. Always weigh cream for accuracy in air fryer recipes, especially for baked goods where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for double cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The 1000g to 35.27 oz conversion works for both whipping and double cream, as their densities are similar. However, double cream has a higher fat content, which might affect recipe outcomes. Adjust other ingredients slightly if substituting one for the other in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 1000g to 35.27 oz conversion works for both whipping and double cream, as their densities are similar. However, double cream has a higher fat content, which might affect recipe outcomes. Adjust other ingredients slightly if substituting one for the other in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1000g of whipping cream without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without scales, use a liquid measuring jug marked in fluid ounces. 1000g equals approximately 35.27 oz. Pour slowly to the correct line, keeping the jug on a flat surface for accuracy. Remember that this method is slightly less precise than weighing for sensitive recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without scales, use a liquid measuring jug marked in fluid ounces. 1000g equals approximately 35.27 oz. Pour slowly to the correct line, keeping the jug on a flat surface for accuracy. Remember that this method is slightly less precise than weighing for sensitive recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes sometimes use grams instead of ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many air fryer recipes use grams because it’s more precise for small quantities, which are common in compact air fryer baskets. Grams are also the standard in professional baking worldwide. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> makes switching between units easy for home cooks."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many air fryer recipes use grams because it’s more precise for small quantities, which are common in compact air fryer baskets. Grams are also the standard in professional baking worldwide. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> makes switching between units easy for home cooks."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of whipping cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of whipping cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream",
     "description": "Discover how to convert 1000g of whipping cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of whipping cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-whipping-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of whipping cream equals approximately 35.27 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Whether you’re whipping up a dessert or adding cream to a savoury dish, knowing the exact measurement ensures perfect results every time.</p>

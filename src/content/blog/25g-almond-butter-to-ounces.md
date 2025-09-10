@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces"
-        },
-        "headline": "Quick & Easy 25g Almond Butter to Ounces Conversion",
-        "description": "Convert 25g of almond butter to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces"
+    },
+    "headline": "Quick & Easy 25g Almond Butter to Ounces Conversion",
+    "description": "Convert 25g of almond butter to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-almond-butter-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-almond-butter-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use peanut butter instead of almond butter in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute peanut butter for almond butter in most air fryer recipes. Since both have similar consistencies, 25g (0.88 oz) of peanut butter will work as a direct replacement. Just note that peanut butter has a stronger flavour, which might alter the taste of your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute peanut butter for almond butter in most air fryer recipes. Since both have similar consistencies, 25g (0.88 oz) of peanut butter will work as a direct replacement. Just note that peanut butter has a stronger flavour, which might alter the taste of your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 25g of almond butter if I don’t have a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without a scale, use tablespoons—1.5 level tablespoons of almond butter is roughly 25g. For sticky nut butters, lightly grease the spoon for easier measuring. However, for baking recipes, a scale is more accurate to ensure perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without a scale, use tablespoons—1.5 level tablespoons of almond butter is roughly 25g. For sticky nut butters, lightly grease the spoon for easier measuring. However, for baking recipes, a scale is more accurate to ensure perfect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does almond butter burn easily in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almond butter can burn if exposed to high heat for too long. When using it as a glaze or coating, air fry at a lower temperature (around 160°C) and check frequently. For recipes like almond butter cookies, lining the basket with parchment paper helps prevent sticking and burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almond butter can burn if exposed to high heat for too long. When using it as a glaze or coating, air fry at a lower temperature (around 160°C) and check frequently. For recipes like almond butter cookies, lining the basket with parchment paper helps prevent sticking and burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is almond butter healthier than peanut butter for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almond butter is higher in vitamin E and healthy monounsaturated fats, making it a nutritious choice. However, both nut butters work well in air fryer recipes. If you're watching calories, note that 25g of almond butter has slightly more calories than peanut butter (about 150 vs. 140)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almond butter is higher in vitamin E and healthy monounsaturated fats, making it a nutritious choice. However, both nut butters work well in air fryer recipes. If you're watching calories, note that 25g of almond butter has slightly more calories than peanut butter (about 150 vs. 140)."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of almond butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of almond butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces",
     "description": "Convert 25g of almond butter to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of almond butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/25g-almond-butter-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of almond butter equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or preparing nut-based dishes. Whether you're whipping up almond butter cookies or adding a nutty drizzle to your air-fried desserts, knowing this measurement ensures perfect results every time.</p>  

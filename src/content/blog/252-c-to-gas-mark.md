@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark"
-        },
-        "headline": "252 C to Gas Mark Conversion for Air Fryers & Ovens",
-        "description": "Learn how to convert 252°C to Gas Mark for air fryers and ovens. Includes baking tips and temperature guides for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark"
+    },
+    "headline": "252 C to Gas Mark Conversion for Air Fryers & Ovens",
+    "description": "Learn how to convert 252°C to Gas Mark for air fryers and ovens. Includes baking tips and temperature guides for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T14:37:57.267Z",
-        "dateModified": "2025-07-20T14:37:57.267Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/252-c-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T14:37:57.267Z",
+    "dateModified": "2025-07-20T14:37:57.267Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/252-c-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use Gas Mark 9 in all air fryers?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not all air fryers reach 252°C (Gas Mark 9). Check your model's maximum temperature before attempting high-heat recipes. Many standard units cap at 200°C, requiring adjusted cooking times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not all air fryers reach 252°C (Gas Mark 9). Check your model's maximum temperature before attempting high-heat recipes. Many standard units cap at 200°C, requiring adjusted cooking times."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust baking times when converting 252°C to my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Reduce cooking time by 20% initially when using an air fryer at high temperatures. Check food frequently, as air fryers cook faster than conventional ovens at the same temperature setting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reduce cooking time by 20% initially when using an air fryer at high temperatures. Check food frequently, as air fryers cook faster than conventional ovens at the same temperature setting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What foods cook best at 252°C (Gas Mark 9) in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This temperature is ideal for puff pastry, Yorkshire puddings, or achieving extra-crispy roast potatoes. For meats, sear first then reduce heat to prevent drying out."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This temperature is ideal for puff pastry, Yorkshire puddings, or achieving extra-crispy roast potatoes. For meats, sear first then reduce heat to prevent drying out."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer smoke at 252°C and how can I prevent it?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Smoking usually occurs from oil residue or food particles. Clean your air fryer thoroughly before high-heat use and avoid overcrowding the basket to maintain proper airflow."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Smoking usually occurs from oil residue or food particles. Clean your air fryer thoroughly before high-heat use and avoid overcrowding the basket to maintain proper airflow."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "252 C to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark",
+    "@type": "WebPage",
+    "name": "252 C to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark",
     "description": "Learn how to convert 252°C to Gas Mark for air fryers and ovens. Includes baking tips and temperature guides for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T14:37:57.267000+00:00",
     "dateModified": "2025-07-20T14:37:57.267000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "252 C to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/252-c-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>252°C converts to Gas Mark 9, which is the highest standard setting on most UK ovens and ideal for high-heat roasting or baking in an air fryer. This temperature is perfect for achieving crispy textures while ensuring even cooking. Whether you're using an oven or an air fryer, knowing this conversion helps you follow recipes accurately. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Let’s dive deeper into how this temperature works across different appliances.</p>

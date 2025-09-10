@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice"
-        },
-        "headline": "Quick Answer: How Many Cups Is 160 ml of Orange Juice?",
-        "description": "Find out how many cups 160 ml of orange juice equals for perfect air fryer recipes. Easy conversion guide for baking & cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice"
+    },
+    "headline": "Quick Answer: How Many Cups Is 160 ml of Orange Juice?",
+    "description": "Find out how many cups 160 ml of orange juice equals for perfect air fryer recipes. Easy conversion guide for baking & cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-orange-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-orange-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 160 ml of orange juice the same as 160 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 160 ml of orange juice is roughly equivalent to 160 grams, as the density of orange juice is close to water. This makes it easy to measure using a kitchen scale if you don’t have a measuring cup handy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 160 ml of orange juice is roughly equivalent to 160 grams, as the density of orange juice is close to water. This makes it easy to measure using a kitchen scale if you don’t have a measuring cup handy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled orange juice instead of fresh for 160 ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled orange juice works fine for recipes calling for 160 ml. Just ensure it’s 100% juice with no added sugars or preservatives, as these can alter the flavour and texture of your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled orange juice works fine for recipes calling for 160 ml. Just ensure it’s 100% juice with no added sugars or preservatives, as these can alter the flavour and texture of your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust a recipe if I only have 200 ml of orange juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your recipe calls for 160 ml of orange juice but you have 200 ml, you can either scale up the other ingredients proportionally or reserve the extra 40 ml for another use. Always adjust cooking times if increasing quantities in an air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your recipe calls for 160 ml of orange juice but you have 200 ml, you can either scale up the other ingredients proportionally or reserve the extra 40 ml for another use. Always adjust cooking times if increasing quantities in an air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste too tangy with 160 ml of orange juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Orange juice’s acidity can dominate if not balanced with sweetness or other flavours. Try reducing the juice slightly or adding a teaspoon of honey or sugar to counteract the tanginess. Always taste as you go!"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Orange juice’s acidity can dominate if not balanced with sweetness or other flavours. Try reducing the juice slightly or adding a teaspoon of honey or sugar to counteract the tanginess. Always taste as you go!"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 160 ml of Orange Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 160 ml of Orange Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice",
     "description": "Find out how many cups 160 ml of orange juice equals for perfect air fryer recipes. Easy conversion guide for baking & cooking!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 160 ml of Orange Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-orange-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>160 ml of orange juice is approximately 0.68 cups (just over two-thirds of a cup). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re whipping up a citrus glaze or a marinade, knowing how to convert millilitres to cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless, so you can focus on creating delicious meals.</p>  

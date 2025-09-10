@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour"
-        },
-        "headline": "175g self-raising flour to cups – Quick baking conversion | AirFryerRecipe.co.uk",
-        "description": "Wondering how many cups 175 grams of self-raising flour equals? Get the precise UK and US cup conversions for perfect air fryer baking every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour"
+    },
+    "headline": "175g self-raising flour to cups – Quick baking conversion | AirFryerRecipe.co.uk",
+    "description": "Wondering how many cups 175 grams of self-raising flour equals? Get the precise UK and US cup conversions for perfect air fryer baking every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:57:37.476Z",
-        "dateModified": "2025-07-22T16:57:37.476Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-self-raising-flour.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:57:37.476Z",
+    "dateModified": "2025-07-22T16:57:37.476Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-self-raising-flour.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 175 grams of self-raising flour equal the same in cups for all recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 175 grams of self-raising flour consistently converts to about 1.4 UK cups or 1.25 US cups, different recipes may require slight adjustments based on humidity and how you measure. Always aerate your flour before measuring for most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 175 grams of self-raising flour consistently converts to about 1.4 UK cups or 1.25 US cups, different recipes may require slight adjustments based on humidity and how you measure. Always aerate your flour before measuring for most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour for 175g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to add baking powder. For every 175 grams of plain flour, mix in 2 teaspoons of baking powder to achieve similar results to self-raising flour in your air fryer bakes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to add baking powder. For every 175 grams of plain flour, mix in 2 teaspoons of baking powder to achieve similar results to self-raising flour in your air fryer bakes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer bake differ when using 175g flour in cups versus grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This usually happens due to inconsistent measuring methods. Grams are precise, while cups can vary based on how you fill them. For best results with 175 grams of self-raising flour, use digital scales or the spoon-and-level cup method."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This usually happens due to inconsistent measuring methods. Grams are precise, while cups can vary based on how you fill them. For best results with 175 grams of self-raising flour, use digital scales or the spoon-and-level cup method."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store self-raising flour to maintain accuracy for 175g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep self-raising flour in an airtight container in a cool, dry place. The raising agents lose potency over time, which could affect your 175g-to-cups conversions after about 6 months. For consistent results, replace old flour regularly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep self-raising flour in an airtight container in a cool, dry place. The raising agents lose potency over time, which could affect your 175g-to-cups conversions after about 6 months. For consistent results, replace old flour regularly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 175 Grams of Self-Raising Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Self-Raising Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour",
     "description": "Wondering how many cups 175 grams of self-raising flour equals? Get the precise UK and US cup conversions for perfect air fryer baking every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:57:37.476000+00:00",
     "dateModified": "2025-07-22T16:57:37.476000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 175 Grams of Self-Raising Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>175 grams of self-raising flour equals approximately 1.4 cups in the UK or 1.25 cups in the US. This conversion is essential for air fryer baking, where precise measurements can make or break your cakes, muffins, or batters. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/recipes>our collection</a> or adapting a traditional oven recipe, knowing how many cups is 175 grams of self-raising flour ensures consistent results every time.</p>

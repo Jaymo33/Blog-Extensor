@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese"
-        },
-        "headline": "Quick Guide: Convert 2.5 Cups Soft Cheese to Ounces Easily",
-        "description": "Convert 2.5 cups of soft cheese to ounces with our simple guide. Perfect for air fryer recipes and accurate UK measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese"
+    },
+    "headline": "Quick Guide: Convert 2.5 Cups Soft Cheese to Ounces Easily",
+    "description": "Convert 2.5 cups of soft cheese to ounces with our simple guide. Perfect for air fryer recipes and accurate UK measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-20T00:27:11.141Z",
-        "dateModified": "2025-08-20T00:27:11.141Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-soft-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-20T00:27:11.141Z",
+    "dateModified": "2025-08-20T00:27:11.141Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-soft-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of soft cheese affect the weight for 2.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of soft cheese can cause a slight variation in weight. While the standard conversion of 2.5 cups to 20 ounces is based on average densities, a very moist ricotta or cottage cheese might be slightly heavier per cup than a thick, spreadable cream cheese. For absolute precision in critical recipes, especially baking, weighing your specific cheese is always the best practice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of soft cheese can cause a slight variation in weight. While the standard conversion of 2.5 cups to 20 ounces is based on average densities, a very moist ricotta or cottage cheese might be slightly heavier per cup than a thick, spreadable cream cheese. For absolute precision in critical recipes, especially baking, weighing your specific cheese is always the best practice."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "I only have a scale that uses grams. What is 2.5 cups of soft cheese in grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Since 2.5 cups of soft cheese is approximately 20 ounces, you can easily convert this to grams. One ounce is roughly 28.35 grams, so 20 ounces equals about 567 grams. For most practical purposes, you can round this to 570 grams for your measurements. This makes it simple to use any digital scale for perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since 2.5 cups of soft cheese is approximately 20 ounces, you can easily convert this to grams. One ounce is roughly 28.35 grams, so 20 ounces equals about 567 grams. For most practical purposes, you can round this to 570 grams for your measurements. This makes it simple to use any digital scale for perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for all air fryer recipes that require soft cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely. This conversion is universal for recipes, including those designed for the air fryer. Whether you are making a dip, a cheesecake, or a savoury stuffed dish, knowing that 2.5 cups equals 20 ounces ensures you add the correct amount for the recipe to work as intended. The air fryer's cooking process relies on balanced ingredients for proper texture and doneness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely. This conversion is universal for recipes, including those designed for the air fryer. Whether you are making a dip, a cheesecake, or a savoury stuffed dish, knowing that 2.5 cups equals 20 ounces ensures you add the correct amount for the recipe to work as intended. The air fryer's cooking process relies on balanced ingredients for proper texture and doneness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "My recipe is American. Is the cup measurement the same in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, standard cup measurements are consistent between US and UK cooking for dry ingredients like soft cheese. Both use a standard metric cup of 240ml. Therefore, the conversion of 2.5 cups to ounces remains the same at approximately 20 ounces. You can confidently use American recipes without needing to adjust the cup measurements for the cheese."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, standard cup measurements are consistent between US and UK cooking for dry ingredients like soft cheese. Both use a standard metric cup of 240ml. Therefore, the conversion of 2.5 cups to ounces remains the same at approximately 20 ounces. You can confidently use American recipes without needing to adjust the cup measurements for the cheese."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of soft cheese",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of soft cheese",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese",
     "description": "Convert 2.5 cups of soft cheese to ounces with our simple guide. Perfect for air fryer recipes and accurate UK measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of soft cheese",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-soft-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>If you're wondering how many ounces is 2.5 cups of soft cheese, the answer is approximately 20 ounces. This conversion is essential for anyone using air fryer recipes that require precise measurements, especially when working with ingredients like cream cheese, ricotta, or mascarpone. Getting this measurement right can make the difference between a perfectly set cheesecake and a runny disaster. Many fantastic recipes on <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> rely on accurate soft cheese quantities for success. Understanding this conversion will help you master everything from dips to desserts in your air fryer.</p>

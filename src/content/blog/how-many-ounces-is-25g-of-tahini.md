@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini"
-        },
-        "headline": "Quick Guide: Convert 25g of Tahini to Ounces Easily",
-        "description": "Learn how to convert 25g of tahini to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini"
+    },
+    "headline": "Quick Guide: Convert 25g of Tahini to Ounces Easily",
+    "description": "Learn how to convert 25g of tahini to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-tahini.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-tahini.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use volume measurements (like tablespoons) instead of weight for tahini?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use tablespoons, weight (grams or ounces) is more accurate for tahini due to its density. One tablespoon is roughly 15g, so 25g would be about 1.5 tablespoons. For best results, especially in air fryer recipes, a kitchen scale is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use tablespoons, weight (grams or ounces) is more accurate for tahini due to its density. One tablespoon is roughly 15g, so 25g would be about 1.5 tablespoons. For best results, especially in air fryer recipes, a kitchen scale is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my tahini measurement seem off when I scoop it straight from the jar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Tahini often separates, with oil rising to the top. Always stir it thoroughly before measuring to ensure consistency. Scooping without mixing can lead to uneven measurements, affecting your recipe’s outcome."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tahini often separates, with oil rising to the top. Always stir it thoroughly before measuring to ensure consistency. Scooping without mixing can lead to uneven measurements, affecting your recipe’s outcome."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does tahini last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Opened tahini lasts up to 6 months in the fridge if stored properly. Keep it in an airtight container and stir occasionally to prevent hardening. Discard if it develops an off smell or taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opened tahini lasts up to 6 months in the fridge if stored properly. Keep it in an airtight container and stir occasionally to prevent hardening. Discard if it develops an off smell or taste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute tahini with another ingredient in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For a similar nutty flavour, try almond or peanut butter, though the texture will differ. If avoiding nuts, sunflower seed butter works too. Adjust quantities slightly, as substitutes may be thicker or sweeter than tahini."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For a similar nutty flavour, try almond or peanut butter, though the texture will differ. If avoiding nuts, sunflower seed butter works too. Adjust quantities slightly, as substitutes may be thicker or sweeter than tahini."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of tahini?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of tahini?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini",
     "description": "Learn how to convert 25g of tahini to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of tahini?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-tahini"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of tahini equals approximately 0.88 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a tahini-based sauce or adding it to a marinade, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with ingredients like tahini.</p>

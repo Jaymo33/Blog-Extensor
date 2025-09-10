@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven"
-        },
-        "headline": "279 F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Learn how to convert 279 F to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven"
+    },
+    "headline": "279 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 279 F to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T19:02:28.332Z",
-        "dateModified": "2025-07-21T19:02:28.332Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/279-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T19:02:28.332Z",
+    "dateModified": "2025-07-21T19:02:28.332Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/279-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How does 279 F compare to gas mark in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "279 F (140 C fan) equates to gas mark 1 in UK ovens. However, gas marks aren't typically used with fan ovens or air fryers as they provide less precise temperature control compared to electric settings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "279 F (140 C fan) equates to gas mark 1 in UK ovens. However, gas marks aren't typically used with fan ovens or air fryers as they provide less precise temperature control compared to electric settings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the 279 F to fan oven conversion for all air fryer models?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 279 F converts to 140 C fan for most models, some compact or high-power air fryers may require slight adjustments. Always consult your specific model's manual and check food earlier than the recipe suggests."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 279 F converts to 140 C fan for most models, some compact or high-power air fryers may require slight adjustments. Always consult your specific model's manual and check food earlier than the recipe suggests."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes specify 279 F instead of fan oven temperatures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes using 279 F typically come from countries where conventional ovens are standard, or from older UK cookbooks. Modern UK recipes and <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> usually give fan oven temperatures for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes using 279 F typically come from countries where conventional ovens are standard, or from older UK cookbooks. Modern UK recipes and <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> usually give fan oven temperatures for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long should I cook food at 279 F (140 C fan) in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooking times vary by food type, but as a general rule, reduce conventional oven times by 20% when using the 279 F fan oven equivalent in your air fryer. For example, 30 minutes conventionally becomes about 24 minutes in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooking times vary by food type, but as a general rule, reduce conventional oven times by 20% when using the 279 F fan oven equivalent in your air fryer. For example, 30 minutes conventionally becomes about 24 minutes in the air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "279 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "279 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven",
     "description": "Learn how to convert 279 F to fan oven settings for perfect air fryer cooking. Includes temperature charts and practical tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T19:02:28.332000+00:00",
     "dateModified": "2025-07-21T19:02:28.332000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "279 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/279-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>279 F converts to approximately 140 C in a fan oven. This conversion is essential for air fryer users who want to replicate conventional oven recipes with precision. Fan ovens circulate hot air for even cooking, much like your air fryer does, making this conversion particularly useful for crispy, consistent results.</p>

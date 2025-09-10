@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk"
-        },
-        "headline": "Quick Guide: Convert 5g of Milk to Ounces Easily",
-        "description": "Learn how to convert 5g of milk to ounces in seconds. Perfect for air fryer recipes and precise measurements. Get accurate results now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk"
+    },
+    "headline": "Quick Guide: Convert 5g of Milk to Ounces Easily",
+    "description": "Learn how to convert 5g of milk to ounces in seconds. Perfect for air fryer recipes and precise measurements. Get accurate results now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 5g of milk the same as 5ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 5 grams of milk is not exactly the same as 5 millilitres. While they’re close, milk’s density means 5ml weighs roughly 5.1 grams. For precise air fryer recipes, use weight (grams) rather than volume (millilitres)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 5 grams of milk is not exactly the same as 5 millilitres. While they’re close, milk’s density means 5ml weighs roughly 5.1 grams. For precise air fryer recipes, use weight (grams) rather than volume (millilitres)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plant-based milk instead of cow’s milk for 5g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, plant-based milks like almond or oat milk can substitute cow’s milk in a 5g measurement. The weight difference is minimal, so 5 grams will still be approximately 0.18 ounces. Adjust for taste preferences in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, plant-based milks like almond or oat milk can substitute cow’s milk in a 5g measurement. The weight difference is minimal, so 5 grams will still be approximately 0.18 ounces. Adjust for taste preferences in your air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes use grams instead of ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams offer greater precision, especially for small quantities like 5g of milk. Most modern kitchen scales and UK recipes use metric measurements. Converting to ounces (0.18 oz) ensures compatibility with older tools or non-metric recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams offer greater precision, especially for small quantities like 5g of milk. Most modern kitchen scales and UK recipes use metric measurements. Converting to ounces (0.18 oz) ensures compatibility with older tools or non-metric recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 5g of milk without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a teaspoon—one level teaspoon of milk is roughly 5 grams (0.18 oz). For better accuracy, consider investing in a digital scale, especially if you frequently cook with your air fryer. Small measuring spoons also work well for tiny amounts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a teaspoon—one level teaspoon of milk is roughly 5 grams (0.18 oz). For better accuracy, consider investing in a digital scale, especially if you frequently cook with your air fryer. Small measuring spoons also work well for tiny amounts."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 5g of milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk",
     "description": "Learn how to convert 5g of milk to ounces in seconds. Perfect for air fryer recipes and precise measurements. Get accurate results now!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 5g of milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 grams of milk equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements matter. Whether you're whipping up a creamy sauce or baking a dessert, knowing how to convert grams to ounces ensures perfect results every time.</p>

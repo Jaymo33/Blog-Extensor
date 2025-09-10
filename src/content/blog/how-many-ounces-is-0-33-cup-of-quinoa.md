@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa"
-        },
-        "headline": "Quick Answer: How many ounces is 0.33 cup of quinoa?",
-        "description": "Discover how many ounces are in 0.33 cup of quinoa for perfect air fryer meals. Get accurate conversions and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa"
+    },
+    "headline": "Quick Answer: How many ounces is 0.33 cup of quinoa?",
+    "description": "Discover how many ounces are in 0.33 cup of quinoa for perfect air fryer meals. Get accurate conversions and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T16:41:26.143Z",
-        "dateModified": "2025-08-17T16:41:26.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-quinoa.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T16:41:26.143Z",
+    "dateModified": "2025-08-17T16:41:26.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-quinoa.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.33 cup of quinoa for two people?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.33 cup (2.64 ounces) of uncooked quinoa yields about 1 cup cooked, which is typically enough for one generous serving. For two people, you might want to double the amount to 0.66 cup (about 5.28 ounces) to ensure everyone gets a satisfying portion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.33 cup (2.64 ounces) of uncooked quinoa yields about 1 cup cooked, which is typically enough for one generous serving. For two people, you might want to double the amount to 0.66 cup (about 5.28 ounces) to ensure everyone gets a satisfying portion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does quinoa measurement differ between US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fortunately, 1 cup measurements are nearly identical in US and UK standards (240ml vs 250ml). For 0.33 cup of quinoa, the difference is negligible - about 2.64 ounces in both systems. The slight variation won’t affect most air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fortunately, 1 cup measurements are nearly identical in US and UK standards (240ml vs 250ml). For 0.33 cup of quinoa, the difference is negligible - about 2.64 ounces in both systems. The slight variation won’t affect most air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook 0.33 cup of quinoa directly in the air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s better to use an air fryer-safe dish rather than cooking quinoa directly in the basket. The small grains could fall through the holes. A small ovenproof dish or silicone container works perfectly for cooking 0.33 cup (2.64 ounces) of quinoa in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s better to use an air fryer-safe dish rather than cooking quinoa directly in the basket. The small grains could fall through the holes. A small ovenproof dish or silicone container works perfectly for cooking 0.33 cup (2.64 ounces) of quinoa in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 0.33 cup of quinoa take to cook in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.33 cup (2.64 ounces) of quinoa typically takes about 15 minutes at 180°C in an air fryer. Remember to rinse it first and use twice as much liquid as quinoa. Fluff it halfway through cooking for best results. Cooking times may vary slightly between air fryer models."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.33 cup (2.64 ounces) of quinoa typically takes about 15 minutes at 180°C in an air fryer. Remember to rinse it first and use twice as much liquid as quinoa. Fluff it halfway through cooking for best results. Cooking times may vary slightly between air fryer models."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of quinoa?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of quinoa?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa",
     "description": "Discover how many ounces are in 0.33 cup of quinoa for perfect air fryer meals. Get accurate conversions and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T16:41:26.143000+00:00",
     "dateModified": "2025-08-17T16:41:26.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of quinoa?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-quinoa"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of quinoa weighs approximately 2.64 ounces (75 grams). This measurement is essential for air fryer recipes, ensuring you get the perfect portion every time. Whether you're meal prepping or cooking a quick side dish, knowing this conversion helps maintain consistency.</p>

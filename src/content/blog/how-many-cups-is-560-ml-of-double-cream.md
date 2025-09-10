@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream"
-        },
-        "headline": "Quick Guide: Convert 560 ml of Double Cream to Cups Easily",
-        "description": "Learn how to convert 560 ml of double cream to cups for perfect baking and cooking every time. Includes air fryer-friendly tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream"
+    },
+    "headline": "Quick Guide: Convert 560 ml of Double Cream to Cups Easily",
+    "description": "Learn how to convert 560 ml of double cream to cups for perfect baking and cooking every time. Includes air fryer-friendly tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-560-ml-of-double-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-560-ml-of-double-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 560 ml of double cream the same as 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 560 ml of double cream is slightly more than 2 cups. In the UK, it equals approximately 2.37 cups, while in the US, it's about 2.36 cups. This small difference matters in baking and air fryer recipes where precision is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 560 ml of double cream is slightly more than 2 cups. In the UK, it equals approximately 2.37 cups, while in the US, it's about 2.36 cups. This small difference matters in baking and air fryer recipes where precision is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 560 ml of double cream in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Double cream works well in air fryer recipes like custards, creamy sauces, or desserts. Just ensure you measure it accurately—560 ml is roughly 2.37 cups in the UK. Check our air fryer recipes for ideas on how to incorporate it."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Double cream works well in air fryer recipes like custards, creamy sauces, or desserts. Just ensure you measure it accurately—560 ml is roughly 2.37 cups in the UK. Check our air fryer recipes for ideas on how to incorporate it."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 560 ml of double cream to cups for a US recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For US recipes, 560 ml of double cream is approximately 2.36 cups due to the slightly smaller US cup size. Use a liquid measuring cup for accuracy, especially when adapting recipes for your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For US recipes, 560 ml of double cream is approximately 2.36 cups due to the slightly smaller US cup size. Use a liquid measuring cup for accuracy, especially when adapting recipes for your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What can I make with 560 ml of double cream in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can whip up delicious desserts like air fryer cheesecake, custards, or creamy pasta sauces. Visit our dessert and recipes sections for inspiration on using 560 ml (about 2.37 cups) of double cream in your air fryer creations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can whip up delicious desserts like air fryer cheesecake, custards, or creamy pasta sauces. Visit our dessert and recipes sections for inspiration on using 560 ml (about 2.37 cups) of double cream in your air fryer creations."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 560 ml of Double Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 560 ml of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream",
     "description": "Learn how to convert 560 ml of double cream to cups for perfect baking and cooking every time. Includes air fryer-friendly tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 560 ml of Double Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-560-ml-of-double-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>560 ml of double cream is approximately 2.37 cups in the UK or 2.36 cups in the US. Whether you're whipping up a dessert or preparing a creamy sauce for your air fryer, knowing this conversion ensures precision in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>  

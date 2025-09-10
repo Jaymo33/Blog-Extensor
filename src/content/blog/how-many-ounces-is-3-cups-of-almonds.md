@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds"
-        },
-        "headline": "Quick Guide: Convert 3 Cups of Almonds to Ounces Easily",
-        "description": "Discover how to convert 3 cups of almonds to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds"
+    },
+    "headline": "Quick Guide: Convert 3 Cups of Almonds to Ounces Easily",
+    "description": "Discover how to convert 3 cups of almonds to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-almonds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-almonds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 3 cups of almonds without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly spoon almonds into a measuring cup without packing them down. Avoid tapping the cup, as this compacts the almonds and leads to an inaccurate measurement. For best results, fluff the almonds with a fork before measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly spoon almonds into a measuring cup without packing them down. Avoid tapping the cup, as this compacts the almonds and leads to an inaccurate measurement. For best results, fluff the almonds with a fork before measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do whole and sliced almonds weigh the same per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, whole almonds and sliced almonds have different weights per cup due to air gaps. Whole almonds weigh around 4 ounces per cup, while sliced almonds are closer to 3.3 ounces per cup. Always check your recipe for the correct form."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, whole almonds and sliced almonds have different weights per cup due to air gaps. Whole almonds weigh around 4 ounces per cup, while sliced almonds are closer to 3.3 ounces per cup. Always check your recipe for the correct form."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use almond flour instead of whole almonds in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to adjust the quantity. Almond flour is more densely packed, so 3 cups would weigh significantly more than whole almonds. Refer to your recipe for specific conversions or use a kitchen scale for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to adjust the quantity. Almond flour is more densely packed, so 3 cups would weigh significantly more than whole almonds. Refer to your recipe for specific conversions or use a kitchen scale for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long do roasted almonds last in an airtight container?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Roasted almonds stay fresh for up to 2 weeks in an airtight container at room temperature. For longer storage, freeze them for up to 6 months. Always let them cool completely before sealing to prevent moisture buildup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Roasted almonds stay fresh for up to 2 weeks in an airtight container at room temperature. For longer storage, freeze them for up to 6 months. Always let them cool completely before sealing to prevent moisture buildup."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of almonds?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of almonds?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds",
     "description": "Discover how to convert 3 cups of almonds to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of almonds?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-almonds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of almonds weigh approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, ensuring accurate ingredient measurements for perfect results every time. Whether you're making almond-crusted chicken or a batch of roasted almonds, knowing this measurement helps maintain consistency.</p>  

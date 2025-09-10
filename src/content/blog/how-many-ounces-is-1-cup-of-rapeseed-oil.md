@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1 Cup of Rapeseed Oil?",
-        "description": "Discover the exact ounce conversion for 1 cup of rapeseed oil and simplify your air fryer recipes with this handy measurement guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1 Cup of Rapeseed Oil?",
+    "description": "Discover the exact ounce conversion for 1 cup of rapeseed oil and simplify your air fryer recipes with this handy measurement guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-rapeseed-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-rapeseed-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many ounces are in half a cup of rapeseed oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Half a cup of rapeseed oil equals approximately 3.85 ounces. This measurement is useful for smaller air fryer batches or recipes requiring less oil."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Half a cup of rapeseed oil equals approximately 3.85 ounces. This measurement is useful for smaller air fryer batches or recipes requiring less oil."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does rapeseed oil weigh the same as other oils in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, different oils have slightly varying weights. For example, olive oil is around 7.6 oz per cup, while coconut oil is closer to 8 oz. Rapeseed oil sits at 7.7 oz per cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, different oils have slightly varying weights. For example, olive oil is around 7.6 oz per cup, while coconut oil is closer to 8 oz. Rapeseed oil sits at 7.7 oz per cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure rapeseed oil in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale is the most accurate way to measure rapeseed oil. Set it to ounces, and pour until you reach 7.7 oz for 1 cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale is the most accurate way to measure rapeseed oil. Set it to ounces, and pour until you reach 7.7 oz for 1 cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is rapeseed oil a good choice for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Rapeseed oil has a high smoke point and neutral flavour, making it ideal for air frying. Its 7.7-ounce-per-cup measurement also simplifies recipe adjustments."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rapeseed oil has a high smoke point and neutral flavour, making it ideal for air frying. Its 7.7-ounce-per-cup measurement also simplifies recipe adjustments."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of rapeseed oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of rapeseed oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil",
     "description": "Discover the exact ounce conversion for 1 cup of rapeseed oil and simplify your air fryer recipes with this handy measurement guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of rapeseed oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rapeseed-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of rapeseed oil equals approximately 7.7 ounces (or 7.7 oz). This measurement is essential for air fryer recipes, where precise oil quantities can affect texture and crispiness. Rapeseed oil, commonly used in UK kitchens, is a versatile choice for frying, baking, and roasting. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this conversion ensures consistency.</p>  

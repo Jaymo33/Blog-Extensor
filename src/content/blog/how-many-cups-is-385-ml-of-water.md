@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water"
-        },
-        "headline": "Quick Answer: How Many Cups Is 385 ml of Water?",
-        "description": "Find out exactly how many cups 385 ml of water equals for perfect cooking and baking results every time. Simple conversions made easy!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water"
+    },
+    "headline": "Quick Answer: How Many Cups Is 385 ml of Water?",
+    "description": "Find out exactly how many cups 385 ml of water equals for perfect cooking and baking results every time. Simple conversions made easy!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 385 ml of water the same as 385 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, for water, 385 ml equals 385 grams because water has a density of 1 g/ml. This makes conversions straightforward when measuring water for recipes. However, other liquids like oil or syrup will differ due to varying densities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for water, 385 ml equals 385 grams because water has a density of 1 g/ml. This makes conversions straightforward when measuring water for recipes. However, other liquids like oil or syrup will differ due to varying densities."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 385 ml of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! A kitchen scale is a great tool for measuring liquids like water. Since 385 ml of water weighs 385 grams, simply pour until the scale reads 385g. This method is especially handy if you don’t have measuring cups or jugs available."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! A kitchen scale is a great tool for measuring liquids like water. Since 385 ml of water weighs 385 grams, simply pour until the scale reads 385g. This method is especially handy if you don’t have measuring cups or jugs available."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 385 ml of water affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Adding 385 ml of water to an air fryer recipe, such as a marinade or steam function, can slightly increase cooking time due to the extra moisture. However, it also helps prevent drying out, especially for dishes like steamed buns or poached fish. Always adjust times based on your air fryer model."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Adding 385 ml of water to an air fryer recipe, such as a marinade or steam function, can slightly increase cooking time due to the extra moisture. However, it also helps prevent drying out, especially for dishes like steamed buns or poached fish. Always adjust times based on your air fryer model."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 385 ml of water for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baking, accuracy is key. Use a liquid measuring jug with clear markings for 385 ml of water. Avoid using dry measuring cups, as they aren’t designed for liquids and can lead to incorrect measurements. For more baking tips, check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>cake recipes</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baking, accuracy is key. Use a liquid measuring jug with clear markings for 385 ml of water. Avoid using dry measuring cups, as they aren’t designed for liquids and can lead to incorrect measurements. For more baking tips, check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>cake recipes</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 385 ml of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 385 ml of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water",
     "description": "Find out exactly how many cups 385 ml of water equals for perfect cooking and baking results every time. Simple conversions made easy!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 385 ml of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>385 ml of water equals approximately 1.63 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're preparing a sauce, batter, or marinade, knowing how to convert 385 ml of water to cups ensures consistent results every time.</p>

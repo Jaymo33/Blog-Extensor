@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream"
-        },
-        "headline": "Quick Guide: Convert 310 ml of Single Cream to Cups Easily",
-        "description": "Learn how to convert 310 ml of single cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream"
+    },
+    "headline": "Quick Guide: Convert 310 ml of Single Cream to Cups Easily",
+    "description": "Learn how to convert 310 ml of single cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-single-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-single-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use double cream instead of single cream in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but double cream has a higher fat content, which can make dishes richer and thicker. If substituting, you may need to adjust the quantity slightly or dilute it with a bit of milk to match the consistency of single cream."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but double cream has a higher fat content, which can make dishes richer and thicker. If substituting, you may need to adjust the quantity slightly or dilute it with a bit of milk to match the consistency of single cream."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 310 ml of single cream without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring jug, use a standard metric cup (250 ml) and add an extra tablespoon to reach 310 ml. For US cups, measure 1 and 1/3 cups, as they hold 240 ml each."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring jug, use a standard metric cup (250 ml) and add an extra tablespoon to reach 310 ml. For US cups, measure 1 and 1/3 cups, as they hold 240 ml each."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does single cream whip well for desserts?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Single cream doesn’t whip as well as double cream, but it can be lightly aerated for toppings. For stiffer peaks, consider using double cream or a stabiliser like gelatine."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Single cream doesn’t whip as well as double cream, but it can be lightly aerated for toppings. For stiffer peaks, consider using double cream or a stabiliser like gelatine."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze single cream for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Freezing single cream isn’t recommended, as it can separate and become grainy when thawed. It’s best used fresh within a few days of opening for optimal texture and flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Freezing single cream isn’t recommended, as it can separate and become grainy when thawed. It’s best used fresh within a few days of opening for optimal texture and flavour."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 310 ml of Single Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 310 ml of Single Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream",
     "description": "Learn how to convert 310 ml of single cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 310 ml of Single Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-single-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>310 ml of single cream is approximately 1.31 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to convert millilitres to cups ensures consistency every time.</p>

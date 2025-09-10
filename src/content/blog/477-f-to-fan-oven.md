@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven"
-        },
-        "headline": "477 F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 477 F to fan oven settings easily. Learn the exact temperature conversion and how it affects your air fryer cooking. Essential guide for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven"
+    },
+    "headline": "477 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 477 F to fan oven settings easily. Learn the exact temperature conversion and how it affects your air fryer cooking. Essential guide for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-23T16:34:53.565Z",
-        "dateModified": "2025-07-23T16:34:53.565Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/477-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-23T16:34:53.565Z",
+    "dateModified": "2025-07-23T16:34:53.565Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/477-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 477 F to Celsius for my fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "477 F converts to 247 C in a fan oven. Simply subtract 32 from Fahrenheit, multiply by 5, then divide by 9. Fan ovens cook faster, so you may need to reduce cooking times slightly compared to conventional ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "477 F converts to 247 C in a fan oven. Simply subtract 32 from Fahrenheit, multiply by 5, then divide by 9. Fan ovens cook faster, so you may need to reduce cooking times slightly compared to conventional ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same cooking time when converting 477 F to fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, you should reduce cooking times by about 20% when using 477 F (247 C) in a fan oven. The circulating air cooks food faster and more evenly, similar to how an air fryer operates. Always check food a few minutes early."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, you should reduce cooking times by about 20% when using 477 F (247 C) in a fan oven. The circulating air cooks food faster and more evenly, similar to how an air fryer operates. Always check food a few minutes early."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 477 F in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "477 F (247 C fan) works perfectly for roasting vegetables, crisping chicken skin, baking puff pastry, or reheating fried foods. It's ideal for achieving golden-brown results without drying out the interior of your dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "477 F (247 C fan) works perfectly for roasting vegetables, crisping chicken skin, baking puff pastry, or reheating fried foods. It's ideal for achieving golden-brown results without drying out the interior of your dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food cook differently at 477 F in fan oven vs air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While both use circulating hot air, air fryers are more compact with intense airflow. At 477 F equivalent, air fryers cook slightly faster than fan ovens. You may need to reduce cooking times by an additional 5-10% when using an air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While both use circulating hot air, air fryers are more compact with intense airflow. At 477 F equivalent, air fryers cook slightly faster than fan ovens. You may need to reduce cooking times by an additional 5-10% when using an air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "477 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "477 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven",
     "description": "Convert 477 F to fan oven settings easily. Learn the exact temperature conversion and how it affects your air fryer cooking. Essential guide for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-23T16:34:53.565000+00:00",
     "dateModified": "2025-07-23T16:34:53.565000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "477 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/477-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>477 F converts to approximately 247 C in a fan oven. This high-temperature conversion is crucial for air fryer users adapting American recipes or adjusting conventional oven settings. At airfryerrecipe.co.uk, we specialise in making these conversions simple for home cooks.</p>

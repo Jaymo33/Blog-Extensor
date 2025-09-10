@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1 Cup of Lemonade?",
-        "description": "Discover how many ounces are in 1 cup of lemonade for perfect air fryer recipes. Get precise conversions and handy tips for UK measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1 Cup of Lemonade?",
+    "description": "Discover how many ounces are in 1 cup of lemonade for perfect air fryer recipes. Get precise conversions and handy tips for UK measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-lemonade.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-lemonade.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of lemonade affect the cup to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most store-bought and homemade lemonades have a similar density, so 1 cup generally equals 8.45 UK ounces. However, concentrated lemonade should be diluted first for accurate measurements, as it’s thicker and heavier per cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most store-bought and homemade lemonades have a similar density, so 1 cup generally equals 8.45 UK ounces. However, concentrated lemonade should be diluted first for accurate measurements, as it’s thicker and heavier per cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other liquids in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but only for similar thin liquids like water or juice. Thicker liquids, like syrup or cream, have different weights per cup. Always check a conversion chart for precise measurements when switching between ingredients."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but only for similar thin liquids like water or juice. Thicker liquids, like syrup or cream, have different weights per cup. Always check a conversion chart for precise measurements when switching between ingredients."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is measuring lemonade important for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook quickly, and incorrect liquid amounts can lead to uneven results. Too much lemonade might make food soggy, while too little can dry it out. Precise measurements ensure perfect texture and flavour every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook quickly, and incorrect liquid amounts can lead to uneven results. Too much lemonade might make food soggy, while too little can dry it out. Precise measurements ensure perfect texture and flavour every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find air fryer recipes using lemonade?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> or the <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert category</a> for creative ways to use lemonade in your air fryer. From glazes to cakes, there’s plenty to try with this versatile ingredient."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> or the <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert category</a> for creative ways to use lemonade in your air fryer. From glazes to cakes, there’s plenty to try with this versatile ingredient."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of lemonade?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of lemonade?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade",
     "description": "Discover how many ounces are in 1 cup of lemonade for perfect air fryer recipes. Get precise conversions and handy tips for UK measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of lemonade?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-lemonade"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of lemonade equals approximately 8.45 ounces in the UK. This conversion is essential for anyone using an air fryer to create refreshing drinks or recipes that include lemonade as an ingredient. Whether you're making a glaze for chicken or a dessert sauce, precise measurements ensure the best results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accuracy is for perfect cooking. Let’s dive deeper into why this measurement matters and how to use it in your air fryer recipes.</p>  

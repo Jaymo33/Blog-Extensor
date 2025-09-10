@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup"
-        },
-        "headline": "Quick Answer: How many ounces is 0.375 cup of tomato ketchup?",
-        "description": "Find out exactly how many ounces are in 0.375 cup of tomato ketchup for perfect air fryer recipes. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup"
+    },
+    "headline": "Quick Answer: How many ounces is 0.375 cup of tomato ketchup?",
+    "description": "Find out exactly how many ounces are in 0.375 cup of tomato ketchup for perfect air fryer recipes. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T16:41:26.143Z",
-        "dateModified": "2025-08-17T16:41:26.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-tomato-ketchup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T16:41:26.143Z",
+    "dateModified": "2025-08-17T16:41:26.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-tomato-ketchup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 0.375 cup of tomato ketchup without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, you can use tablespoons. 0.375 cup equals 6 tablespoons. Alternatively, use a kitchen scale to weigh out 3 ounces of ketchup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, you can use tablespoons. 0.375 cup equals 6 tablespoons. Alternatively, use a kitchen scale to weigh out 3 ounces of ketchup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other brands of tomato ketchup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, this conversion applies to all brands of tomato ketchup, as the density is generally consistent. However, thicker or sweeter varieties might vary slightly, so weighing is the most accurate method."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, this conversion applies to all brands of tomato ketchup, as the density is generally consistent. However, thicker or sweeter varieties might vary slightly, so weighing is the most accurate method."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air fryer smoking when I use tomato ketchup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Tomato ketchup contains sugar, which can burn at high temperatures. To prevent smoking, mix ketchup with other liquids or apply it towards the end of cooking. Always monitor your air fryer when using sugary sauces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tomato ketchup contains sugar, which can burn at high temperatures. To prevent smoking, mix ketchup with other liquids or apply it towards the end of cooking. Always monitor your air fryer when using sugary sauces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What other ingredients can I mix with 0.375 cup of tomato ketchup for a glaze?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can mix ketchup with honey, soy sauce, vinegar, or spices like garlic powder and paprika. This creates a balanced glaze for meats or vegetables. Experiment to find your favourite combination!"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can mix ketchup with honey, soy sauce, vinegar, or spices like garlic powder and paprika. This creates a balanced glaze for meats or vegetables. Experiment to find your favourite combination!"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.375 cup of tomato ketchup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.375 cup of tomato ketchup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup",
     "description": "Find out exactly how many ounces are in 0.375 cup of tomato ketchup for perfect air fryer recipes. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T16:41:26.143000+00:00",
     "dateModified": "2025-08-17T16:41:26.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.375 cup of tomato ketchup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-tomato-ketchup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.375 cup of tomato ketchup equals 3 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re making glazes, sauces, or marinades, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you get the measurements spot-on for perfect dishes every time.</p>

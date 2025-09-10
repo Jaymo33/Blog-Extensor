@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade"
-        },
-        "headline": "Quick Guide: Convert 1.75 Cups of Lemonade to Ounces Easily",
-        "description": "Learn how to convert 1.75 cups of lemonade to ounces in seconds. Perfect for air fryer recipes and precise measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade"
+    },
+    "headline": "Quick Guide: Convert 1.75 Cups of Lemonade to Ounces Easily",
+    "description": "Learn how to convert 1.75 cups of lemonade to ounces in seconds. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-175-cups-of-lemonade.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-175-cups-of-lemonade.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lemonade instead of fresh for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lemonade works fine in air fryer recipes, though fresh-squeezed may offer a brighter flavor. The sugar content in bottled versions can vary, so adjust other sweeteners in your recipe accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lemonade works fine in air fryer recipes, though fresh-squeezed may offer a brighter flavor. The sugar content in bottled versions can vary, so adjust other sweeteners in your recipe accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does lemonade affect cooking times in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lemonade can add moisture, so dishes may need slightly longer cooking times to crisp up. For glazes, apply them in the last few minutes to avoid burning the sugar."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lemonade can add moisture, so dishes may need slightly longer cooking times to crisp up. For glazes, apply them in the last few minutes to avoid burning the sugar."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 1.75 cups of lemonade the same as 1.75 cups of water in weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, lemonade is slightly heavier due to dissolved sugar. While 1.75 cups of water weighs about 14 ounces, lemonade may weigh closer to 14.5 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, lemonade is slightly heavier due to dissolved sugar. While 1.75 cups of water weighs about 14 ounces, lemonade may weigh closer to 14.5 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reduce 1.75 cups of lemonade to make a thicker glaze?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Simmering 1.75 cups (14 fl oz) of lemonade on the stove will reduce it to a thicker consistency, perfect for brushing onto air-fried dishes during the last few minutes of cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Simmering 1.75 cups (14 fl oz) of lemonade on the stove will reduce it to a thicker consistency, perfect for brushing onto air-fried dishes during the last few minutes of cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of lemonade?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of lemonade?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade",
     "description": "Learn how to convert 1.75 cups of lemonade to ounces in seconds. Perfect for air fryer recipes and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of lemonade?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-lemonade"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of lemonade equals 14 fluid ounces (fl oz). This conversion is essential for precise measurements, especially when preparing air fryer recipes that require exact liquid quantities. Whether you're making a glaze, marinade, or a refreshing drink to pair with your air-fried dishes, knowing this conversion ensures consistency.</p>

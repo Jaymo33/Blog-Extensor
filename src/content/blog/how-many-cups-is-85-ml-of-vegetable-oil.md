@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil"
-        },
-        "headline": "Quick Conversion: 85 ml of Vegetable Oil to Cups Explained",
-        "description": "Learn how to convert 85 ml of vegetable oil to cups for perfect baking and air frying. Get accurate measurements for UK and US cups in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Conversion: 85 ml of Vegetable Oil to Cups Explained",
+    "description": "Learn how to convert 85 ml of vegetable oil to cups for perfect baking and air frying. Get accurate measurements for UK and US cups in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-vegetable-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 85 ml of vegetable oil the same as 85 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 85 ml of vegetable oil isn’t the same as 85 grams. Oil is less dense than water, so 85 ml of vegetable oil weighs roughly 78 grams. Always check your recipe’s requirements—some specify weight (grams) while others use volume (ml or cups)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 85 ml of vegetable oil isn’t the same as 85 grams. Oil is less dense than water, so 85 ml of vegetable oil weighs roughly 78 grams. Always check your recipe’s requirements—some specify weight (grams) while others use volume (ml or cups)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use olive oil instead of vegetable oil in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute olive oil for vegetable oil in an air fryer. However, olive oil has a lower smoke point, so it’s best for lower-temperature cooking. For high-heat air frying, vegetable or sunflower oil is more stable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute olive oil for vegetable oil in an air fryer. However, olive oil has a lower smoke point, so it’s best for lower-temperature cooking. For high-heat air frying, vegetable or sunflower oil is more stable."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 85 ml of vegetable oil without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use tablespoons. Since 1 tablespoon equals 15 ml, 85 ml of vegetable oil is about 5.5 tablespoons. Alternatively, a standard UK teaspoon holds 5 ml, so 17 teaspoons would also work."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use tablespoons. Since 1 tablespoon equals 15 ml, 85 ml of vegetable oil is about 5.5 tablespoons. Alternatively, a standard UK teaspoon holds 5 ml, so 17 teaspoons would also work."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do US and UK cup measurements differ for 85 ml of vegetable oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The difference comes from historical measurement systems. A US cup is 240 ml, while a UK cup is 284 ml. This means 85 ml converts to 0.36 US cups but only 0.30 UK cups. Always check which standard your recipe follows to avoid errors."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The difference comes from historical measurement systems. A US cup is 240 ml, while a UK cup is 284 ml. This means 85 ml converts to 0.36 US cups but only 0.30 UK cups. Always check which standard your recipe follows to avoid errors."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 85 ml of Vegetable Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 85 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil",
     "description": "Learn how to convert 85 ml of vegetable oil to cups for perfect baking and air frying. Get accurate measurements for UK and US cups in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 85 ml of Vegetable Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vegetable-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>85 ml of vegetable oil is approximately 0.36 cups in the US measurement system and 0.30 cups in the UK system. Whether you're following a recipe for your air fryer or baking, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how crucial precise measurements are for perfect results.</p>

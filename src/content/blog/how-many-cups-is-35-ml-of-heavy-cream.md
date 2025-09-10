@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream"
-        },
-        "headline": "Quick Guide: Convert 35 ml of Heavy Cream to Cups Easily",
-        "description": "Learn how to convert 35 ml of heavy cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream"
+    },
+    "headline": "Quick Guide: Convert 35 ml of Heavy Cream to Cups Easily",
+    "description": "Learn how to convert 35 ml of heavy cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:31:14.315Z",
-        "dateModified": "2025-07-30T23:31:14.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-heavy-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:31:14.315Z",
+    "dateModified": "2025-07-30T23:31:14.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-heavy-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 35 ml of heavy cream the same as 35 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 35 ml of heavy cream is not the same as 35 grams. The density of heavy cream means 35 ml weighs around 36-38 grams, depending on fat content. For precise baking, always measure by volume or weight as specified in the recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 35 ml of heavy cream is not the same as 35 grams. The density of heavy cream means 35 ml weighs around 36-38 grams, depending on fat content. For precise baking, always measure by volume or weight as specified in the recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of heavy cream in a 35 ml measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute milk, but the texture and richness will differ. For 35 ml of heavy cream, use 35 ml of whole milk mixed with a teaspoon of melted butter for a closer match. However, for air fryer recipes, heavy cream's thickness is often key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute milk, but the texture and richness will differ. For 35 ml of heavy cream, use 35 ml of whole milk mixed with a teaspoon of melted butter for a closer match. However, for air fryer recipes, heavy cream's thickness is often key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 35 ml of heavy cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard tablespoon—35 ml is roughly 2 tablespoons plus 1 teaspoon. For accuracy, a kitchen scale set to grams (36-38g) also works. In air fryer cooking, small measurements like 35 ml can make a big difference, so precision helps."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard tablespoon—35 ml is roughly 2 tablespoons plus 1 teaspoon. For accuracy, a kitchen scale set to grams (36-38g) also works. In air fryer cooking, small measurements like 35 ml can make a big difference, so precision helps."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 35 ml of heavy cream convert the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, UK and US cups differ slightly. In the US, 35 ml is about 0.15 cups, while in the UK, it's 0.12 cups. Always check which measurement system your recipe uses, especially for air fryer baking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, UK and US cups differ slightly. In the US, 35 ml is about 0.15 cups, while in the UK, it's 0.12 cups. Always check which measurement system your recipe uses, especially for air fryer baking where precision matters."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 35 ml of Heavy Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 35 ml of Heavy Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream",
     "description": "Learn how to convert 35 ml of heavy cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:14.315000+00:00",
     "dateModified": "2025-07-30T23:31:14.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 35 ml of Heavy Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-heavy-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <h2>How Many Cups Is 35 ml of Heavy Cream?</h2>

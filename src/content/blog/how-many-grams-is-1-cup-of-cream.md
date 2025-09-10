@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream"
-        },
-        "headline": "Quick Guide: Convert 1.0 Cups of Cream to Grams Easily",
-        "description": "Discover how to convert 1.0 cups of cream to grams for perfect baking and cooking every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream"
+    },
+    "headline": "Quick Guide: Convert 1.0 Cups of Cream to Grams Easily",
+    "description": "Discover how to convert 1.0 cups of cream to grams for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:37.491Z",
-        "dateModified": "2025-07-27T16:11:37.491Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:37.491Z",
+    "dateModified": "2025-07-27T16:11:37.491Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.0 cups of cream the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 1.0 cups of cream differs slightly between the UK and US. In the UK, it’s 240 grams, while in the US, it’s 227 grams. Always check which measurement system your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 1.0 cups of cream differs slightly between the UK and US. In the UK, it’s 240 grams, while in the US, it’s 227 grams. Always check which measurement system your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but a digital scale is more precise. If using a measuring cup, spoon the cream in and level it off with a knife. Avoid packing it down, as this can lead to over-measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but a digital scale is more precise. If using a measuring cup, spoon the cream in and level it off with a knife. Avoid packing it down, as this can lead to over-measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does whipped cream affect measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Whipped cream expands in volume, so always measure it in its liquid form first. For example, 1.0 cups of liquid cream will yield much more when whipped."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Whipped cream expands in volume, so always measure it in its liquid form first. For example, 1.0 cups of liquid cream will yield much more when whipped."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does cream measurement matter in air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Precise cream measurements ensure even cooking and perfect texture in air fryer recipes. Too much cream can make dishes soggy, while too little may dry them out. Always follow recipe guidelines closely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Precise cream measurements ensure even cooking and perfect texture in air fryer recipes. Too much cream can make dishes soggy, while too little may dry them out. Always follow recipe guidelines closely."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 1.0 Cups of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.0 Cups of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream",
     "description": "Discover how to convert 1.0 cups of cream to grams for perfect baking and cooking every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
     "dateModified": "2025-07-27T16:11:37.491000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 1.0 Cups of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.0 cups of cream is equivalent to approximately 240 grams in the UK and 227 grams in the US. This difference arises because UK and US cup measurements vary slightly, which can impact your recipes if not accounted for. Whether you're using an air fryer or a conventional oven, getting the measurements right ensures your dishes turn out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour"
-        },
-        "headline": "175 Grams of Plain Flour to Cups – Easy Conversion | AirFryerRecipe.co.uk",
-        "description": "Convert 175 grams of plain flour to cups for perfect air fryer baking. Includes UK/US measurements and tips for accurate conversions every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour"
+    },
+    "headline": "175 Grams of Plain Flour to Cups – Easy Conversion | AirFryerRecipe.co.uk",
+    "description": "Convert 175 grams of plain flour to cups for perfect air fryer baking. Includes UK/US measurements and tips for accurate conversions every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:57:37.476Z",
-        "dateModified": "2025-07-22T16:57:37.476Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-plain-flour.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:57:37.476Z",
+    "dateModified": "2025-07-22T16:57:37.476Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-plain-flour.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 175 grams of plain flour equal the same in cups for all recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 175 grams of plain flour consistently equals about 1.4 UK cups, different recipes may require slight adjustments based on humidity and how the flour is packed. For air fryer baking, we recommend weighing for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 175 grams of plain flour consistently equals about 1.4 UK cups, different recipes may require slight adjustments based on humidity and how the flour is packed. For air fryer baking, we recommend weighing for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 175 grams of plain flour to cups if I only have a US measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "US cups are larger, so 175 grams of plain flour equals approximately 1.25 US cups. Always check whether your recipe uses UK or US measurements to ensure accuracy in your air fryer creations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "US cups are larger, so 175 grams of plain flour equals approximately 1.25 US cups. Always check whether your recipe uses UK or US measurements to ensure accuracy in your air fryer creations."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use self-raising flour instead of plain flour in a 175g measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute self-raising flour, but remember it contains baking powder. For every 175 grams, reduce added raising agents in your recipe by 2 teaspoons to avoid over-rising in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute self-raising flour, but remember it contains baking powder. For every 175 grams, reduce added raising agents in your recipe by 2 teaspoons to avoid over-rising in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer baking sometimes fail with cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers need precise ratios. Cup measurements vary based on how you fill them, while 175 grams of plain flour is always consistent. For reliable results, we recommend using digital scales for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers need precise ratios. Cup measurements vary based on how you fill them, while 175 grams of plain flour is always consistent. For reliable results, we recommend using digital scales for air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 175 Grams of Plain Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Plain Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour",
     "description": "Convert 175 grams of plain flour to cups for perfect air fryer baking. Includes UK/US measurements and tips for accurate conversions every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:57:37.476000+00:00",
     "dateModified": "2025-07-22T16:57:37.476000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 175 Grams of Plain Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-plain-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>175 grams of plain flour equals approximately 1.4 cups in the UK or 1.25 cups in the US. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up cakes, cookies, or bread in your air fryer, knowing how to convert grams to cups ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making these conversions simple so you can focus on cooking. Let’s dive deeper into flour measurements and why accuracy matters.</p>

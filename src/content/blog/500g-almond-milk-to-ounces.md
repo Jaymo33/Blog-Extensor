@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces"
-        },
-        "headline": "Quick 500g almond milk to ounces conversion for UK cooks",
-        "description": "Convert 500g of almond milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces"
+    },
+    "headline": "Quick 500g almond milk to ounces conversion for UK cooks",
+    "description": "Convert 500g of almond milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/500g-almond-milk-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/500g-almond-milk-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 500g of almond milk the same as 500ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, because almond milk has a density similar to water, 500g is roughly equivalent to 500ml. This makes conversions between grams and millilitres straightforward for most recipes. However, always check labels for thickened or flavoured varieties, as they may differ slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, because almond milk has a density similar to water, 500g is roughly equivalent to 500ml. This makes conversions between grams and millilitres straightforward for most recipes. However, always check labels for thickened or flavoured varieties, as they may differ slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 500g of almond milk in any air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Almond milk works well in most air fryer recipes, from batters to sauces. Just ensure you convert 500g to ounces (17.64 oz) if the recipe uses imperial measurements. Its neutral flavour makes it a versatile dairy substitute."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Almond milk works well in most air fryer recipes, from batters to sauces. Just ensure you convert 500g to ounces (17.64 oz) if the recipe uses imperial measurements. Its neutral flavour makes it a versatile dairy substitute."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover almond milk after measuring 500g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store opened almond milk in the fridge and use it within 7–10 days. Shake well before each use, as separation is normal. For longer storage, consider freezing portions in ice cube trays for future air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store opened almond milk in the fridge and use it within 7–10 days. Shake well before each use, as separation is normal. For longer storage, consider freezing portions in ice cube trays for future air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe with almond milk turn out watery?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This could be due to excess liquid or insufficient thickening agents. Almond milk has a high water content, so reduce other liquids or add a binder like cornflour. Always follow recipe measurements closely for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This could be due to excess liquid or insufficient thickening agents. Almond milk has a high water content, so reduce other liquids or add a binder like cornflour. Always follow recipe measurements closely for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 500g of almond milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 500g of almond milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces",
     "description": "Convert 500g of almond milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 500g of almond milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/500g-almond-milk-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500g of almond milk equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a dairy-free cake or a creamy sauce, knowing how to convert grams to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking.</p>  

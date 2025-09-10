@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds"
-        },
-        "headline": "Quick Answer: 1.66 Cups of Sunflower Seeds to Ounces",
-        "description": "Convert 1.66 cups of sunflower seeds to ounces easily. Perfect for air fryer recipes and accurate meal prep.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds"
+    },
+    "headline": "Quick Answer: 1.66 Cups of Sunflower Seeds to Ounces",
+    "description": "Convert 1.66 cups of sunflower seeds to ounces easily. Perfect for air fryer recipes and accurate meal prep.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-sunflower-seeds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-sunflower-seeds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 1.66 cups of sunflower seeds directly in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can roast 1.66 cups (8.8 oz) of sunflower seeds directly in your air fryer. Spread them evenly in the basket and cook at 160°C for 8–10 minutes, shaking occasionally. This ensures even roasting without burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can roast 1.66 cups (8.8 oz) of sunflower seeds directly in your air fryer. Spread them evenly in the basket and cook at 160°C for 8–10 minutes, shaking occasionally. This ensures even roasting without burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does the weight of sunflower seeds vary by cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The weight can vary slightly depending on how tightly packed the seeds are. Lightly spooned sunflower seeds weigh less than densely packed ones. For accuracy, 1.66 cups typically equals 8.8 oz, but using a scale eliminates guesswork."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The weight can vary slightly depending on how tightly packed the seeds are. Lightly spooned sunflower seeds weigh less than densely packed ones. For accuracy, 1.66 cups typically equals 8.8 oz, but using a scale eliminates guesswork."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are sunflower seeds healthy when air-fried?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Air-frying sunflower seeds preserves their nutrients, including vitamin E and healthy fats, without adding oil. Just roast 1.66 cups (8.8 oz) at 160°C for a crunchy, guilt-free snack."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Air-frying sunflower seeds preserves their nutrients, including vitamin E and healthy fats, without adding oil. Just roast 1.66 cups (8.8 oz) at 160°C for a crunchy, guilt-free snack."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute sunflower seeds in recipes that call for nuts?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, sunflower seeds work well as a nut-free alternative in many recipes. Use 1.66 cups (8.8 oz) in place of nuts for similar texture and flavour. They’re especially great in granola or as a coating for proteins."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, sunflower seeds work well as a nut-free alternative in many recipes. Use 1.66 cups (8.8 oz) in place of nuts for similar texture and flavour. They’re especially great in granola or as a coating for proteins."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of sunflower seeds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of sunflower seeds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds",
     "description": "Convert 1.66 cups of sunflower seeds to ounces easily. Perfect for air fryer recipes and accurate meal prep.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of sunflower seeds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-sunflower-seeds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.66 cups of sunflower seeds equals approximately 8.8 ounces. This conversion is essential for air fryer recipes, ensuring precise measurements for consistent results. Whether you're roasting sunflower seeds or using them as a crunchy topping, knowing the exact weight helps avoid over or under-seasoning. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

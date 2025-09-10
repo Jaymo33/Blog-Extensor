@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour"
-        },
-        "headline": "Quick Guide: Convert 75g of Wholemeal Flour to Ounces Easily",
-        "description": "Discover how to convert 75g of wholemeal flour to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour"
+    },
+    "headline": "Quick Guide: Convert 75g of Wholemeal Flour to Ounces Easily",
+    "description": "Discover how to convert 75g of wholemeal flour to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-wholemeal-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-wholemeal-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 75g of wholemeal flour to ounces accurately?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Precise measurements ensure consistent results in baking, especially in air fryers where cooking conditions are intense. Wholemeal flour behaves differently than other flours, so accurate conversion from 75g to ounces (about 2.65 oz) guarantees proper texture and rise in your recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Precise measurements ensure consistent results in baking, especially in air fryers where cooking conditions are intense. Wholemeal flour behaves differently than other flours, so accurate conversion from 75g to ounces (about 2.65 oz) guarantees proper texture and rise in your recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of ounces for 75g of wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, cups are less precise for wholemeal flour due to its density. 75g equals about ½ US cup, but weight measurements (grams or ounces) are far more reliable for air fryer baking. We always recommend using scales for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, cups are less precise for wholemeal flour due to its density. 75g equals about ½ US cup, but weight measurements (grams or ounces) are far more reliable for air fryer baking. We always recommend using scales for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does wholemeal flour weigh the same as plain flour per ounce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, wholemeal flour is slightly denser than plain flour. While 75g converts to about 2.65 ounces for both, wholemeal will pack more tightly in a measuring cup. This difference matters most in air fryer recipes where precision affects cooking times and textures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, wholemeal flour is slightly denser than plain flour. While 75g converts to about 2.65 ounces for both, wholemeal will pack more tightly in a measuring cup. This difference matters most in air fryer recipes where precision affects cooking times and textures."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes using wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Explore our collection at <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>airfryerrecipe.co.uk</a> for delicious wholemeal flour recipes. We offer everything from air fryer cakes to breads, all tested with precise measurements including 75g wholemeal flour to ounces conversions for perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Explore our collection at <a href=https://www.airfryerrecipe.co.uk/recipe-category/cakes>airfryerrecipe.co.uk</a> for delicious wholemeal flour recipes. We offer everything from air fryer cakes to breads, all tested with precise measurements including 75g wholemeal flour to ounces conversions for perfect results every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of wholemeal flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of wholemeal flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour",
     "description": "Discover how to convert 75g of wholemeal flour to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of wholemeal flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-wholemeal-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of wholemeal flour equals approximately 2.65 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Whether you're whipping up air fryer cakes or bread, knowing the exact weight ensures perfect results every time. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements.</p>

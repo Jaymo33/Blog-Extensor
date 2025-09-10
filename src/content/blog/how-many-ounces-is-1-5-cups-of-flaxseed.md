@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed"
-        },
-        "headline": "Quick Answer: How many ounces is 1.5 cups of flaxseed?",
-        "description": "Discover how to convert 1.5 cups of flaxseed to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed"
+    },
+    "headline": "Quick Answer: How many ounces is 1.5 cups of flaxseed?",
+    "description": "Discover how to convert 1.5 cups of flaxseed to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-flaxseed.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-flaxseed.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use ground flaxseed instead of whole for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, ground flaxseed works well but may require slight adjustments. It absorbs more moisture, so reduce liquid in recipes. For coatings, mix it with breadcrumbs for better texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, ground flaxseed works well but may require slight adjustments. It absorbs more moisture, so reduce liquid in recipes. For coatings, mix it with breadcrumbs for better texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert flaxseed measurements for larger batches?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Simply multiply the ounces per cup accordingly. For example, 3 cups would be 12.7 ounces. Always weigh for accuracy, especially in bulk cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Simply multiply the ounces per cup accordingly. For example, 3 cups would be 12.7 ounces. Always weigh for accuracy, especially in bulk cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does flaxseed burn easily in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Flaxseed can burn if cooked too long at high heat. Use temperatures below 180°C and shake the basket occasionally for even browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Flaxseed can burn if cooked too long at high heat. Use temperatures below 180°C and shake the basket occasionally for even browning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find more flaxseed air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/breakfast>breakfast recipes</a> section for flaxseed ideas like granola or energy bars. We update it weekly with new creations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/breakfast>breakfast recipes</a> section for flaxseed ideas like granola or energy bars. We update it weekly with new creations."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.5 cups of flaxseed?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of flaxseed?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed",
     "description": "Discover how to convert 1.5 cups of flaxseed to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.5 cups of flaxseed?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-flaxseed"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of flaxseed equals approximately 6.35 ounces (or 180 grams). This conversion is essential for air fryer recipes, ensuring precise measurements for perfect results every time. Whether you're making flaxseed crackers, breaded coatings, or healthy snacks, knowing the exact weight helps maintain consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

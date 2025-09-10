@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats"
-        },
-        "headline": "Quick Conversion: 1.66 Cups of Oats to Ounces (UK Guide)",
-        "description": "Convert 1.66 cups of oats to ounces effortlessly with our UK-friendly guide. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats"
+    },
+    "headline": "Quick Conversion: 1.66 Cups of Oats to Ounces (UK Guide)",
+    "description": "Convert 1.66 cups of oats to ounces effortlessly with our UK-friendly guide. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.66 cups of oats the same as 1 and 2/3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.66 cups is equivalent to 1 and 2/3 cups of oats. The decimal version (1.66) is often used in digital recipes or when scaling measurements precisely. Both represent the same quantity when converted to ounces (approximately 5.29 oz)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.66 cups is equivalent to 1 and 2/3 cups of oats. The decimal version (1.66) is often used in digital recipes or when scaling measurements precisely. Both represent the same quantity when converted to ounces (approximately 5.29 oz)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for steel-cut oats and rolled oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion differs slightly between oat types due to density differences. While 1.66 cups of rolled oats equals about 5.29 ounces, steel-cut oats weigh more - approximately 6 ounces for the same volume. Always check your specific oat type's packaging for precise weight conversions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion differs slightly between oat types due to density differences. While 1.66 cups of rolled oats equals about 5.29 ounces, steel-cut oats weigh more - approximately 6 ounces for the same volume. Always check your specific oat type's packaging for precise weight conversions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does this measurement work for gluten-free oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free oats follow the same 1.66 cups to 5.29 ounces conversion as regular oats, assuming they're the same type (rolled, quick, etc.). The gluten-free processing doesn't significantly affect the weight-to-volume ratio. However, always check packaging as some brands may have slight variations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free oats follow the same 1.66 cups to 5.29 ounces conversion as regular oats, assuming they're the same type (rolled, quick, etc.). The gluten-free processing doesn't significantly affect the weight-to-volume ratio. However, always check packaging as some brands may have slight variations."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ounces instead of cups for oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (ounces) are more accurate than volume (cups) because how you scoop oats affects the amount. One cook's lightly scooped 1.66 cups might differ from another's packed measurement. Ounces ensure consistency, especially important in baking where precision affects texture and rise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (ounces) are more accurate than volume (cups) because how you scoop oats affects the amount. One cook's lightly scooped 1.66 cups might differ from another's packed measurement. Ounces ensure consistency, especially important in baking where precision affects texture and rise."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats",
     "description": "Convert 1.66 cups of oats to ounces effortlessly with our UK-friendly guide. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.66 cups of oats equals approximately 5.29 ounces (or 150 grams). This conversion is essential for precise measurements, especially when preparing air fryer recipes where ingredient ratios matter. Whether you're making overnight oats, granola, or baked goods, knowing the exact weight ensures consistent results.</p>

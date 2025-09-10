@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer"
-        },
-        "headline": "Reheat Steak Bites in Air Fryer – Crispy & Juicy Results",
-        "description": "Learn how to reheat steak bites in an air fryer perfectly – crispy outside, juicy inside. Ideal temps, timings & tips for leftovers.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer"
+    },
+    "headline": "Reheat Steak Bites in Air Fryer – Crispy & Juicy Results",
+    "description": "Learn how to reheat steak bites in an air fryer perfectly – crispy outside, juicy inside. Ideal temps, timings & tips for leftovers.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-steak-bites-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-steak-bites-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat steak bites in an air fryer from frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! For frozen steak bites, set your air fryer to 160°C and cook for 4 minutes, then increase to 180°C for 2 final minutes. This two-stage approach prevents the outside from burning before the centre thaws."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! For frozen steak bites, set your air fryer to 160°C and cook for 4 minutes, then increase to 180°C for 2 final minutes. This two-stage approach prevents the outside from burning before the centre thaws."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best temperature to reheat steak bites without drying them out?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "180°C (350°F) is ideal for reheating steak bites – hot enough to crisp the exterior while gently warming the interior. For extra juiciness, lightly brush with butter or oil before reheating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "180°C (350°F) is ideal for reheating steak bites – hot enough to crisp the exterior while gently warming the interior. For extra juiciness, lightly brush with butter or oil before reheating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do you keep reheated steak bites crispy in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ensure your air fryer is preheated, don’t overcrowd the basket, and shake halfway through cooking. A light spritz of oil helps recreate that fresh-cooked crispiness. Avoid covering the steak bites during reheating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ensure your air fryer is preheated, don’t overcrowd the basket, and shake halfway through cooking. A light spritz of oil helps recreate that fresh-cooked crispiness. Avoid covering the steak bites during reheating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat saucy or marinated steak bites in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but use an air fryer-safe dish or foil to contain sauces. Reduce temperature to 160°C and extend time by 1-2 minutes, checking frequently. The sauce will thicken as it reheats, so stir occasionally if possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but use an air fryer-safe dish or foil to contain sauces. Reduce temperature to 160°C and extend time by 1-2 minutes, checking frequently. The sauce will thicken as it reheats, so stir occasionally if possible."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Steak Bites in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Steak Bites in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer",
     "description": "Learn how to reheat steak bites in an air fryer perfectly – crispy outside, juicy inside. Ideal temps, timings & tips for leftovers.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Steak Bites in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-steak-bites-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>To reheat steak bites in an air fryer, preheat to 180°C (350°F) and cook for 2–3 minutes until warmed through. This method restores crispiness while keeping the centre tender – far better than microwaving. Whether you’re reheating leftovers from last night’s dinner or meal-prepped steak bites, your air fryer delivers restaurant-quality results in minutes.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine"
-        },
-        "headline": "Quick Guide: Convert 1000g of Margarine to Ounces Easily",
-        "description": "Learn how to convert 1000g of margarine to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine"
+    },
+    "headline": "Quick Guide: Convert 1000g of Margarine to Ounces Easily",
+    "description": "Learn how to convert 1000g of margarine to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-margarine.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-margarine.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 1000g of margarine to ounces for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 1000g of margarine to ounces ensures accuracy in recipes, especially for baking in an air fryer. Precise measurements help achieve the right texture and flavour, preventing dishes from being too greasy or dry."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 1000g of margarine to ounces ensures accuracy in recipes, especially for baking in an air fryer. Precise measurements help achieve the right texture and flavour, preventing dishes from being too greasy or dry."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 1000g of margarine?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale is the most accurate way to measure 1000g of margarine. If you don’t have one, use pre-packaged blocks (like two 500g portions) to reach the correct amount."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale is the most accurate way to measure 1000g of margarine. If you don’t have one, use pre-packaged blocks (like two 500g portions) to reach the correct amount."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 1000g of margarine compare to butter in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1000g of margarine and butter both convert to roughly 35.27 ounces. However, margarine often has a higher water content, which can slightly affect recipes, so adjustments might be needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1000g of margarine and butter both convert to roughly 35.27 ounces. However, margarine often has a higher water content, which can slightly affect recipes, so adjustments might be needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes commonly use 1000g of margarine?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Large batches of cakes, cookies, or pastries often require 1000g of margarine. This quantity is ideal for family-sized portions or multiple baking sessions in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Large batches of cakes, cookies, or pastries often require 1000g of margarine. This quantity is ideal for family-sized portions or multiple baking sessions in your air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of margarine?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of margarine?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine",
     "description": "Learn how to convert 1000g of margarine to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of margarine?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-margarine"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of margarine equals approximately 35.27 ounces. This conversion is essential for anyone using an air fryer, especially when following recipes that require precise measurements. Whether you're baking a cake or preparing a savoury dish, knowing how to convert grams to ounces can make all the difference.</p>

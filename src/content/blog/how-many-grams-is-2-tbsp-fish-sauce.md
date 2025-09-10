@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce"
-        },
-        "headline": "Quick Answer: How many grams is 2 tbsp of fish sauce?",
-        "description": "Find out exactly how many grams are in 2 tbsp of fish sauce for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce"
+    },
+    "headline": "Quick Answer: How many grams is 2 tbsp of fish sauce?",
+    "description": "Find out exactly how many grams are in 2 tbsp of fish sauce for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-fish-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-fish-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use less than 2 tbsp of fish sauce in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can adjust the amount to suit your taste. If reducing, start with 1 tbsp (15g) and taste before adding more. Remember, air fryers concentrate flavours, so a little often goes further than in oven cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can adjust the amount to suit your taste. If reducing, start with 1 tbsp (15g) and taste before adding more. Remember, air fryers concentrate flavours, so a little often goes further than in oven cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of fish sauce affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most fish sauces have similar densities, so 2 tbsp will generally weigh around 30g across brands. However, thicker artisanal varieties might be slightly heavier. When trying a new brand, it’s worth checking with scales initially."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most fish sauces have similar densities, so 2 tbsp will generally weigh around 30g across brands. However, thicker artisanal varieties might be slightly heavier. When trying a new brand, it’s worth checking with scales initially."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams back to tablespoons if my recipe uses weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For fish sauce, 30g equals 2 tbsp. So if a recipe lists 45g, you’d use 3 tbsp. Always use level tablespoons for accuracy, and consider investing in measuring spoons if you frequently work with volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For fish sauce, 30g equals 2 tbsp. So if a recipe lists 45g, you’d use 3 tbsp. Always use level tablespoons for accuracy, and consider investing in measuring spoons if you frequently work with volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute fish sauce with something else in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Soy sauce or Worcestershire sauce can work as substitutes, but they’ll change the flavour profile. Use the same 2 tbsp (30g) quantity initially, then adjust to taste. For authentic Southeast Asian flavours, fish sauce is irreplaceable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Soy sauce or Worcestershire sauce can work as substitutes, but they’ll change the flavour profile. Use the same 2 tbsp (30g) quantity initially, then adjust to taste. For authentic Southeast Asian flavours, fish sauce is irreplaceable."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2 tbsp of fish sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of fish sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce",
     "description": "Find out exactly how many grams are in 2 tbsp of fish sauce for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2 tbsp of fish sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-fish-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 tablespoons (tbsp) of fish sauce weigh approximately 30 grams (g). This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, dressings, or dipping sauces. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this conversion helps maintain consistency.</p>  

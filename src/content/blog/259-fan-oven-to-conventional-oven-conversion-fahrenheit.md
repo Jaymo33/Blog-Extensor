@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        },
-        "headline": "Quick 259°F Fan to Conventional Oven Conversion Guide",
-        "description": "Convert 259°F fan oven to conventional oven temps easily with our simple guide. Perfect for air fryer recipes and traditional baking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit"
+    },
+    "headline": "Quick 259°F Fan to Conventional Oven Conversion Guide",
+    "description": "Convert 259°F fan oven to conventional oven temps easily with our simple guide. Perfect for air fryer recipes and traditional baking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-25T17:54:47.587Z",
-        "dateModified": "2025-07-25T17:54:47.587Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/259-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-25T17:54:47.587Z",
+    "dateModified": "2025-07-25T17:54:47.587Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/259-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 259°F fan oven to air fryer temperature?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers use similar convection heating to fan ovens, so you can typically use the same 259°F temperature. However, reduce cooking time by 15-20% as air fryers cook faster due to their compact size."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers use similar convection heating to fan ovens, so you can typically use the same 259°F temperature. However, reduce cooking time by 15-20% as air fryers cook faster due to their compact size."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food burn when converting 259°F fan to conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This usually happens when only adjusting temperature without increasing cooking time. At 230°F conventional (259°F fan equivalent), food needs 10-15% longer cooking time to cook through properly without over-browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This usually happens when only adjusting temperature without increasing cooking time. At 230°F conventional (259°F fan equivalent), food needs 10-15% longer cooking time to cook through properly without over-browning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 259°F fan oven recipes directly in my conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, you must convert 259 fan oven to fahrenheit for conventional ovens by reducing the temperature to about 230°F. Fan ovens cook faster at higher temperatures due to air circulation, so direct use would likely overcook your food."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, you must convert 259 fan oven to fahrenheit for conventional ovens by reducing the temperature to about 230°F. Fan ovens cook faster at higher temperatures due to air circulation, so direct use would likely overcook your food."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 259°F fan oven conversion affect baking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "When converting 259°F fan to 230°F conventional, most baked goods need 5-10 extra minutes. The lower temperature requires slightly longer to achieve the same internal doneness while preventing excessive browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When converting 259°F fan to 230°F conventional, most baked goods need 5-10 extra minutes. The lower temperature requires slightly longer to achieve the same internal doneness while preventing excessive browning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "259 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-            "url": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "@type": "WebPage",
+    "name": "259 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+    "url": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit",
     "description": "Convert 259°F fan oven to conventional oven temps easily with our simple guide. Perfect for air fryer recipes and traditional baking.",
     "inLanguage": "en",
     "datePublished": "2025-07-25T17:54:47.587000+00:00",
     "dateModified": "2025-07-25T17:54:47.587000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "259 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/259-fan-oven-to-conventional-oven-conversion-fahrenheit"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>259°F in a fan oven converts to approximately 230°F in a conventional oven. This 15-20% reduction accounts for the fan's efficient heat distribution, crucial when adapting recipes for air fryers or traditional ovens. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping cooks navigate these conversions for perfect results every time.</p>

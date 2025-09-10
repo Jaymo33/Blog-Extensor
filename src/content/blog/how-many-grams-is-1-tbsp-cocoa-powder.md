@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder"
-        },
-        "headline": "Quick Guide: Convert 1 tbsp cocoa powder to grams",
-        "description": "Learn how to convert 1 tbsp cocoa powder to grams for perfect baking every time. Includes UK measurements and air fryer-friendly tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder"
+    },
+    "headline": "Quick Guide: Convert 1 tbsp cocoa powder to grams",
+    "description": "Learn how to convert 1 tbsp cocoa powder to grams for perfect baking every time. Includes UK measurements and air fryer-friendly tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-cocoa-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-cocoa-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cocoa powder affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, Dutch-processed cocoa powder is slightly denser than natural cocoa, so 1 tbsp may weigh closer to 8 grams. Always check your specific product's density if precision is crucial, especially for air fryer baking where small variations matter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Dutch-processed cocoa powder is slightly denser than natural cocoa, so 1 tbsp may weigh closer to 8 grams. Always check your specific product's density if precision is crucial, especially for air fryer baking where small variations matter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular spoon instead of a measuring tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, it's less accurate. Standard eating spoons vary in size, so for consistent results in air fryer recipes, use proper measuring spoons. If in doubt, 1 level UK tablespoon = 3 teaspoons (about 7g cocoa powder)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, it's less accurate. Standard eating spoons vary in size, so for consistent results in air fryer recipes, use proper measuring spoons. If in doubt, 1 level UK tablespoon = 3 teaspoons (about 7g cocoa powder)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes list cocoa powder in grams instead of tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide precision, as scooping methods can vary. For air fryer recipes, weight measurements prevent over-drying or uneven texture. Digital scales are inexpensive and worth investing in for perfect <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> bakes every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide precision, as scooping methods can vary. For air fryer recipes, weight measurements prevent over-drying or uneven texture. Digital scales are inexpensive and worth investing in for perfect <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> bakes every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean cocoa powder residue from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After cooling, wipe with a damp cloth or use a mild <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid harsh scrubbing—cocoa stains don't affect performance but may linger if not cleaned promptly after cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After cooling, wipe with a damp cloth or use a mild <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid harsh scrubbing—cocoa stains don't affect performance but may linger if not cleaned promptly after cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of cocoa powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of cocoa powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder",
     "description": "Learn how to convert 1 tbsp cocoa powder to grams for perfect baking every time. Includes UK measurements and air fryer-friendly tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of cocoa powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-cocoa-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 tablespoon (tbsp) of cocoa powder weighs approximately 7 grams in the UK. This measurement is essential for baking, especially when using an air fryer for desserts like brownies or cakes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or converting a traditional oven recipe, knowing the exact weight ensures consistency.</p>  

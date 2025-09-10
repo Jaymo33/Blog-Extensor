@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds"
-        },
-        "headline": "Quick 0.3 kg to Pounds Conversion for Your Air Fryer",
-        "description": "Convert 0.3 kg to pounds instantly for perfect air fryer meals. Get accurate measurements and cooking tips for flawless results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds"
+    },
+    "headline": "Quick 0.3 kg to Pounds Conversion for Your Air Fryer",
+    "description": "Convert 0.3 kg to pounds instantly for perfect air fryer meals. Get accurate measurements and cooking tips for flawless results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-20T00:27:11.141Z",
-        "dateModified": "2025-08-20T00:27:11.141Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-3-kg-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-20T00:27:11.141Z",
+    "dateModified": "2025-08-20T00:27:11.141Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-3-kg-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "What is 0.3 kg converted to pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.3 kilograms is equal to approximately 0.661 pounds. For most practical kitchen and air fryer uses, you can comfortably round this to 0.66 pounds. This conversion is essential for accurately following recipes that use imperial measurements, ensuring you cook the correct portion size for perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.3 kilograms is equal to approximately 0.661 pounds. For most practical kitchen and air fryer uses, you can comfortably round this to 0.66 pounds. This conversion is essential for accurately following recipes that use imperial measurements, ensuring you cook the correct portion size for perfect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.3 kg to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 0.3 kg to pounds and ounces, first convert to pounds (0.3 kg ≈ 0.661 lb). The whole number is 0 pounds. Multiply the decimal part (0.661) by 16 to get the ounces: 0.661 * 16 ≈ 10.576 ounces. So, 0.3 kg is roughly 0 lb and 10.6 oz, which is perfect for precise air fryer recipe adjustments."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 0.3 kg to pounds and ounces, first convert to pounds (0.3 kg ≈ 0.661 lb). The whole number is 0 pounds. Multiply the decimal part (0.661) by 16 to get the ounces: 0.661 * 16 ≈ 10.576 ounces. So, 0.3 kg is roughly 0 lb and 10.6 oz, which is perfect for precise air fryer recipe adjustments."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert kg to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting kilograms to pounds is crucial for air frying because most recipes and appliance guidelines provide cooking times and temperatures based on weight. Using the correct weight ensures even cooking and proper air circulation. Overloading the basket with too much food, even by a small amount, can lead to steamed, soggy results instead of crispy, perfectly cooked food."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting kilograms to pounds is crucial for air frying because most recipes and appliance guidelines provide cooking times and temperatures based on weight. Using the correct weight ensures even cooking and proper air circulation. Overloading the basket with too much food, even by a small amount, can lead to steamed, soggy results instead of crispy, perfectly cooked food."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 0.3 kg a common portion size for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.3 kg (or 300 grams) is a very common and practical portion size for air fryer recipes, especially those designed for one or two people. It is an ideal weight for a single large chicken breast, a couple of salmon fillets, or a generous portion of vegetables like broccoli or green beans, making it a versatile measurement for everyday cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.3 kg (or 300 grams) is a very common and practical portion size for air fryer recipes, especially those designed for one or two people. It is an ideal weight for a single large chicken breast, a couple of salmon fillets, or a generous portion of vegetables like broccoli or green beans, making it a versatile measurement for everyday cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "0.3 kg to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds",
+    "@type": "WebPage",
+    "name": "0.3 kg to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds",
     "description": "Convert 0.3 kg to pounds instantly for perfect air fryer meals. Get accurate measurements and cooking tips for flawless results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "0.3 kg to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/0-3-kg-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.3 kilograms is equal to approximately 0.661 pounds. This simple conversion is incredibly useful for anyone using an air fryer, as many recipes, especially those from American sources or pre-packaged foods, list ingredient weights in pounds. Knowing how to quickly convert 0.3 kg to pounds ensures you use the correct amount of food, which is crucial for even cooking and perfect results in your air fryer. Getting your measurements right is the first step to a delicious meal, and we are here to make it easy for you. For a comprehensive guide, you can always refer to our handy <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

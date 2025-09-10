@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats"
-        },
-        "headline": "Quick Guide: Convert 0.33 Cup of Porridge Oats to Ounces",
-        "description": "Discover how to convert 0.33 cup of porridge oats to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats"
+    },
+    "headline": "Quick Guide: Convert 0.33 Cup of Porridge Oats to Ounces",
+    "description": "Discover how to convert 0.33 cup of porridge oats to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-porridge-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-porridge-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use instant oats instead of porridge oats for the 0.33 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but texture and cook time may differ slightly. Instant oats are more finely cut, so 0.33 cup (1.06 oz) will pack tighter than traditional porridge oats. Adjust liquids in recipes like air fryer baked oats to account for absorption rates."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but texture and cook time may differ slightly. Instant oats are more finely cut, so 0.33 cup (1.06 oz) will pack tighter than traditional porridge oats. Adjust liquids in recipes like air fryer baked oats to account for absorption rates."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.33 cup of porridge oats to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.33 cup of porridge oats is roughly 30 grams. For air fryer recipes, grams offer even finer precision than ounces. Use a digital scale set to metric for best results, especially when baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.33 cup of porridge oats is roughly 30 grams. For air fryer recipes, grams offer even finer precision than ounces. Use a digital scale set to metric for best results, especially when baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste dry with 0.33 cup of oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This could signal over-measuring. Fluff your oats before scooping to avoid compacting. Also, check your air fryer’s temperature calibration—excessive heat can zap moisture. Try reducing cook time by 1-2 minutes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This could signal over-measuring. Fluff your oats before scooping to avoid compacting. Also, check your air fryer’s temperature calibration—excessive heat can zap moisture. Try reducing cook time by 1-2 minutes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute 0.33 cup of porridge oats with flour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not directly. Oats add chewiness and absorb liquids differently than flour. For coatings, blend 0.33 cup oats with breadcrumbs. In baked goods, use oat flour (ground oats) but expect a denser texture. Always test small batches first."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not directly. Oats add chewiness and absorb liquids differently than flour. For coatings, blend 0.33 cup oats with breadcrumbs. In baked goods, use oat flour (ground oats) but expect a denser texture. Always test small batches first."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of porridge oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of porridge oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats",
     "description": "Discover how to convert 0.33 cup of porridge oats to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of porridge oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-porridge-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of porridge oats equals approximately 1.06 ounces (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring consistent texture and cooking results.</p>

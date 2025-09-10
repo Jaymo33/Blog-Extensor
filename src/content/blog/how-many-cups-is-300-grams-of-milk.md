@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk"
-        },
-        "headline": "Quick Answer: How Many Cups Is 300 Grams of Milk?",
-        "description": "Find out exactly how many cups 300 grams of milk equals for perfect air fryer recipes. Simple conversions for UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 300 Grams of Milk?",
+    "description": "Find out exactly how many cups 300 grams of milk equals for perfect air fryer recipes. Simple conversions for UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 300 grams of milk the same as 300ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 300 grams of milk is very close to 300ml, they aren’t identical due to milk’s slight density variation. For most air fryer recipes, the difference is negligible, but for precise baking, weighing is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 300 grams of milk is very close to 300ml, they aren’t identical due to milk’s slight density variation. For most air fryer recipes, the difference is negligible, but for precise baking, weighing is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use US cups for UK recipes with 300 grams of milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but note the slight difference: 300 grams is 1.25 UK cups vs. 1.27 US cups. For most dishes, this won’t affect the outcome, but for finicky bakes, stick to one measurement system."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but note the slight difference: 300 grams is 1.25 UK cups vs. 1.27 US cups. For most dishes, this won’t affect the outcome, but for finicky bakes, stick to one measurement system."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 300 grams of milk without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a liquid measuring jug: 300ml is nearly equivalent to 300 grams of milk. Alternatively, 1.25 UK measuring cups will get you close enough for most air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a liquid measuring jug: 300ml is nearly equivalent to 300 grams of milk. Alternatively, 1.25 UK measuring cups will get you close enough for most air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the fat content of milk affect the 300g-to-cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slightly. Whole milk is denser than skimmed, but the difference is minimal. For 300 grams, you can use the same cup measurement regardless of fat percentage without issue."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slightly. Whole milk is denser than skimmed, but the difference is minimal. For 300 grams, you can use the same cup measurement regardless of fat percentage without issue."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 300 Grams of Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 300 Grams of Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk",
     "description": "Find out exactly how many cups 300 grams of milk equals for perfect air fryer recipes. Simple conversions for UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 300 Grams of Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>300 grams of milk is roughly 1.25 cups in the UK and 1.27 cups in the US. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're whipping up a cake or a creamy sauce, knowing how to convert grams to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless so you can focus on creating delicious meals.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt"
-        },
-        "headline": "Quick Guide: Convert 510 ml of Yogurt to Cups Easily",
-        "description": "Learn how to convert 510 ml of yogurt to cups for perfect baking and cooking every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt"
+    },
+    "headline": "Quick Guide: Convert 510 ml of Yogurt to Cups Easily",
+    "description": "Learn how to convert 510 ml of yogurt to cups for perfect baking and cooking every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-510-ml-of-yogurt.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-510-ml-of-yogurt.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 510 ml of yogurt the same as 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 510 ml of yogurt is approximately 2.15 cups. While 2 cups equal 474 ml, the extra 36 ml in 510 ml can make a difference in recipes, especially baking. For precision, use 2 cups plus 1 tablespoon or weigh 510 grams on a kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 510 ml of yogurt is approximately 2.15 cups. While 2 cups equal 474 ml, the extra 36 ml in 510 ml can make a difference in recipes, especially baking. For precision, use 2 cups plus 1 tablespoon or weigh 510 grams on a kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use Greek yogurt instead of regular yogurt for 510 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but Greek yogurt is thicker, so you may need to thin it slightly with milk or water to match the consistency of regular yogurt. Alternatively, reduce the amount slightly—around 450 ml of Greek yogurt can often substitute for 510 ml of regular yogurt in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but Greek yogurt is thicker, so you may need to thin it slightly with milk or water to match the consistency of regular yogurt. Alternatively, reduce the amount slightly—around 450 ml of Greek yogurt can often substitute for 510 ml of regular yogurt in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 510 ml of yogurt without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale: 510 ml of yogurt weighs roughly 510 grams. If you don’t have a scale, a standard UK mug holds about 300 ml, so 1.7 mugs would approximate 510 ml. For air fryer recipes, accuracy is key, so investing in measuring tools is worthwhile."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale: 510 ml of yogurt weighs roughly 510 grams. If you don’t have a scale, a standard UK mug holds about 300 ml, so 1.7 mugs would approximate 510 ml. For air fryer recipes, accuracy is key, so investing in measuring tools is worthwhile."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes list yogurt in grams instead of ml or cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight (grams) is more accurate than volume (ml or cups) because yogurt’s density can vary. Thick yogurts like Greek style occupy less volume for the same weight. Recipes, especially baking ones, often prefer grams for consistency. Always check the recipe’s preferred unit to avoid errors."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight (grams) is more accurate than volume (ml or cups) because yogurt’s density can vary. Thick yogurts like Greek style occupy less volume for the same weight. Recipes, especially baking ones, often prefer grams for consistency. Always check the recipe’s preferred unit to avoid errors."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 510 ml of Yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 510 ml of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt",
     "description": "Learn how to convert 510 ml of yogurt to cups for perfect baking and cooking every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 510 ml of Yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-yogurt"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>510 ml of yogurt is approximately 2.15 cups. This conversion is handy for recipes, especially when using an air fryer, where precise measurements can make all the difference. Whether you're whipping up a cake or a creamy sauce, knowing how to convert 510 ml of yogurt to cups ensures your dish turns out perfectly every time.</p>

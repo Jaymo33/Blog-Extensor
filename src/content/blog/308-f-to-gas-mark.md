@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark"
-        },
-        "headline": "308 F to Gas Mark Conversion Guide | Air Fryer Tips",
-        "description": "Convert 308°F to Gas Mark for oven and air fryer cooking. Learn the exact Gas Mark equivalent and handy conversion tips for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark"
+    },
+    "headline": "308 F to Gas Mark Conversion Guide | Air Fryer Tips",
+    "description": "Convert 308°F to Gas Mark for oven and air fryer cooking. Learn the exact Gas Mark equivalent and handy conversion tips for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T18:49:13.383Z",
-        "dateModified": "2025-07-20T18:49:13.383Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/308-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T18:49:13.383Z",
+    "dateModified": "2025-07-20T18:49:13.383Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/308-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 308 F in my air fryer for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 308 F (Gas Mark 2) works well in air fryers for baking delicate items like financiers, madeleines, or certain breads. Just remember to reduce cooking times by about 20% compared to oven recipes and check for doneness a few minutes early."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 308 F (Gas Mark 2) works well in air fryers for baking delicate items like financiers, madeleines, or certain breads. Just remember to reduce cooking times by about 20% compared to oven recipes and check for doneness a few minutes early."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 308 F compare to other common cooking temperatures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "308 F (Gas Mark 2) is a moderate temperature, slightly cooler than the standard baking temperature of 350 F (Gas Mark 4). It's ideal for slow cooking, gentle baking, or keeping food warm without continuing to cook it aggressively."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "308 F (Gas Mark 2) is a moderate temperature, slightly cooler than the standard baking temperature of 350 F (Gas Mark 4). It's ideal for slow cooking, gentle baking, or keeping food warm without continuing to cook it aggressively."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why would I need to convert 308 F to Gas Mark?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many traditional British recipes use Gas Mark temperatures, while modern appliances often display Fahrenheit. Converting 308 F to Gas Mark 2 helps when following older recipes or when your oven only has Gas Mark settings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many traditional British recipes use Gas Mark temperatures, while modern appliances often display Fahrenheit. Converting 308 F to Gas Mark 2 helps when following older recipes or when your oven only has Gas Mark settings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 308 F suitable for cooking meat in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "308 F (Gas Mark 2) is perfect for slow-cooking tougher cuts of meat in your air fryer or keeping already cooked meat warm. For proper cooking of raw meat, you'll typically need higher temperatures to ensure food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "308 F (Gas Mark 2) is perfect for slow-cooking tougher cuts of meat in your air fryer or keeping already cooked meat warm. For proper cooking of raw meat, you'll typically need higher temperatures to ensure food safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "308 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "308 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark",
     "description": "Convert 308°F to Gas Mark for oven and air fryer cooking. Learn the exact Gas Mark equivalent and handy conversion tips for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T18:49:13.383000+00:00",
     "dateModified": "2025-07-20T18:49:13.383000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "308 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/308-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>308°F converts to Gas Mark 2 for oven cooking. This moderate temperature is perfect for slow roasting, baking, and many air fryer recipes that require gentle, even heat. Whether you're adapting an oven recipe for your air fryer or simply need to understand temperature conversions, knowing how 308 Fahrenheit translates to Gas Mark is essential for British kitchens.</p>

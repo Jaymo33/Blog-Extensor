@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk"
-        },
-        "headline": "Quick Answer: 0.25 tbsp powdered milk to grams UK",
-        "description": "Convert 0.25 tbsp of powdered milk into grams with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk"
+    },
+    "headline": "Quick Answer: 0.25 tbsp powdered milk to grams UK",
+    "description": "Convert 0.25 tbsp of powdered milk into grams with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-powdered-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-powdered-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it better to measure powdered milk in grams rather than tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Measuring powdered milk in grams provides more accuracy because the density can vary. A tablespoon of loosely packed powder weighs less than one that's tightly packed. Grams eliminate this variability, especially important in baking where precise measurements affect texture and rise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Measuring powdered milk in grams provides more accuracy because the density can vary. A tablespoon of loosely packed powder weighs less than one that's tightly packed. Grams eliminate this variability, especially important in baking where precise measurements affect texture and rise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use fresh milk instead of 0.25 tbsp powdered milk in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute fresh milk, but you'll need to adjust other liquid measurements in the recipe. Generally, 1 tbsp powdered milk equals about 60ml reconstituted milk. For 0.25 tbsp powder, you'd use about 15ml fresh milk, but this may require recipe modifications for best results in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute fresh milk, but you'll need to adjust other liquid measurements in the recipe. Generally, 1 tbsp powdered milk equals about 60ml reconstituted milk. For 0.25 tbsp powder, you'd use about 15ml fresh milk, but this may require recipe modifications for best results in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store powdered milk to maintain accurate measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep powdered milk in an airtight container in a cool, dry place to prevent moisture absorption. Humidity can cause clumping and density changes, affecting your measurements. For most accurate results, stir the powder before measuring and use within the manufacturer's recommended timeframe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep powdered milk in an airtight container in a cool, dry place to prevent moisture absorption. Humidity can cause clumping and density changes, affecting your measurements. For most accurate results, stir the powder before measuring and use within the manufacturer's recommended timeframe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are there any air fryer recipes that specifically use 0.25 tbsp powdered milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While exact measurements vary, many air fryer breading and coating recipes use small amounts of powdered milk. It's common in crispy chicken coatings, homemade shake-and-bake mixes, and some vegetable coatings. The small quantity helps with browning without making the coating too wet."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While exact measurements vary, many air fryer breading and coating recipes use small amounts of powdered milk. It's common in crispy chicken coatings, homemade shake-and-bake mixes, and some vegetable coatings. The small quantity helps with browning without making the coating too wet."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.25 tbsp of powdered milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk",
+    "@type": "WebPage",
+    "name": "How many grams is 0.25 tbsp of powdered milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk",
     "description": "Convert 0.25 tbsp of powdered milk into grams with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.25 tbsp of powdered milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-powdered-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 tbsp of powdered milk equals approximately 1.5 grams. This conversion is essential for precise measurements in air fryer recipes, ensuring consistent results every time. Whether you're baking or cooking, knowing the exact weight of powdered milk can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect dishes.</p>

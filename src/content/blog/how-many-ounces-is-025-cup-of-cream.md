@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream"
-        },
-        "headline": "Quick Answer: How many ounces is 0.25 cup of cream?",
-        "description": "Discover how many ounces are in 0.25 cup of cream for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream"
+    },
+    "headline": "Quick Answer: How many ounces is 0.25 cup of cream?",
+    "description": "Discover how many ounces are in 0.25 cup of cream for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.25 cup of double cream instead of single cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute double cream for single cream, but keep in mind it’s richer and thicker. Use the same 2-ounce measurement, but expect a creamier, denser result. Adjust cooking times slightly if needed, as double cream may brown faster in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute double cream for single cream, but keep in mind it’s richer and thicker. Use the same 2-ounce measurement, but expect a creamier, denser result. Adjust cooking times slightly if needed, as double cream may brown faster in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.25 cup of cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 2 ounces of cream. Alternatively, 0.25 cup is equivalent to 4 tablespoons, so you can use a tablespoon measure for accuracy. Just ensure each spoonful is level for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 2 ounces of cream. Alternatively, 0.25 cup is equivalent to 4 tablespoons, so you can use a tablespoon measure for accuracy. Just ensure each spoonful is level for the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cream affect the ounce measurement for 0.25 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the ounce measurement remains the same (2 oz) whether you’re using single, double, or whipping cream. However, the density and fat content vary, which can impact your recipe’s texture and flavour. Always choose the cream type specified in your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the ounce measurement remains the same (2 oz) whether you’re using single, double, or whipping cream. However, the density and fat content vary, which can impact your recipe’s texture and flavour. Always choose the cream type specified in your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 0.25 cup of cream for later use in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Freezing cream isn’t recommended, as it can separate and become grainy when thawed. If you need to store it, keep it refrigerated and use within a few days. For best results, measure fresh cream each time you cook to maintain quality and consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Freezing cream isn’t recommended, as it can separate and become grainy when thawed. If you need to store it, keep it refrigerated and use within a few days. For best results, measure fresh cream each time you cook to maintain quality and consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream",
     "description": "Discover how many ounces are in 0.25 cup of cream for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of cream equals approximately 2 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making a creamy sauce or a decadent dessert, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

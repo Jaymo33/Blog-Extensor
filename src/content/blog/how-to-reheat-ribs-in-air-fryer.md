@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer"
-        },
-        "headline": "Reheat Ribs in Air Fryer – Quick & Crispy Guide",
-        "description": "Learn how to reheat ribs in an air fryer without drying them out. Get perfect temperature, timing, and tips for crispy, juicy ribs every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer"
+    },
+    "headline": "Reheat Ribs in Air Fryer – Quick & Crispy Guide",
+    "description": "Learn how to reheat ribs in an air fryer without drying them out. Get perfect temperature, timing, and tips for crispy, juicy ribs every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-ribs-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-ribs-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat ribs in an air fryer if they've been frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! For frozen ribs, thaw in the fridge overnight first, then reheat at 160°C for 5-7 minutes, flipping halfway. This ensures even heating without drying out the meat."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! For frozen ribs, thaw in the fridge overnight first, then reheat at 160°C for 5-7 minutes, flipping halfway. This ensures even heating without drying out the meat."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to keep ribs moist when reheating in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly brush ribs with oil, broth, or leftover sauce before reheating. Also, avoid overcooking - 3-5 minutes at 160°C is usually sufficient. Letting them rest after reheating helps retain juices."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly brush ribs with oil, broth, or leftover sauce before reheating. Also, avoid overcooking - 3-5 minutes at 160°C is usually sufficient. Letting them rest after reheating helps retain juices."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent barbecue sauce from burning when reheating ribs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Reheat at a lower temperature (150°C) for saucy ribs, and apply additional sauce in thin layers during the last minute of cooking. This prevents burning while allowing caramelisation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reheat at a lower temperature (150°C) for saucy ribs, and apply additional sauce in thin layers during the last minute of cooking. This prevents burning while allowing caramelisation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat ribs that were originally cooked in a smoker?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Smoked ribs reheat beautifully in an air fryer. The key is maintaining their smoky flavour while adding crispness - reheat at 170°C for 4 minutes per side, spritzing with apple cider vinegar if they seem dry."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Smoked ribs reheat beautifully in an air fryer. The key is maintaining their smoky flavour while adding crispness - reheat at 170°C for 4 minutes per side, spritzing with apple cider vinegar if they seem dry."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Ribs in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Ribs in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer",
     "description": "Learn how to reheat ribs in an air fryer without drying them out. Get perfect temperature, timing, and tips for crispy, juicy ribs every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Ribs in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ribs-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Reheating ribs in an air fryer takes just 3-5 minutes at 160°C (320°F), giving you crispy edges while keeping the meat tender. This method outperforms microwaves that leave ribs soggy or ovens that dry them out. The air fryer's rapid circulation brings leftovers back to life with restaurant-quality texture.</p>

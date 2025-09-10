@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds"
-        },
-        "headline": "Easy 7.75 kg prawns to pounds conversion for air fryer cooking",
-        "description": "Convert 7.75 kg prawns to pounds quickly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds"
+    },
+    "headline": "Easy 7.75 kg prawns to pounds conversion for air fryer cooking",
+    "description": "Convert 7.75 kg prawns to pounds quickly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-75-kg-prawns-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-75-kg-prawns-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 7.75 kg of prawns?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "7.75 kg of prawns is approximately 17.085 pounds. This conversion is based on the standard rate where 1 kilogram equals 2.20462 pounds. It's useful for air fryer recipes that use imperial measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "7.75 kg of prawns is approximately 17.085 pounds. This conversion is based on the standard rate where 1 kilogram equals 2.20462 pounds. It's useful for air fryer recipes that use imperial measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert 7.75 kg prawns to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 7.75 kg prawns to pounds ensures accurate portioning for air fryer recipes, which often specify weights in pounds. Correct measurements prevent overcrowding and promote even cooking, resulting in better texture and flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 7.75 kg prawns to pounds ensures accurate portioning for air fryer recipes, which often specify weights in pounds. Correct measurements prevent overcrowding and promote even cooking, resulting in better texture and flavour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a conversion chart for 7.75 kg prawns to pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, conversion charts are a quick and reliable way to find that 7.75 kg prawns equal 17.085 pounds. Many cooking resources, including airfryerrecipe.co.uk, offer printable charts for easy reference during meal prep."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, conversion charts are a quick and reliable way to find that 7.75 kg prawns equal 17.085 pounds. Many cooking resources, including airfryerrecipe.co.uk, offer printable charts for easy reference during meal prep."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do cooking times change for 7.75 kg prawns compared to smaller amounts?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooking times may adjust slightly for larger batches like 7.75 kg prawns, but the key is to cook in batches to avoid overcrowding. Each batch should follow standard times based on prawn size, not total weight, for best air fryer results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooking times may adjust slightly for larger batches like 7.75 kg prawns, but the key is to cook in batches to avoid overcrowding. Each batch should follow standard times based on prawn size, not total weight, for best air fryer results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "7.75 kg prawns to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds",
+    "@type": "WebPage",
+    "name": "7.75 kg prawns to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds",
     "description": "Convert 7.75 kg prawns to pounds quickly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "7.75 kg prawns to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/7-75-kg-prawns-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>7.75 kg of prawns is equal to approximately 17.085 pounds. This conversion is essential for air fryer cooking, as many recipes and packaging use different measurement systems. Knowing the exact weight in pounds helps you portion your prawns correctly for even cooking. Whether you're following a British or American recipe, this conversion ensures you get the perfect amount. Accurate measurements are key to achieving that delicious, crispy texture in your air fryer.</p>

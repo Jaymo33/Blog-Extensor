@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce"
-        },
-        "headline": "Quick Answer: How Many ml Is 3.25 Cups of Soy Sauce?",
-        "description": "Convert 3.25 cups of soy sauce to ml instantly with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce"
+    },
+    "headline": "Quick Answer: How Many ml Is 3.25 Cups of Soy Sauce?",
+    "description": "Convert 3.25 cups of soy sauce to ml instantly with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-soy-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-soy-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 3.25 cups of soy sauce the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 3.25 cups of soy sauce equals approximately 768.91 ml in both the UK and USA. Cup measurements are standardised in cooking, so the conversion remains consistent regardless of location. However, always double-check your recipe’s origin to ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 3.25 cups of soy sauce equals approximately 768.91 ml in both the UK and USA. Cup measurements are standardised in cooking, so the conversion remains consistent regardless of location. However, always double-check your recipe’s origin to ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 3.25 cups of soy sauce in ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While kitchen scales measure weight, not volume, you can approximate 3.25 cups of soy sauce (768.91 ml) by weighing it. Soy sauce has a density of roughly 1.04 g/ml, so 768.91 ml would weigh about 800 grams. For precise measurements, a liquid measuring jug is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While kitchen scales measure weight, not volume, you can approximate 3.25 cups of soy sauce (768.91 ml) by weighing it. Soy sauce has a density of roughly 1.04 g/ml, so 768.91 ml would weigh about 800 grams. For precise measurements, a liquid measuring jug is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to reduce saltiness if I’ve added too much soy sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your dish is too salty, balance it by adding a sweetener like honey or sugar, or dilute it with a bit of water or unsalted broth. For air fryer recipes, you can also add more of the main ingredient (e.g., chicken or vegetables) to spread the flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your dish is too salty, balance it by adding a sweetener like honey or sugar, or dilute it with a bit of water or unsalted broth. For air fryer recipes, you can also add more of the main ingredient (e.g., chicken or vegetables) to spread the flavour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does opened soy sauce last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Opened soy sauce can last up to a year in the fridge if stored in an airtight container. Over time, its flavour may weaken, so it’s best used within 6 months for optimal taste in your air fryer recipes. Always check for off smells or changes in colour before using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opened soy sauce can last up to a year in the fridge if stored in an airtight container. Over time, its flavour may weaken, so it’s best used within 6 months for optimal taste in your air fryer recipes. Always check for off smells or changes in colour before using."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.25 Cups of Soy Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.25 Cups of Soy Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce",
     "description": "Convert 3.25 cups of soy sauce to ml instantly with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.25 Cups of Soy Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-soy-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.25 cups of soy sauce equals approximately 768.91 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you're whipping up a marinade or seasoning a stir-fry, knowing how many ml is 3.25 cups of soy sauce ensures your flavours are spot-on.</p>

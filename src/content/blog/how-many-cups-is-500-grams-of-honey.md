@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey"
-        },
-        "headline": "Quick Guide: Convert 500 Grams of Honey to Cups Easily",
-        "description": "Learn how to convert 500 grams of honey to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey"
+    },
+    "headline": "Quick Guide: Convert 500 Grams of Honey to Cups Easily",
+    "description": "Learn how to convert 500 grams of honey to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T08:17:57.871Z",
-        "dateModified": "2025-07-27T08:17:57.871Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T08:17:57.871Z",
+    "dateModified": "2025-07-27T08:17:57.871Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of honey affect the cup measurement for 500 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of honey can slightly affect the measurement. Raw honey is often thicker than processed honey, so 500 grams might fill slightly less than 1.5 cups. However, the difference is minimal for most recipes. Always use a liquid measuring cup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of honey can slightly affect the measurement. Raw honey is often thicker than processed honey, so 500 grams might fill slightly less than 1.5 cups. However, the difference is minimal for most recipes. Always use a liquid measuring cup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 500 grams of honey in savoury air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Honey works wonderfully in savoury dishes like glazed chicken, pork, or vegetables. Just remember that 500 grams equals about 1.5 cups, so adjust the quantity based on your recipe. Too much honey can make the dish overly sweet or cause burning in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Honey works wonderfully in savoury dishes like glazed chicken, pork, or vegetables. Just remember that 500 grams equals about 1.5 cups, so adjust the quantity based on your recipe. Too much honey can make the dish overly sweet or cause burning in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 500 grams of honey without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have scales, use a liquid measuring cup. 500 grams of honey is roughly 1.5 cups. Spoon the honey into the cup gently to avoid air pockets, and level it off with a knife for the most accurate measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have scales, use a liquid measuring cup. 500 grams of honey is roughly 1.5 cups. Spoon the honey into the cup gently to avoid air pockets, and level it off with a knife for the most accurate measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 500 grams of honey the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 500 grams of honey equals approximately 1.5 cups in both UK and US measurements. The slight difference between UK and US cup sizes isn’t significant enough to affect most recipes, especially for honey’s dense consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 500 grams of honey equals approximately 1.5 cups in both UK and US measurements. The slight difference between UK and US cup sizes isn’t significant enough to affect most recipes, especially for honey’s dense consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 500 Grams of Honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 500 Grams of Honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey",
     "description": "Learn how to convert 500 grams of honey to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T08:17:57.871000+00:00",
     "dateModified": "2025-07-27T08:17:57.871000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 500 Grams of Honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500 grams of honey is roughly equivalent to 1.5 cups in both UK and US measurements. This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Honey’s density can vary slightly, but this measurement is a reliable starting point for most culinary needs. Whether you’re whipping up a cake or glazing chicken in your air fryer, knowing how many cups 500 grams of honey equals ensures consistent results. For more air fryer recipe ideas, check out <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

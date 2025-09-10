@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup"
-        },
-        "headline": "Quick Answer: 0.75 tbsp of tomato ketchup to grams",
-        "description": "Discover how to convert 0.75 tbsp of tomato ketchup into grams for precise air fryer cooking. Get the exact measurement now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup"
+    },
+    "headline": "Quick Answer: 0.75 tbsp of tomato ketchup to grams",
+    "description": "Discover how to convert 0.75 tbsp of tomato ketchup into grams for precise air fryer cooking. Get the exact measurement now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-tomato-ketchup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-tomato-ketchup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular spoon to measure 0.75 tbsp of tomato ketchup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but for accuracy, use a proper measuring spoon or a digital scale. A standard tablespoon holds 15ml, so fill it three-quarters full to get 0.75 tbsp (11.25g). For sticky sauces like ketchup, lightly greasing the spoon helps."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but for accuracy, use a proper measuring spoon or a digital scale. A standard tablespoon holds 15ml, so fill it three-quarters full to get 0.75 tbsp (11.25g). For sticky sauces like ketchup, lightly greasing the spoon helps."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is converting 0.75 tbsp of tomato ketchup to grams important for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook food quickly, and precise measurements prevent over-saucing, which can lead to soggy results. Knowing that 0.75 tbsp equals 11.25 grams ensures your marinades and glazes are perfectly balanced for crispy, flavorful dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook food quickly, and precise measurements prevent over-saucing, which can lead to soggy results. Knowing that 0.75 tbsp equals 11.25 grams ensures your marinades and glazes are perfectly balanced for crispy, flavorful dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 0.75 tbsp of tomato ketchup affect the taste of air-fried chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This amount adds a subtle tanginess without overwhelming the dish. It’s enough to enhance flavor in glazes or marinades while keeping the chicken crispy. Too much ketchup can make it overly sweet or sticky."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This amount adds a subtle tanginess without overwhelming the dish. It’s enough to enhance flavor in glazes or marinades while keeping the chicken crispy. Too much ketchup can make it overly sweet or sticky."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute 0.75 tbsp of tomato ketchup with another sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust quantities based on thickness and sweetness. BBQ sauce or hot sauce can work, but start with less and taste as you go. For exact conversions, weigh alternatives to match 11.25 grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust quantities based on thickness and sweetness. BBQ sauce or hot sauce can work, but start with less and taste as you go. For exact conversions, weigh alternatives to match 11.25 grams."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.75 tbsp of tomato ketchup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup",
+    "@type": "WebPage",
+    "name": "How many grams is 0.75 tbsp of tomato ketchup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup",
     "description": "Discover how to convert 0.75 tbsp of tomato ketchup into grams for precise air fryer cooking. Get the exact measurement now!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.75 tbsp of tomato ketchup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-tomato-ketchup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 tbsp of tomato ketchup equals approximately 11.25 grams. This conversion is essential for air fryer recipes where precision ensures the best results. Whether you're marinating chicken or glazing salmon, knowing the exact weight helps maintain consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

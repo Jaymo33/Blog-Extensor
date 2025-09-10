@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter"
-        },
-        "headline": "Quick Answer: How many grams in 0.5 tbsp of almond butter?",
-        "description": "Find out exactly how many grams are in 0.5 tbsp of almond butter for perfect air fryer recipes every time. Easy conversion guide inside!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter"
+    },
+    "headline": "Quick Answer: How many grams in 0.5 tbsp of almond butter?",
+    "description": "Find out exactly how many grams are in 0.5 tbsp of almond butter for perfect air fryer recipes every time. Easy conversion guide inside!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-almond-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-almond-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use peanut butter instead of almond butter in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute peanut butter for almond butter in most air fryer recipes. Keep in mind that peanut butter is slightly denser - 0.5 tbsp weighs about 8g compared to almond butter's 7.5g. The flavour will be different, but the texture should remain similar if you adjust quantities slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute peanut butter for almond butter in most air fryer recipes. Keep in mind that peanut butter is slightly denser - 0.5 tbsp weighs about 8g compared to almond butter's 7.5g. The flavour will be different, but the texture should remain similar if you adjust quantities slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my almond butter measurement vary sometimes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Natural almond butter separates, so oil content varies between the top and bottom of the jar. Always stir thoroughly before measuring. Temperature also affects viscosity - colder almond butter is more compact, while room temperature spreads more easily, potentially altering your 0.5 tbsp measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Natural almond butter separates, so oil content varies between the top and bottom of the jar. Always stir thoroughly before measuring. Temperature also affects viscosity - colder almond butter is more compact, while room temperature spreads more easily, potentially altering your 0.5 tbsp measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store almond butter for accurate air fryer recipe measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store almond butter upside down to prevent oil separation. Keep it at consistent room temperature for most accurate measurements. If refrigerated, let it sit for 15 minutes before scooping your 0.5 tbsp portion to ensure proper consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store almond butter upside down to prevent oil separation. Keep it at consistent room temperature for most accurate measurements. If refrigerated, let it sit for 15 minutes before scooping your 0.5 tbsp portion to ensure proper consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze portions of almond butter for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, freezing 0.5 tbsp (7.5g) portions in ice cube trays works well. Thaw before use for accurate measurement. Frozen almond butter keeps for 3 months - perfect for having ready-measured amounts for your favourite air fryer recipes on hand."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, freezing 0.5 tbsp (7.5g) portions in ice cube trays works well. Thaw before use for accurate measurement. Frozen almond butter keeps for 3 months - perfect for having ready-measured amounts for your favourite air fryer recipes on hand."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of almond butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of almond butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter",
     "description": "Find out exactly how many grams are in 0.5 tbsp of almond butter for perfect air fryer recipes every time. Easy conversion guide inside!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of almond butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-almond-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of almond butter weighs approximately 7.5 grams. This measurement is crucial for air fryer recipes where precision ensures perfect texture and flavour. Whether you’re making energy bites, sauces, or baked goods, knowing the exact weight helps avoid over or under-measuring.</p>

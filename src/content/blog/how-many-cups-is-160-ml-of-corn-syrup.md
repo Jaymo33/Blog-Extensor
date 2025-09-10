@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup"
-        },
-        "headline": "Quick Guide: Convert 160 ml of Corn Syrup to Cups Easily",
-        "description": "Learn how to convert 160 ml of corn syrup to cups for perfect baking results every time. Includes air fryer-friendly tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup"
+    },
+    "headline": "Quick Guide: Convert 160 ml of Corn Syrup to Cups Easily",
+    "description": "Learn how to convert 160 ml of corn syrup to cups for perfect baking results every time. Includes air fryer-friendly tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-corn-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-corn-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 160 ml of corn syrup the same as 160 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 160 ml of corn syrup weighs about 216 grams due to its density. Volume (ml) and weight (grams) differ for thick liquids like corn syrup, so always measure by volume for accuracy in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 160 ml of corn syrup weighs about 216 grams due to its density. Volume (ml) and weight (grams) differ for thick liquids like corn syrup, so always measure by volume for accuracy in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute honey for 160 ml of corn syrup in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can replace 160 ml of corn syrup with 160 ml of honey, but expect a stronger flavour. Honey burns faster in air fryers, so reduce the temperature by 10°C and check frequently."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can replace 160 ml of corn syrup with 160 ml of honey, but expect a stronger flavour. Honey burns faster in air fryers, so reduce the temperature by 10°C and check frequently."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 160 ml of corn syrup without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoons: 10.5 tablespoons equal roughly 160 ml. Alternatively, repurpose a medicine syringe or small jar with ml markings for precise measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoons: 10.5 tablespoons equal roughly 160 ml. Alternatively, repurpose a medicine syringe or small jar with ml markings for precise measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe using 160 ml of corn syrup turn out too sticky?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Excess syrup or high heat can cause stickiness. Try reducing the corn syrup by 10-20 ml or air frying at a lower temperature for a shorter time. Always preheat your air fryer for even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Excess syrup or high heat can cause stickiness. Try reducing the corn syrup by 10-20 ml or air frying at a lower temperature for a shorter time. Always preheat your air fryer for even cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 160 ml of Corn Syrup",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 160 ml of Corn Syrup",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup",
     "description": "Learn how to convert 160 ml of corn syrup to cups for perfect baking results every time. Includes air fryer-friendly tips!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 160 ml of Corn Syrup",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-corn-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>160 ml of corn syrup is approximately 0.68 cups in US measurements or 0.56 cups in UK imperial measurements. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can affect texture and consistency. Whether you're making sticky buns or glazes, knowing how to convert 160 ml of corn syrup to cups ensures your recipes turn out perfectly every time.</p>  

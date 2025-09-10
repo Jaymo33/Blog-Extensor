@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces"
-        },
-        "headline": "Quick & Easy 15g Tomato Paste to Ounces Conversion",
-        "description": "Convert 15g of tomato paste to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces"
+    },
+    "headline": "Quick & Easy 15g Tomato Paste to Ounces Conversion",
+    "description": "Convert 15g of tomato paste to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-tomato-paste-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-tomato-paste-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use tomato puree instead of tomato paste in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to adjust the quantity. Tomato puree is less concentrated, so use roughly double the amount of tomato paste called for in the recipe. For 15g of tomato paste, substitute with about 30g of tomato puree."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to adjust the quantity. Tomato puree is less concentrated, so use roughly double the amount of tomato paste called for in the recipe. For 15g of tomato paste, substitute with about 30g of tomato puree."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does tomato paste last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Opened tomato paste lasts about 5-7 days in the fridge if stored in an airtight container. For longer storage, freeze it in small portions. This way, you can thaw only what you need for recipes like air fryer sauces or marinades."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opened tomato paste lasts about 5-7 days in the fridge if stored in an airtight container. For longer storage, freeze it in small portions. This way, you can thaw only what you need for recipes like air fryer sauces or marinades."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my tomato paste measurement different from the recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This could be due to how the tomato paste is packed or measured. If it’s densely packed, 15g might look like less than if it’s loosely scooped. Always level off your measurements for accuracy, especially in air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This could be due to how the tomato paste is packed or measured. If it’s densely packed, 15g might look like less than if it’s loosely scooped. Always level off your measurements for accuracy, especially in air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I make my own tomato paste for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Simmer tomatoes for several hours until thickened, then blend into a smooth paste. Homemade tomato paste is fresher but less concentrated, so you may need to reduce other liquids in your air fryer recipe slightly. Store it like shop-bought paste for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Simmer tomatoes for several hours until thickened, then blend into a smooth paste. Homemade tomato paste is fresher but less concentrated, so you may need to reduce other liquids in your air fryer recipe slightly. Store it like shop-bought paste for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 15g of tomato paste?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of tomato paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces",
     "description": "Convert 15g of tomato paste to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 15g of tomato paste?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/15g-tomato-paste-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>15g of tomato paste equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a quick pasta sauce or a flavourful marinade, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>  

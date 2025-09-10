@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice"
-        },
-        "headline": "Quick Answer: How many ounces is 200g of lime juice?",
-        "description": "Discover how to convert 200g of lime juice to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice"
+    },
+    "headline": "Quick Answer: How many ounces is 200g of lime juice?",
+    "description": "Discover how to convert 200g of lime juice to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for 200g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lime juice works for the 200g (7.05 oz) measurement, but fresh juice offers better flavour. Bottled juice often contains preservatives, which can slightly alter taste. For air fryer recipes, fresh lime juice is ideal for marinades and dressings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lime juice works for the 200g (7.05 oz) measurement, but fresh juice offers better flavour. Bottled juice often contains preservatives, which can slightly alter taste. For air fryer recipes, fresh lime juice is ideal for marinades and dressings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 200g of lime juice without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without a scale, use a liquid measuring cup. 200g of lime juice equals roughly 7.05 fluid ounces or just under a US cup. For accuracy, check the side markings in ounces or millilitres. A standard UK measuring jug will have both."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without a scale, use a liquid measuring cup. 200g of lime juice equals roughly 7.05 fluid ounces or just under a US cup. For accuracy, check the side markings in ounces or millilitres. A standard UK measuring jug will have both."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 200g of lime juice change weight when heated in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Heating lime juice in the air fryer reduces its volume due to evaporation, but the weight remains the same initially. For glazes or reductions, account for this by starting with slightly more juice if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Heating lime juice in the air fryer reduces its volume due to evaporation, but the weight remains the same initially. For glazes or reductions, account for this by starting with slightly more juice if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes use 200g of lime juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "200g (7.05 oz) of lime juice is perfect for marinades, like citrus shrimp or chicken fajitas. It also works in dressings for air-fried veggie bowls or drizzled over fish. Check our recipe section for more ideas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "200g (7.05 oz) of lime juice is perfect for marinades, like citrus shrimp or chicken fajitas. It also works in dressings for air-fried veggie bowls or drizzled over fish. Check our recipe section for more ideas."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of lime juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of lime juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice",
     "description": "Discover how to convert 200g of lime juice to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of lime juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200g of lime juice equals approximately 7.05 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or whipping up a zesty dessert, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>

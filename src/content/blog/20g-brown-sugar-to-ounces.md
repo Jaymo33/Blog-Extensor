@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 20g of Brown Sugar to Ounces Easily",
-        "description": "Learn how to convert 20g of brown sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 20g of Brown Sugar to Ounces Easily",
+    "description": "Learn how to convert 20g of brown sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-brown-sugar-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-brown-sugar-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use white sugar instead of brown sugar for 20g in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the results will differ. Brown sugar adds moisture and a caramel flavour, while white sugar is drier. For best results, mix 20g of white sugar with a touch of molasses to mimic brown sugar’s properties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the results will differ. Brown sugar adds moisture and a caramel flavour, while white sugar is drier. For best results, mix 20g of white sugar with a touch of molasses to mimic brown sugar’s properties."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 20g of brown sugar without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly spoon brown sugar into a measuring cup without packing it down. 20g is roughly 1½ tablespoons, but for accuracy, investing in a cheap digital scale is recommended—especially for air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly spoon brown sugar into a measuring cup without packing it down. 20g is roughly 1½ tablespoons, but for accuracy, investing in a cheap digital scale is recommended—especially for air fryer baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 20g of brown sugar weigh the same as 20g of white sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, by weight, they’re identical. However, brown sugar is denser due to its moisture content, so it may occupy slightly less volume than white sugar when measured by cups or spoons."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, by weight, they’re identical. However, brown sugar is denser due to its moisture content, so it may occupy slightly less volume than white sugar when measured by cups or spoons."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 20g of brown sugar specifically?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes often specify small amounts like 20g to balance sweetness and moisture without overwhelming other flavours. In air fryers, precise measurements prevent over-browning or uneven cooking, especially in compact batches."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes often specify small amounts like 20g to balance sweetness and moisture without overwhelming other flavours. In air fryers, precise measurements prevent over-browning or uneven cooking, especially in compact batches."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 20g of brown sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of brown sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces",
     "description": "Learn how to convert 20g of brown sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 20g of brown sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/20g-brown-sugar-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>20g of brown sugar equals approximately 0.71 ounces. This conversion is handy for air fryer recipes where precision matters, especially when baking cakes or cookies. Whether you're using a digital scale or measuring cups, knowing this conversion ensures your treats turn out perfectly every time. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

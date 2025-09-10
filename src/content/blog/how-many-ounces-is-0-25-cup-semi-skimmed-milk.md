@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk"
-        },
-        "headline": "Quick Answer: 0.25 Cup Semi Skimmed Milk to Ounces UK",
-        "description": "Convert 0.25 cup of semi skimmed milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk"
+    },
+    "headline": "Quick Answer: 0.25 Cup Semi Skimmed Milk to Ounces UK",
+    "description": "Convert 0.25 cup of semi skimmed milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-semi-skimmed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-semi-skimmed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 0.25 cup of semi skimmed milk weigh the same as water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 0.25 cup of semi skimmed milk weighs slightly more than water due to its density from proteins and sugars. While water weighs about 2 ounces per 0.25 cup, semi skimmed milk comes in at approximately 2.02 ounces for the same volume. This small difference matters in precise air fryer recipes where liquid ratios affect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 0.25 cup of semi skimmed milk weighs slightly more than water due to its density from proteins and sugars. While water weighs about 2 ounces per 0.25 cup, semi skimmed milk comes in at approximately 2.02 ounces for the same volume. This small difference matters in precise air fryer recipes where liquid ratios affect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use millilitres instead of ounces for 0.25 cup semi skimmed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely. 0.25 cup of semi skimmed milk equals about 59 ml in UK measurements. Many digital scales and measuring jugs display both ounces and millilitres, making it easy to switch between units. For air fryer recipes, the 59ml measure works just as well as the 2-ounce equivalent."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely. 0.25 cup of semi skimmed milk equals about 59 ml in UK measurements. Many digital scales and measuring jugs display both ounces and millilitres, making it easy to switch between units. For air fryer recipes, the 59ml measure works just as well as the 2-ounce equivalent."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 0.25 cup semi skimmed milk conversion differ for US recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "US cups are slightly smaller than UK cups (236.59ml vs 250ml), so 0.25 US cup equals about 1.98 ounces of semi skimmed milk. When using American air fryer recipes, this small difference (2oz UK vs 1.98oz US) rarely affects outcomes, but for precision baking, it's worth noting the variation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "US cups are slightly smaller than UK cups (236.59ml vs 250ml), so 0.25 US cup equals about 1.98 ounces of semi skimmed milk. When using American air fryer recipes, this small difference (2oz UK vs 1.98oz US) rarely affects outcomes, but for precision baking, it's worth noting the variation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes specify weight (ounces) instead of volume (cups) for milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements eliminate variables like how the milk settles in the cup or whether you've scooped or poured it. For air fryer cooking where heat circulates intensely, the exact 2-ounce weight of 0.25 cup semi skimmed milk ensures batters and coatings behave predictably. It's also easier to scale recipes precisely by weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements eliminate variables like how the milk settles in the cup or whether you've scooped or poured it. For air fryer cooking where heat circulates intensely, the exact 2-ounce weight of 0.25 cup semi skimmed milk ensures batters and coatings behave predictably. It's also easier to scale recipes precisely by weight."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of semi skimmed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of semi skimmed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk",
     "description": "Convert 0.25 cup of semi skimmed milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of semi skimmed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-semi-skimmed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of semi skimmed milk equals approximately 2 ounces (2.02 oz to be precise) in UK measurements. This conversion is essential for air fryer recipes where precise liquid measurements can affect cooking times and textures. Whether you're making batter for air-fried onion rings or a creamy sauce for chicken, knowing how many ounces are in 0.25 cup of semi skimmed milk ensures consistent results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour"
-        },
-        "headline": "Quick Answer: 250g of wholemeal flour to ounces conversion UK",
-        "description": "Discover how to convert 250g of wholemeal flour to ounces for perfect baking every time. Get accurate UK measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour"
+    },
+    "headline": "Quick Answer: 250g of wholemeal flour to ounces conversion UK",
+    "description": "Discover how to convert 250g of wholemeal flour to ounces for perfect baking every time. Get accurate UK measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-wholemeal-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-wholemeal-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 250g of wholemeal flour the same as 250g of white flour in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 250g of any type of flour equals approximately 8.82 ounces by weight. However, wholemeal and white flour behave differently in recipes due to their varying densities and absorption rates. Wholemeal flour typically requires slightly more liquid in air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 250g of any type of flour equals approximately 8.82 ounces by weight. However, wholemeal and white flour behave differently in recipes due to their varying densities and absorption rates. Wholemeal flour typically requires slightly more liquid in air fryer baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of weighing 250g wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use cups (250g is roughly 2 UK cups), weighing is far more accurate for consistent results. Cup measurements can vary by 20% depending on how you scoop the flour. For air fryer baking where precision matters, we always recommend using scales to measure your 250g wholemeal flour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use cups (250g is roughly 2 UK cups), weighing is far more accurate for consistent results. Cup measurements can vary by 20% depending on how you scoop the flour. For air fryer baking where precision matters, we always recommend using scales to measure your 250g wholemeal flour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer baking sometimes fail with wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Wholemeal flour requires slight recipe adjustments compared to white flour. It absorbs more liquid and produces denser results. When converting 250g wholemeal flour to ounces for air fryer use, you might need to increase liquids slightly and possibly add a bit more leavening agent for proper rise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wholemeal flour requires slight recipe adjustments compared to white flour. It absorbs more liquid and produces denser results. When converting 250g wholemeal flour to ounces for air fryer use, you might need to increase liquids slightly and possibly add a bit more leavening agent for proper rise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I adjust cooking times for wholemeal flour in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer recipes using 250g wholemeal flour may need slightly longer cooking times than those using white flour. Start checking for doneness a few minutes before the recipe suggests, as air fryer models vary. The dense nature of wholemeal flour means heat penetrates slightly slower than with refined flours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer recipes using 250g wholemeal flour may need slightly longer cooking times than those using white flour. Start checking for doneness a few minutes before the recipe suggests, as air fryer models vary. The dense nature of wholemeal flour means heat penetrates slightly slower than with refined flours."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 250g of wholemeal flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 250g of wholemeal flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour",
     "description": "Discover how to convert 250g of wholemeal flour to ounces for perfect baking every time. Get accurate UK measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 250g of wholemeal flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-wholemeal-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250g of wholemeal flour equals approximately 8.82 ounces. This conversion is essential for UK bakers using air fryers, where precise measurements can make or break a recipe. Whether you're whipping up air fryer cakes or bread, getting your flour quantities spot-on ensures perfect results every time.</p>

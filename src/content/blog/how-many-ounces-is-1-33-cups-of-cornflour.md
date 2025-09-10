@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour"
-        },
-        "headline": "Quick Answer: 1.33 Cups of Cornflour to Ounces (UK Guide)",
-        "description": "Convert 1.33 cups of cornflour to ounces effortlessly with our UK-friendly guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour"
+    },
+    "headline": "Quick Answer: 1.33 Cups of Cornflour to Ounces (UK Guide)",
+    "description": "Convert 1.33 cups of cornflour to ounces effortlessly with our UK-friendly guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-cornflour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-cornflour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of cornflour for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the results will differ. Cornflour creates a lighter, crispier texture due to its starch content. For every 1.33 cups of cornflour (5.3 oz), use 1.5 cups of plain flour (6 oz) and adjust liquids slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the results will differ. Cornflour creates a lighter, crispier texture due to its starch content. For every 1.33 cups of cornflour (5.3 oz), use 1.5 cups of plain flour (6 oz) and adjust liquids slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for cornflour in ounces, not cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (ounces) are more precise than volume (cups). Cornflour can settle or fluff up, making cups unreliable. Ounces ensure consistency, especially for coatings or batters where texture is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (ounces) are more precise than volume (cups). Cornflour can settle or fluff up, making cups unreliable. Ounces ensure consistency, especially for coatings or batters where texture is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean cornflour residue from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After cooling, wipe the basket with a damp cloth or use a soft brush. For stubborn spots, mix baking soda and water into a paste. Avoid harsh scrubbers to protect non-stick coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After cooling, wipe the basket with a damp cloth or use a soft brush. For stubborn spots, mix baking soda and water into a paste. Avoid harsh scrubbers to protect non-stick coatings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is cornflour the same as cornstarch in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, cornflour and cornstarch are the same product in the UK. Both terms refer to the fine, white powder made from maize, used for thickening and frying. Always check labels to confirm purity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, cornflour and cornstarch are the same product in the UK. Both terms refer to the fine, white powder made from maize, used for thickening and frying. Always check labels to confirm purity."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of cornflour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of cornflour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour",
     "description": "Convert 1.33 cups of cornflour to ounces effortlessly with our UK-friendly guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of cornflour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-cornflour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of cornflour equals approximately 5.3 ounces (or 150 grams) in UK measurements. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you're coating chicken or thickening sauces, knowing the exact weight helps avoid kitchen mishaps.</p>  

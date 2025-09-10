@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces"
-        },
-        "headline": "Quick 250g Greek Yogurt to Ounces Conversion for Air Fryers",
-        "description": "Convert 250g of Greek yogurt to ounces in seconds with our easy guide. Perfect for air fryer recipes and accurate measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces"
+    },
+    "headline": "Quick 250g Greek Yogurt to Ounces Conversion for Air Fryers",
+    "description": "Convert 250g of Greek yogurt to ounces in seconds with our easy guide. Perfect for air fryer recipes and accurate measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/250g-greek-yogurt-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/250g-greek-yogurt-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 250g of Greek yogurt the same as 250ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, grams measure weight, while millilitres measure volume. Greek yogurt’s thickness means 250g won’t always equal 250ml. For accuracy, weigh it in ounces (8.82 oz) or use a scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, grams measure weight, while millilitres measure volume. Greek yogurt’s thickness means 250g won’t always equal 250ml. For accuracy, weigh it in ounces (8.82 oz) or use a scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use regular yogurt instead of Greek yogurt in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but Greek yogurt is thicker and higher in protein, which affects texture. If substituting, adjust liquids slightly to match consistency. For best results, stick to 250g (8.82 oz) as listed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but Greek yogurt is thicker and higher in protein, which affects texture. If substituting, adjust liquids slightly to match consistency. For best results, stick to 250g (8.82 oz) as listed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover Greek yogurt after measuring 250g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Seal it tightly and refrigerate for up to a week. For longer storage, freeze portions in 250g (8.82 oz) batches and thaw in the fridge before use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Seal it tightly and refrigerate for up to a week. For longer storage, freeze portions in 250g (8.82 oz) batches and thaw in the fridge before use."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for Greek yogurt by weight instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (like 250g or 8.82 oz) are more precise than cups, ensuring consistent results. This is especially important for air fryer cooking, where moisture balance affects crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (like 250g or 8.82 oz) are more precise than cups, ensuring consistent results. This is especially important for air fryer cooking, where moisture balance affects crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 250g of greek yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 250g of greek yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces",
     "description": "Convert 250g of Greek yogurt to ounces in seconds with our easy guide. Perfect for air fryer recipes and accurate measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 250g of greek yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/250g-greek-yogurt-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250g of Greek yogurt is approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a creamy dip or a marinade, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler with accurate conversions and delicious recipes.</p>

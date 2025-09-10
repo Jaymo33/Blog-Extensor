@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm"
-        },
-        "headline": "Quick Answer: How many ounces is 3 cups of wheatgerm?",
-        "description": "Find out exactly how many ounces are in 3 cups of wheatgerm with this simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm"
+    },
+    "headline": "Quick Answer: How many ounces is 3 cups of wheatgerm?",
+    "description": "Find out exactly how many ounces are in 3 cups of wheatgerm with this simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-wheatgerm.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-wheatgerm.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for other types of wheat products?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, different wheat products have varying densities. While 3 cups of wheatgerm equals about 12 ounces, whole wheat flour would weigh differently. Always check specific conversions for each ingredient when preparing air fryer recipes to ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, different wheat products have varying densities. While 3 cups of wheatgerm equals about 12 ounces, whole wheat flour would weigh differently. Always check specific conversions for each ingredient when preparing air fryer recipes to ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does the UK ounce measurement compare to US ounces for wheatgerm?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For dry ingredients like wheatgerm, UK and US ounces are identical in weight. So whether you're using UK or US measurements, 3 cups of wheatgerm will still equal approximately 12 ounces. This makes converting 3 cups of wheatgerm to oz UK measurements straightforward."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For dry ingredients like wheatgerm, UK and US ounces are identical in weight. So whether you're using UK or US measurements, 3 cups of wheatgerm will still equal approximately 12 ounces. This makes converting 3 cups of wheatgerm to oz UK measurements straightforward."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my measured weight slightly different from the 12 ounce conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Small variations can occur due to how the wheatgerm is packed or the humidity level. For most air fryer recipes, a slight difference won't affect the outcome significantly. However, for baking recipes where precision matters, it's best to use scales for the most accurate 3 cups wheatgerm to ounces conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Small variations can occur due to how the wheatgerm is packed or the humidity level. For most air fryer recipes, a slight difference won't affect the outcome significantly. However, for baking recipes where precision matters, it's best to use scales for the most accurate 3 cups wheatgerm to ounces conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute wheatgerm with other ingredients in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can substitute wheatgerm with ingredients like ground flaxseed or oat bran, the conversion from 3 cups to ounces will differ. Each substitute has its own density, so you'll need to check specific conversions. For best results in air fryer cooking, stick to the original recipe measurements when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can substitute wheatgerm with ingredients like ground flaxseed or oat bran, the conversion from 3 cups to ounces will differ. Each substitute has its own density, so you'll need to check specific conversions. For best results in air fryer cooking, stick to the original recipe measurements when possible."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of wheatgerm?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of wheatgerm?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm",
     "description": "Find out exactly how many ounces are in 3 cups of wheatgerm with this simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of wheatgerm?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-wheatgerm"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of wheatgerm equals approximately 12 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're making granola, bread, or adding wheatgerm to your favourite dishes, knowing this measurement can make all the difference.</p>

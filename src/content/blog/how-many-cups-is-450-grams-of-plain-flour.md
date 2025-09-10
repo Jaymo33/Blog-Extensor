@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour"
-        },
-        "headline": "Quick Guide: Convert 450 Grams of Plain Flour to Cups Easily",
-        "description": "Learn how to convert 450 grams of plain flour to cups for perfect baking every time. Get accurate measurements and air fryer-friendly tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour"
+    },
+    "headline": "Quick Guide: Convert 450 Grams of Plain Flour to Cups Easily",
+    "description": "Learn how to convert 450 grams of plain flour to cups for perfect baking every time. Get accurate measurements and air fryer-friendly tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-plain-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-450-grams-of-plain-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 450 grams of plain flour the same as 450 grams of self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 450 grams of plain flour and self-raising flour are not the same in terms of functionality. Plain flour contains no raising agents, while self-raising flour includes baking powder. However, their weight-to-cup conversion is similar if measured correctly. Always check your recipe requirements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 450 grams of plain flour and self-raising flour are not the same in terms of functionality. Plain flour contains no raising agents, while self-raising flour includes baking powder. However, their weight-to-cup conversion is similar if measured correctly. Always check your recipe requirements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a mug to measure 450 grams of plain flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Using a mug isn’t recommended for accuracy, as mug sizes vary widely. A standard UK cup is 250ml, and a US cup is 240ml. For 450 grams of plain flour, use proper measuring cups or a kitchen scale for the best results in air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Using a mug isn’t recommended for accuracy, as mug sizes vary widely. A standard UK cup is 250ml, and a US cup is 240ml. For 450 grams of plain flour, use proper measuring cups or a kitchen scale for the best results in air fryer baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe fail when I convert grams to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer recipes rely on precise measurements. Converting grams to cups can introduce errors if the flour is packed or not levelled properly. For consistent results, weigh your flour or use the spoon-and-level method. Humidity and altitude can also affect outcomes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer recipes rely on precise measurements. Converting grams to cups can introduce errors if the flour is packed or not levelled properly. For consistent results, weigh your flour or use the spoon-and-level method. Humidity and altitude can also affect outcomes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover plain flour after measuring 450 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover plain flour in an airtight container in a cool, dry place. This prevents moisture absorption and keeps it fresh for future air fryer recipes. For long-term storage, consider freezing the flour in a sealed bag to maintain quality."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover plain flour in an airtight container in a cool, dry place. This prevents moisture absorption and keeps it fresh for future air fryer recipes. For long-term storage, consider freezing the flour in a sealed bag to maintain quality."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 450 Grams of Plain Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 450 Grams of Plain Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour",
     "description": "Learn how to convert 450 grams of plain flour to cups for perfect baking every time. Get accurate measurements and air fryer-friendly tips!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 450 Grams of Plain Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-450-grams-of-plain-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>450 grams of plain flour is approximately 3.6 cups in the UK and 3.75 cups in the USA. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re whipping up air fryer cakes, cookies, or bread, knowing how to convert grams to cups ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about helping you master your air fryer cooking with accurate measurements and foolproof tips.</p>

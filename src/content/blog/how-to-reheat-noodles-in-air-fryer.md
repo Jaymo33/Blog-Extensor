@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer"
-        },
-        "headline": "Reheat Noodles in Air Fryer – Quick & Crispy Results",
-        "description": "Learn how to reheat noodles in an air fryer without drying them out. Get perfect texture & temperature with our step-by-step guide. Works for leftovers!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer"
+    },
+    "headline": "Reheat Noodles in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat noodles in an air fryer without drying them out. Get perfect texture & temperature with our step-by-step guide. Works for leftovers!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-noodles-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-noodles-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat noodles in an air fryer straight from the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but let them sit at room temperature for 10 minutes first. Cold noodles straight from the fridge may heat unevenly. Spread them thinly in the air fryer basket and add 1-2 minutes to the cooking time compared to room temperature noodles."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but let them sit at room temperature for 10 minutes first. Cold noodles straight from the fridge may heat unevenly. Spread them thinly in the air fryer basket and add 1-2 minutes to the cooking time compared to room temperature noodles."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to reheat saucy noodles like spaghetti in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For saucy noodles, place a parchment paper liner in the basket to prevent mess. Reheat at 150°C for 4-5 minutes, stirring halfway. Add a splash of water or extra sauce before cooking to prevent drying out. The lower temperature helps sauces reheat without separating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For saucy noodles, place a parchment paper liner in the basket to prevent mess. Reheat at 150°C for 4-5 minutes, stirring halfway. Add a splash of water or extra sauce before cooking to prevent drying out. The lower temperature helps sauces reheat without separating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I make reheated noodles crispy in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For crispy noodles, toss them with 1 tsp oil before air frying and cook at 170°C for 5-6 minutes, shaking every 2 minutes. Sprinkle with a little cornflour for extra crunch. This works great for chow mein or lo mein noodles that benefit from texture contrast."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For crispy noodles, toss them with 1 tsp oil before air frying and cook at 170°C for 5-6 minutes, shaking every 2 minutes. Sprinkle with a little cornflour for extra crunch. This works great for chow mein or lo mein noodles that benefit from texture contrast."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat frozen cooked noodles directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! No need to thaw - just spread frozen noodles in the basket and cook at 160°C for 6-8 minutes, breaking up clumps halfway. Add 1-2 minutes if they're in a solid block. Check internal temperature reaches 74°C for food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! No need to thaw - just spread frozen noodles in the basket and cook at 160°C for 6-8 minutes, breaking up clumps halfway. Add 1-2 minutes if they're in a solid block. Check internal temperature reaches 74°C for food safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Noodles in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Noodles in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer",
     "description": "Learn how to reheat noodles in an air fryer without drying them out. Get perfect texture & temperature with our step-by-step guide. Works for leftovers!",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Noodles in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-noodles-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>To reheat noodles in an air fryer, preheat to 160°C and cook for 3-5 minutes, tossing halfway. This method works brilliantly for leftover takeaway noodles, homemade stir-fries, or even refrigerated pasta dishes. The circulating hot air revives their texture far better than microwaving.</p>

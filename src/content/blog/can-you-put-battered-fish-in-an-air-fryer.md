@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer"
-        },
-        "headline": "Can You Air Fry Battered Fish? Safety & Tips (UK Guide)",
-        "description": "Wondering if battered fish works in an air fryer? Learn the dos and don'ts, safety tips, and best practices for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer"
+    },
+    "headline": "Can You Air Fry Battered Fish? Safety & Tips (UK Guide)",
+    "description": "Wondering if battered fish works in an air fryer? Learn the dos and don'ts, safety tips, and best practices for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T22:38:02.529Z",
-        "dateModified": "2025-07-22T22:38:02.529Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-battered-fish-in-an-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Safety"
-        },
-        "articleSection": "Safety",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T22:38:02.529Z",
+    "dateModified": "2025-07-22T22:38:02.529Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-battered-fish-in-an-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Safety"
+    },
+    "articleSection": "Safety",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Will battered fish catch fire in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Properly prepared battered fish won't catch fire, but excessive dripping batter can cause smoking. Always cook in a single layer with a liner underneath to catch drips and prevent direct contact with heating elements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Properly prepared battered fish won't catch fire, but excessive dripping batter can cause smoking. Always cook in a single layer with a liner underneath to catch drips and prevent direct contact with heating elements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook frozen battered fish directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, frozen battered fish works well in air fryers - no need to thaw. Increase cooking time by 2-3 minutes and flip halfway through. Most UK supermarket frozen fish specifies air fryer instructions on packaging."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, frozen battered fish works well in air fryers - no need to thaw. Increase cooking time by 2-3 minutes and flip halfway through. Most UK supermarket frozen fish specifies air fryer instructions on packaging."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I stop battered fish sticking to the air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly spray the basket with oil before cooking and ensure the fish isn't moved until the coating has set (about 4 minutes in). Non-stick baskets or parchment liners with holes work best for delicate batters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly spray the basket with oil before cooking and ensure the fish isn't moved until the coating has set (about 4 minutes in). Non-stick baskets or parchment liners with holes work best for delicate batters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is it safe to reheat battered fish in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Reheating at 180°C for 3-4 minutes restores crispness better than a microwave. Ensure the fish reaches 63°C internally and consume immediately for food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Reheating at 180°C for 3-4 minutes restores crispness better than a microwave. Ensure the fish reaches 63°C internally and consume immediately for food safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Can You Put Battered Fish in an Air Fryer?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer",
+    "@type": "WebPage",
+    "name": "Can You Put Battered Fish in an Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer",
     "description": "Wondering if battered fish works in an air fryer? Learn the dos and don'ts, safety tips, and best practices for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
     "dateModified": "2025-07-22T22:38:02.529000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "Can You Put Battered Fish in an Air Fryer?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-battered-fish-in-an-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Yes, you can put battered fish in an air fryer, but it requires careful preparation to prevent mess and ensure even cooking. The circulating hot air mimics deep-frying for crispy coatings while using minimal oil. At airfryerrecipe.co.uk, we've tested dozens of methods to perfect this technique.</p>

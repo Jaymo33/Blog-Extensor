@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion"
-        },
-        "headline": "Quick Answer: How many grams is 1.5 tbsp of minced onion?",
-        "description": "Find out exactly how many grams are in 1.5 tbsp of minced onion for perfect air fryer recipes every time. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion"
+    },
+    "headline": "Quick Answer: How many grams is 1.5 tbsp of minced onion?",
+    "description": "Find out exactly how many grams are in 1.5 tbsp of minced onion for perfect air fryer recipes every time. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-minced-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-minced-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use dried minced onion instead of fresh in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute dried minced onion, but use about one third the amount since it's more concentrated. For 1.5 tbsp fresh minced onion (10.5g), use 0.5 tbsp dried. Rehydrate it with a teaspoon of water before adding to your air fryer recipe to prevent burning and ensure even distribution."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute dried minced onion, but use about one third the amount since it's more concentrated. For 1.5 tbsp fresh minced onion (10.5g), use 0.5 tbsp dried. Rehydrate it with a teaspoon of water before adding to your air fryer recipe to prevent burning and ensure even distribution."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does minced onion weight compare to chopped onion in air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Minced onion packs more densely than chopped, so by weight you'll need less minced onion for the same flavour impact. In air fryer cooking where space is limited, minced onion distributes more evenly. 10.5g minced onion (1.5 tbsp) provides similar flavour to about 15g chopped onion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Minced onion packs more densely than chopped, so by weight you'll need less minced onion for the same flavour impact. In air fryer cooking where space is limited, minced onion distributes more evenly. 10.5g minced onion (1.5 tbsp) provides similar flavour to about 15g chopped onion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify minced onion by weight rather than volume?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (grams) are more accurate because minced onion can settle or fluff up differently each time you measure by volume. Air fryer recipes often specify weight to ensure consistent results, especially important in the precise cooking environment of an air fryer where moisture balance affects crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (grams) are more accurate because minced onion can settle or fluff up differently each time you measure by volume. Air fryer recipes often specify weight to ensure consistent results, especially important in the precise cooking environment of an air fryer where moisture balance affects crispiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze measured portions of minced onion for air fryer meals?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Freezing 10.5g portions (equivalent to 1.5 tbsp) of minced onion works perfectly for meal prep. Place individual portions in ice cube trays or small bags. When ready to use, add directly to your air fryer recipe - no need to thaw, though cooking time may increase slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Freezing 10.5g portions (equivalent to 1.5 tbsp) of minced onion works perfectly for meal prep. Place individual portions in ice cube trays or small bags. When ready to use, add directly to your air fryer recipe - no need to thaw, though cooking time may increase slightly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1.5 tbsp of minced onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of minced onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion",
     "description": "Find out exactly how many grams are in 1.5 tbsp of minced onion for perfect air fryer recipes every time. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1.5 tbsp of minced onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-minced-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 tablespoons of minced onion equals approximately 10.5 grams. This conversion is essential for air fryer recipes where precision can make all the difference. Whether you're whipping up a quick stir-fry or prepping a batch of savoury muffins, knowing the exact weight ensures consistent results every time.</p>

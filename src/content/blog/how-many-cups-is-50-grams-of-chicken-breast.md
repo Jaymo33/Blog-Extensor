@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast"
-        },
-        "headline": "Quick Answer: How Many Cups Is 50 Grams of Chicken Breast?",
-        "description": "Discover how to convert 50 grams of chicken breast to cups for perfect air fryer recipes every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast"
+    },
+    "headline": "Quick Answer: How Many Cups Is 50 Grams of Chicken Breast?",
+    "description": "Discover how to convert 50 grams of chicken breast to cups for perfect air fryer recipes every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T19:05:43.270Z",
-        "dateModified": "2025-07-27T19:05:43.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-chicken-breast.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T19:05:43.270Z",
+    "dateModified": "2025-07-27T19:05:43.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-chicken-breast.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen chicken breast to measure 50 grams in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to thaw frozen chicken breast before measuring, as frozen chunks can vary in density. Thawing ensures accuracy when converting 50 grams to cups. Once thawed, pat the chicken dry to remove excess moisture before chopping and measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to thaw frozen chicken breast before measuring, as frozen chunks can vary in density. Thawing ensures accuracy when converting 50 grams to cups. Once thawed, pat the chicken dry to remove excess moisture before chopping and measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 50 grams of chicken breast compare to other proteins in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "50 grams of chicken breast (about 0.25 cups) is similar in volume to 50 grams of turkey breast but denser than shredded tofu or ground beef. Always check specific conversions for different proteins, as textures vary."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50 grams of chicken breast (about 0.25 cups) is similar in volume to 50 grams of turkey breast but denser than shredded tofu or ground beef. Always check specific conversions for different proteins, as textures vary."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 50 grams of chicken breast measure differently each time?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Variations can occur due to how finely the chicken is chopped or whether it’s packed tightly into the cup. For consistency, use a kitchen scale or lightly fluff the chicken in the measuring cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Variations can occur due to how finely the chicken is chopped or whether it’s packed tightly into the cup. For consistency, use a kitchen scale or lightly fluff the chicken in the measuring cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook 50 grams of chicken breast directly from frozen in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust cooking time to 12–15 minutes at 180°C, flipping halfway. Note that frozen chicken won’t measure accurately in cups until thawed, so weighing is preferable for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust cooking time to 12–15 minutes at 180°C, flipping halfway. Note that frozen chicken won’t measure accurately in cups until thawed, so weighing is preferable for precision."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 50 Grams of Chicken Breast?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 50 Grams of Chicken Breast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast",
     "description": "Discover how to convert 50 grams of chicken breast to cups for perfect air fryer recipes every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 50 Grams of Chicken Breast?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-chicken-breast"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50 grams of chicken breast is roughly equivalent to 0.25 cups when chopped or shredded. This measurement can vary slightly depending on how finely the chicken is cut, but it’s a reliable starting point for air fryer recipes. Whether you’re meal prepping or cooking a quick dinner, knowing this conversion ensures consistent results. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

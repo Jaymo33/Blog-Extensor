@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds"
-        },
-        "headline": "Quick Answer: How many ounces is 0.5 cup of pumpkin seeds?",
-        "description": "Find out exactly how many ounces are in 0.5 cup of pumpkin seeds for perfect air fryer recipes every time. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds"
+    },
+    "headline": "Quick Answer: How many ounces is 0.5 cup of pumpkin seeds?",
+    "description": "Find out exactly how many ounces are in 0.5 cup of pumpkin seeds for perfect air fryer recipes every time. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-pumpkin-seeds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-pumpkin-seeds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for pumpkin seeds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! A kitchen scale is the most accurate way to measure pumpkin seeds. Simply set it to ounces and weigh out 2.5 oz for the equivalent of 0.5 cup. This method eliminates any guesswork and ensures perfect results in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! A kitchen scale is the most accurate way to measure pumpkin seeds. Simply set it to ounces and weigh out 2.5 oz for the equivalent of 0.5 cup. This method eliminates any guesswork and ensures perfect results in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do pumpkin seeds weigh the same when roasted?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Roasting pumpkin seeds removes some moisture, so they may weigh slightly less after cooking. However, the difference is minimal—about 0.5 cup (2.5 oz) of raw seeds will yield roughly the same volume once roasted. For best results, measure them before seasoning and cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Roasting pumpkin seeds removes some moisture, so they may weigh slightly less after cooking. However, the difference is minimal—about 0.5 cup (2.5 oz) of raw seeds will yield roughly the same volume once roasted. For best results, measure them before seasoning and cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust cooking time for different amounts of pumpkin seeds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you’re cooking more or less than 0.5 cup (2.5 oz), adjust the time accordingly. Larger batches may need an extra minute or two, while smaller amounts cook faster. Always shake the basket halfway through to ensure even roasting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you’re cooking more or less than 0.5 cup (2.5 oz), adjust the time accordingly. Larger batches may need an extra minute or two, while smaller amounts cook faster. Always shake the basket halfway through to ensure even roasting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are pumpkin seeds healthy when cooked in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Air-fried pumpkin seeds retain their nutrients, including magnesium, zinc, and healthy fats. Since air fryers use little to no oil, they’re a healthier alternative to deep-frying. Just season lightly for a guilt-free snack."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Air-fried pumpkin seeds retain their nutrients, including magnesium, zinc, and healthy fats. Since air fryers use little to no oil, they’re a healthier alternative to deep-frying. Just season lightly for a guilt-free snack."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.5 cup of pumpkin seeds?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of pumpkin seeds?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds",
     "description": "Find out exactly how many ounces are in 0.5 cup of pumpkin seeds for perfect air fryer recipes every time. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.5 cup of pumpkin seeds?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-pumpkin-seeds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cup of pumpkin seeds equals approximately 2.5 ounces (70 grams). This measurement is essential for air fryer recipes, ensuring your roasted pumpkin seeds turn out perfectly crispy every time. Whether you’re prepping a snack or adding them to a dish, knowing the exact weight helps with consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to make cooking effortless.</p>

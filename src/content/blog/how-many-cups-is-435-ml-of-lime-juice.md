@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice"
-        },
-        "headline": "Quick Guide: Convert 435 ml of Lime Juice to Cups Easily",
-        "description": "Learn how to convert 435 ml of lime juice to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice"
+    },
+    "headline": "Quick Guide: Convert 435 ml of Lime Juice to Cups Easily",
+    "description": "Learn how to convert 435 ml of lime juice to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 435 ml of lime juice the same as 435 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, for practical purposes, 435 ml of lime juice weighs roughly 435 grams. Lime juice has a similar density to water, so the volume-to-weight conversion is nearly 1:1. This makes it easy to measure using a kitchen scale if you don’t have a measuring cup handy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for practical purposes, 435 ml of lime juice weighs roughly 435 grams. Lime juice has a similar density to water, so the volume-to-weight conversion is nearly 1:1. This makes it easy to measure using a kitchen scale if you don’t have a measuring cup handy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While fresh lime juice is preferred for its vibrant flavour, bottled lime juice works in a pinch. Just check the label for additives like preservatives or sweeteners, which might alter the taste of your dish. For best results, stick to fresh juice in recipes where lime is the star ingredient."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While fresh lime juice is preferred for its vibrant flavour, bottled lime juice works in a pinch. Just check the label for additives like preservatives or sweeteners, which might alter the taste of your dish. For best results, stick to fresh juice in recipes where lime is the star ingredient."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 435 ml of lime juice last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Freshly squeezed lime juice lasts about a week in the fridge if stored in an airtight container. To extend its shelf life, freeze the juice in ice cube trays—this way, you can thaw only what you need for future recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Freshly squeezed lime juice lasts about a week in the fridge if stored in an airtight container. To extend its shelf life, freeze the juice in ice cube trays—this way, you can thaw only what you need for future recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to juice limes for accurate measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Roll the limes firmly on the counter before cutting to loosen the pulp, then use a citrus juicer or reamer to extract the juice. Strain out any seeds or pulp for a smooth measurement. For 435 ml, you’ll need roughly 10–12 medium limes, depending on their juiciness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Roll the limes firmly on the counter before cutting to loosen the pulp, then use a citrus juicer or reamer to extract the juice. Strain out any seeds or pulp for a smooth measurement. For 435 ml, you’ll need roughly 10–12 medium limes, depending on their juiciness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 435 ml of Lime Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 435 ml of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice",
     "description": "Learn how to convert 435 ml of lime juice to cups for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 435 ml of Lime Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>435 ml of lime juice equals approximately 1.84 cups in the UK or 1.83 cups in the US. This conversion is essential for air fryer recipes, ensuring your dishes have the perfect balance of acidity and flavour. Whether you're making zesty marinades, tangy desserts, or refreshing glazes, knowing how to measure lime juice accurately can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions so you can focus on creating delicious meals.</p>  

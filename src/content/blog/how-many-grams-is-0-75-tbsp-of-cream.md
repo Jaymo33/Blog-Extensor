@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream"
-        },
-        "headline": "Quick Guide: Convert 0.75 tbsp of cream to grams easily",
-        "description": "Discover how to convert 0.75 tbsp of cream into grams for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream"
+    },
+    "headline": "Quick Guide: Convert 0.75 tbsp of cream to grams easily",
+    "description": "Discover how to convert 0.75 tbsp of cream into grams for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of cream for 0.75 tbsp in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute milk for cream, but keep in mind that milk has a lower fat content, which may affect texture and richness. For 0.75 tbsp (11 grams) of cream, use the same volume of milk, but expect a lighter result. Adjust cooking times slightly if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute milk for cream, but keep in mind that milk has a lower fat content, which may affect texture and richness. For 0.75 tbsp (11 grams) of cream, use the same volume of milk, but expect a lighter result. Adjust cooking times slightly if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.75 tbsp of cream without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a scale, fill a tablespoon halfway (0.5 tbsp) and then add half of that amount again to approximate 0.75 tbsp. For greater accuracy, use a measuring spoon with ml markings—0.75 tbsp is roughly 11.25 ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a scale, fill a tablespoon halfway (0.5 tbsp) and then add half of that amount again to approximate 0.75 tbsp. For greater accuracy, use a measuring spoon with ml markings—0.75 tbsp is roughly 11.25 ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cream affect the weight of 0.75 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different creams (single, double, or whipping) have slightly varying densities due to fat content. However, the difference is minimal for small quantities like 0.75 tbsp (11 grams). For most recipes, the standard conversion will work fine."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different creams (single, double, or whipping) have slightly varying densities due to fat content. However, the difference is minimal for small quantities like 0.75 tbsp (11 grams). For most recipes, the standard conversion will work fine."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is 0.75 tbsp of cream a common measurement in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer recipes often use small quantities to avoid overcrowding and ensure even cooking. 0.75 tbsp (11 grams) of cream is enough to add richness without excess moisture, making it ideal for single servings or light coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer recipes often use small quantities to avoid overcrowding and ensure even cooking. 0.75 tbsp (11 grams) of cream is enough to add richness without excess moisture, making it ideal for single servings or light coatings."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.75 tbsp of cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream",
+    "@type": "WebPage",
+    "name": "How many grams is 0.75 tbsp of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream",
     "description": "Discover how to convert 0.75 tbsp of cream into grams for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.75 tbsp of cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 tbsp of cream is approximately 11 grams. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you're making a creamy sauce or a decadent dessert, knowing the exact weight can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve culinary perfection with accurate measurements.</p>

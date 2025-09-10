@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds"
-        },
-        "headline": "Quick 2 kg Chicken Breast to Pounds Conversion Guide",
-        "description": "Convert 2 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer recipes and meal prep planning. Get cooking today!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds"
+    },
+    "headline": "Quick 2 kg Chicken Breast to Pounds Conversion Guide",
+    "description": "Convert 2 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer recipes and meal prep planning. Get cooking today!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T00:37:28.394Z",
-        "dateModified": "2025-08-22T00:37:28.394Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-chicken-breast-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T00:37:28.394Z",
+    "dateModified": "2025-08-22T00:37:28.394Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-chicken-breast-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 2 kg chicken breast to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 2 kg chicken breast to pounds is crucial for air frying because cooking times are weight-dependent. Air fryers circulate hot air around food, and incorrect weight measurements can lead to undercooked or overcooked chicken. Knowing the exact pound equivalent (4.41 pounds) helps you follow recipes accurately and achieve perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 2 kg chicken breast to pounds is crucial for air frying because cooking times are weight-dependent. Air fryers circulate hot air around food, and incorrect weight measurements can lead to undercooked or overcooked chicken. Knowing the exact pound equivalent (4.41 pounds) helps you follow recipes accurately and achieve perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 2 kg of chicken breast convert to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "2 kg of chicken breast converts to approximately 4 pounds and 6.5 ounces. While most recipes work fine with just the pound measurement, some precise cooking or portioning might require the ounce conversion too. For air fryer cooking, the pound measurement is typically sufficient since cooking times are usually given in pound increments."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2 kg of chicken breast converts to approximately 4 pounds and 6.5 ounces. While most recipes work fine with just the pound measurement, some precise cooking or portioning might require the ounce conversion too. For air fryer cooking, the pound measurement is typically sufficient since cooking times are usually given in pound increments."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for frozen chicken breast?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion from 2 kg to pounds works the same for frozen chicken breast as it does for fresh. However, remember that frozen chicken will require longer cooking time in your air fryer. Always ensure frozen chicken is thoroughly cooked by checking the internal temperature reaches 75°C, regardless of the weight conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion from 2 kg to pounds works the same for frozen chicken breast as it does for fresh. However, remember that frozen chicken will require longer cooking time in your air fryer. Always ensure frozen chicken is thoroughly cooked by checking the internal temperature reaches 75°C, regardless of the weight conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find more conversion help for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can find comprehensive conversion help on our air fryer conversion chart at airfryerrecipe.co.uk/air-fryer-conversion-chart. This resource covers various measurements beyond weight, including temperature and volume conversions specifically tailored for air fryer cooking. The chart is regularly updated to ensure accuracy for all your cooking needs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can find comprehensive conversion help on our air fryer conversion chart at airfryerrecipe.co.uk/air-fryer-conversion-chart. This resource covers various measurements beyond weight, including temperature and volume conversions specifically tailored for air fryer cooking. The chart is regularly updated to ensure accuracy for all your cooking needs."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "2 kg chicken breast to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds",
+    "@type": "WebPage",
+    "name": "2 kg chicken breast to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds",
     "description": "Convert 2 kg chicken breast to pounds instantly with our easy guide. Perfect for air fryer recipes and meal prep planning. Get cooking today!",
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "2 kg chicken breast to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-chicken-breast-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 kg of chicken breast converts to approximately 4.41 pounds, making it essential knowledge for anyone cooking with precise measurements. This conversion is particularly useful when preparing air fryer recipes that require specific weights for perfect cooking times and results. Whether you're meal prepping or following a recipe from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, understanding this measurement ensures your dishes turn out exactly as intended. Many British recipes use metric measurements, while some older cookbooks might use imperial, so being able to convert between the two is a valuable kitchen skill. Getting this right means your chicken will cook evenly and reach the ideal internal temperature for safe and delicious eating.</p>

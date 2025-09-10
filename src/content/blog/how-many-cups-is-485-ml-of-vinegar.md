@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar"
-        },
-        "headline": "Quick Answer: How Many Cups Is 485 ml of Vinegar?",
-        "description": "Discover how to convert 485 ml of vinegar to cups for precise air fryer recipes. Get accurate measurements for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar"
+    },
+    "headline": "Quick Answer: How Many Cups Is 485 ml of Vinegar?",
+    "description": "Discover how to convert 485 ml of vinegar to cups for precise air fryer recipes. Get accurate measurements for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-485-ml-of-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-485-ml-of-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 485 ml of vinegar the same as 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In the US, 485 ml of vinegar is roughly 2.02 cups, while in the UK, it’s about 1.71 cups due to differing cup sizes. For most recipes, rounding to 2 cups works, but precise measurements are best for baking or pickling."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the US, 485 ml of vinegar is roughly 2.02 cups, while in the UK, it’s about 1.71 cups due to differing cup sizes. For most recipes, rounding to 2 cups works, but precise measurements are best for baking or pickling."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 485 ml of vinegar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A standard drinking cup isn’t accurate for measuring liquids. Use a liquid measuring cup with metric and imperial markings to ensure 485 ml of vinegar converts correctly to cups. This avoids over- or under-measuring in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard drinking cup isn’t accurate for measuring liquids. Use a liquid measuring cup with metric and imperial markings to ensure 485 ml of vinegar converts correctly to cups. This avoids over- or under-measuring in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does vinegar affect air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Vinegar tenderises meats, adds tang to sauces, and helps crisp coatings in the air fryer. Too much can overpower flavours, so measuring 485 ml (about 2 cups) accurately ensures balanced results. It’s also great for deglazing and cleaning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vinegar tenderises meats, adds tang to sauces, and helps crisp coatings in the air fryer. Too much can overpower flavours, so measuring 485 ml (about 2 cups) accurately ensures balanced results. It’s also great for deglazing and cleaning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to convert 485 ml of vinegar for a UK recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For UK recipes, 485 ml equals roughly 1.71 cups. Use a UK measuring cup or a kitchen scale for precision. If adapting a US recipe, note that their cups are smaller (240 ml vs. 284 ml), so adjust accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For UK recipes, 485 ml equals roughly 1.71 cups. Use a UK measuring cup or a kitchen scale for precision. If adapting a US recipe, note that their cups are smaller (240 ml vs. 284 ml), so adjust accordingly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 485 ml of Vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 485 ml of Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar",
     "description": "Discover how to convert 485 ml of vinegar to cups for precise air fryer recipes. Get accurate measurements for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 485 ml of Vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>485 ml of vinegar equals approximately 2.05 cups in the UK or 2.05 cups in the US, making it a straightforward conversion for air fryer recipes. Whether you're marinating chicken, pickling vegetables, or whipping up a tangy sauce, precise measurements ensure your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is when cooking with vinegar—too much can overpower, while too little might leave your dish lacking flavour.</p>

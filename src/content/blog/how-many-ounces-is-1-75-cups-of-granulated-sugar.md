@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar"
-        },
-        "headline": "Quick Answer: 1.75 Cups of Granulated Sugar to Ounces",
-        "description": "Discover how many ounces are in 1.75 cups of granulated sugar with our easy conversion guide. Perfect for air fryer baking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar"
+    },
+    "headline": "Quick Answer: 1.75 Cups of Granulated Sugar to Ounces",
+    "description": "Discover how many ounces are in 1.75 cups of granulated sugar with our easy conversion guide. Perfect for air fryer baking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-granulated-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-granulated-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of measuring cup affect the ounce conversion for 1.75 cups of granulated sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of measuring cup can affect the conversion. US customary cups differ slightly from UK imperial cups. For precise results, always specify which cup measurement you're using or weigh the sugar in ounces. In air fryer baking, even small measurement differences can impact results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of measuring cup can affect the conversion. US customary cups differ slightly from UK imperial cups. For precise results, always specify which cup measurement you're using or weigh the sugar in ounces. In air fryer baking, even small measurement differences can impact results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same ounce measurement for brown sugar as granulated sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, brown sugar is denser than granulated sugar due to its moisture content. 1.75 cups of packed brown sugar weighs about 14 ounces, compared to 12.25 ounces for granulated sugar. Always check your recipe for the specific type of sugar required, especially in air fryer baking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, brown sugar is denser than granulated sugar due to its moisture content. 1.75 cups of packed brown sugar weighs about 14 ounces, compared to 12.25 ounces for granulated sugar. Always check your recipe for the specific type of sugar required, especially in air fryer baking where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.75 cups of granulated sugar without a 3/4 cup measure?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can measure 1.75 cups by using 1 full cup plus 3/4 cup. Alternatively, measure out 7 tablespoons (which equals 3/4 cup) after your full cup. For air fryer recipes, weighing the sugar (12.25 ounces) is actually more accurate than volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can measure 1.75 cups by using 1 full cup plus 3/4 cup. Alternatively, measure out 7 tablespoons (which equals 3/4 cup) after your full cup. For air fryer recipes, weighing the sugar (12.25 ounces) is actually more accurate than volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe require sugar measurements in ounces rather than cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer recipes often specify weights in ounces because they provide more consistent results. The intense, rapid heat of air fryers means small measurement variations can significantly affect outcomes. Weight measurements eliminate packing differences and ensure your baked goods cook evenly every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer recipes often specify weights in ounces because they provide more consistent results. The intense, rapid heat of air fryers means small measurement variations can significantly affect outcomes. Weight measurements eliminate packing differences and ensure your baked goods cook evenly every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of granulated sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of granulated sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar",
     "description": "Discover how many ounces are in 1.75 cups of granulated sugar with our easy conversion guide. Perfect for air fryer baking!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of granulated sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-granulated-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of granulated sugar equals approximately 12.25 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up a cake or cookies, knowing the exact weight ensures consistent results every time.</p>

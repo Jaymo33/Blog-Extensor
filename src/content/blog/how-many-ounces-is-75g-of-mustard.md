@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard"
-        },
-        "headline": "Quick & Easy 75g Mustard to Ounces Conversion Guide",
-        "description": "Convert 75g of mustard to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard"
+    },
+    "headline": "Quick & Easy 75g Mustard to Ounces Conversion Guide",
+    "description": "Convert 75g of mustard to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-mustard.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-mustard.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use American mustard for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion applies to all types of mustard, including American, English, or wholegrain. The weight (75g to ounces) remains the same regardless of variety, though textures may vary slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion applies to all types of mustard, including American, English, or wholegrain. The weight (75g to ounces) remains the same regardless of variety, though textures may vary slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing mustard better than using volume measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing is more accurate because mustard’s thickness can affect how much fits in a spoon. 75g of smooth mustard might look different in a tablespoon compared to grainy mustard, but the weight ensures consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing is more accurate because mustard’s thickness can affect how much fits in a spoon. 75g of smooth mustard might look different in a tablespoon compared to grainy mustard, but the weight ensures consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does mustard affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Mustard in marinades or glazes can add moisture, which might slightly extend cooking times. However, 75g is a moderate amount that shouldn’t drastically change your recipe’s timing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mustard in marinades or glazes can add moisture, which might slightly extend cooking times. However, 75g is a moderate amount that shouldn’t drastically change your recipe’s timing."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find recipes using 75g of mustard?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a> or <a href=https://www.airfryerrecipe.co.uk/recipes>sauce collections</a> for ideas. Mustard works beautifully in glazes, dressings, and even as a crust for meats."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Check out our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a> or <a href=https://www.airfryerrecipe.co.uk/recipes>sauce collections</a> for ideas. Mustard works beautifully in glazes, dressings, and even as a crust for meats."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of mustard?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of mustard?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard",
     "description": "Convert 75g of mustard to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of mustard?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-mustard"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of mustard equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a marinade or adding a tangy kick to your dish, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get the details right for perfect results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta"
-        },
-        "headline": "Quick Answer: How Many Grams Is 2.25 Cups of Pasta?",
-        "description": "Convert 2.25 cups of pasta to grams effortlessly for perfect air fryer meals. Get precise measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta"
+    },
+    "headline": "Quick Answer: How Many Grams Is 2.25 Cups of Pasta?",
+    "description": "Convert 2.25 cups of pasta to grams effortlessly for perfect air fryer meals. Get precise measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T23:33:52.667Z",
-        "dateModified": "2025-07-27T23:33:52.667Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-pasta.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T23:33:52.667Z",
+    "dateModified": "2025-07-27T23:33:52.667Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-pasta.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of pasta affect how many grams are in 2.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, pasta shape and density can slightly alter the weight. For example, 2.25 cups of spaghetti may weigh closer to 200 grams, while denser shapes like penne could reach 250 grams. We recommend weighing for accuracy, especially in air fryer recipes where even cooking matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, pasta shape and density can slightly alter the weight. For example, 2.25 cups of spaghetti may weigh closer to 200 grams, while denser shapes like penne could reach 250 grams. We recommend weighing for accuracy, especially in air fryer recipes where even cooking matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How much cooked pasta does 2.25 cups (225g) of dry pasta yield?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dry pasta roughly doubles in volume when cooked. So, 225 grams (2.25 cups) of dry pasta will yield about 4.5 cups cooked. This is perfect for two generous servings or meal prep."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dry pasta roughly doubles in volume when cooked. So, 225 grams (2.25 cups) of dry pasta will yield about 4.5 cups cooked. This is perfect for two generous servings or meal prep."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for gluten-free or wholewheat pasta?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free and wholewheat pasta may have different densities, so weights can vary. Check the package for specific gram measurements per cup, or weigh it directly for the best results in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free and wholewheat pasta may have different densities, so weights can vary. Check the package for specific gram measurements per cup, or weigh it directly for the best results in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer pasta sometimes turn out uneven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Overcrowding is the usual culprit. Stick to 225 grams (2.25 cups) of dry pasta per batch, and shake the basket halfway through cooking. For crispy dishes like pasta bakes, spacing ensures even browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overcrowding is the usual culprit. Stick to 225 grams (2.25 cups) of dry pasta per batch, and shake the basket halfway through cooking. For crispy dishes like pasta bakes, spacing ensures even browning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 2.25 Cups of Pasta?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.25 Cups of Pasta?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta",
     "description": "Convert 2.25 cups of pasta to grams effortlessly for perfect air fryer meals. Get precise measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:33:52.667000+00:00",
     "dateModified": "2025-07-27T23:33:52.667000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 2.25 Cups of Pasta?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-pasta"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.25 cups of pasta equals approximately 225 grams, though this can vary slightly depending on the pasta shape and density. Getting this measurement right is key for perfectly portioned air fryer meals, whether you're whipping up a quick lunch or meal prepping for the week. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters, so let’s dive into the details.</p>  

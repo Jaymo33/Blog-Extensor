@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats"
-        },
-        "headline": "Quick Answer: How Many Grams in 1 Tbsp of Oats?",
-        "description": "Discover the exact weight of 1 tbsp oats in grams for perfect air fryer recipes every time. Get accurate UK conversions now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats"
+    },
+    "headline": "Quick Answer: How Many Grams in 1 Tbsp of Oats?",
+    "description": "Discover the exact weight of 1 tbsp oats in grams for perfect air fryer recipes every time. Get accurate UK conversions now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of oat affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While rolled, jumbo, and steel-cut oats have slight density differences, 1 tbsp generally weighs around 5 grams. For most recipes, the variation is negligible. However, for baking, weighing oats ensures precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While rolled, jumbo, and steel-cut oats have slight density differences, 1 tbsp generally weighs around 5 grams. For most recipes, the variation is negligible. However, for baking, weighing oats ensures precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular spoon to measure 1 tbsp of oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to use a standard UK tablespoon measure for accuracy. Household spoons vary in size, which could throw off your recipe. If you don’t have one, lightly spoon oats into the measure and level it off."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to use a standard UK tablespoon measure for accuracy. Household spoons vary in size, which could throw off your recipe. If you don’t have one, lightly spoon oats into the measure and level it off."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my oat measurement sometimes seem off?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Packing oats too tightly or scooping directly from the bag can lead to inconsistent amounts. Fluff the oats first, then spoon them gently into the tablespoon. For absolute accuracy, a kitchen scale is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Packing oats too tightly or scooping directly from the bag can lead to inconsistent amounts. Fluff the oats first, then spoon them gently into the tablespoon. For absolute accuracy, a kitchen scale is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert larger amounts of oats from tablespoons to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Multiply the number of tablespoons by 5 to get the weight in grams. For example, 3 tbsp of oats would be 15 grams. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> simplifies larger batch calculations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiply the number of tablespoons by 5 to get the weight in grams. For example, 3 tbsp of oats would be 15 grams. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> simplifies larger batch calculations."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats",
     "description": "Discover the exact weight of 1 tbsp oats in grams for perfect air fryer recipes every time. Get accurate UK conversions now!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 tablespoon (tbsp) of oats weighs approximately 5 grams in the UK. This measurement is essential for air fryer recipes, where precision ensures even cooking and perfect texture. Whether you're making granola, oat bars, or coating chicken, knowing the exact weight helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

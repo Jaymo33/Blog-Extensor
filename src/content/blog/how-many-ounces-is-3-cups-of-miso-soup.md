@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup"
-        },
-        "headline": "Quick Guide: Convert 3 Cups of Miso Soup to Ounces",
-        "description": "Learn how to convert 3 cups of miso soup to ounces with our easy guide. Perfect for air fryer meal prep and precise cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup"
+    },
+    "headline": "Quick Guide: Convert 3 Cups of Miso Soup to Ounces",
+    "description": "Learn how to convert 3 cups of miso soup to ounces with our easy guide. Perfect for air fryer meal prep and precise cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-miso-soup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-miso-soup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 3 cups of miso soup in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Miso soup works wonderfully in air fryer recipes as a marinade or glaze. Just ensure you convert 3 cups to ounces (about 21 oz by weight or 24 fl oz by volume) for accuracy. Adjust cooking times slightly to account for the added moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Miso soup works wonderfully in air fryer recipes as a marinade or glaze. Just ensure you convert 3 cups to ounces (about 21 oz by weight or 24 fl oz by volume) for accuracy. Adjust cooking times slightly to account for the added moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of miso soup affect the ounce measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, denser miso soups with ingredients like tofu or seaweed may weigh more per cup. Light broths will be closer to the standard 7 oz per cup. Always weigh your miso soup if precision is crucial for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, denser miso soups with ingredients like tofu or seaweed may weigh more per cup. Light broths will be closer to the standard 7 oz per cup. Always weigh your miso soup if precision is crucial for your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert ounces back to cups for miso soup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert ounces back to cups, divide the weight by 7 (for a standard miso soup density). For example, 21 oz ÷ 7 = 3 cups. For fluid ounces, divide by 8 (since 1 cup = 8 fl oz)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert ounces back to cups, divide the weight by 7 (for a standard miso soup density). For example, 21 oz ÷ 7 = 3 cups. For fluid ounces, divide by 8 (since 1 cup = 8 fl oz)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze miso soup after measuring 3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, miso soup freezes well. Portion it into ounce-sized servings for easy use later. Thaw in the fridge overnight before reheating in the air fryer for best results. Avoid freezing soups with tofu, as the texture may change."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, miso soup freezes well. Portion it into ounce-sized servings for easy use later. Thaw in the fridge overnight before reheating in the air fryer for best results. Avoid freezing soups with tofu, as the texture may change."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of miso soup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of miso soup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup",
     "description": "Learn how to convert 3 cups of miso soup to ounces with our easy guide. Perfect for air fryer meal prep and precise cooking!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of miso soup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-miso-soup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of miso soup equals approximately 24 fluid ounces (fl oz) or about 21 ounces (oz) by weight, depending on the density of your miso soup. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're meal prepping or adjusting portion sizes, knowing how to convert cups to ounces ensures your dishes turn out perfectly every time.</p>  

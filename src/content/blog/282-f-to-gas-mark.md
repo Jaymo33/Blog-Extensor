@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark"
-        },
-        "headline": "282 F to Gas Mark Conversion Guide for Air Fryers",
-        "description": "Convert 282°F to Gas Mark for perfect air fryer cooking. Includes UK oven conversions, tips, and common FAQs for precise temperature control.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark"
+    },
+    "headline": "282 F to Gas Mark Conversion Guide for Air Fryers",
+    "description": "Convert 282°F to Gas Mark for perfect air fryer cooking. Includes UK oven conversions, tips, and common FAQs for precise temperature control.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T17:53:23.048Z",
-        "dateModified": "2025-07-20T17:53:23.048Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/282-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T17:53:23.048Z",
+    "dateModified": "2025-07-20T17:53:23.048Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/282-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 282 F in an air fryer if my recipe says Gas Mark 1?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 282°F is the exact Fahrenheit equivalent of Gas Mark 1. However, air fryers cook faster than conventional ovens, so reduce the cooking time by about 20% when making this conversion for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 282°F is the exact Fahrenheit equivalent of Gas Mark 1. However, air fryers cook faster than conventional ovens, so reduce the cooking time by about 20% when making this conversion for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why would I need to use 282 F (Gas Mark 1) in cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This low temperature is ideal for slow cooking, proofing dough, dehydrating foods, or keeping dishes warm without continuing to cook them. It's particularly useful for delicate items like custards or for the final stages of baking cheesecakes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This low temperature is ideal for slow cooking, proofing dough, dehydrating foods, or keeping dishes warm without continuing to cook them. It's particularly useful for delicate items like custards or for the final stages of baking cheesecakes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "My air fryer doesn't go down to 282 F - what should I do?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your air fryer's minimum temperature is 300°F (Gas Mark 2), you'll need to reduce cooking time significantly and monitor food closely. Alternatively, use the dehydrate function if your model has one, as it typically operates at similar temperatures to 282 F."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your air fryer's minimum temperature is 300°F (Gas Mark 2), you'll need to reduce cooking time significantly and monitor food closely. Alternatively, use the dehydrate function if your model has one, as it typically operates at similar temperatures to 282 F."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 282 F compare to other low oven temperatures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "282°F (Gas Mark 1) is the lowest conventional oven setting in the UK system. It's slightly cooler than a standard slow cooker's low setting (300°F) and significantly lower than most baking temperatures, making it perfect for gentle cooking processes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "282°F (Gas Mark 1) is the lowest conventional oven setting in the UK system. It's slightly cooler than a standard slow cooker's low setting (300°F) and significantly lower than most baking temperatures, making it perfect for gentle cooking processes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "282 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "282 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark",
     "description": "Convert 282°F to Gas Mark for perfect air fryer cooking. Includes UK oven conversions, tips, and common FAQs for precise temperature control.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T17:53:23.048000+00:00",
     "dateModified": "2025-07-20T17:53:23.048000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "282 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/282-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>282°F converts to Gas Mark 1 in UK ovens and air fryers. This moderate temperature is ideal for slow cooking, proofing dough, or keeping dishes warm. Whether you're adapting recipes between appliances or checking your air fryer's compatibility with traditional oven settings, this conversion is essential for British kitchens.</p>

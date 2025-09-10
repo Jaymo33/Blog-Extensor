@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise"
-        },
-        "headline": "Quick 250g mayonnaise to ounces conversion for UK cooks",
-        "description": "Convert 250g of mayonnaise to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise"
+    },
+    "headline": "Quick 250g mayonnaise to ounces conversion for UK cooks",
+    "description": "Convert 250g of mayonnaise to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-of-mayonnaise.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-of-mayonnaise.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use grams instead of ounces for mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide more precise measurements than ounces, especially important in baking and air frying where exact ratios affect texture and cooking times. Most professional recipes and UK cookbooks use metric measurements for this reason. Digital scales that measure in grams are also more accurate than volume measurements for thick ingredients like mayonnaise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide more precise measurements than ounces, especially important in baking and air frying where exact ratios affect texture and cooking times. Most professional recipes and UK cookbooks use metric measurements for this reason. Digital scales that measure in grams are also more accurate than volume measurements for thick ingredients like mayonnaise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cup measurements instead of converting 250g mayonnaise to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, cup measurements for mayonnaise are less accurate due to how it packs into the cup. 250g of mayonnaise equals about 1 cup plus 1 tablespoon, but this can vary based on the mayonnaise's thickness and how you fill the cup. For consistent results in air fryer recipes, weighing is always best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, cup measurements for mayonnaise are less accurate due to how it packs into the cup. 250g of mayonnaise equals about 1 cup plus 1 tablespoon, but this can vary based on the mayonnaise's thickness and how you fill the cup. For consistent results in air fryer recipes, weighing is always best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does low-fat mayonnaise weigh the same as regular mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Low-fat mayonnaise is slightly less dense than regular, but the difference is minimal for most recipes. 250g of low-fat mayo might have slightly more volume than regular, but the weight-to-ounce conversion remains essentially the same. When precision matters, like in baking, stick to the specified type."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Low-fat mayonnaise is slightly less dense than regular, but the difference is minimal for most recipes. 250g of low-fat mayo might have slightly more volume than regular, but the weight-to-ounce conversion remains essentially the same. When precision matters, like in baking, stick to the specified type."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 250g of mayonnaise without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In a pinch, use the displacement method: Fill a measuring jug with 250ml water, then add mayonnaise until the water level rises to 500ml (since mayonnaise has similar density to water). Alternatively, a standard UK jar of mayonnaise is typically 400g, so 250g is just over half. However, investing in digital scales guarantees accuracy for all your air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In a pinch, use the displacement method: Fill a measuring jug with 250ml water, then add mayonnaise until the water level rises to 500ml (since mayonnaise has similar density to water). Alternatively, a standard UK jar of mayonnaise is typically 400g, so 250g is just over half. However, investing in digital scales guarantees accuracy for all your air fryer cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 250g of mayonnaise?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise",
+    "@type": "WebPage",
+    "name": "How many ounces is 250g of mayonnaise?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise",
     "description": "Convert 250g of mayonnaise to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 250g of mayonnaise?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-mayonnaise"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250g of mayonnaise equals approximately 8.82 ounces. This conversion is essential when following air fryer recipes that require precise measurements for perfect results. Whether you're making crispy coatings or creamy dips, knowing your conversions ensures your dish turns out just right.</p>

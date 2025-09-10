@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces"
-        },
-        "headline": "Quick 25g vegetable oil to ounces conversion for air fryers",
-        "description": "Convert 25g of vegetable oil to ounces in seconds for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces"
+    },
+    "headline": "Quick 25g vegetable oil to ounces conversion for air fryers",
+    "description": "Convert 25g of vegetable oil to ounces in seconds for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-vegetable-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-vegetable-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 25g of vegetable oil the same as 25ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No – 25g of vegetable oil equals about 27ml, as oil is less dense than water. Weight (grams) and volume (millilitres) measure different properties. For air fryer recipes, always use weight measurements when specified for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No – 25g of vegetable oil equals about 27ml, as oil is less dense than water. Weight (grams) and volume (millilitres) measure different properties. For air fryer recipes, always use weight measurements when specified for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use butter instead of 25g vegetable oil in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but butter burns at lower temperatures than vegetable oil. If substituting, reduce the amount to 20g (0.7 oz) and monitor cooking closely. For best results, stick to oils with high smoke points like rapeseed or sunflower in air fryers."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but butter burns at lower temperatures than vegetable oil. If substituting, reduce the amount to 20g (0.7 oz) and monitor cooking closely. For best results, stick to oils with high smoke points like rapeseed or sunflower in air fryers."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 25g of vegetable oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "25g of vegetable oil contains approximately 225 calories. Since air fryers use less oil than traditional frying, this amount can lightly coat food for several servings. Always measure oil carefully to control calorie intake."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "25g of vegetable oil contains approximately 225 calories. Since air fryers use less oil than traditional frying, this amount can lightly coat food for several servings. Always measure oil carefully to control calorie intake."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes specify oil in grams rather than ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most UK recipes use metric measurements (grams) as standard. Grams provide more precision for small quantities like 25g of oil. However, our conversion charts help adapt any recipe to your preferred units while maintaining perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most UK recipes use metric measurements (grams) as standard. Grams provide more precision for small quantities like 25g of oil. However, our conversion charts help adapt any recipe to your preferred units while maintaining perfect results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of vegetable oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of vegetable oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces",
     "description": "Convert 25g of vegetable oil to ounces in seconds for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of vegetable oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/25g-vegetable-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25 grams of vegetable oil equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes, especially those from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, where precise measurements matter. Whether you're frying, roasting, or baking, knowing the exact weight ensures perfect results every time.</p>  

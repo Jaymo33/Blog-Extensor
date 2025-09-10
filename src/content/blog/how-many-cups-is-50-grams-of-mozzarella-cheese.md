@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese"
-        },
-        "headline": "Quick Answer: How Many Cups Is 50 Grams of Mozzarella Cheese?",
-        "description": "Discover how to convert 50 grams of mozzarella cheese to cups for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese"
+    },
+    "headline": "Quick Answer: How Many Cups Is 50 Grams of Mozzarella Cheese?",
+    "description": "Discover how to convert 50 grams of mozzarella cheese to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T19:05:43.270Z",
-        "dateModified": "2025-07-27T19:05:43.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-mozzarella-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T19:05:43.270Z",
+    "dateModified": "2025-07-27T19:05:43.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-mozzarella-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 50 grams of mozzarella cheese the same as 0.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 50 grams of shredded mozzarella cheese is approximately 0.5 cups. However, this can vary slightly depending on how tightly packed the cheese is. For best results, lightly fill the measuring cup without pressing down."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 50 grams of shredded mozzarella cheese is approximately 0.5 cups. However, this can vary slightly depending on how tightly packed the cheese is. For best results, lightly fill the measuring cup without pressing down."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use sliced mozzarella instead of shredded for 50 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Sliced mozzarella can be used, but it may take up slightly more space in the cup compared to shredded. If your recipe calls for shredded, you can always slice and then chop the cheese into smaller pieces for a similar texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Sliced mozzarella can be used, but it may take up slightly more space in the cup compared to shredded. If your recipe calls for shredded, you can always slice and then chop the cheese into smaller pieces for a similar texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does moisture content affect the measurement of mozzarella cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Mozzarella cheese with higher moisture content may clump together, making it denser when measured. This can result in using more cheese by weight than intended. For accuracy, opt for low-moisture mozzarella when measuring by volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mozzarella cheese with higher moisture content may clump together, making it denser when measured. This can result in using more cheese by weight than intended. For accuracy, opt for low-moisture mozzarella when measuring by volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What other cheeses can I substitute for mozzarella in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cheddar, provolone, or Monterey Jack can work as substitutes, but keep in mind their melting properties and flavours differ. Adjust quantities as needed, as densities vary between cheese types. Always check your recipe for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cheddar, provolone, or Monterey Jack can work as substitutes, but keep in mind their melting properties and flavours differ. Adjust quantities as needed, as densities vary between cheese types. Always check your recipe for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 50 Grams of Mozzarella Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 50 Grams of Mozzarella Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese",
     "description": "Discover how to convert 50 grams of mozzarella cheese to cups for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 50 Grams of Mozzarella Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-mozzarella-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50 grams of mozzarella cheese is roughly equivalent to 0.5 cups when shredded or grated. This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a cheesy pizza or a gooey melt, knowing how to convert grams to cups is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to help you achieve the best results. Keep reading to learn more about converting 50 grams of mozzarella cheese to cups.</p>

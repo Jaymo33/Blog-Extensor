@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste"
-        },
-        "headline": "Quick Guide: Convert 0.33 Cup of Tikka Paste to Ounces",
-        "description": "Learn how to convert 0.33 cup of tikka paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste"
+    },
+    "headline": "Quick Guide: Convert 0.33 Cup of Tikka Paste to Ounces",
+    "description": "Learn how to convert 0.33 cup of tikka paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-tikka-paste.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-tikka-paste.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.33 cup of tikka paste for vegetarian air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 0.33 cup (2.64 ounces) of tikka paste works wonderfully with vegetables, paneer, or tofu in the air fryer. The quantity provides robust flavour without overpowering more delicate ingredients. Just adjust cooking times as plant-based foods often cook faster than meat."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 0.33 cup (2.64 ounces) of tikka paste works wonderfully with vegetables, paneer, or tofu in the air fryer. The quantity provides robust flavour without overpowering more delicate ingredients. Just adjust cooking times as plant-based foods often cook faster than meat."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does the ounce measurement change if my tikka paste is particularly thick?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Thicker pastes may weigh slightly more per cup - potentially up to 3 ounces for 0.33 cup. If your paste is very dense, it's best to weigh it for accuracy. Pressing the paste firmly into the measuring cup can help standardise the amount when scales aren't available."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thicker pastes may weigh slightly more per cup - potentially up to 3 ounces for 0.33 cup. If your paste is very dense, it's best to weigh it for accuracy. Pressing the paste firmly into the measuring cup can help standardise the amount when scales aren't available."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 0.33 cup of tikka paste too spicy for children's portions?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For milder palates, you might reduce the 2.64 ounces by half and mix with yogurt. Most commercial tikka pastes are moderately spiced, but brands vary. Always check heat levels on the jar and consider doing a small test batch in your air fryer first."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For milder palates, you might reduce the 2.64 ounces by half and mix with yogurt. Most commercial tikka pastes are moderately spiced, but brands vary. Always check heat levels on the jar and consider doing a small test batch in your air fryer first."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover tikka paste after measuring out 0.33 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, tikka paste freezes well for up to 3 months. Portion it in ice cube trays (about 0.5 ounces per cube) for easy future use. Thaw overnight in the fridge before your next air fryer cooking session. This prevents waste and saves prep time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, tikka paste freezes well for up to 3 months. Portion it in ice cube trays (about 0.5 ounces per cube) for easy future use. Thaw overnight in the fridge before your next air fryer cooking session. This prevents waste and saves prep time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of tikka paste?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of tikka paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste",
     "description": "Learn how to convert 0.33 cup of tikka paste to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of tikka paste?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-tikka-paste"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of tikka paste equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're marinating chicken or preparing a quick curry, knowing the exact weight helps avoid over-seasoning or underwhelming results. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

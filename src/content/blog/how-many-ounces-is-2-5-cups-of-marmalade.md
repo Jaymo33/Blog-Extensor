@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade"
-        },
-        "headline": "Quick Answer: How many ounces is 2.5 cups of marmalade?",
-        "description": "Find out exactly how many ounces are in 2.5 cups of marmalade with our easy conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade"
+    },
+    "headline": "Quick Answer: How many ounces is 2.5 cups of marmalade?",
+    "description": "Find out exactly how many ounces are in 2.5 cups of marmalade with our easy conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T16:41:26.143Z",
-        "dateModified": "2025-08-17T16:41:26.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-marmalade.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T16:41:26.143Z",
+    "dateModified": "2025-08-17T16:41:26.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-marmalade.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2.5 cups of marmalade to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "2.5 cups of marmalade equals 20 ounces. This is because 1 cup of marmalade typically weighs 8 ounces. For precise measurements, use a kitchen scale or a standard measuring cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2.5 cups of marmalade equals 20 ounces. This is because 1 cup of marmalade typically weighs 8 ounces. For precise measurements, use a kitchen scale or a standard measuring cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 2.5 cups of marmalade?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale is the most accurate way to measure marmalade. Simply set your scale to ounces and measure out 20 ounces, which is equivalent to 2.5 cups. This method avoids the mess of sticky measuring cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale is the most accurate way to measure marmalade. Simply set your scale to ounces and measure out 20 ounces, which is equivalent to 2.5 cups. This method avoids the mess of sticky measuring cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does marmalade weigh more than other liquids?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Marmalade is denser than liquids like water due to its sugar content and fruit pulp. This means 1 cup of marmalade weighs around 8 ounces, while 1 cup of water weighs just 8.3 ounces. The difference is small but noticeable in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marmalade is denser than liquids like water due to its sugar content and fruit pulp. This means 1 cup of marmalade weighs around 8 ounces, while 1 cup of water weighs just 8.3 ounces. The difference is small but noticeable in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes work well with 2.5 cups of marmalade?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "2.5 cups (20 ounces) of marmalade is perfect for glazes, sauces, or desserts in the air fryer. Try it on air-fried chicken wings, as a filling for pastries, or in a sticky glaze for pork. The air fryer caramelises the sugars beautifully."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2.5 cups (20 ounces) of marmalade is perfect for glazes, sauces, or desserts in the air fryer. Try it on air-fried chicken wings, as a filling for pastries, or in a sticky glaze for pork. The air fryer caramelises the sugars beautifully."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of marmalade?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of marmalade?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade",
     "description": "Find out exactly how many ounces are in 2.5 cups of marmalade with our easy conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T16:41:26.143000+00:00",
     "dateModified": "2025-08-17T16:41:26.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of marmalade?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-marmalade"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of marmalade equals approximately 20 ounces. This conversion is essential for precise measurements in recipes, especially when using an air fryer. Whether you’re making glazes, desserts, or sauces, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making conversions simple for home cooks. Let’s dive deeper into how this measurement works and why it matters.</p>

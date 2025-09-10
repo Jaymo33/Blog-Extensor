@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar"
-        },
-        "headline": "Quick 150g vinegar to ounces conversion for UK cooks",
-        "description": "Convert 150g of vinegar to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar"
+    },
+    "headline": "Quick 150g vinegar to ounces conversion for UK cooks",
+    "description": "Convert 150g of vinegar to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T23:46:47.435Z",
-        "dateModified": "2025-08-08T23:46:47.435Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-of-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T23:46:47.435Z",
+    "dateModified": "2025-08-08T23:46:47.435Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-of-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 150g of vinegar the same as 150ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, for most vinegars, 150g is roughly equal to 150ml because vinegar’s density is similar to water. However, thicker varieties like balsamic may vary slightly. For air fryer recipes, the difference is usually minimal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for most vinegars, 150g is roughly equal to 150ml because vinegar’s density is similar to water. However, thicker varieties like balsamic may vary slightly. For air fryer recipes, the difference is usually minimal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup for 150g vinegar to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A measuring cup can approximate 150g of vinegar as 150ml (about 5 fluid ounces). For absolute precision, especially in baking, a kitchen scale is best. Air fryer marinades often forgive small variances."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A measuring cup can approximate 150g of vinegar as 150ml (about 5 fluid ounces). For absolute precision, especially in baking, a kitchen scale is best. Air fryer marinades often forgive small variances."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 150g vinegar affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Vinegar in marinades or glazes won’t significantly alter cooking times, but it helps tenderise meats faster. For crispy foods, a vinegar soak (diluted) can reduce moisture, speeding up browning in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vinegar in marinades or glazes won’t significantly alter cooking times, but it helps tenderise meats faster. For crispy foods, a vinegar soak (diluted) can reduce moisture, speeding up browning in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best vinegar for air fryer recipes if I’m using 150g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "White vinegar or apple cider vinegar work well for most air fryer dishes due to their neutral acidity. Balsamic adds richness but can burn at high heat. Always measure 150g (5.29 oz) accurately for balanced flavours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "White vinegar or apple cider vinegar work well for most air fryer dishes due to their neutral acidity. Balsamic adds richness but can burn at high heat. Always measure 150g (5.29 oz) accurately for balanced flavours."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 150g of vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar",
     "description": "Convert 150g of vinegar to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 150g of vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150g of vinegar equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a tangy marinade or a zesty glaze, knowing how many ounces are in 150g of vinegar ensures your dish turns out just right. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you nail those tricky conversions for flawless cooking.</p>  

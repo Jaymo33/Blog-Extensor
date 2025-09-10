@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam"
-        },
-        "headline": "Quick Guide: Convert 25g of Jam to Ounces Easily",
-        "description": "Learn how to convert 25g of jam to ounces in seconds. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam"
+    },
+    "headline": "Quick Guide: Convert 25g of Jam to Ounces Easily",
+    "description": "Learn how to convert 25g of jam to ounces in seconds. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-jam.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-jam.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 25g of jam for air fryer glazes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 25g of jam (about 0.88 ounces) works well for glazes in air fryer recipes. Thin it with a splash of water or lemon juice for easier brushing. This amount is ideal for coating meats or pastries without overpowering flavours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 25g of jam (about 0.88 ounces) works well for glazes in air fryer recipes. Thin it with a splash of water or lemon juice for easier brushing. This amount is ideal for coating meats or pastries without overpowering flavours."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert other jam amounts from grams to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert any jam weight, multiply grams by 0.035 to get ounces. For example, 50g x 0.035 = 1.76 ounces. Keep our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> bookmarked for quick reference."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert any jam weight, multiply grams by 0.035 to get ounces. For example, 50g x 0.035 = 1.76 ounces. Keep our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> bookmarked for quick reference."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer jam recipe turn out too runny?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Runny results often mean too much jam or a high-water content variety. Stick to 25g portions and consider reducing jam on the stove first. Thicker jams like blackcurrant work better for structured air fryer desserts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Runny results often mean too much jam or a high-water content variety. Stick to 25g portions and consider reducing jam on the stove first. Thicker jams like blackcurrant work better for structured air fryer desserts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 25g of jam enough for a batch of air fryer cookies?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 25g is plenty for 6-8 small thumbprint cookies. For larger batches, scale up proportionally—50g for 12 cookies, etc. Distribute evenly to avoid overflowing during cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 25g is plenty for 6-8 small thumbprint cookies. For larger batches, scale up proportionally—50g for 12 cookies, etc. Distribute evenly to avoid overflowing during cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of jam?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of jam?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam",
     "description": "Learn how to convert 25g of jam to ounces in seconds. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of jam?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-jam"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of jam equals approximately 0.88 ounces. This conversion is handy for air fryer recipes where precise measurements matter, ensuring your desserts or glazes turn out perfectly every time. Whether you're making a quick jam-filled pastry or a sticky glaze for meats, knowing this conversion helps streamline your cooking process.</p>  

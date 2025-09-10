@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream"
-        },
-        "headline": "Quick Guide: Convert 1.25 Cups of Evaporated Cream to Ounces",
-        "description": "Learn how to convert 1.25 cups of evaporated cream to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream"
+    },
+    "headline": "Quick Guide: Convert 1.25 Cups of Evaporated Cream to Ounces",
+    "description": "Learn how to convert 1.25 cups of evaporated cream to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-evaporated-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-evaporated-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use regular cream instead of evaporated cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to adjust the quantity. Regular cream is thinner, so use about 1.5 times the amount of evaporated cream. Keep an eye on cooking times, as the extra liquid may affect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to adjust the quantity. Regular cream is thinner, so use about 1.5 times the amount of evaporated cream. Keep an eye on cooking times, as the extra liquid may affect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover evaporated cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Transfer it to an airtight container and refrigerate for up to 5 days. You can also freeze it for longer storage, though the texture may change slightly when thawed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Transfer it to an airtight container and refrigerate for up to 5 days. You can also freeze it for longer storage, though the texture may change slightly when thawed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is measuring by weight better than volume for evaporated cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements are more precise because evaporated cream’s thickness can vary. A kitchen scale ensures consistency, especially important for air fryer recipes where even cooking is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements are more precise because evaporated cream’s thickness can vary. A kitchen scale ensures consistency, especially important for air fryer recipes where even cooking is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I make evaporated cream at home?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, simmer regular cream until it reduces by about half. This homemade version works well in air fryer recipes, but measure carefully to match the required ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, simmer regular cream until it reduces by about half. This homemade version works well in air fryer recipes, but measure carefully to match the required ounces."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of evaporated cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of evaporated cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream",
     "description": "Learn how to convert 1.25 cups of evaporated cream to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of evaporated cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-evaporated-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of evaporated cream equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a creamy dessert or a savoury dish, knowing the exact weight ensures perfect results every time. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

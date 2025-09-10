@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk"
-        },
-        "headline": "Quick Answer: How many ounces is 0.5 cup of condensed milk?",
-        "description": "Discover how many ounces are in 0.5 cup of condensed milk with our easy conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk"
+    },
+    "headline": "Quick Answer: How many ounces is 0.5 cup of condensed milk?",
+    "description": "Discover how many ounces are in 0.5 cup of condensed milk with our easy conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use evaporated milk instead of condensed milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk and condensed milk are not interchangeable. Condensed milk is sweetened, while evaporated milk is unsweetened. Using evaporated milk will alter the sweetness and texture of your recipe. Stick to condensed milk for desserts that require its unique properties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk and condensed milk are not interchangeable. Condensed milk is sweetened, while evaporated milk is unsweetened. Using evaporated milk will alter the sweetness and texture of your recipe. Stick to condensed milk for desserts that require its unique properties."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 cup of condensed milk to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.5 cup of condensed milk is approximately 120 grams. If your recipe uses metric measurements, this conversion ensures accuracy. A kitchen scale is the best tool for this, as it provides precise measurements for consistent results in your air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.5 cup of condensed milk is approximately 120 grams. If your recipe uses metric measurements, this conversion ensures accuracy. A kitchen scale is the best tool for this, as it provides precise measurements for consistent results in your air fryer dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air fryer dessert too sweet when using condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Condensed milk is naturally very sweet, so using too much can overpower your dessert. Always measure carefully—0.5 cup (4 ounces) is often enough for most recipes. If your dish is still too sweet, try reducing the sugar elsewhere in the recipe or balancing it with tart fruits like berries."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Condensed milk is naturally very sweet, so using too much can overpower your dessert. Always measure carefully—0.5 cup (4 ounces) is often enough for most recipes. If your dish is still too sweet, try reducing the sugar elsewhere in the recipe or balancing it with tart fruits like berries."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can freeze condensed milk for up to 3 months. Thaw it in the fridge overnight and stir well before using. However, freezing may slightly change its texture, so it's best used in cooked or baked dishes rather than raw applications like no-bake cheesecakes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can freeze condensed milk for up to 3 months. Thaw it in the fridge overnight and stir well before using. However, freezing may slightly change its texture, so it's best used in cooked or baked dishes rather than raw applications like no-bake cheesecakes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.5 cup of condensed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of condensed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk",
     "description": "Discover how many ounces are in 0.5 cup of condensed milk with our easy conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.5 cup of condensed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cup of condensed milk equals approximately 4 ounces. This measurement is essential for air fryer recipes, ensuring your desserts and baked goods turn out perfectly. Whether you're making a quick cake or a creamy topping, knowing how many ounces are in 0.5 cup of condensed milk saves time and hassle. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on precise measurements to help you achieve the best results with your air fryer.</p>

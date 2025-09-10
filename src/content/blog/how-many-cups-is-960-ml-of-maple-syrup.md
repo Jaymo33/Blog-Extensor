@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup"
-        },
-        "headline": "Quick Answer: How Many Cups Is 960 ml of Maple Syrup?",
-        "description": "Discover how to convert 960 ml of maple syrup to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup"
+    },
+    "headline": "Quick Answer: How Many Cups Is 960 ml of Maple Syrup?",
+    "description": "Discover how to convert 960 ml of maple syrup to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-maple-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-maple-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 960 ml of maple syrup the same as 4 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not exactly. 960 ml of maple syrup equals approximately 4.06 cups. While 4 cups is close, the slight difference can matter in recipes requiring precision, especially in baking or air fryer dishes where consistency is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not exactly. 960 ml of maple syrup equals approximately 4.06 cups. While 4 cups is close, the slight difference can matter in recipes requiring precision, especially in baking or air fryer dishes where consistency is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 960 ml of maple syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to use a liquid measuring cup for maple syrup, as its sticky consistency can make it hard to level off in a dry cup. A liquid cup with clear markings ensures you get the most accurate measurement for your 960 ml conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to use a liquid measuring cup for maple syrup, as its sticky consistency can make it hard to level off in a dry cup. A liquid cup with clear markings ensures you get the most accurate measurement for your 960 ml conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 960 ml of maple syrup compare to other sweeteners in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "960 ml of maple syrup is roughly 4.06 cups, but other sweeteners like honey or corn syrup may differ slightly due to density. Always check specific conversion charts if substituting to avoid altering your recipe’s texture or sweetness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "960 ml of maple syrup is roughly 4.06 cups, but other sweeteners like honey or corn syrup may differ slightly due to density. Always check specific conversion charts if substituting to avoid altering your recipe’s texture or sweetness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my 960 ml of maple syrup measurement not exact when converting to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Small variations can occur due to rounding or slight differences in cup sizes (US vs. UK). For the most precise results, use a digital scale or a jug with both ml and cup markings. This ensures your air fryer recipes turn out perfectly every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Small variations can occur due to rounding or slight differences in cup sizes (US vs. UK). For the most precise results, use a digital scale or a jug with both ml and cup markings. This ensures your air fryer recipes turn out perfectly every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 960 ml of Maple Syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 960 ml of Maple Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup",
     "description": "Discover how to convert 960 ml of maple syrup to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 960 ml of Maple Syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-maple-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>960 ml of maple syrup equals approximately 4.06 cups. This conversion is essential for baking, cooking, or using your air fryer, where precise measurements can make or break a recipe. Whether you're whipping up a glaze for air-fried salmon or sweetening a dessert, knowing how to convert 960 ml of maple syrup to cups ensures consistency and delicious results.</p>

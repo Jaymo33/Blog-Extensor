@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar"
-        },
-        "headline": "Quick Answer: 0.125 Cup of Icing Sugar to Ounces UK",
-        "description": "Discover how to convert 0.125 cup of icing sugar to ounces in seconds. Perfect for air fryer baking with precise UK measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar"
+    },
+    "headline": "Quick Answer: 0.125 Cup of Icing Sugar to Ounces UK",
+    "description": "Discover how to convert 0.125 cup of icing sugar to ounces in seconds. Perfect for air fryer baking with precise UK measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-icing-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-icing-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use granulated sugar instead of 0.125 cup icing sugar in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can substitute granulated sugar, the texture and sweetness will differ. Icing sugar dissolves instantly, making it better for glazes and dusting. For every 0.125 cup (0.5 oz) of icing sugar, use slightly less granulated sugar to account for density."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can substitute granulated sugar, the texture and sweetness will differ. Icing sugar dissolves instantly, making it better for glazes and dusting. For every 0.125 cup (0.5 oz) of icing sugar, use slightly less granulated sugar to account for density."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.125 cup of icing sugar to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.125 cup of icing sugar equals approximately 14 grams. This conversion is useful for UK bakers using metric measurements. Always spoon and level the sugar for accuracy, especially in air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.125 cup of icing sugar equals approximately 14 grams. This conversion is useful for UK bakers using metric measurements. Always spoon and level the sugar for accuracy, especially in air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer burn recipes with icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate hot air, which can caramelize sugars quickly. When using 0.125 cup of icing sugar, reduce cooking time or temperature slightly. Also, apply glazes or dustings after cooking to prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate hot air, which can caramelize sugars quickly. When using 0.125 cup of icing sugar, reduce cooking time or temperature slightly. Also, apply glazes or dustings after cooking to prevent burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I double the 0.125 cup icing sugar measurement for larger batches?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can scale up the 0.125 cup (0.5 oz) measurement proportionally. For example, 0.25 cup would be 1 ounce. Just ensure your air fryer isn’t overcrowded to maintain even cooking with increased quantities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can scale up the 0.125 cup (0.5 oz) measurement proportionally. For example, 0.25 cup would be 1 ounce. Just ensure your air fryer isn’t overcrowded to maintain even cooking with increased quantities."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of icing sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of icing sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar",
     "description": "Discover how to convert 0.125 cup of icing sugar to ounces in seconds. Perfect for air fryer baking with precise UK measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of icing sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-icing-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of icing sugar equals approximately 0.5 ounces (or 14 grams) in UK measurements. This conversion is essential for air fryer baking, where precision ensures your desserts turn out perfectly. Whether you're making cakes, cookies, or glazes, knowing the exact weight of 0.125 cup of icing sugar helps avoid mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

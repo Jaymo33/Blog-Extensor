@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm"
-        },
-        "headline": "Quick Answer: 0.75 Cup Wheatgerm to Ounces Conversion",
-        "description": "Discover how many ounces are in 0.75 cup of wheatgerm with our easy conversion guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm"
+    },
+    "headline": "Quick Answer: 0.75 Cup Wheatgerm to Ounces Conversion",
+    "description": "Discover how many ounces are in 0.75 cup of wheatgerm with our easy conversion guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-075-cup-of-wheatgerm.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-075-cup-of-wheatgerm.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for wheatgerm?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, using a kitchen scale is often more accurate than measuring cups. For 0.75 cup of wheatgerm, simply weigh out 2.65 ounces on your scale. This method eliminates packing inconsistencies and ensures precise measurements for your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, using a kitchen scale is often more accurate than measuring cups. For 0.75 cup of wheatgerm, simply weigh out 2.65 ounces on your scale. This method eliminates packing inconsistencies and ensures precise measurements for your air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of wheatgerm affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slightly. Toasted wheatgerm may weigh a bit less per cup than raw wheatgerm due to reduced moisture content. However, the difference is minimal, and the 0.75 cup to ounces conversion (2.65 oz) works well for both types in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slightly. Toasted wheatgerm may weigh a bit less per cup than raw wheatgerm due to reduced moisture content. However, the difference is minimal, and the 0.75 cup to ounces conversion (2.65 oz) works well for both types in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store wheatgerm for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store wheatgerm in an airtight container in the fridge or freezer to maintain freshness. Proper storage prevents rancidity and ensures your 0.75 cup measurements remain consistent for future air fryer recipes. It typically keeps for about 6 months when stored correctly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store wheatgerm in an airtight container in the fridge or freezer to maintain freshness. Proper storage prevents rancidity and ensures your 0.75 cup measurements remain consistent for future air fryer recipes. It typically keeps for about 6 months when stored correctly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute wheatgerm with other ingredients in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While wheatgerm has unique nutritional benefits, you can substitute it with breadcrumbs or ground nuts in some recipes. Keep in mind that substitutions may alter texture and flavour. For best results, stick to the original 0.75 cup wheatgerm measurement when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While wheatgerm has unique nutritional benefits, you can substitute it with breadcrumbs or ground nuts in some recipes. Keep in mind that substitutions may alter texture and flavour. For best results, stick to the original 0.75 cup wheatgerm measurement when possible."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.75 cup of wheatgerm?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.75 cup of wheatgerm?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm",
     "description": "Discover how many ounces are in 0.75 cup of wheatgerm with our easy conversion guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.75 cup of wheatgerm?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-075-cup-of-wheatgerm"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cup of wheatgerm equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a healthy breakfast or adding a crunchy topping to your dishes, knowing how many ounces are in 0.75 cup of wheatgerm ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making your cooking experience seamless with accurate conversions and delicious recipes.</p>

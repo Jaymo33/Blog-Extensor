@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar"
-        },
-        "headline": "Quick Guide: Convert 860 ml of Vinegar to Cups Easily",
-        "description": "Learn how to convert 860 ml of vinegar to cups for precise cooking and baking. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar"
+    },
+    "headline": "Quick Guide: Convert 860 ml of Vinegar to Cups Easily",
+    "description": "Learn how to convert 860 ml of vinegar to cups for precise cooking and baking. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 860 ml of vinegar the same as 3.63 cups in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cup measurements vary by country. In the US, 860 ml of vinegar equals roughly 3.63 cups (240 ml per cup). In the UK, it’s closer to 3.03 cups (284 ml per cup). Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cup measurements vary by country. In the US, 860 ml of vinegar equals roughly 3.63 cups (240 ml per cup). In the UK, it’s closer to 3.03 cups (284 ml per cup). Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 860 ml of vinegar for cleaning my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, diluted vinegar is great for cleaning. Mix 860 ml of vinegar with an equal amount of water for a natural cleaning solution. This is enough for multiple deep cleans, depending on your air fryer’s size."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, diluted vinegar is great for cleaning. Mix 860 ml of vinegar with an equal amount of water for a natural cleaning solution. This is enough for multiple deep cleans, depending on your air fryer’s size."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many air fryer recipes use 860 ml of vinegar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes rarely call for 860 ml of vinegar in one go, but it’s useful for batch cooking. For example, you might use this amount for pickling or making large batches of marinade for meal prep."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes rarely call for 860 ml of vinegar in one go, but it’s useful for batch cooking. For example, you might use this amount for pickling or making large batches of marinade for meal prep."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store leftover vinegar after measuring 860 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover vinegar in a cool, dark place in its original bottle or a glass container. Ensure the lid is tight to preserve its acidity. Properly stored, vinegar lasts almost indefinitely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover vinegar in a cool, dark place in its original bottle or a glass container. Ensure the lid is tight to preserve its acidity. Properly stored, vinegar lasts almost indefinitely."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 860 ml of Vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 860 ml of Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar",
     "description": "Learn how to convert 860 ml of vinegar to cups for precise cooking and baking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 860 ml of Vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>860 ml of vinegar is approximately 3.63 cups when using standard US cup measurements. This conversion is essential for recipes that require precise liquid measurements, especially when using an air fryer for marinades or dressings. Whether you're whipping up a tangy sauce or cleaning your appliance, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen measurements for hassle-free cooking.</p>  

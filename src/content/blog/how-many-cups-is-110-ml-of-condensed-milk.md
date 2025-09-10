@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk"
-        },
-        "headline": "Quick Guide: Convert 110 ml of Condensed Milk to Cups Easily",
-        "description": "Learn how to convert 110 ml of condensed milk to cups for perfect baking results every time. Includes air fryer-friendly tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk"
+    },
+    "headline": "Quick Guide: Convert 110 ml of Condensed Milk to Cups Easily",
+    "description": "Learn how to convert 110 ml of condensed milk to cups for perfect baking results every time. Includes air fryer-friendly tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-110-ml-of-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-110-ml-of-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 110 ml of condensed milk the same as half a cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almost! 110 ml of condensed milk equals roughly 0.46 US cups, which is just under half a cup. For UK cups, it’s about 0.44 cups. Always measure precisely for air fryer recipes, as small differences can affect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almost! 110 ml of condensed milk equals roughly 0.46 US cups, which is just under half a cup. For UK cups, it’s about 0.44 cups. Always measure precisely for air fryer recipes, as small differences can affect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use evaporated milk instead of 110 ml of condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk isn’t sweetened like condensed milk. If substituting, you’d need to add sugar and reduce other liquids. For best results in air fryer desserts, stick to condensed milk unless the recipe suggests alternatives."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk isn’t sweetened like condensed milk. If substituting, you’d need to add sugar and reduce other liquids. For best results in air fryer desserts, stick to condensed milk unless the recipe suggests alternatives."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 110 ml of condensed milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoons: 110 ml is about 7.3 tablespoons. Alternatively, fill a standard mug to just under one-quarter full (since 1 cup is roughly 240 ml). Grease your spoon or mug first to help the condensed milk slide out easily."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoons: 110 ml is about 7.3 tablespoons. Alternatively, fill a standard mug to just under one-quarter full (since 1 cup is roughly 240 ml). Grease your spoon or mug first to help the condensed milk slide out easily."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes often use 110 ml of condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "110 ml (about half a cup) is a convenient quantity for small-batch air fryer desserts, ensuring richness without overwhelming sweetness. It’s ideal for recipes like mini cheesecakes or caramel sauces, where balance is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "110 ml (about half a cup) is a convenient quantity for small-batch air fryer desserts, ensuring richness without overwhelming sweetness. It’s ideal for recipes like mini cheesecakes or caramel sauces, where balance is key."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 110 ml of Condensed Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 110 ml of Condensed Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk",
     "description": "Learn how to convert 110 ml of condensed milk to cups for perfect baking results every time. Includes air fryer-friendly tips!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 110 ml of Condensed Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-110-ml-of-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>110 ml of condensed milk is approximately 0.46 cups (just under half a cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a cake or a creamy dessert, knowing how many cups is 110 ml of condensed milk ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Let’s dive deeper into why this measurement matters and how to use it in your air fryer.</p>  

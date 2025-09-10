@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark"
-        },
-        "headline": "401 F to Gas Mark Conversion Guide for Air Fryers & Ovens",
-        "description": "Convert 401°F to Gas Mark (6) for perfect air fryer & oven cooking. Includes UK conversion charts, tips, and recipe adjustments.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark"
+    },
+    "headline": "401 F to Gas Mark Conversion Guide for Air Fryers & Ovens",
+    "description": "Convert 401°F to Gas Mark (6) for perfect air fryer & oven cooking. Includes UK conversion charts, tips, and recipe adjustments.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T22:44:37.112Z",
-        "dateModified": "2025-07-20T22:44:37.112Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/401-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T22:44:37.112Z",
+    "dateModified": "2025-07-20T22:44:37.112Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/401-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 401 F to Gas Mark for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "401°F converts directly to Gas Mark 6. For air fryers, you might want to reduce the temperature slightly to 375-380°F (still Gas Mark 6 range) as air fryers cook more efficiently than conventional ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "401°F converts directly to Gas Mark 6. For air fryers, you might want to reduce the temperature slightly to 375-380°F (still Gas Mark 6 range) as air fryers cook more efficiently than conventional ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same cooking time when converting 401 F to Gas Mark 6 in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, air fryers typically cook faster than ovens. Reduce cooking times by about 20% when using Gas Mark 6 (401°F) in an air fryer compared to oven instructions, and always check food a few minutes early."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, air fryers typically cook faster than ovens. Reduce cooking times by about 20% when using Gas Mark 6 (401°F) in an air fryer compared to oven instructions, and always check food a few minutes early."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 401 F (Gas Mark 6) in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gas Mark 6 (401°F) works perfectly for roasting vegetables, cooking frozen foods, baking cookies, and preparing crispy chicken or fish in your air fryer. It's a versatile temperature for many recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gas Mark 6 (401°F) works perfectly for roasting vegetables, cooking frozen foods, baking cookies, and preparing crispy chicken or fish in your air fryer. It's a versatile temperature for many recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook faster than my oven at the same Gas Mark 6 temperature?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate hot air more efficiently than conventional ovens, cooking food faster even at the same temperature (401°F/Gas Mark 6). The compact size and powerful fan distribute heat more directly to the food."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate hot air more efficiently than conventional ovens, cooking food faster even at the same temperature (401°F/Gas Mark 6). The compact size and powerful fan distribute heat more directly to the food."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "401 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "401 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark",
     "description": "Convert 401°F to Gas Mark (6) for perfect air fryer & oven cooking. Includes UK conversion charts, tips, and recipe adjustments.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T22:44:37.112000+00:00",
     "dateModified": "2025-07-20T22:44:37.112000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "401 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/401-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>401°F converts to Gas Mark 6 in UK ovens and air fryers. This temperature is commonly used for baking, roasting, and air frying recipes that require moderate-high heat. Whether you're using a traditional oven or modern air fryer, understanding this conversion ensures your dishes cook perfectly every time.</p>

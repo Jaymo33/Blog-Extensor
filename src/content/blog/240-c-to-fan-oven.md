@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven"
-        },
-        "headline": "240 C to Fan Oven Conversion | Air Fryer Equivalent",
-        "description": "Learn how to convert 240 C to fan oven settings for baking and air frying. Includes temperature equivalents and cooking tips for perfect results.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven"
+    },
+    "headline": "240 C to Fan Oven Conversion | Air Fryer Equivalent",
+    "description": "Learn how to convert 240 C to fan oven settings for baking and air frying. Includes temperature equivalents and cooking tips for perfect results.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T18:01:14.562Z",
-        "dateModified": "2025-07-21T18:01:14.562Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/240-c-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T18:01:14.562Z",
+    "dateModified": "2025-07-21T18:01:14.562Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/240-c-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 240 C to fan oven for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baking, reduce 240 C by 20 degrees to get 220 C in a fan oven. This adjustment prevents over-browning while ensuring even cooking. The same conversion applies to air fryers, though baking times may be slightly shorter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baking, reduce 240 C by 20 degrees to get 220 C in a fan oven. This adjustment prevents over-browning while ensuring even cooking. The same conversion applies to air fryers, though baking times may be slightly shorter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 240 C in a conventional oven the same as 240 C in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 240 C in a conventional oven is hotter than 240 C in a fan oven due to the air circulation. You should always reduce the temperature by 20 degrees when using fan settings, making 240 C equivalent to 220 C in a fan-assisted oven or air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 240 C in a conventional oven is hotter than 240 C in a fan oven due to the air circulation. You should always reduce the temperature by 20 degrees when using fan settings, making 240 C equivalent to 220 C in a fan-assisted oven or air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the 240 C to 220 C conversion for all foods in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the 20-degree reduction works for most foods, delicate items like custards or soufflés may need additional temperature adjustments. For these, try reducing by 25-30 degrees instead and monitor cooking progress carefully."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the 20-degree reduction works for most foods, delicate items like custards or soufflés may need additional temperature adjustments. For these, try reducing by 25-30 degrees instead and monitor cooking progress carefully."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food cook faster at 220 C fan than 240 C conventional?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The fan circulates hot air more efficiently, transferring heat to food faster. This means cooking completes quicker at the lower temperature. Always check doneness early when using fan settings or air fryer equivalents of conventional oven temperatures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The fan circulates hot air more efficiently, transferring heat to food faster. This means cooking completes quicker at the lower temperature. Always check doneness early when using fan settings or air fryer equivalents of conventional oven temperatures."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "240 C to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven",
+    "@type": "WebPage",
+    "name": "240 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven",
     "description": "Learn how to convert 240 C to fan oven settings for baking and air frying. Includes temperature equivalents and cooking tips for perfect results.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T18:01:14.562000+00:00",
     "dateModified": "2025-07-21T18:01:14.562000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "240 C to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/240-c-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>240 C in a fan oven is equivalent to approximately 220 C with the fan setting. This 20-degree reduction accounts for the fan's efficient heat circulation, which cooks food faster and more evenly. When using an air fryer, which works similarly to a convection oven, you'll typically follow the same temperature adjustment principle. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend this conversion for everything from roasted vegetables to baked goods.</p>

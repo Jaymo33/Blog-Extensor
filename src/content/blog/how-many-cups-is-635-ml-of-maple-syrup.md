@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup"
-        },
-        "headline": "Quick Guide: Convert 635 ml of Maple Syrup to Cups Easily",
-        "description": "Learn how to convert 635 ml of maple syrup to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup"
+    },
+    "headline": "Quick Guide: Convert 635 ml of Maple Syrup to Cups Easily",
+    "description": "Learn how to convert 635 ml of maple syrup to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-maple-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-maple-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 635 ml of maple syrup the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s a slight difference. In the US, 1 cup equals 237 ml, so 635 ml is about 2.68 cups. In the UK, 1 cup is 250 ml, making 635 ml closer to 2.54 cups. Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s a slight difference. In the US, 1 cup equals 237 ml, so 635 ml is about 2.68 cups. In the UK, 1 cup is 250 ml, making 635 ml closer to 2.54 cups. Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for maple syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can, but it’s not ideal. Maple syrup is sticky and thick, so a liquid measuring cup with a spout works better. If using dry cups, spoon the syrup in gently to avoid air gaps and ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can, but it’s not ideal. Maple syrup is sticky and thick, so a liquid measuring cup with a spout works better. If using dry cups, spoon the syrup in gently to avoid air gaps and ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent maple syrup from burning in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To avoid burning, reduce the amount of syrup slightly or lower the cooking temperature. Brush the syrup on towards the end of cooking, and keep an eye on it—sugary glazes caramelise quickly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To avoid burning, reduce the amount of syrup slightly or lower the cooking temperature. Brush the syrup on towards the end of cooking, and keep an eye on it—sugary glazes caramelise quickly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to clean maple syrup residue from my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Wipe the basket with warm, soapy water immediately after use. For stubborn residue, soak the basket or use a non-abrasive sponge. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> for more tips."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wipe the basket with warm, soapy water immediately after use. For stubborn residue, soak the basket or use a non-abrasive sponge. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning guide</a> for more tips."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 635 ml of Maple Syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 635 ml of Maple Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup",
     "description": "Learn how to convert 635 ml of maple syrup to cups for perfect baking and cooking every time. Includes tips for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 635 ml of Maple Syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-maple-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>635 ml of maple syrup is roughly equivalent to 2.68 cups. This conversion is essential for anyone baking or cooking with maple syrup, especially when using an air fryer where precise measurements can make all the difference. Whether you're whipping up a glaze for air-fried salmon or sweetening a dessert, knowing this conversion ensures perfect results every time.</p>  

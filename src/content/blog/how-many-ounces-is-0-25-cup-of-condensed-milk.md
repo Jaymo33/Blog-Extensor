@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk"
-        },
-        "headline": "Quick Guide: Convert 0.25 Cup Condensed Milk to Ounces",
-        "description": "Learn how to convert 0.25 cup of condensed milk to ounces for perfect air fryer desserts every time. Simple, accurate, and UK-friendly!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk"
+    },
+    "headline": "Quick Guide: Convert 0.25 Cup Condensed Milk to Ounces",
+    "description": "Learn how to convert 0.25 cup of condensed milk to ounces for perfect air fryer desserts every time. Simple, accurate, and UK-friendly!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use evaporated milk instead of condensed milk in a 0.25 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk and condensed milk aren’t interchangeable. Condensed milk is sweetened and thicker, so substituting it 1:1 will alter sweetness and texture. For 0.25 cup of condensed milk (2 oz), you’d need to adjust sugar and reduce other liquids if using evaporated milk."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk and condensed milk aren’t interchangeable. Condensed milk is sweetened and thicker, so substituting it 1:1 will alter sweetness and texture. For 0.25 cup of condensed milk (2 oz), you’d need to adjust sugar and reduce other liquids if using evaporated milk."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.25 cup of condensed milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a tablespoon: 0.25 cup equals 4 tablespoons (about 2 oz). Spoon the condensed milk into the tablespoon and level it off for accuracy. For smaller amounts, a kitchen scale is your best bet—weigh out 2 ounces directly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a tablespoon: 0.25 cup equals 4 tablespoons (about 2 oz). Spoon the condensed milk into the tablespoon and level it off for accuracy. For smaller amounts, a kitchen scale is your best bet—weigh out 2 ounces directly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe with condensed milk burn so quickly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Condensed milk’s high sugar content caramelises fast in air fryers. Lower the temperature by 10°C and shorten cooking time. Cover dishes with foil for the first half of cooking, then uncover to finish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Condensed milk’s high sugar content caramelises fast in air fryers. Lower the temperature by 10°C and shorten cooking time. Cover dishes with foil for the first half of cooking, then uncover to finish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 0.25 cup of condensed milk the same as 2 fluid ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not quite. Fluid ounces measure volume, while weight ounces (oz) measure mass. Condensed milk is dense, so 0.25 cup (volume) equals 2 weight ounces. Always use weight for baking precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not quite. Fluid ounces measure volume, while weight ounces (oz) measure mass. Condensed milk is dense, so 0.25 cup (volume) equals 2 weight ounces. Always use weight for baking precision."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of condensed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of condensed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk",
     "description": "Learn how to convert 0.25 cup of condensed milk to ounces for perfect air fryer desserts every time. Simple, accurate, and UK-friendly!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of condensed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of condensed milk equals approximately 2 ounces (or 2.08 oz to be precise). This conversion is essential for air fryer recipes, where precise measurements can make or break your dessert. Whether you're making fudge, cakes, or sticky buns, knowing how many ounces are in 0.25 cup of condensed milk ensures perfect results every time.</p>  

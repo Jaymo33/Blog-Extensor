@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven"
-        },
-        "headline": "137 C to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 137 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven"
+    },
+    "headline": "137 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 137 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T13:18:32.394Z",
-        "dateModified": "2025-07-21T13:18:32.394Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/137-c-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T13:18:32.394Z",
+    "dateModified": "2025-07-21T13:18:32.394Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/137-c-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 137°C to my specific fan oven model?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most fan ovens follow the standard 20°C reduction rule, so 137°C becomes 120°C. However, consult your oven's manual as some models may vary slightly. For air fryers, use the same 120°C setting but reduce cooking time by 20-30%."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most fan ovens follow the standard 20°C reduction rule, so 137°C becomes 120°C. However, consult your oven's manual as some models may vary slightly. For air fryers, use the same 120°C setting but reduce cooking time by 20-30%."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the 137°C to fan oven conversion for all types of food?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion works for most dishes, but timing adjustments vary. Delicate items like soufflés may need extra care, while dense foods like roasts might require slightly longer than the reduced time. Always check food 5-10 minutes before the recipe suggests."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion works for most dishes, but timing adjustments vary. Delicate items like soufflés may need extra care, while dense foods like roasts might require slightly longer than the reduced time. Always check food 5-10 minutes before the recipe suggests."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food cook faster at 137°C in the fan oven than conventional?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air continuously, transferring heat to food more efficiently. This means the 120°C fan setting (converted from 137°C) cooks food faster than still air at 137°C in a conventional oven. The same principle applies to air fryers but more intensely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air continuously, transferring heat to food more efficiently. This means the 120°C fan setting (converted from 137°C) cooks food faster than still air at 137°C in a conventional oven. The same principle applies to air fryers but more intensely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does altitude affect the 137°C to fan oven conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "At higher altitudes, you may need to increase temperatures slightly as lower air pressure affects cooking. For 137°C conversions, try using 125°C in your fan oven instead of 120°C. Always check food doneness as timing may also need adjustment."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "At higher altitudes, you may need to increase temperatures slightly as lower air pressure affects cooking. For 137°C conversions, try using 125°C in your fan oven instead of 120°C. Always check food doneness as timing may also need adjustment."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "137 C to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven",
+    "@type": "WebPage",
+    "name": "137 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven",
     "description": "Convert 137 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T13:18:32.394000+00:00",
     "dateModified": "2025-07-21T13:18:32.394000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "137 C to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/137-c-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>137°C in a conventional oven converts to approximately 120°C in a fan oven. This 15-20°C reduction is standard when adapting recipes for convection cooking, as the circulating air distributes heat more efficiently. Whether you're baking cakes or roasting vegetables, understanding this conversion ensures perfect results every time.</p>

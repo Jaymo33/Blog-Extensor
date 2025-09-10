@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark"
-        },
-        "headline": "333 F to Gas Mark Conversion for Air Fryers & Ovens",
-        "description": "Convert 333°F to Gas Mark for perfect air fryer and oven cooking. Includes UK conversions, baking tips, and temperature guides.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark"
+    },
+    "headline": "333 F to Gas Mark Conversion for Air Fryers & Ovens",
+    "description": "Convert 333°F to Gas Mark for perfect air fryer and oven cooking. Includes UK conversions, baking tips, and temperature guides.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T19:42:35.102Z",
-        "dateModified": "2025-07-20T19:42:35.102Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/333-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T19:42:35.102Z",
+    "dateModified": "2025-07-20T19:42:35.102Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/333-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 333 F in an air fryer instead of Gas Mark 3?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, absolutely. Air fryers typically use Fahrenheit settings, so 333 F is the direct equivalent of Gas Mark 3. The results will be identical, though cooking times may be slightly shorter in an air fryer due to its efficient heat circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, absolutely. Air fryers typically use Fahrenheit settings, so 333 F is the direct equivalent of Gas Mark 3. The results will be identical, though cooking times may be slightly shorter in an air fryer due to its efficient heat circulation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 333 F compare to other Gas Mark temperatures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "333 F (Gas Mark 3) sits between Gas Mark 2 (300°F) and Gas Mark 4 (350°F). It's a moderate oven temperature ideal for gentle cooking. Gas Mark 1 is 275°F, while Gas Mark 5 is 375°F, so 333 F is right in the middle of these common baking temperatures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "333 F (Gas Mark 3) sits between Gas Mark 2 (300°F) and Gas Mark 4 (350°F). It's a moderate oven temperature ideal for gentle cooking. Gas Mark 1 is 275°F, while Gas Mark 5 is 375°F, so 333 F is right in the middle of these common baking temperatures."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why would a recipe specify 333 F instead of Gas Mark 3?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes might specify 333 F rather than Gas Mark 3 if they originate from countries that primarily use Fahrenheit. Some modern appliances, especially air fryers, also default to Fahrenheit scales. The temperatures are identical - it's just different measurement systems."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes might specify 333 F rather than Gas Mark 3 if they originate from countries that primarily use Fahrenheit. Some modern appliances, especially air fryers, also default to Fahrenheit scales. The temperatures are identical - it's just different measurement systems."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do I need to adjust cooking times when converting 333 F to Gas Mark 3?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Only if switching between oven types. When using the same appliance, no time adjustment is needed as the temperature is identical. However, air fryers cook faster than conventional ovens, so regardless of using 333 F or Gas Mark 3, you'll typically reduce cooking times by about 20% in an air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Only if switching between oven types. When using the same appliance, no time adjustment is needed as the temperature is identical. However, air fryers cook faster than conventional ovens, so regardless of using 333 F or Gas Mark 3, you'll typically reduce cooking times by about 20% in an air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "333 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "333 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark",
     "description": "Convert 333°F to Gas Mark for perfect air fryer and oven cooking. Includes UK conversions, baking tips, and temperature guides.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T19:42:35.102000+00:00",
     "dateModified": "2025-07-20T19:42:35.102000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "333 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/333-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>333°F converts to Gas Mark 3 for most standard ovens and air fryers. This temperature is ideal for gentle baking, slow roasting, or keeping dishes warm without overcooking. Whether you're using a traditional oven or a modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

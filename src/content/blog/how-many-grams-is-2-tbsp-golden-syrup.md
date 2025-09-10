@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup"
-        },
-        "headline": "Quick Answer: 2 tbsp golden syrup to grams (UK conversion)",
-        "description": "Find out exactly how many grams are in 2 tbsp of golden syrup for perfect air fryer recipes. Easy UK conversion guide included!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup"
+    },
+    "headline": "Quick Answer: 2 tbsp golden syrup to grams (UK conversion)",
+    "description": "Find out exactly how many grams are in 2 tbsp of golden syrup for perfect air fryer recipes. Easy UK conversion guide included!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-golden-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-golden-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use honey instead of golden syrup in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, honey can substitute golden syrup in a 1:1 ratio by volume, but the flavour will be different. Honey is slightly sweeter and has a floral note, whereas golden syrup has a deeper caramel taste. Adjust other sweeteners in the recipe if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, honey can substitute golden syrup in a 1:1 ratio by volume, but the flavour will be different. Honey is slightly sweeter and has a floral note, whereas golden syrup has a deeper caramel taste. Adjust other sweeteners in the recipe if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my golden syrup measurement vary slightly each time?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Golden syrup’s thickness and stickiness can cause small variations in volume measurements. For absolute accuracy, use a digital scale to measure 42g for 2 tbsp. Temperature also affects viscosity—warmer syrup pours more easily, potentially leading to over-pouring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Golden syrup’s thickness and stickiness can cause small variations in volume measurements. For absolute accuracy, use a digital scale to measure 42g for 2 tbsp. Temperature also affects viscosity—warmer syrup pours more easily, potentially leading to over-pouring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean golden syrup from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Soak the air fryer basket in warm, soapy water to loosen sticky residue. For stubborn spots, use a soft brush or sponge with <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid abrasive scrubbers to prevent damaging the non-stick coating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Soak the air fryer basket in warm, soapy water to loosen sticky residue. For stubborn spots, use a soft brush or sponge with <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid abrasive scrubbers to prevent damaging the non-stick coating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is golden syrup the same as treacle?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, golden syrup is lighter and sweeter than treacle, which has a stronger, bittersweet flavour. While both are invert sugars, they aren’t interchangeable in recipes without adjusting quantities. Golden syrup works better for delicate air fryer desserts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, golden syrup is lighter and sweeter than treacle, which has a stronger, bittersweet flavour. While both are invert sugars, they aren’t interchangeable in recipes without adjusting quantities. Golden syrup works better for delicate air fryer desserts."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2 tbsp of golden syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of golden syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup",
     "description": "Find out exactly how many grams are in 2 tbsp of golden syrup for perfect air fryer recipes. Easy UK conversion guide included!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2 tbsp of golden syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-golden-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 tablespoons (tbsp) of golden syrup equals approximately 42 grams in the UK. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking sticky toffee pudding or glazing roasted vegetables, knowing the exact weight of golden syrup helps avoid over-sweetening or under-measuring.</p>  

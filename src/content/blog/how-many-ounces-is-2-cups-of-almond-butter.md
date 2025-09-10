@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of almond butter?",
-        "description": "Find out exactly how many ounces are in 2 cups of almond butter for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of almond butter?",
+    "description": "Find out exactly how many ounces are in 2 cups of almond butter for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-almond-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-almond-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does almond butter weigh the same as peanut butter per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almond butter and peanut butter have similar densities, but almond butter is slightly heavier. While 2 cups of peanut butter equals about 16 ounces, almond butter may weigh 16-17 ounces for the same volume due to its finer texture. Always check your specific brand's nutrition label for precise measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almond butter and peanut butter have similar densities, but almond butter is slightly heavier. While 2 cups of peanut butter equals about 16 ounces, almond butter may weigh 16-17 ounces for the same volume due to its finer texture. Always check your specific brand's nutrition label for precise measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use almond butter instead of oil in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, almond butter can replace oil in many air fryer recipes. Use 3/4 the amount of almond butter (by weight) for the oil called for in the recipe. For example, if a recipe needs 4 ounces of oil, use 3 ounces of almond butter instead. This substitution adds protein and flavour while reducing saturated fats."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, almond butter can replace oil in many air fryer recipes. Use 3/4 the amount of almond butter (by weight) for the oil called for in the recipe. For example, if a recipe needs 4 ounces of oil, use 3 ounces of almond butter instead. This substitution adds protein and flavour while reducing saturated fats."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my almond butter measurement seem inconsistent?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almond butter measurements can vary due to temperature, brand, and whether it's stirred. Cold almond butter is denser, while room temperature spreads more easily. Natural almond butter with oil separation will measure differently than homogenised versions. For accuracy, weigh your 2 cups of almond butter rather than relying solely on volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almond butter measurements can vary due to temperature, brand, and whether it's stirred. Cold almond butter is denser, while room temperature spreads more easily. Natural almond butter with oil separation will measure differently than homogenised versions. For accuracy, weigh your 2 cups of almond butter rather than relying solely on volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 2 cups of almond butter last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An opened container of almond butter stays fresh for 2-3 months at room temperature or up to 6 months refrigerated. Store your 16-ounce portion in an airtight container, stirring occasionally to redistribute oils. If you notice any off smells or flavours, it's best to discard it and use fresh almond butter for your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An opened container of almond butter stays fresh for 2-3 months at room temperature or up to 6 months refrigerated. Store your 16-ounce portion in an airtight container, stirring occasionally to redistribute oils. If you notice any off smells or flavours, it's best to discard it and use fresh almond butter for your air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of almond butter",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of almond butter",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter",
     "description": "Find out exactly how many ounces are in 2 cups of almond butter for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of almond butter",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-almond-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of almond butter equals approximately 16 ounces (or 454 grams). This conversion is essential for air fryer recipes, where precise measurements ensure perfect texture and flavour. Whether you're making energy bites, cookies, or sauces, knowing how many ounces are in 2 cups of almond butter helps avoid kitchen mishaps.</p>  

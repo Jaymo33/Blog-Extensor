@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 150g of Condensed Milk to Ounces",
-        "description": "Learn how to convert 150g of condensed milk to ounces easily for precise air fryer recipes. Perfect for UK measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 150g of Condensed Milk to Ounces",
+    "description": "Learn how to convert 150g of condensed milk to ounces easily for precise air fryer recipes. Perfect for UK measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-condensed-milk-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-condensed-milk-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for 150g of condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use a measuring cup, but it’s less accurate. Roughly, 150g of condensed milk equals about 5 tablespoons or 75ml. For baking, a kitchen scale is recommended for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use a measuring cup, but it’s less accurate. Roughly, 150g of condensed milk equals about 5 tablespoons or 75ml. For baking, a kitchen scale is recommended for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ounces instead of grams for condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes from the US often use ounces, while UK and European recipes typically use grams. Converting 150g to ounces (5.29 oz) ensures accuracy when following international recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes from the US often use ounces, while UK and European recipes typically use grams. Converting 150g to ounces (5.29 oz) ensures accuracy when following international recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does condensed milk weigh the same as regular milk in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, condensed milk is much denser and heavier due to its reduced water content. For example, 150g of condensed milk is 5.29 oz, whereas regular milk would weigh less for the same volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, condensed milk is much denser and heavier due to its reduced water content. For example, 150g of condensed milk is 5.29 oz, whereas regular milk would weigh less for the same volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover condensed milk after measuring 150g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Transfer any unused condensed milk to an airtight container and refrigerate. It will keep for up to two weeks. For longer storage, freeze it in small portions and thaw as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Transfer any unused condensed milk to an airtight container and refrigerate. It will keep for up to two weeks. For longer storage, freeze it in small portions and thaw as needed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 150g of condensed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of condensed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces",
     "description": "Learn how to convert 150g of condensed milk to ounces easily for precise air fryer recipes. Perfect for UK measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 150g of condensed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/150g-condensed-milk-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150g of condensed milk equals approximately 5.29 ounces. This conversion is essential for air fryer recipes that require precise measurements, especially when dealing with sweet treats like cakes or desserts. Whether you're following a UK recipe or adapting one from abroad, knowing how to convert grams to ounces ensures your dish turns out perfectly.</p>  

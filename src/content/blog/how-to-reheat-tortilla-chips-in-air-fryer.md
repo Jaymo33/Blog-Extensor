@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer"
-        },
-        "headline": "Reheat Tortilla Chips in Air Fryer – Quick & Crispy Guide",
-        "description": "Learn how to reheat tortilla chips in an air fryer for perfect crispiness every time. Get the best temperature, timing, and tips for fresh-tasting results.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer"
+    },
+    "headline": "Reheat Tortilla Chips in Air Fryer – Quick & Crispy Guide",
+    "description": "Learn how to reheat tortilla chips in an air fryer for perfect crispiness every time. Get the best temperature, timing, and tips for fresh-tasting results.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-tortilla-chips-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-tortilla-chips-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat tortilla chips in an air fryer if they've gone stale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! The air fryer is perfect for reviving stale tortilla chips. Just reheat at 160°C for 2-3 minutes - the circulating hot air removes moisture, restoring crispness better than a microwave or oven."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! The air fryer is perfect for reviving stale tortilla chips. Just reheat at 160°C for 2-3 minutes - the circulating hot air removes moisture, restoring crispness better than a microwave or oven."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to reheat tortilla chips with cheese in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For cheesy nachos, reduce temperature to 150°C and heat for 3-4 minutes. Reheat plain chips first for 1 minute, then add cheese and continue cooking. This prevents the chips from overcooking before the cheese melts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For cheesy nachos, reduce temperature to 150°C and heat for 3-4 minutes. Reheat plain chips first for 1 minute, then add cheese and continue cooking. This prevents the chips from overcooking before the cheese melts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent tortilla chips from drying out when reheating?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Avoid temperatures above 160°C and don't exceed 3 minutes cooking time. Lightly misting chips with oil before reheating helps maintain moisture. For best results, store leftovers properly and reheat in single layers."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Avoid temperatures above 160°C and don't exceed 3 minutes cooking time. Lightly misting chips with oil before reheating helps maintain moisture. For best results, store leftovers properly and reheat in single layers."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat tortilla chips straight from the fridge in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but add 30 seconds to the usual cooking time. Spread them in a single layer and check at 2 minutes. The slight chill means they need extra time to crisp up properly compared to room-temperature chips."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but add 30 seconds to the usual cooking time. Spread them in a single layer and check at 2 minutes. The slight chill means they need extra time to crisp up properly compared to room-temperature chips."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Tortilla Chips in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Tortilla Chips in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer",
     "description": "Learn how to reheat tortilla chips in an air fryer for perfect crispiness every time. Get the best temperature, timing, and tips for fresh-tasting results.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Tortilla Chips in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-tortilla-chips-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Reheating tortilla chips in an air fryer takes just 2-3 minutes at 160°C (320°F), restoring their crunch without overcooking. This method outperforms microwaving, which often leaves chips soggy, and is quicker than using a conventional oven. Whether you’ve got leftover restaurant chips, a half-eaten bag, or fridge-stored nachos, your air fryer delivers consistent results.</p>

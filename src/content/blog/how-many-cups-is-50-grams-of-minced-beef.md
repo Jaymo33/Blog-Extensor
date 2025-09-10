@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef"
-        },
-        "headline": "Quick Answer: How Many Cups Is 50 Grams of Minced Beef?",
-        "description": "Discover how to convert 50 grams of minced beef to cups for perfect air fryer recipes every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef"
+    },
+    "headline": "Quick Answer: How Many Cups Is 50 Grams of Minced Beef?",
+    "description": "Discover how to convert 50 grams of minced beef to cups for perfect air fryer recipes every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T19:05:43.270Z",
-        "dateModified": "2025-07-27T19:05:43.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-minced-beef.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T19:05:43.270Z",
+    "dateModified": "2025-07-27T19:05:43.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-minced-beef.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a liquid measuring cup for 50 grams of minced beef?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, liquid measuring cups aren't accurate for minced beef. Use a dry measuring cup and lightly fill it without packing the meat down. For best results, weigh 50 grams on a kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, liquid measuring cups aren't accurate for minced beef. Use a dry measuring cup and lightly fill it without packing the meat down. For best results, weigh 50 grams on a kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the fat content in minced beef affect the cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, lean minced beef may take up slightly more volume than fattier cuts. If precision is crucial, like in baking, weighing is better than using cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, lean minced beef may take up slightly more volume than fattier cuts. If precision is crucial, like in baking, weighing is better than using cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many 50-gram portions of minced beef are in a pound?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "There are roughly 9 portions of 50 grams in a pound (454 grams) of minced beef. This helps when meal prepping for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are roughly 9 portions of 50 grams in a pound (454 grams) of minced beef. This helps when meal prepping for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 50-gram portions of minced beef for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Freezing 50-gram portions in separate bags makes it easy to thaw just what you need for air fryer meals like burgers or meatballs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Freezing 50-gram portions in separate bags makes it easy to thaw just what you need for air fryer meals like burgers or meatballs."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 50 Grams of Minced Beef?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 50 Grams of Minced Beef?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef",
     "description": "Discover how to convert 50 grams of minced beef to cups for perfect air fryer recipes every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 50 Grams of Minced Beef?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-minced-beef"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50 grams of minced beef is roughly equivalent to 1/4 cup when lightly packed. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're making burgers, meatballs, or a hearty bolognese, knowing how many cups 50 grams of minced beef equals ensures consistent results every time.</p>  

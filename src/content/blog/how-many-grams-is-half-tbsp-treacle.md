@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle"
-        },
-        "headline": "Quick Answer: How many grams is 0.5 tbsp of treacle?",
-        "description": "Find out exactly how many grams are in 0.5 tbsp of treacle for perfect air fryer recipes every time. Includes UK conversions!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle"
+    },
+    "headline": "Quick Answer: How many grams is 0.5 tbsp of treacle?",
+    "description": "Find out exactly how many grams are in 0.5 tbsp of treacle for perfect air fryer recipes every time. Includes UK conversions!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-half-tbsp-treacle.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-half-tbsp-treacle.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use golden syrup instead of treacle in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, golden syrup can substitute treacle in most air fryer recipes, but adjust quantities slightly. While 0.5 tbsp of treacle equals 10.5 grams, golden syrup is less dense at about 9 grams per 0.5 tbsp. The flavour profile will be lighter and less bitter than black treacle."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, golden syrup can substitute treacle in most air fryer recipes, but adjust quantities slightly. While 0.5 tbsp of treacle equals 10.5 grams, golden syrup is less dense at about 9 grams per 0.5 tbsp. The flavour profile will be lighter and less bitter than black treacle."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer burn treacle-glazed foods?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Treacle’s high sugar content caramelises quickly under the air fryer’s intense heat. If using 0.5 tbsp (10.5g) treacle in glazes, reduce cooking temperature by 10°C and check frequently. Thin glazes with water or vinegar to prevent burning while maintaining flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Treacle’s high sugar content caramelises quickly under the air fryer’s intense heat. If using 0.5 tbsp (10.5g) treacle in glazes, reduce cooking temperature by 10°C and check frequently. Thin glazes with water or vinegar to prevent burning while maintaining flavour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.5 tbsp treacle without a measuring spoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard teaspoon – 1.5 level teaspoons equal 0.5 tbsp (10.5g) of treacle. For greater accuracy, fill the teaspoon halfway three times, levelling each portion. This method works well for small treacle quantities in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard teaspoon – 1.5 level teaspoons equal 0.5 tbsp (10.5g) of treacle. For greater accuracy, fill the teaspoon halfway three times, levelling each portion. This method works well for small treacle quantities in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does treacle weight change between UK and US tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, UK tablespoons (15ml) differ slightly from US (14.8ml), affecting weight. 0.5 UK tbsp treacle is 10.5 grams, while 0.5 US tbsp is about 10.3 grams. For air fryer recipes, this minor difference rarely impacts results unless making large batches."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, UK tablespoons (15ml) differ slightly from US (14.8ml), affecting weight. 0.5 UK tbsp treacle is 10.5 grams, while 0.5 US tbsp is about 10.3 grams. For air fryer recipes, this minor difference rarely impacts results unless making large batches."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of treacle?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of treacle?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle",
     "description": "Find out exactly how many grams are in 0.5 tbsp of treacle for perfect air fryer recipes every time. Includes UK conversions!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of treacle?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-half-tbsp-treacle"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of treacle weighs approximately 10.5 grams. This measurement is crucial for air fryer recipes where precision ensures perfect texture and flavour. Whether you’re making sticky toffee pudding or glazing meats, knowing the exact grams in 0.5 tbsp of treacle helps avoid mishaps. For more air fryer conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn"
-        },
-        "headline": "Quick Answer: How many ounces is 1 cup of frozen corn?",
-        "description": "Discover how many ounces are in 1 cup of frozen corn for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn"
+    },
+    "headline": "Quick Answer: How many ounces is 1 cup of frozen corn?",
+    "description": "Discover how many ounces are in 1 cup of frozen corn for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-frozen-corn.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-frozen-corn.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use thawed corn instead of frozen in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but thawed corn will weigh slightly less due to water loss. If your recipe calls for 1 cup of frozen corn (5.5 ounces), you may need to adjust the quantity if using thawed. For best results, stick to frozen unless the recipe specifies otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but thawed corn will weigh slightly less due to water loss. If your recipe calls for 1 cup of frozen corn (5.5 ounces), you may need to adjust the quantity if using thawed. For best results, stick to frozen unless the recipe specifies otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of frozen corn affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most brands are similar, but there can be slight variations in kernel size or ice content. Always check the packaging for weight details if precision is crucial. Generally, 1 cup of frozen corn averages 5.5 ounces across major brands."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most brands are similar, but there can be slight variations in kernel size or ice content. Always check the packaging for weight details if precision is crucial. Generally, 1 cup of frozen corn averages 5.5 ounces across major brands."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert ounces to grams for frozen corn?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1 ounce equals approximately 28.35 grams. So, 5.5 ounces of frozen corn is about 156 grams. Use a kitchen scale for the most accurate measurement, especially for baking or detailed recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1 ounce equals approximately 28.35 grams. So, 5.5 ounces of frozen corn is about 156 grams. Use a kitchen scale for the most accurate measurement, especially for baking or detailed recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute canned corn for frozen in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can, but canned corn has a higher moisture content, which may affect crispiness. Drain it well and pat dry before using. Note that 1 cup of drained canned corn weighs roughly 6 ounces, slightly more than frozen. Adjust cooking times accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can, but canned corn has a higher moisture content, which may affect crispiness. Drain it well and pat dry before using. Note that 1 cup of drained canned corn weighs roughly 6 ounces, slightly more than frozen. Adjust cooking times accordingly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of frozen corn?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of frozen corn?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn",
     "description": "Discover how many ounces are in 1 cup of frozen corn for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of frozen corn?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-frozen-corn"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of frozen corn equals approximately 5.5 ounces (or 156 grams). This measurement is essential for air fryer recipes, ensuring consistent results every time. Whether you’re making crispy corn fritters or a quick side dish, knowing the exact weight helps avoid under or over-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

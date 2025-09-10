@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice"
-        },
-        "headline": "175 Grams of Rice to Cups – Easy Conversion Guide | AirFryerRecipe.co.uk",
-        "description": "Convert 175 grams of rice to cups for perfect air fryer meals. Includes UK/US conversions and tips for measuring rice accurately in your air fryer recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice"
+    },
+    "headline": "175 Grams of Rice to Cups – Easy Conversion Guide | AirFryerRecipe.co.uk",
+    "description": "Convert 175 grams of rice to cups for perfect air fryer meals. Includes UK/US conversions and tips for measuring rice accurately in your air fryer recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:57:37.476Z",
-        "dateModified": "2025-07-22T16:57:37.476Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-rice.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:57:37.476Z",
+    "dateModified": "2025-07-22T16:57:37.476Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-rice.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rice affect how many cups are in 175 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different rice varieties have varying densities. While 175 grams of long-grain white rice equals about 0.88 UK cups, basmati rice measures slightly more (0.95 cups) and brown rice slightly less (0.82 cups) due to differences in grain size and density."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different rice varieties have varying densities. While 175 grams of long-grain white rice equals about 0.88 UK cups, basmati rice measures slightly more (0.95 cups) and brown rice slightly less (0.82 cups) due to differences in grain size and density."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 175 grams of rice for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use standard measuring cups, but for best results with air fryer recipes, we recommend using digital scales. If using cups, remember that 175 grams is about 7/8 of a UK cup or 3/4 US cup plus 1 tablespoon for long-grain white rice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use standard measuring cups, but for best results with air fryer recipes, we recommend using digital scales. If using cups, remember that 175 grams is about 7/8 of a UK cup or 3/4 US cup plus 1 tablespoon for long-grain white rice."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer rice recipes often use grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer recipes specify weights because they're more precise. Rice grains can settle differently in cups, affecting quantity. Grams ensure consistent results in the air fryer's compact cooking environment where precise measurements matter for even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer recipes specify weights because they're more precise. Rice grains can settle differently in cups, affecting quantity. Grams ensure consistent results in the air fryer's compact cooking environment where precise measurements matter for even cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 175 grams of rice make in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "175 grams of uncooked rice typically yields about 2-3 portions when cooked in an air fryer, making it ideal for small households. This quantity expands to roughly 525 grams cooked rice, perfect for 2 generous servings or 3 smaller ones."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "175 grams of uncooked rice typically yields about 2-3 portions when cooked in an air fryer, making it ideal for small households. This quantity expands to roughly 525 grams cooked rice, perfect for 2 generous servings or 3 smaller ones."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 175 Grams of Rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice",
     "description": "Convert 175 grams of rice to cups for perfect air fryer meals. Includes UK/US conversions and tips for measuring rice accurately in your air fryer recipes.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:57:37.476000+00:00",
     "dateModified": "2025-07-22T16:57:37.476000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 175 Grams of Rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>175 grams of rice equals approximately 0.88 cups in UK measurements or 0.74 US cups. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're meal prepping or trying a new rice dish in your air fryer, getting the quantities right ensures perfect texture every time.</p>

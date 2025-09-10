@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar"
-        },
-        "headline": "Quick Answer: How many grams is 2 tbsp of balsamic vinegar?",
-        "description": "Discover the exact weight of 2 tbsp of balsamic vinegar in grams for perfect air fryer recipes. Convert measurements effortlessly!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar"
+    },
+    "headline": "Quick Answer: How many grams is 2 tbsp of balsamic vinegar?",
+    "description": "Discover the exact weight of 2 tbsp of balsamic vinegar in grams for perfect air fryer recipes. Convert measurements effortlessly!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-balsamic-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-balsamic-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 2 tbsp of balsamic vinegar in place of 30 grams in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2 tbsp of balsamic vinegar is equivalent to 30 grams, so you can use them interchangeably in most recipes. This measurement works well for air fryer dishes, ensuring consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2 tbsp of balsamic vinegar is equivalent to 30 grams, so you can use them interchangeably in most recipes. This measurement works well for air fryer dishes, ensuring consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of balsamic vinegar affect the weight of 2 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While most balsamic vinegars weigh around 30 grams for 2 tbsp, thicker or aged varieties might be slightly heavier. For precision, especially in air fryer recipes, a kitchen scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While most balsamic vinegars weigh around 30 grams for 2 tbsp, thicker or aged varieties might be slightly heavier. For precision, especially in air fryer recipes, a kitchen scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert larger amounts of balsamic vinegar from tbsp to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Simply multiply the measurement—for example, 4 tbsp would be 60 grams, and 6 tbsp would be 90 grams. This scaling works for any recipe, making batch cooking easier."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Simply multiply the measurement—for example, 4 tbsp would be 60 grams, and 6 tbsp would be 90 grams. This scaling works for any recipe, making batch cooking easier."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reduce balsamic vinegar in the air fryer for a glaze?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! The air fryer’s high heat can reduce 2 tbsp (30 grams) of balsamic vinegar into a thick, sweet glaze. Brush it on meats or veggies during the last few minutes of cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! The air fryer’s high heat can reduce 2 tbsp (30 grams) of balsamic vinegar into a thick, sweet glaze. Brush it on meats or veggies during the last few minutes of cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2 tbsp of balsamic vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of balsamic vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar",
     "description": "Discover the exact weight of 2 tbsp of balsamic vinegar in grams for perfect air fryer recipes. Convert measurements effortlessly!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2 tbsp of balsamic vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-balsamic-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 tablespoons (tbsp) of balsamic vinegar weigh approximately 30 grams. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you’re marinating chicken, glazing vegetables, or whipping up a sauce, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

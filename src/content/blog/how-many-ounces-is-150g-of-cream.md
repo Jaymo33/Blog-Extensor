@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream"
-        },
-        "headline": "Quick Answer: How many ounces is 150g of cream?",
-        "description": "Find out exactly how many ounces 150g of cream equals and master air fryer measurements for perfect recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream"
+    },
+    "headline": "Quick Answer: How many ounces is 150g of cream?",
+    "description": "Find out exactly how many ounces 150g of cream equals and master air fryer measurements for perfect recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 150g of cream the same as 150ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 150g of cream isn't exactly the same as 150ml. While they're close, cream's density means weight and volume measurements differ slightly. 150g of typical pouring cream equals about 145ml, but this can vary depending on the cream's fat content. For precise air fryer recipes, it's best to measure by weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 150g of cream isn't exactly the same as 150ml. While they're close, cream's density means weight and volume measurements differ slightly. 150g of typical pouring cream equals about 145ml, but this can vary depending on the cream's fat content. For precise air fryer recipes, it's best to measure by weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same 150g to ounces conversion for all types of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The basic conversion (150g = 5.29 oz) works for most creams, but very thick creams like clotted cream might be slightly different due to higher density. For whipped cream, 150g would be much greater in volume than liquid cream because of the incorporated air. Always check your specific cream type for the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The basic conversion (150g = 5.29 oz) works for most creams, but very thick creams like clotted cream might be slightly different due to higher density. For whipped cream, 150g would be much greater in volume than liquid cream because of the incorporated air. Always check your specific cream type for the most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 150g of cream affect cooking times in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes using 150g of cream (5.29 oz) might need slightly adjusted cooking times in your air fryer. Cream can increase moisture content, potentially requiring longer cooking for some dishes. However, it can also promote browning, so monitor your food closely. Cream-based sauces typically cook faster in air fryers than conventional ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes using 150g of cream (5.29 oz) might need slightly adjusted cooking times in your air fryer. Cream can increase moisture content, potentially requiring longer cooking for some dishes. However, it can also promote browning, so monitor your food closely. Cream-based sauces typically cook faster in air fryers than conventional ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to store leftover 150g portions of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After measuring out 150g of cream, store any leftovers in an airtight container in the fridge for up to 3 days. For longer storage, you can freeze cream in 150g portions, though it may separate when thawed. Frozen cream works best for cooking rather than whipping. Always check for freshness before using in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After measuring out 150g of cream, store any leftovers in an airtight container in the fridge for up to 3 days. For longer storage, you can freeze cream in 150g portions, though it may separate when thawed. Frozen cream works best for cooking rather than whipping. Always check for freshness before using in air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 150g of cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream",
     "description": "Find out exactly how many ounces 150g of cream equals and master air fryer measurements for perfect recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 150g of cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150g of cream equals approximately 5.29 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a creamy dessert or adding richness to a savoury dish, knowing how to convert grams to ounces ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements in air frying.</p>

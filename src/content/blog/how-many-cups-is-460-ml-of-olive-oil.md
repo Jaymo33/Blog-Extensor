@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil"
-        },
-        "headline": "Quick Guide: Convert 460 ml of Olive Oil to Cups Easily",
-        "description": "Learn how to convert 460 ml of olive oil to cups for precise cooking and baking. Perfect for air fryer recipes and meal prep!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 460 ml of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 460 ml of olive oil to cups for precise cooking and baking. Perfect for air fryer recipes and meal prep!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-460-ml-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-460-ml-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 460 ml of olive oil the same as 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 460 ml of olive oil equals approximately 1.94 cups, not 2 cups. While it’s close, using the exact measurement ensures better accuracy in recipes, especially for air frying where oil quantity affects texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 460 ml of olive oil equals approximately 1.94 cups, not 2 cups. While it’s close, using the exact measurement ensures better accuracy in recipes, especially for air frying where oil quantity affects texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 460 ml of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to use a liquid measuring cup for olive oil, as dry cups aren’t designed for liquids and can lead to incorrect measurements. For 460 ml (1.94 cups), a clear liquid cup with ml markings is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to use a liquid measuring cup for olive oil, as dry cups aren’t designed for liquids and can lead to incorrect measurements. For 460 ml (1.94 cups), a clear liquid cup with ml markings is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 460 ml of olive oil convert to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "460 ml of olive oil equals about 30.7 tablespoons (since 1 tablespoon is 15 ml). This is useful for recipes requiring smaller oil quantities, like marinades or dressings for air-fried dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "460 ml of olive oil equals about 30.7 tablespoons (since 1 tablespoon is 15 ml). This is useful for recipes requiring smaller oil quantities, like marinades or dressings for air-fried dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does olive oil measurement matter in air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Too much olive oil can make food greasy, while too little may dry it out. Converting 460 ml to cups (1.94 cups) helps achieve the perfect balance for crispy, evenly cooked air fryer meals."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Too much olive oil can make food greasy, while too little may dry it out. Converting 460 ml to cups (1.94 cups) helps achieve the perfect balance for crispy, evenly cooked air fryer meals."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 460 ml of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 460 ml of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil",
     "description": "Learn how to convert 460 ml of olive oil to cups for precise cooking and baking. Perfect for air fryer recipes and meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 460 ml of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>460 ml of olive oil is equivalent to approximately 1.94 cups. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a dish. Whether you're baking, frying, or drizzling, knowing how to convert 460 ml of olive oil to cups ensures consistency in your recipes. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

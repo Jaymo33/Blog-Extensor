@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer"
-        },
-        "headline": "How to Reheat Apple Pie in an Air Fryer – Crispy & Warm | AirFryerRecipe.co.uk",
-        "description": "Learn the best way to reheat apple pie in an air fryer for a crispy crust and warm filling. Quick, easy instructions with perfect timing and temperature tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer"
+    },
+    "headline": "How to Reheat Apple Pie in an Air Fryer – Crispy & Warm | AirFryerRecipe.co.uk",
+    "description": "Learn the best way to reheat apple pie in an air fryer for a crispy crust and warm filling. Quick, easy instructions with perfect timing and temperature tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:02:09.139Z",
-        "dateModified": "2025-07-22T16:02:09.139Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-apple-pie-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:02:09.139Z",
+    "dateModified": "2025-07-22T16:02:09.139Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-apple-pie-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat apple pie in an air fryer from the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, refrigerated apple pie reheats beautifully in an air fryer. Set it to 160°C for 3-5 minutes for a warm, crispy result."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, refrigerated apple pie reheats beautifully in an air fryer. Set it to 160°C for 3-5 minutes for a warm, crispy result."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to prevent the pie from drying out?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly brush the crust with butter or spritz with water before reheating. Cover loosely with foil if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly brush the crust with butter or spritz with water before reheating. Cover loosely with foil if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I reheat a whole apple pie in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a liner or foil to support the pie. Heat at 160°C for 5-7 minutes, checking halfway through."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a liner or foil to support the pie. Heat at 160°C for 5-7 minutes, checking halfway through."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat apple pie in an air fryer if it has ice cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to reheat the pie first, then add ice cream afterward. The air fryer will melt the ice cream too quickly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to reheat the pie first, then add ice cream afterward. The air fryer will melt the ice cream too quickly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Apple Pie in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Apple Pie in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer",
     "description": "Learn the best way to reheat apple pie in an air fryer for a crispy crust and warm filling. Quick, easy instructions with perfect timing and temperature tips.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:02:09.139000+00:00",
     "dateModified": "2025-07-22T16:02:09.139000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Apple Pie in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-apple-pie-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Reheating apple pie in an air fryer is simple: set it to 160°C (320°F) for 3-5 minutes. This method keeps the crust crispy while warming the filling evenly, making it taste freshly baked. Whether you’re using leftovers or a chilled pie, your air fryer delivers better results than a microwave.</p>

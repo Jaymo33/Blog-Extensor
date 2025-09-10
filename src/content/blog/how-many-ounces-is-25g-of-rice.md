@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice"
-        },
-        "headline": "Quick Answer: How many ounces is 25g of rice?",
-        "description": "Discover how to convert 25g of rice to ounces easily and accurately for perfect air fryer meals every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice"
+    },
+    "headline": "Quick Answer: How many ounces is 25g of rice?",
+    "description": "Discover how to convert 25g of rice to ounces easily and accurately for perfect air fryer meals every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-of-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 25g of rice enough for one person?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 25g of rice (about 0.88 ounces) is a standard single-serving portion. When cooked, it expands to roughly 75g, which is perfect for a side dish or light meal. For heartier portions, you might want to double the amount."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 25g of rice (about 0.88 ounces) is a standard single-serving portion. When cooked, it expands to roughly 75g, which is perfect for a side dish or light meal. For heartier portions, you might want to double the amount."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use any type of rice for the 25g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion (25g = 0.88 oz) applies to all types of uncooked rice. However, cooked weights vary—for example, basmati expands more than sushi rice. Always measure uncooked rice for accuracy in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion (25g = 0.88 oz) applies to all types of uncooked rice. However, cooked weights vary—for example, basmati expands more than sushi rice. Always measure uncooked rice for accuracy in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover cooked rice from my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Let the rice cool completely, then store it in an airtight container in the fridge for up to 3 days. Reheat it in the air fryer at 160°C for 3-4 minutes, sprinkling with water to prevent dryness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Let the rice cool completely, then store it in an airtight container in the fridge for up to 3 days. Reheat it in the air fryer at 160°C for 3-4 minutes, sprinkling with water to prevent dryness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air-fried rice come out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dry rice usually means overcooking or insufficient moisture. Try reducing the cooking time by 1-2 minutes or adding a teaspoon of water before air frying. Covering the rice with foil can also help retain moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dry rice usually means overcooking or insufficient moisture. Try reducing the cooking time by 1-2 minutes or adding a teaspoon of water before air frying. Covering the rice with foil can also help retain moisture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice",
     "description": "Discover how to convert 25g of rice to ounces easily and accurately for perfect air fryer meals every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-of-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of rice equals approximately 0.88 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a dish. Whether you're meal prepping or cooking a quick side, knowing how to convert grams to ounces ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

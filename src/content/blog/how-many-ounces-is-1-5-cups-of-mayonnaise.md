@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise"
-        },
-        "headline": "Quick Answer: How many ounces in 1.5 cups of mayonnaise?",
-        "description": "Find out exactly how many ounces are in 1.5 cups of mayonnaise with our simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise"
+    },
+    "headline": "Quick Answer: How many ounces in 1.5 cups of mayonnaise?",
+    "description": "Find out exactly how many ounces are in 1.5 cups of mayonnaise with our simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-mayonnaise.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-mayonnaise.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is the ounce measurement for mayonnaise the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the ounce measurement is technically the same (1 ounce = 28.35g in both systems), the cup measurements differ slightly. A UK cup is 284ml compared to the US 240ml cup. So 1.5 UK cups of mayonnaise would be about 14.4 ounces, while 1.5 US cups is 12 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the ounce measurement is technically the same (1 ounce = 28.35g in both systems), the cup measurements differ slightly. A UK cup is 284ml compared to the US 240ml cup. So 1.5 UK cups of mayonnaise would be about 14.4 ounces, while 1.5 US cups is 12 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Using a kitchen scale is often more accurate for ingredients like mayonnaise. Simply set your scale to ounces and measure out 12 ounces for the equivalent of 1.5 US cups. This method eliminates the mess and inaccuracy that can come with measuring sticky ingredients in cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Using a kitchen scale is often more accurate for ingredients like mayonnaise. Simply set your scale to ounces and measure out 12 ounces for the equivalent of 1.5 US cups. This method eliminates the mess and inaccuracy that can come with measuring sticky ingredients in cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes use mayonnaise as a coating?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Mayonnaise makes an excellent air fryer coating because its fat content helps achieve crispy, golden results. It adheres well to foods like chicken or potatoes, creating a delicious crust when air fried. The 1.5 cups (12 ounces) measurement is often used for larger batches of coated foods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mayonnaise makes an excellent air fryer coating because its fat content helps achieve crispy, golden results. It adheres well to foods like chicken or potatoes, creating a delicious crust when air fried. The 1.5 cups (12 ounces) measurement is often used for larger batches of coated foods."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover mayonnaise after measuring out 1.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Always store opened mayonnaise in the refrigerator with the lid tightly sealed. If you've measured out 1.5 cups (12 ounces) from a larger container, make sure to wipe the rim clean before replacing the lid. Properly stored, mayonnaise typically lasts about 2 months after opening."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Always store opened mayonnaise in the refrigerator with the lid tightly sealed. If you've measured out 1.5 cups (12 ounces) from a larger container, make sure to wipe the rim clean before replacing the lid. Properly stored, mayonnaise typically lasts about 2 months after opening."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.5 cups of mayonnaise?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of mayonnaise?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise",
     "description": "Find out exactly how many ounces are in 1.5 cups of mayonnaise with our simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.5 cups of mayonnaise?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-mayonnaise"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of mayonnaise equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a batch of crispy chicken or a creamy dip, knowing how many ounces are in 1.5 cups of mayonnaise ensures your dish turns out perfectly every time.</p>

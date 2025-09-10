@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar"
-        },
-        "headline": "Quick Answer: 0.5 tbsp caster sugar to grams UK",
-        "description": "Find out exactly how many grams are in 0.5 tbsp of caster sugar with our easy UK conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar"
+    },
+    "headline": "Quick Answer: 0.5 tbsp caster sugar to grams UK",
+    "description": "Find out exactly how many grams are in 0.5 tbsp of caster sugar with our easy UK conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-caster-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-caster-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 tbsp of caster sugar the same as granulated sugar in grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 0.5 tbsp of caster sugar weighs about 6.25g, while granulated sugar would be slightly heavier at approximately 7g for the same volume. The finer crystals of caster sugar mean it packs differently in a tablespoon measure. Always use the type specified in your air fryer recipe for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 0.5 tbsp of caster sugar weighs about 6.25g, while granulated sugar would be slightly heavier at approximately 7g for the same volume. The finer crystals of caster sugar mean it packs differently in a tablespoon measure. Always use the type specified in your air fryer recipe for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular spoon to measure 0.5 tbsp of caster sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use any tablespoon, for accuracy it's best to use proper measuring spoons. Fill the spoon halfway and level off with a straight edge for 0.5 tbsp (6.25g). For air fryer recipes where precision matters, we recommend using digital kitchen scales whenever possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use any tablespoon, for accuracy it's best to use proper measuring spoons. Fill the spoon halfway and level off with a straight edge for 0.5 tbsp (6.25g). For air fryer recipes where precision matters, we recommend using digital kitchen scales whenever possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes sometimes use such small sugar quantities?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers concentrate flavours and cook food faster than conventional ovens, so recipes often need less sugar. 0.5 tbsp (6.25g) might be enough to sweeten small batches or balance other ingredients. Too much sugar can cause over-browning or burning in the intense air fryer heat."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers concentrate flavours and cook food faster than conventional ovens, so recipes often need less sugar. 0.5 tbsp (6.25g) might be enough to sweeten small batches or balance other ingredients. Too much sugar can cause over-browning or burning in the intense air fryer heat."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 tbsp caster sugar to cups for larger recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.5 tbsp equals about 1/32 of a UK cup (approximately 6.25g). For larger air fryer recipes, it's easier to work in grams - 100g caster sugar would be roughly 8 UK tablespoons. Our conversion chart shows all these measurements for easy reference when scaling recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.5 tbsp equals about 1/32 of a UK cup (approximately 6.25g). For larger air fryer recipes, it's easier to work in grams - 100g caster sugar would be roughly 8 UK tablespoons. Our conversion chart shows all these measurements for easy reference when scaling recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of caster sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of caster sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar",
     "description": "Find out exactly how many grams are in 0.5 tbsp of caster sugar with our easy UK conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of caster sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-caster-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of caster sugar equals approximately 6.25 grams in UK measurements. This conversion is essential for accurate baking, especially when using an air fryer where precision matters. Whether you're whipping up cakes, cookies, or desserts, knowing the exact weight ensures perfect results every time.</p>

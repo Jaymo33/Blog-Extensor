@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade"
-        },
-        "headline": "Quick Guide: Convert 0.125 Cup Marmalade to Ounces Easily",
-        "description": "Learn how to convert 0.125 cup of marmalade to ounces for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade"
+    },
+    "headline": "Quick Guide: Convert 0.125 Cup Marmalade to Ounces Easily",
+    "description": "Learn how to convert 0.125 cup of marmalade to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-marmalade.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-marmalade.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.125 cup of marmalade interchangeably with 1 oz in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, in most cases, 0.125 cup of marmalade equals roughly 1 ounce. However, thicker marmalades might be slightly denser, so for precision, a kitchen scale is best. For air fryer recipes, small variations usually don’t affect the outcome."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, in most cases, 0.125 cup of marmalade equals roughly 1 ounce. However, thicker marmalades might be slightly denser, so for precision, a kitchen scale is best. For air fryer recipes, small variations usually don’t affect the outcome."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.125 cup of marmalade without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use two tablespoons, as 0.125 cup is equivalent to 2 tbsp. Stir the marmalade first to ensure consistency. If you’re adapting a recipe, check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for more tips."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use two tablespoons, as 0.125 cup is equivalent to 2 tbsp. Stir the marmalade first to ensure consistency. If you’re adapting a recipe, check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for more tips."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of marmalade affect the weight of 0.125 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker, chunkier marmalade may weigh slightly more than smooth varieties. For accuracy, weigh 1 oz on a scale. This is especially useful in baking or glazes where consistency matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker, chunkier marmalade may weigh slightly more than smooth varieties. For accuracy, weigh 1 oz on a scale. This is especially useful in baking or glazes where consistency matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes work well with 0.125 cup of marmalade?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This amount is perfect for glazes on meats like chicken or pork, or as a drizzle on desserts. Try it in our <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert recipes</a> for a citrusy twist. Always apply in the last few minutes to avoid burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This amount is perfect for glazes on meats like chicken or pork, or as a drizzle on desserts. Try it in our <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>dessert recipes</a> for a citrusy twist. Always apply in the last few minutes to avoid burning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of marmalade?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of marmalade?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade",
     "description": "Learn how to convert 0.125 cup of marmalade to ounces for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of marmalade?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-marmalade"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of marmalade equals approximately 1 ounce (1 oz). This conversion is essential for air fryer recipes where precise measurements ensure the perfect glaze or topping. Whether you're making a sticky marinade or a sweet drizzle, knowing how many ounces are in 0.125 cup of marmalade helps avoid guesswork.</p>  

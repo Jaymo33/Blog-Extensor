@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk"
-        },
-        "headline": "Quick Guide: Convert 785 ml of Milk to Cups Easily",
-        "description": "Learn how to convert 785 ml of milk to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk"
+    },
+    "headline": "Quick Guide: Convert 785 ml of Milk to Cups Easily",
+    "description": "Learn how to convert 785 ml of milk to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-785-ml-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-785-ml-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 785 ml of milk the same as 3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 785 ml of milk is approximately 3.3 cups in the UK or 3.1 cups in the US. The difference arises because UK cups are slightly larger (284 ml) compared to US cups (240 ml). Always check which measurement system your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 785 ml of milk is approximately 3.3 cups in the UK or 3.1 cups in the US. The difference arises because UK cups are slightly larger (284 ml) compared to US cups (240 ml). Always check which measurement system your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 785 ml of milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use a standard cup, it's best to use a liquid measuring cup with clear markings for precision. A regular cup might not provide the exact measurement needed, especially for baking. For air fryer recipes, accuracy ensures the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use a standard cup, it's best to use a liquid measuring cup with clear markings for precision. A regular cup might not provide the exact measurement needed, especially for baking. For air fryer recipes, accuracy ensures the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 785 ml of milk affect air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Using 785 ml of milk in air fryer recipes, like custards or sauces, requires careful measurement to avoid texture issues. Too much milk can make dishes soggy, while too little may dry them out. Always follow the recipe closely for perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Using 785 ml of milk in air fryer recipes, like custards or sauces, requires careful measurement to avoid texture issues. Too much milk can make dishes soggy, while too little may dry them out. Always follow the recipe closely for perfect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes commonly use 785 ml of milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "785 ml of milk is often used in recipes like custards, béchamel sauces, or large batches of pancakes. It's also ideal for creamy pasta bakes or desserts like rice pudding. Check out our dessert category for more ideas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "785 ml of milk is often used in recipes like custards, béchamel sauces, or large batches of pancakes. It's also ideal for creamy pasta bakes or desserts like rice pudding. Check out our dessert category for more ideas."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 785 ml of Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 785 ml of Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk",
     "description": "Learn how to convert 785 ml of milk to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 785 ml of Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>785 ml of milk is approximately 3.3 cups in the UK or 3.1 cups in the US. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking creamy dishes. Whether you're whipping up a cake or a savoury sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

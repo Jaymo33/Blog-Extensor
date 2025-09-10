@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk"
-        },
-        "headline": "Quick Answer: How many ounces is 1.33 cups of powdered milk?",
-        "description": "Find out exactly how many ounces are in 1.33 cups of powdered milk with our easy conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk"
+    },
+    "headline": "Quick Answer: How many ounces is 1.33 cups of powdered milk?",
+    "description": "Find out exactly how many ounces are in 1.33 cups of powdered milk with our easy conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-powdered-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-powdered-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.33 cups of powdered milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring cup, you can use a kitchen scale to weigh out 10.64 ounces of powdered milk. Alternatively, you can estimate using tablespoons—1 cup is roughly 16 tablespoons, so 1.33 cups would be about 21 tablespoons."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring cup, you can use a kitchen scale to weigh out 10.64 ounces of powdered milk. Alternatively, you can estimate using tablespoons—1 cup is roughly 16 tablespoons, so 1.33 cups would be about 21 tablespoons."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of powdered milk affect the weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different brands or types of powdered milk may have slight variations in density. Always check the packaging for specific weight guidelines. For most standard powdered milk, 1 cup weighs around 8 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different brands or types of powdered milk may have slight variations in density. Always check the packaging for specific weight guidelines. For most standard powdered milk, 1 cup weighs around 8 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use liquid milk instead of powdered milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you'll need to adjust the recipe. Generally, 1 cup of liquid milk replaces 1/4 cup of powdered milk mixed with 1 cup of water. Be mindful of the consistency changes in your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you'll need to adjust the recipe. Generally, 1 cup of liquid milk replaces 1/4 cup of powdered milk mixed with 1 cup of water. Be mindful of the consistency changes in your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does powdered milk last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Opened powdered milk can last up to 6 months if stored properly in an airtight container. Keep it in a cool, dry place to maintain freshness. Always check for any off smells or clumping before use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opened powdered milk can last up to 6 months if stored properly in an airtight container. Keep it in a cool, dry place to maintain freshness. Always check for any off smells or clumping before use."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of powdered milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of powdered milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk",
     "description": "Find out exactly how many ounces are in 1.33 cups of powdered milk with our easy conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of powdered milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-powdered-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of powdered milk equals approximately 10.64 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking or cooking, knowing the exact weight can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for delicious results.</p>

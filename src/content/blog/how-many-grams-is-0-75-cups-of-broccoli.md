@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli"
-        },
-        "headline": "Quick Answer: How Many Grams Is 0.75 Cups of Broccoli?",
-        "description": "Find out exactly how many grams 0.75 cups of broccoli weighs for perfect air fryer recipes every time. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli"
+    },
+    "headline": "Quick Answer: How Many Grams Is 0.75 Cups of Broccoli?",
+    "description": "Find out exactly how many grams 0.75 cups of broccoli weighs for perfect air fryer recipes every time. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:26.192Z",
-        "dateModified": "2025-07-27T16:11:26.192Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-broccoli.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:26.192Z",
+    "dateModified": "2025-07-27T16:11:26.192Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-broccoli.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 0.75 cups of broccoli weigh the same raw and cooked?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 0.75 cups (68g) of raw broccoli will shrink during cooking as moisture evaporates. After air frying, you'll have about 0.5 cups of cooked broccoli. The weight also decreases slightly to approximately 50 grams after cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 0.75 cups (68g) of raw broccoli will shrink during cooking as moisture evaporates. After air frying, you'll have about 0.5 cups of cooked broccoli. The weight also decreases slightly to approximately 50 grams after cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen broccoli instead of fresh for the 0.75 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but frozen broccoli may contain more water, affecting the weight. Thaw and drain frozen broccoli before measuring. 0.75 cups of thawed frozen broccoli weighs slightly more than fresh - about 75 grams due to retained moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but frozen broccoli may contain more water, affecting the weight. Thaw and drain frozen broccoli before measuring. 0.75 cups of thawed frozen broccoli weighs slightly more than fresh - about 75 grams due to retained moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does chopping affect the 0.75 cups to grams conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Finely chopped broccoli may weigh slightly less per 0.75 cups (around 60g) due to more air space between pieces. Larger florets may weigh up to 75 grams for the same volume. For most recipes, 68 grams is a good average."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Finely chopped broccoli may weigh slightly less per 0.75 cups (around 60g) due to more air space between pieces. Larger florets may weigh up to 75 grams for the same volume. For most recipes, 68 grams is a good average."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air-fried 0.75 cups of broccoli sometimes unevenly cooked?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Uneven cooking usually means the broccoli pieces aren't similar in size. For consistent results, cut florets to roughly the same size before measuring 0.75 cups. Also shake the basket halfway through cooking for even browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uneven cooking usually means the broccoli pieces aren't similar in size. For consistent results, cut florets to roughly the same size before measuring 0.75 cups. Also shake the basket halfway through cooking for even browning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 0.75 Cups of Broccoli?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.75 Cups of Broccoli?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli",
     "description": "Find out exactly how many grams 0.75 cups of broccoli weighs for perfect air fryer recipes every time. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:26.192000+00:00",
     "dateModified": "2025-07-27T16:11:26.192000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 0.75 Cups of Broccoli?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-broccoli"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cups of broccoli is approximately 68 grams. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're roasting, steaming, or crisping broccoli in your air fryer, knowing the exact gram equivalent helps avoid under or overcooking. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

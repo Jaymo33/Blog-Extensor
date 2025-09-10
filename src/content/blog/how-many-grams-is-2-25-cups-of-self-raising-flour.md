@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour"
-        },
-        "headline": "Quick Guide: Convert 2.25 Cups of Self-Raising Flour to Grams",
-        "description": "Easily convert 2.25 cups of self-raising flour to grams for perfect baking results every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour"
+    },
+    "headline": "Quick Guide: Convert 2.25 Cups of Self-Raising Flour to Grams",
+    "description": "Easily convert 2.25 cups of self-raising flour to grams for perfect baking results every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T23:33:52.667Z",
-        "dateModified": "2025-07-27T23:33:52.667Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-self-raising-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T23:33:52.667Z",
+    "dateModified": "2025-07-27T23:33:52.667Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-25-cups-of-self-raising-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour for 2.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute plain flour for self-raising flour by adding baking powder. For 2.25 cups (281 grams) of plain flour, mix in 3.75 teaspoons of baking powder. This ensures your baked goods rise properly in the air fryer. Always sift the mixture to distribute the baking powder evenly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute plain flour for self-raising flour by adding baking powder. For 2.25 cups (281 grams) of plain flour, mix in 3.75 teaspoons of baking powder. This ensures your baked goods rise properly in the air fryer. Always sift the mixture to distribute the baking powder evenly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing flour more accurate than using cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing flour in grams is more accurate because cup measurements can vary based on how the flour is packed or scooped. A tightly packed cup can hold significantly more flour than a lightly scooped one, leading to inconsistent results. Grams provide a precise measurement, which is especially important for air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing flour in grams is more accurate because cup measurements can vary based on how the flour is packed or scooped. A tightly packed cup can hold significantly more flour than a lightly scooped one, leading to inconsistent results. Grams provide a precise measurement, which is especially important for air fryer baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does self-raising flour affect air fryer baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Self-raising flour contains baking powder, which helps baked goods rise in the air fryer’s compact environment. The hot air circulation ensures even cooking and a light, fluffy texture. However, overmixing or incorrect measurements can lead to dense results, so always follow the recipe closely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Self-raising flour contains baking powder, which helps baked goods rise in the air fryer’s compact environment. The hot air circulation ensures even cooking and a light, fluffy texture. However, overmixing or incorrect measurements can lead to dense results, so always follow the recipe closely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store self-raising flour for accurate measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store self-raising flour in an airtight container in a cool, dry place to prevent moisture absorption, which can affect its leavening power. Before measuring, fluff the flour with a spoon to aerate it, then spoon it into your measuring cup or weigh it for the most accurate results. This ensures consistent baking performance in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store self-raising flour in an airtight container in a cool, dry place to prevent moisture absorption, which can affect its leavening power. Before measuring, fluff the flour with a spoon to aerate it, then spoon it into your measuring cup or weigh it for the most accurate results. This ensures consistent baking performance in your air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 2.25 Cups of Self-Raising Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.25 Cups of Self-Raising Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour",
     "description": "Easily convert 2.25 cups of self-raising flour to grams for perfect baking results every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:33:52.667000+00:00",
     "dateModified": "2025-07-27T23:33:52.667000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 2.25 Cups of Self-Raising Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-25-cups-of-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.25 cups of self-raising flour equals approximately 281 grams. This conversion is essential for precise baking, especially when using an air fryer, where accuracy can make or break your recipe. Whether you’re whipping up cakes, muffins, or bread, knowing the exact gram measurement ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of getting measurements spot-on for air fryer success.</p>

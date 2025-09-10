@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1 Cup of Wheat Flour?",
-        "description": "Discover how many ounces are in 1 cup of wheat flour for perfect baking every time. Get accurate UK conversions and air fryer-friendly tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1 Cup of Wheat Flour?",
+    "description": "Discover how many ounces are in 1 cup of wheat flour for perfect baking every time. Get accurate UK conversions and air fryer-friendly tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-wheat-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-wheat-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 1 cup of wheat flour always equal 4.5 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 4.5 ounces is the standard, slight variations can occur due to humidity, packing, or flour type. For utmost accuracy, especially in air fryer baking, weighing with a scale is best. Whole wheat flour, for example, may weigh slightly more per cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 4.5 ounces is the standard, slight variations can occur due to humidity, packing, or flour type. For utmost accuracy, especially in air fryer baking, weighing with a scale is best. Whole wheat flour, for example, may weigh slightly more per cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for gluten-free flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free flours like almond or coconut have different densities, so 1 cup won’t equal 4.5 ounces. Always check the packaging or a trusted conversion chart. Air fryer recipes may require adjustments to prevent dryness or crumbling."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free flours like almond or coconut have different densities, so 1 cup won’t equal 4.5 ounces. Always check the packaging or a trusted conversion chart. Air fryer recipes may require adjustments to prevent dryness or crumbling."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe turn out differently with cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate heat intensely, and imprecise flour amounts can lead to uneven cooking. Even a small excess of flour can make coatings pasty or doughs dense. Measuring by weight (ounces or grams) ensures consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate heat intensely, and imprecise flour amounts can lead to uneven cooking. Even a small excess of flour can make coatings pasty or doughs dense. Measuring by weight (ounces or grams) ensures consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover wheat flour after measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep wheat flour in an airtight container in a cool, dry place to maintain freshness. For long-term storage, freeze it. Proper storage ensures your next 1-cup measurement for air fryer recipes is just as reliable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep wheat flour in an airtight container in a cool, dry place to maintain freshness. For long-term storage, freeze it. Proper storage ensures your next 1-cup measurement for air fryer recipes is just as reliable."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of wheat flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of wheat flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour",
     "description": "Discover how many ounces are in 1 cup of wheat flour for perfect baking every time. Get accurate UK conversions and air fryer-friendly tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of wheat flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-wheat-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>One cup of wheat flour equals approximately 4.5 ounces in the UK. This measurement is essential for baking, especially when using an air fryer, where precise quantities can affect texture and cooking times. Whether you're whipping up cakes, bread, or crispy coatings, knowing how many ounces are in 1 cup of wheat flour ensures consistent results every time.</p>  

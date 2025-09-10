@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion"
-        },
-        "headline": "Quick Guide: Convert 4 tbsp of onion to grams easily",
-        "description": "Learn how to convert 4 tbsp of onion into grams for precise air fryer cooking. Get accurate measurements and perfect recipes every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion"
+    },
+    "headline": "Quick Guide: Convert 4 tbsp of onion to grams easily",
+    "description": "Learn how to convert 4 tbsp of onion into grams for precise air fryer cooking. Get accurate measurements and perfect recipes every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use dried onions instead of fresh for 4 tbsp measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but dried onions are more concentrated. Use 4 tsp (about 12g) of dried onion to replace 4 tbsp (40g) fresh. Rehydrate them in water first for better texture in air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but dried onions are more concentrated. Use 4 tsp (about 12g) of dried onion to replace 4 tbsp (40g) fresh. Rehydrate them in water first for better texture in air fryer dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of onion affect the weight for 4 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slightly. Red and white onions have similar densities, but sweeter varieties like Vidalia may weigh less due to higher water content. For accuracy, weigh after chopping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slightly. Red and white onions have similar densities, but sweeter varieties like Vidalia may weigh less due to higher water content. For accuracy, weigh after chopping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover chopped onion after measuring 4 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep unused onion in an airtight container in the fridge for up to 3 days. For longer storage, freeze pre-portioned 40g batches—they’ll stay fresh for months."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep unused onion in an airtight container in the fridge for up to 3 days. For longer storage, freeze pre-portioned 40g batches—they’ll stay fresh for months."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify grams instead of tablespoons for onion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams ensure consistency, especially in baked or coated dishes where moisture content matters. Tablespoons can vary based on chop size, while weight is precise. Always opt for grams when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams ensure consistency, especially in baked or coated dishes where moisture content matters. Tablespoons can vary based on chop size, while weight is precise. Always opt for grams when possible."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 4 tbsp of onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion",
     "description": "Learn how to convert 4 tbsp of onion into grams for precise air fryer cooking. Get accurate measurements and perfect recipes every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 4 tbsp of onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4 tablespoons (tbsp) of chopped onion weigh approximately 40 grams. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect results. Whether you’re making crispy onion toppings or adding flavour to dishes, knowing the weight helps streamline your prep.</p>  

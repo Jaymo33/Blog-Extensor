@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder"
-        },
-        "headline": "Quick Guide: Convert 1.25 Cups of Protein Powder to Ounces",
-        "description": "Learn how to convert 1.25 cups of protein powder to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder"
+    },
+    "headline": "Quick Guide: Convert 1.25 Cups of Protein Powder to Ounces",
+    "description": "Learn how to convert 1.25 cups of protein powder to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-protein-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-protein-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of protein powder affect the ounce conversion for 1.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, density varies by type. Whey protein weighs about 10 oz per 1.25 cups, while plant-based powders like pea or rice may be lighter (9–9.5 oz). Always check your brand’s nutritional label for precise measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, density varies by type. Whey protein weighs about 10 oz per 1.25 cups, while plant-based powders like pea or rice may be lighter (9–9.5 oz). Always check your brand’s nutritional label for precise measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a liquid measuring cup for protein powder?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Liquid cups measure volume, not weight, so they’re less accurate for powders. For 1.25 cups of protein powder (10 oz), a dry measuring cup or kitchen scale is best. Scoop lightly to avoid overpacking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liquid cups measure volume, not weight, so they’re less accurate for powders. For 1.25 cups of protein powder (10 oz), a dry measuring cup or kitchen scale is best. Scoop lightly to avoid overpacking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.25 cups of protein powder to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10 ounces of protein powder equals roughly 283 grams. Most air fryer recipes use ounces, but if you prefer grams, multiply ounces by 28.35. Scales with unit switching simplify this."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10 ounces of protein powder equals roughly 283 grams. Most air fryer recipes use ounces, but if you prefer grams, multiply ounces by 28.35. Scales with unit switching simplify this."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air-fried protein dessert turn out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Overmeasuring powder can absorb too much moisture. If using 1.25 cups (10 oz), balance it with extra liquid like almond milk or yogurt. Also, avoid overcooking—check treats 2–3 minutes early."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overmeasuring powder can absorb too much moisture. If using 1.25 cups (10 oz), balance it with extra liquid like almond milk or yogurt. Also, avoid overcooking—check treats 2–3 minutes early."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of protein powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of protein powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder",
     "description": "Learn how to convert 1.25 cups of protein powder to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of protein powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-protein-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of protein powder equals approximately 10 ounces (oz). This conversion is essential for air fryer recipes, especially when precision matters for meal prep or baking. Whether you're making protein pancakes or adding powder to air-fried desserts, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

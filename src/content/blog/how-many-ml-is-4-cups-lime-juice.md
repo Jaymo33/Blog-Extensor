@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice"
-        },
-        "headline": "Quick Guide: Convert 4.0 Cups of Lime Juice to ml Easily",
-        "description": "Learn how to convert 4.0 cups of lime juice to ml for precise cooking and baking. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice"
+    },
+    "headline": "Quick Guide: Convert 4.0 Cups of Lime Juice to ml Easily",
+    "description": "Learn how to convert 4.0 cups of lime juice to ml for precise cooking and baking. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-4-cups-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-4-cups-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 4.0 cups of lime juice the same in UK and US measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, UK and US cup measurements differ. In the US, 4.0 cups of lime juice equal 946 ml, while in the UK, 4.0 cups would be 1136 ml. Always check the recipe’s origin to ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, UK and US cup measurements differ. In the US, 4.0 cups of lime juice equal 946 ml, while in the UK, 4.0 cups would be 1136 ml. Always check the recipe’s origin to ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for 4.0 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lime juice works, but it may contain preservatives or additives that alter the flavour slightly. For the best results, fresh lime juice is recommended, especially in recipes where taste is critical."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lime juice works, but it may contain preservatives or additives that alter the flavour slightly. For the best results, fresh lime juice is recommended, especially in recipes where taste is critical."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 4.0 cups of lime juice last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Freshly squeezed lime juice lasts about a week when stored in an airtight container in the fridge. Bottled lime juice lasts longer—check the label for specific expiry dates after opening."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Freshly squeezed lime juice lasts about a week when stored in an airtight container in the fridge. Bottled lime juice lasts longer—check the label for specific expiry dates after opening."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 4.0 cups of lime juice for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a liquid measuring cup for accuracy. If scaling down, remember 1 cup equals 236.6 ml, so 4.0 cups is 946 ml. For sticky or thick mixtures, a kitchen scale can also help ensure precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a liquid measuring cup for accuracy. If scaling down, remember 1 cup equals 236.6 ml, so 4.0 cups is 946 ml. For sticky or thick mixtures, a kitchen scale can also help ensure precision."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 4.0 Cups of Lime Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice",
+    "@type": "WebPage",
+    "name": "How Many ml Is 4.0 Cups of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice",
     "description": "Learn how to convert 4.0 cups of lime juice to ml for precise cooking and baking. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 4.0 Cups of Lime Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4.0 cups of lime juice equals 946 millilitres (ml). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you’re whipping up a zesty marinade or a tangy dessert, knowing how many ml is 4.0 cups of lime juice ensures consistency and flavour balance.</p>  

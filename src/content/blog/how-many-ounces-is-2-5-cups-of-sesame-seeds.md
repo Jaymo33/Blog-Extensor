@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds"
-        },
-        "headline": "Quick Guide: Convert 2.5 Cups of Sesame Seeds to Ounces",
-        "description": "Learn how to convert 2.5 cups of sesame seeds to ounces for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds"
+    },
+    "headline": "Quick Guide: Convert 2.5 Cups of Sesame Seeds to Ounces",
+    "description": "Learn how to convert 2.5 cups of sesame seeds to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-sesame-seeds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-sesame-seeds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use volume measurements instead of weighing sesame seeds for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While volume measurements (cups) work, weighing sesame seeds in ounces or grams is more accurate for air fryer cooking. Seeds can settle or vary in density, affecting the final dish. A digital scale ensures consistency, especially for recipes requiring 2.5 cups (12 ounces) of sesame seeds."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While volume measurements (cups) work, weighing sesame seeds in ounces or grams is more accurate for air fryer cooking. Seeds can settle or vary in density, affecting the final dish. A digital scale ensures consistency, especially for recipes requiring 2.5 cups (12 ounces) of sesame seeds."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I toast sesame seeds in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Spread 12 ounces (2.5 cups) of sesame seeds evenly in the air fryer basket. Cook at 160°C for 3–5 minutes, shaking halfway, until golden. Toasting enhances their nutty flavour, perfect for coatings or garnishes. Keep an eye on them to prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Spread 12 ounces (2.5 cups) of sesame seeds evenly in the air fryer basket. Cook at 160°C for 3–5 minutes, shaking halfway, until golden. Toasting enhances their nutty flavour, perfect for coatings or garnishes. Keep an eye on them to prevent burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are UK and US ounces the same for measuring sesame seeds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1 UK fluid ounce and 1 US fluid ounce are nearly identical (differing by less than 4%). For 2.5 cups of sesame seeds, the conversion to ounces (12 oz) remains consistent in both systems. Weight measurements avoid any regional discrepancies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1 UK fluid ounce and 1 US fluid ounce are nearly identical (differing by less than 4%). For 2.5 cups of sesame seeds, the conversion to ounces (12 oz) remains consistent in both systems. Weight measurements avoid any regional discrepancies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute black sesame seeds for white in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, black sesame seeds can replace white in equal amounts (2.5 cups = 12 ounces). They have a slightly earthier taste but work well in coatings or as garnishes. Adjust cooking times slightly, as darker seeds may toast faster in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, black sesame seeds can replace white in equal amounts (2.5 cups = 12 ounces). They have a slightly earthier taste but work well in coatings or as garnishes. Adjust cooking times slightly, as darker seeds may toast faster in the air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of sesame seeds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of sesame seeds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds",
     "description": "Learn how to convert 2.5 cups of sesame seeds to ounces for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of sesame seeds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-sesame-seeds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of sesame seeds equal approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making sesame-crusted chicken or adding seeds to a stir-fry, knowing the weight helps avoid under or over-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

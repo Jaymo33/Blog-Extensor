@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 20g of Caster Sugar to Ounces Easily",
-        "description": "Learn how to convert 20g of caster sugar to ounces in seconds. Perfect for air fryer baking with accurate measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 20g of Caster Sugar to Ounces Easily",
+    "description": "Learn how to convert 20g of caster sugar to ounces in seconds. Perfect for air fryer baking with accurate measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-caster-sugar-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-caster-sugar-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use granulated sugar instead of caster sugar for 20g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute granulated sugar, but the texture may differ slightly. Caster sugar dissolves faster, which is ideal for air fryer baking. If using granulated sugar, pulse it briefly in a blender to mimic caster sugar’s fine texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute granulated sugar, but the texture may differ slightly. Caster sugar dissolves faster, which is ideal for air fryer baking. If using granulated sugar, pulse it briefly in a blender to mimic caster sugar’s fine texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 20g of caster sugar to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "20g of caster sugar is roughly 0.1 UK cups or 0.08 US cups. However, measuring by weight (grams or ounces) is far more accurate for baking. Cups can vary based on how tightly the sugar is packed, so a scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "20g of caster sugar is roughly 0.1 UK cups or 0.08 US cups. However, measuring by weight (grams or ounces) is far more accurate for baking. Cups can vary based on how tightly the sugar is packed, so a scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer bake differently with 20g of sugar versus ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers rely on precise measurements for even cooking. If your conversion from 20g to ounces is slightly off, it can affect browning and texture. Always use the most accurate measurement possible, whether in grams or ounces, for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers rely on precise measurements for even cooking. If your conversion from 20g to ounces is slightly off, it can affect browning and texture. Always use the most accurate measurement possible, whether in grams or ounces, for consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 20g of caster sugar the same as icing sugar in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, icing sugar is lighter and fluffier than caster sugar. While 20g of caster sugar equals 0.71 ounces, the same weight of icing sugar will take up more volume. Always check the type of sugar specified in your recipe for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, icing sugar is lighter and fluffier than caster sugar. While 20g of caster sugar equals 0.71 ounces, the same weight of icing sugar will take up more volume. Always check the type of sugar specified in your recipe for the best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 20g of caster sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of caster sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces",
     "description": "Learn how to convert 20g of caster sugar to ounces in seconds. Perfect for air fryer baking with accurate measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 20g of caster sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/20g-caster-sugar-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>20 grams of caster sugar is equivalent to approximately 0.71 ounces. This conversion is essential for precise baking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up cakes or cookies, knowing how to convert grams to ounces ensures consistent results every time.</p>

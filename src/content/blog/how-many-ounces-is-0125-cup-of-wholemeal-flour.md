@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour"
-        },
-        "headline": "Quick Guide: 0.125 Cup Wholemeal Flour to Ounces Conversion",
-        "description": "Learn how to convert 0.125 cup of wholemeal flour to ounces with our easy guide. Perfect for air fryer baking and precise measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour"
+    },
+    "headline": "Quick Guide: 0.125 Cup Wholemeal Flour to Ounces Conversion",
+    "description": "Learn how to convert 0.125 cup of wholemeal flour to ounces with our easy guide. Perfect for air fryer baking and precise measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0125-cup-of-wholemeal-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0125-cup-of-wholemeal-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.125 cup of wholemeal flour in place of white flour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute 0.125 cup of wholemeal flour for white flour, but be aware it will make your baked goods denser and nuttier in flavour. You might need to add a bit more liquid as wholemeal flour absorbs more moisture. Start with small substitutions like this to see how it affects your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute 0.125 cup of wholemeal flour for white flour, but be aware it will make your baked goods denser and nuttier in flavour. You might need to add a bit more liquid as wholemeal flour absorbs more moisture. Start with small substitutions like this to see how it affects your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.125 cup of wholemeal flour without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a 1/8 cup measure, you can use two tablespoons (as 16 tablespoons make 1 cup). For 0.125 cup, that's exactly 2 tablespoons. Alternatively, weigh out 0.5 ounces on a kitchen scale for perfect accuracy every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a 1/8 cup measure, you can use two tablespoons (as 16 tablespoons make 1 cup). For 0.125 cup, that's exactly 2 tablespoons. Alternatively, weigh out 0.5 ounces on a kitchen scale for perfect accuracy every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 0.125 cup of wholemeal flour weigh the same as other types of flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, different flours have different weights. Wholemeal flour is typically heavier than all-purpose flour per cup due to its bran content. While 0.125 cup of all-purpose flour weighs about 0.56 oz, wholemeal flour weighs slightly more at about 0.5 oz for the same volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, different flours have different weights. Wholemeal flour is typically heavier than all-purpose flour per cup due to its bran content. While 0.125 cup of all-purpose flour weighs about 0.56 oz, wholemeal flour weighs slightly more at about 0.5 oz for the same volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer bake differently when using wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Wholemeal flour affects air fryer baking because it absorbs more liquid and browns faster than white flour. The bran particles can also create a denser texture. When using small amounts like 0.125 cup, you might not notice much difference, but in larger quantities, you may need to adjust cooking times and temperatures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wholemeal flour affects air fryer baking because it absorbs more liquid and browns faster than white flour. The bran particles can also create a denser texture. When using small amounts like 0.125 cup, you might not notice much difference, but in larger quantities, you may need to adjust cooking times and temperatures."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of wholemeal flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of wholemeal flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour",
     "description": "Learn how to convert 0.125 cup of wholemeal flour to ounces with our easy guide. Perfect for air fryer baking and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of wholemeal flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-wholemeal-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of wholemeal flour equals approximately 0.5 ounces (oz). This conversion is essential for air fryer baking, where precision ensures perfect results every time. Whether you're making muffins, bread, or cookies, knowing the exact weight of your ingredients can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless air fryer recipes.</p>  

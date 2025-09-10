@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt"
-        },
-        "headline": "Quick Answer: 0.75 tbsp plain yogurt to grams conversion",
-        "description": "Discover how to convert 0.75 tbsp of plain yogurt to grams for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt"
+    },
+    "headline": "Quick Answer: 0.75 tbsp plain yogurt to grams conversion",
+    "description": "Discover how to convert 0.75 tbsp of plain yogurt to grams for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-plain-yogurt.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-plain-yogurt.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use Greek yogurt instead of plain yogurt for this measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but Greek yogurt is thicker, so 0.75 tbsp weighs slightly more—about 12-13 grams. You may need to adjust liquids in your air fryer recipe accordingly for the best texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but Greek yogurt is thicker, so 0.75 tbsp weighs slightly more—about 12-13 grams. You may need to adjust liquids in your air fryer recipe accordingly for the best texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify yogurt in grams rather than tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide precise measurements, especially important in baking. Tablespoons can vary based on how you scoop the yogurt, but grams ensure consistency every time you use your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide precise measurements, especially important in baking. Tablespoons can vary based on how you scoop the yogurt, but grams ensure consistency every time you use your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.75 tbsp without a measuring spoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a regular teaspoon: 0.75 tbsp equals 2.25 teaspoons. Alternatively, eyeball it by filling a tablespoon three-quarters full for approximate accuracy in your air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a regular teaspoon: 0.75 tbsp equals 2.25 teaspoons. Alternatively, eyeball it by filling a tablespoon three-quarters full for approximate accuracy in your air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the fat content of yogurt affect the gram measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Full-fat, low-fat, and skim yogurts have similar weights per tablespoon (around 15g). However, richer yogurts may compact slightly more, so weighing with a scale is ideal for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Full-fat, low-fat, and skim yogurts have similar weights per tablespoon (around 15g). However, richer yogurts may compact slightly more, so weighing with a scale is ideal for air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.75 tbsp of plain yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt",
+    "@type": "WebPage",
+    "name": "How many grams is 0.75 tbsp of plain yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt",
     "description": "Discover how to convert 0.75 tbsp of plain yogurt to grams for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.75 tbsp of plain yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-plain-yogurt"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 tbsp of plain yogurt equals approximately 11.25 grams. This measurement is essential for air fryer recipes where precision matters, whether you're baking, marinating, or creating sauces. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate conversions make all the difference in achieving perfect results.</p>  

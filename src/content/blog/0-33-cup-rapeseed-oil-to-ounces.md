@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 0.33 Cup Rapeseed Oil to Ounces Easily",
-        "description": "Discover how to convert 0.33 cup of rapeseed oil to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 0.33 Cup Rapeseed Oil to Ounces Easily",
+    "description": "Discover how to convert 0.33 cup of rapeseed oil to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-rapeseed-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-rapeseed-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.33 cup of rapeseed oil without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, you can use tablespoons as a substitute. Since 1 cup equals 16 tablespoons, 0.33 cup is roughly 5.33 tablespoons. Alternatively, you could weigh the oil, as 0.33 cup of rapeseed oil equals 2.64 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, you can use tablespoons as a substitute. Since 1 cup equals 16 tablespoons, 0.33 cup is roughly 5.33 tablespoons. Alternatively, you could weigh the oil, as 0.33 cup of rapeseed oil equals 2.64 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use other oils instead of rapeseed oil in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use other oils like sunflower or vegetable oil, but keep in mind their smoke points and flavours may differ. The conversion from 0.33 cup to ounces will be similar, as most cooking oils weigh about 8 ounces per cup. Always check the specific oil’s properties for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use other oils like sunflower or vegetable oil, but keep in mind their smoke points and flavours may differ. The conversion from 0.33 cup to ounces will be similar, as most cooking oils weigh about 8 ounces per cup. Always check the specific oil’s properties for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is rapeseed oil recommended for air fryers?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Rapeseed oil is ideal for air fryers due to its high smoke point (around 230°C), which prevents burning during high-heat cooking. Its neutral flavour also won’t overpower your food. When using 0.33 cup (2.64 ounces), it provides just enough coating for crispy results without greasiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rapeseed oil is ideal for air fryers due to its high smoke point (around 230°C), which prevents burning during high-heat cooking. Its neutral flavour also won’t overpower your food. When using 0.33 cup (2.64 ounces), it provides just enough coating for crispy results without greasiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 0.33 cup of rapeseed oil compare to spray oil in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.33 cup (2.64 ounces) of rapeseed oil is more than you’d typically use with a spray, but it’s perfect for coating larger batches. Spray oils are better for light applications, while 0.33 cup is ideal when you need to toss ingredients evenly. Both methods work well in air fryers when used appropriately."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.33 cup (2.64 ounces) of rapeseed oil is more than you’d typically use with a spray, but it’s perfect for coating larger batches. Spray oils are better for light applications, while 0.33 cup is ideal when you need to toss ingredients evenly. Both methods work well in air fryers when used appropriately."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of rapeseed oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of rapeseed oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces",
     "description": "Discover how to convert 0.33 cup of rapeseed oil to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of rapeseed oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-rapeseed-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of rapeseed oil equals approximately 2.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up crispy chips or succulent chicken, knowing how many ounces are in 0.33 cup of rapeseed oil ensures consistent results every time.</p>

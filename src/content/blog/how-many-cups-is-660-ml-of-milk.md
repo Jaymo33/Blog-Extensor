@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk"
-        },
-        "headline": "Quick Guide: Convert 660 ml of Milk to Cups Easily",
-        "description": "Learn how to convert 660 ml of milk to cups for baking and cooking with this simple guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk"
+    },
+    "headline": "Quick Guide: Convert 660 ml of Milk to Cups Easily",
+    "description": "Learn how to convert 660 ml of milk to cups for baking and cooking with this simple guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-660-ml-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 660 ml of milk the same as 2.79 cups in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cup sizes can vary by country. In the UK, a cup is typically 250 ml, while in the US, it's 236.59 ml. For precise measurements, always check which standard your recipe follows or use a conversion chart for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cup sizes can vary by country. In the UK, a cup is typically 250 ml, while in the US, it's 236.59 ml. For precise measurements, always check which standard your recipe follows or use a conversion chart for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular drinking cup to measure 660 ml of milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It's best to use a liquid measuring cup for accuracy, as drinking cups vary in size. A standard measuring cup ensures you get the correct amount, which is crucial for recipes, especially when using an air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It's best to use a liquid measuring cup for accuracy, as drinking cups vary in size. A standard measuring cup ensures you get the correct amount, which is crucial for recipes, especially when using an air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 660 ml of milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring cup, you can use a kitchen scale. Milk weighs roughly 1 gram per ml, so 660 ml would be about 660 grams. Alternatively, use a tablespoon (15 ml) and measure out 44 tablespoons for 660 ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring cup, you can use a kitchen scale. Milk weighs roughly 1 gram per ml, so 660 ml would be about 660 grams. Alternatively, use a tablespoon (15 ml) and measure out 44 tablespoons for 660 ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to measure milk accurately in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Accurate measurements ensure your recipes turn out as intended. Too much milk can make batters too thin, while too little can dry out your dish. Precision is key for perfect texture and taste in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Accurate measurements ensure your recipes turn out as intended. Too much milk can make batters too thin, while too little can dry out your dish. Precision is key for perfect texture and taste in air fryer cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 660 ml of Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 660 ml of Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk",
     "description": "Learn how to convert 660 ml of milk to cups for baking and cooking with this simple guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 660 ml of Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-660-ml-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>660 ml of milk is approximately 2.79 cups. This conversion is essential for anyone using recipes that require precise measurements, especially when cooking or baking with an air fryer. Whether you're whipping up a cake or preparing a creamy sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly every time.</p>

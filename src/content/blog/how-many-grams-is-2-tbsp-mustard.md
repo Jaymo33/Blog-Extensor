@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard"
-        },
-        "headline": "Quick Answer: How Many Grams is 2 Tbsp of Mustard?",
-        "description": "Discover the exact weight of 2 tbsp mustard in grams for perfect air fryer recipes. Get precise conversions and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard"
+    },
+    "headline": "Quick Answer: How Many Grams is 2 Tbsp of Mustard?",
+    "description": "Discover the exact weight of 2 tbsp mustard in grams for perfect air fryer recipes. Get precise conversions and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-mustard.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-mustard.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of mustard affect the weight of 2 tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of mustard can slightly affect the weight. Smooth mustards like yellow or Dijon are lighter, while whole grain mustard is denser. However, the difference is minimal, and 2 tbsp of most mustards will still weigh around 30 grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of mustard can slightly affect the weight. Smooth mustards like yellow or Dijon are lighter, while whole grain mustard is denser. However, the difference is minimal, and 2 tbsp of most mustards will still weigh around 30 grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a teaspoon to measure 2 tbsp of mustard?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need 6 teaspoons to equal 2 tablespoons. For accuracy, use proper measuring spoons and level them off. This ensures you’re as close to 30 grams as possible without a scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need 6 teaspoons to equal 2 tablespoons. For accuracy, use proper measuring spoons and level them off. This ensures you’re as close to 30 grams as possible without a scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing mustard better than using tablespoons in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing mustard (or any ingredient) ensures consistency, especially in air fryer cooking where precise amounts affect texture and browning. Tablespoons can vary based on how you fill them, but grams are always exact."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing mustard (or any ingredient) ensures consistency, especially in air fryer cooking where precise amounts affect texture and browning. Tablespoons can vary based on how you fill them, but grams are always exact."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust mustard measurements for a larger air fryer batch?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Simply scale up the grams proportionally. For example, if a recipe uses 2 tbsp (30g) for 4 servings, you’d need 60g for 8 servings. A kitchen scale makes this easy and avoids guesswork."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Simply scale up the grams proportionally. For example, if a recipe uses 2 tbsp (30g) for 4 servings, you’d need 60g for 8 servings. A kitchen scale makes this easy and avoids guesswork."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2 tbsp of mustard?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of mustard?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard",
     "description": "Discover the exact weight of 2 tbsp mustard in grams for perfect air fryer recipes. Get precise conversions and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2 tbsp of mustard?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-mustard"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 tablespoons (tbsp) of mustard weigh approximately 30 grams (g). This conversion is essential for precise cooking, especially when using an air fryer where accurate measurements can make or break a dish. Whether you're whipping up a marinade, sauce, or coating for meats, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

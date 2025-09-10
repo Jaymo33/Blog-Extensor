@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese"
-        },
-        "headline": "How Many Cups Is 150 Grams of Cheddar Cheese? – Quick Conversion | AirFryerRecipe.co.uk",
-        "description": "Find out how many cups 150 grams of cheddar cheese equals for perfect air fryer recipes. Includes UK/US conversions and tips for accurate measuring.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese"
+    },
+    "headline": "How Many Cups Is 150 Grams of Cheddar Cheese? – Quick Conversion | AirFryerRecipe.co.uk",
+    "description": "Find out how many cups 150 grams of cheddar cheese equals for perfect air fryer recipes. Includes UK/US conversions and tips for accurate measuring.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:12:00.810Z",
-        "dateModified": "2025-07-22T16:12:00.810Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-cheddar-cheese.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:12:00.810Z",
+    "dateModified": "2025-07-22T16:12:00.810Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-cheddar-cheese.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 150 grams of cheddar cheese measure differently if it's packed tightly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, tightly packed grated cheddar can measure slightly less in cups - about 1.25 cups for 150g versus 1.5 cups when lightly packed. For air fryer recipes, we recommend lightly packing for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, tightly packed grated cheddar can measure slightly less in cups - about 1.25 cups for 150g versus 1.5 cups when lightly packed. For air fryer recipes, we recommend lightly packing for consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many cups is 150 grams of pre-shredded cheddar cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Pre-shredded cheddar is less dense due to anti-caking agents, so 150 grams equals about 1.75 cups. Adjust air fryer cooking times slightly as it melts faster than freshly grated cheese."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pre-shredded cheddar is less dense due to anti-caking agents, so 150 grams equals about 1.75 cups. Adjust air fryer cooking times slightly as it melts faster than freshly grated cheese."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for other hard cheeses like parmesan?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, parmesan is much denser - 150 grams equals about 1 cup grated. Always check specific conversions for different cheeses when preparing air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, parmesan is much denser - 150 grams equals about 1 cup grated. Always check specific conversions for different cheeses when preparing air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify weight instead of cups for cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements are more precise as cheese density varies. For perfect results in air fryer cooking, we recommend using scales when possible, especially for baked dishes like cheese soufflés."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements are more precise as cheese density varies. For perfect results in air fryer cooking, we recommend using scales when possible, especially for baked dishes like cheese soufflés."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 150 Grams of Cheddar Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 150 Grams of Cheddar Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese",
     "description": "Find out how many cups 150 grams of cheddar cheese equals for perfect air fryer recipes. Includes UK/US conversions and tips for accurate measuring.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:12:00.810000+00:00",
     "dateModified": "2025-07-22T16:12:00.810000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 150 Grams of Cheddar Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-cheddar-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150 grams of cheddar cheese equals approximately 1.5 cups when grated or 1.25 cups when cubed. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making cheesy garlic bread or a crispy topping for baked potatoes, knowing how many cups is 150 grams of cheddar cheese ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we specialise in helping you get these measurements spot-on for perfect air frying every time.</p>

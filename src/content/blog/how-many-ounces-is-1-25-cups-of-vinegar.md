@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar"
-        },
-        "headline": "Quick Answer: How many ounces is 1.25 cups of vinegar?",
-        "description": "Discover how to convert 1.25 cups of vinegar to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar"
+    },
+    "headline": "Quick Answer: How many ounces is 1.25 cups of vinegar?",
+    "description": "Discover how to convert 1.25 cups of vinegar to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 1.25 cups of vinegar in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale can measure 1.25 cups of vinegar in ounces. Set it to fluid ounces (fl oz) and pour the vinegar until it reaches 10 oz. This method is especially handy for sticky vinegars like balsamic, which can be tricky to measure in cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale can measure 1.25 cups of vinegar in ounces. Set it to fluid ounces (fl oz) and pour the vinegar until it reaches 10 oz. This method is especially handy for sticky vinegars like balsamic, which can be tricky to measure in cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of vinegar affect the ounce measurement for 1.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the type of vinegar doesn’t change the fluid ounce measurement. Whether it’s apple cider, white, or balsamic vinegar, 1.25 cups will always be 10 fl oz. However, thicker vinegars may weigh slightly more on a scale due to density."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the type of vinegar doesn’t change the fluid ounce measurement. Whether it’s apple cider, white, or balsamic vinegar, 1.25 cups will always be 10 fl oz. However, thicker vinegars may weigh slightly more on a scale due to density."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.25 cups of vinegar to millilitres?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.25 cups of vinegar equals approximately 295 millilitres (ml). This conversion is useful for recipes using metric measurements. Remember, air fryer recipes often need precise liquids, so a measuring jug with both oz and ml markings is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.25 cups of vinegar equals approximately 295 millilitres (ml). This conversion is useful for recipes using metric measurements. Remember, air fryer recipes often need precise liquids, so a measuring jug with both oz and ml markings is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for vinegar in ounces instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ounces provide a more precise measurement, especially for liquids like vinegar that can affect recipe outcomes. Air fryers cook quickly, so exact amounts ensure balanced flavours. Many professional recipes use weight measurements for consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ounces provide a more precise measurement, especially for liquids like vinegar that can affect recipe outcomes. Air fryers cook quickly, so exact amounts ensure balanced flavours. Many professional recipes use weight measurements for consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar",
     "description": "Discover how to convert 1.25 cups of vinegar to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of vinegar equals 10 fluid ounces (fl oz) in the UK and US measurement systems. This conversion is essential for air fryer recipes, where precise liquid measurements can make or break a dish. Whether you’re making a tangy marinade or a zesty dressing, knowing how to convert cups to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>  

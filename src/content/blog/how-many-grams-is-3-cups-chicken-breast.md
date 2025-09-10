@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast"
-        },
-        "headline": "Quick Guide: Convert 3.0 Cups of Chicken Breast to Grams Easily",
-        "description": "Learn how to convert 3.0 cups of chicken breast to grams for perfect air fryer meals every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast"
+    },
+    "headline": "Quick Guide: Convert 3.0 Cups of Chicken Breast to Grams Easily",
+    "description": "Learn how to convert 3.0 cups of chicken breast to grams for perfect air fryer meals every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:10:54.506Z",
-        "dateModified": "2025-07-28T20:10:54.506Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-cups-chicken-breast.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:10:54.506Z",
+    "dateModified": "2025-07-28T20:10:54.506Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-cups-chicken-breast.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the weight of 3.0 cups of chicken breast change if it’s cooked?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, cooked chicken breast weighs less due to moisture loss. Raw 3.0 cups (420g) may reduce to about 300–350g after cooking. Always measure raw chicken for recipe accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, cooked chicken breast weighs less due to moisture loss. Raw 3.0 cups (420g) may reduce to about 300–350g after cooking. Always measure raw chicken for recipe accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for frozen chicken breast?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Frozen chicken breast can vary in density. Thaw it first for accurate measuring. Diced frozen chicken may yield slightly more grams per cup due to ice crystals."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Frozen chicken breast can vary in density. Thaw it first for accurate measuring. Diced frozen chicken may yield slightly more grams per cup due to ice crystals."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many chicken breasts make 3.0 cups (420g)?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Typically, 2 medium chicken breasts (about 210g each) yield 3.0 cups when diced. Sizes vary, so weighing ensures precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Typically, 2 medium chicken breasts (about 210g each) yield 3.0 cups when diced. Sizes vary, so weighing ensures precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes prefer grams over cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide consistency, crucial for air fryer cooking where portion size affects heat distribution. Cups can vary based on how ingredients are packed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide consistency, crucial for air fryer cooking where portion size affects heat distribution. Cups can vary based on how ingredients are packed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 3.0 Cups of Chicken Breast?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 3.0 Cups of Chicken Breast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast",
     "description": "Learn how to convert 3.0 cups of chicken breast to grams for perfect air fryer meals every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:10:54.506000+00:00",
     "dateModified": "2025-07-28T20:10:54.506000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 3.0 Cups of Chicken Breast?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-chicken-breast"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.0 cups of chicken breast equals approximately 420 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and doneness. Whether you’re meal prepping or following a recipe, knowing how many grams 3.0 cups of chicken breast weighs ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we prioritise accuracy to help you achieve perfect meals every time.</p>

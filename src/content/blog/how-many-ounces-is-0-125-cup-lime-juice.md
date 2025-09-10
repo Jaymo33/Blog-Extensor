@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice"
-        },
-        "headline": "Quick Answer: 0.125 Cup Lime Juice to Ounces Conversion",
-        "description": "Convert 0.125 cup of lime juice to ounces effortlessly. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice"
+    },
+    "headline": "Quick Answer: 0.125 Cup Lime Juice to Ounces Conversion",
+    "description": "Convert 0.125 cup of lime juice to ounces effortlessly. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for 0.125 cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lime juice works in a pinch, but fresh lime juice offers brighter flavour. If using bottled, check for additives like preservatives, which might alter taste. For air fryer recipes, fresh juice is preferred for marinades and glazes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lime juice works in a pinch, but fresh lime juice offers brighter flavour. If using bottled, check for additives like preservatives, which might alter taste. For air fryer recipes, fresh juice is preferred for marinades and glazes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 0.125 cup of lime juice affect cooking times in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lime juice adds minimal moisture, so it rarely affects cooking times. However, if used in a marinade, pat proteins dry before air frying to ensure crispiness. A 0.125 cup (1 oz) is small enough not to cause steaming."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lime juice adds minimal moisture, so it rarely affects cooking times. However, if used in a marinade, pat proteins dry before air frying to ensure crispiness. A 0.125 cup (1 oz) is small enough not to cause steaming."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 0.125 cup of lime juice the same as 0.125 cup of lemon juice in weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, both lime and lemon juice weigh roughly the same—1 oz per 0.125 cup. However, their acidity levels differ slightly, so adjust other recipe ingredients accordingly for balance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, both lime and lemon juice weigh roughly the same—1 oz per 0.125 cup. However, their acidity levels differ slightly, so adjust other recipe ingredients accordingly for balance."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store leftover lime juice after measuring 0.125 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover lime juice in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays—each cube holds about 1 oz (0.125 cup), perfect for future air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover lime juice in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays—each cube holds about 1 oz (0.125 cup), perfect for future air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of lime juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of lime juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice",
     "description": "Convert 0.125 cup of lime juice to ounces effortlessly. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of lime juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of lime juice equals exactly 1 fluid ounce (oz). This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or adding a zesty kick to desserts, knowing the exact weight ensures consistency.</p>

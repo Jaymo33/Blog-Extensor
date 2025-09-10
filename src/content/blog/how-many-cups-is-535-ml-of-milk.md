@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk"
-        },
-        "headline": "Quick Guide: Convert 535 ml of Milk to Cups Easily",
-        "description": "Learn how to convert 535 ml of milk to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk"
+    },
+    "headline": "Quick Guide: Convert 535 ml of Milk to Cups Easily",
+    "description": "Learn how to convert 535 ml of milk to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-535-ml-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-535-ml-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 535 ml of milk the same as 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 535 ml of milk is slightly more than 2 cups in the US (2.26 cups) and slightly less in the UK (2.11 cups). Always check whether your recipe uses US or UK measurements for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 535 ml of milk is slightly more than 2 cups in the US (2.26 cups) and slightly less in the UK (2.11 cups). Always check whether your recipe uses US or UK measurements for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plant-based milk instead of regular milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, plant-based milk like almond or oat milk can be substituted for regular milk in equal volumes. However, cooking times may vary slightly due to differences in fat content and thickness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, plant-based milk like almond or oat milk can be substituted for regular milk in equal volumes. However, cooking times may vary slightly due to differences in fat content and thickness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 535 ml of milk without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use a kitchen scale (535 ml ≈ 535 grams) or a standard mug (about 250–300 ml per mug). Two mugfuls will get you close to 535 ml, but a scale is more precise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use a kitchen scale (535 ml ≈ 535 grams) or a standard mug (about 250–300 ml per mug). Two mugfuls will get you close to 535 ml, but a scale is more precise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe require exact milk measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook quickly, so precise measurements ensure even cooking and the right texture. Too much milk can make dishes soggy, while too little can leave them dry. Always measure carefully for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook quickly, so precise measurements ensure even cooking and the right texture. Too much milk can make dishes soggy, while too little can leave them dry. Always measure carefully for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 535 ml of Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 535 ml of Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk",
     "description": "Learn how to convert 535 ml of milk to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 535 ml of Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>535 ml of milk is approximately 2.26 cups in the US measurement system and roughly 2.11 cups in the UK system. This conversion is essential for anyone using recipes that list milk in millilitres but require cup measurements. Whether you're preparing a creamy sauce or baking a cake in your air fryer, getting the measurement right ensures perfect results every time.</p>

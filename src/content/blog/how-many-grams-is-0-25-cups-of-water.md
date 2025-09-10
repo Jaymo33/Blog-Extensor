@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water"
-        },
-        "headline": "Quick Answer: How Many Grams Is 0.25 Cups of Water?",
-        "description": "Find out exactly how many grams 0.25 cups of water weighs for precise cooking and baking in your air fryer. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water"
+    },
+    "headline": "Quick Answer: How Many Grams Is 0.25 Cups of Water?",
+    "description": "Find out exactly how many grams 0.25 cups of water weighs for precise cooking and baking in your air fryer. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:24.201Z",
-        "dateModified": "2025-07-27T16:11:24.201Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-cups-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:24.201Z",
+    "dateModified": "2025-07-27T16:11:24.201Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-cups-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.25 cups of water the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.25 cups of water is the same measurement in both the UK and USA, equalling 59 grams. While cup sizes can vary for dry ingredients due to different measuring standards, liquid measurements like water are consistent across both regions. Always use a standard measuring cup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.25 cups of water is the same measurement in both the UK and USA, equalling 59 grams. While cup sizes can vary for dry ingredients due to different measuring standards, liquid measurements like water are consistent across both regions. Always use a standard measuring cup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use milliliters instead of grams for 0.25 cups of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Since water has a density of 1 gram per milliliter, 0.25 cups of water (59 grams) is also 59 milliliters. This makes it easy to switch between weight and volume measurements, especially if your recipe or kitchen scale uses milliliters instead of grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Since water has a density of 1 gram per milliliter, 0.25 cups of water (59 grams) is also 59 milliliters. This makes it easy to switch between weight and volume measurements, especially if your recipe or kitchen scale uses milliliters instead of grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes use grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide a more precise measurement than cups, which is crucial for air fryer cooking where even small imbalances can affect texture and cooking time. Weight measurements eliminate variables like how tightly packed an ingredient is, ensuring consistent results every time you cook."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide a more precise measurement than cups, which is crucial for air fryer cooking where even small imbalances can affect texture and cooking time. Weight measurements eliminate variables like how tightly packed an ingredient is, ensuring consistent results every time you cook."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.25 cups of water without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, you can use tablespoons—0.25 cups equals 4 tablespoons. Alternatively, a kitchen scale set to grams will give you the most accurate measurement (59 grams). For small amounts like this, precision matters, especially in baking or sauces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, you can use tablespoons—0.25 cups equals 4 tablespoons. Alternatively, a kitchen scale set to grams will give you the most accurate measurement (59 grams). For small amounts like this, precision matters, especially in baking or sauces."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 0.25 Cups of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.25 Cups of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water",
     "description": "Find out exactly how many grams 0.25 cups of water weighs for precise cooking and baking in your air fryer. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:24.201000+00:00",
     "dateModified": "2025-07-27T16:11:24.201000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 0.25 Cups of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cups of water equals 59 grams. This conversion is essential for accurate cooking and baking, especially when using an air fryer where precision can make or break a recipe. Whether you're preparing a cake, a sauce, or even a marinade, knowing the exact weight ensures consistent results every time.</p>

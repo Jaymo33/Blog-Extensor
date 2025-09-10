@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds"
-        },
-        "headline": "Easy 8.75 kg Cod Fillet to Pounds Conversion Guide",
-        "description": "Convert 8.75 kg cod fillet to pounds instantly. Perfect for air fryer recipes and meal prep with accurate measurements and cooking tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds"
+    },
+    "headline": "Easy 8.75 kg Cod Fillet to Pounds Conversion Guide",
+    "description": "Convert 8.75 kg cod fillet to pounds instantly. Perfect for air fryer recipes and meal prep with accurate measurements and cooking tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-cod-fillet-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-75-kg-cod-fillet-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 8.75 kg cod fillet to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 8.75 kg cod fillet to pounds is crucial for air frying because it ensures even cooking and proper portioning. Air fryers work best when food pieces are uniform in size and weight, so accurate conversion helps avoid undercooked or overcooked sections. It also allows for precise seasoning and marination, leading to better flavour throughout the batch."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 8.75 kg cod fillet to pounds is crucial for air frying because it ensures even cooking and proper portioning. Air fryers work best when food pieces are uniform in size and weight, so accurate conversion helps avoid undercooked or overcooked sections. It also allows for precise seasoning and marination, leading to better flavour throughout the batch."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a simple rounding method for 8.75 kg to pounds conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While rounding 8.75 kg to pounds might seem convenient, it's best to use the exact conversion factor of 2.20462 for accuracy. Rounding down to 2.2 would give you 19.25 pounds instead of 19.29, which might not seem like much but can affect portion control in large batches. For best results in air frying, stick to the precise calculation to ensure consistent cooking and recipe success."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While rounding 8.75 kg to pounds might seem convenient, it's best to use the exact conversion factor of 2.20462 for accuracy. Rounding down to 2.2 would give you 19.25 pounds instead of 19.29, which might not seem like much but can affect portion control in large batches. For best results in air frying, stick to the precise calculation to ensure consistent cooking and recipe success."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does converting 8.75 kg cod fillet to pounds help with meal planning?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Knowing that 8.75 kg cod fillet equals approximately 19.29 pounds makes meal planning much easier. You can divide the fish into portion-sized packages, plan how many meals you'll get, and shop for complementary ingredients more efficiently. This conversion helps reduce waste, save time, and ensures you make the most of your air fryer recipes for busy weeks or family gatherings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Knowing that 8.75 kg cod fillet equals approximately 19.29 pounds makes meal planning much easier. You can divide the fish into portion-sized packages, plan how many meals you'll get, and shop for complementary ingredients more efficiently. This conversion helps reduce waste, save time, and ensures you make the most of your air fryer recipes for busy weeks or family gatherings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are there any tools to convert 8.75 kg cod fillet to pounds quickly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, many digital kitchen scales offer unit conversion features, allowing you to weigh your cod fillet and switch between kilograms and pounds with the press of a button. Online converters and mobile apps are also handy for quick calculations. For a reliable reference, keep a conversion chart bookmarked, such as the one on airfryerrecipe.co.uk, to make the process effortless and accurate every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, many digital kitchen scales offer unit conversion features, allowing you to weigh your cod fillet and switch between kilograms and pounds with the press of a button. Online converters and mobile apps are also handy for quick calculations. For a reliable reference, keep a conversion chart bookmarked, such as the one on airfryerrecipe.co.uk, to make the process effortless and accurate every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "8.75 kg cod fillet to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds",
+    "@type": "WebPage",
+    "name": "8.75 kg cod fillet to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds",
     "description": "Convert 8.75 kg cod fillet to pounds instantly. Perfect for air fryer recipes and meal prep with accurate measurements and cooking tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "8.75 kg cod fillet to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/8-75-kg-cod-fillet-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>8.75 kg of cod fillet is equal to approximately 19.29 pounds. This conversion is essential for anyone preparing a large batch of cod, especially when using an air fryer, as accurate measurements ensure even cooking and perfect results. Whether you're meal prepping, cooking for a crowd, or just love having delicious cod on hand, knowing this conversion makes life so much easier. You can find plenty of inspiration for your next cod dish over at <a href=https://www.airfryerrecipe.co.uk/recipe-category/cod>airfryerrecipe.co.uk</a>. Getting the weight right is the first step toward a flawless air-fried meal.</p>

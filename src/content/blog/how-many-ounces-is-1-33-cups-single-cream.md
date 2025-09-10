@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream"
-        },
-        "headline": "Quick Answer: 1.33 Cups of Single Cream to Ounces UK",
-        "description": "Convert 1.33 cups of single cream to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream"
+    },
+    "headline": "Quick Answer: 1.33 Cups of Single Cream to Ounces UK",
+    "description": "Convert 1.33 cups of single cream to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-single-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-single-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use double cream instead of single cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but double cream has a higher fat content (around 48%), so it’s thicker and richer. You may need to adjust the quantity or thin it with milk to match the consistency of single cream. For example, 1.33 cups of double cream would weigh slightly more due to its density."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but double cream has a higher fat content (around 48%), so it’s thicker and richer. You may need to adjust the quantity or thin it with milk to match the consistency of single cream. For example, 1.33 cups of double cream would weigh slightly more due to its density."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.33 cups of single cream to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.33 cups of single cream is roughly 300 grams. Since 1 ounce equals about 28.35 grams, 10.64 ounces (1.33 cups) converts to approximately 300 grams. Always use a scale for the most accurate measurement, especially in baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.33 cups of single cream is roughly 300 grams. Since 1 ounce equals about 28.35 grams, 10.64 ounces (1.33 cups) converts to approximately 300 grams. Always use a scale for the most accurate measurement, especially in baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is single cream the same as light cream in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, single cream in the UK is similar to light cream in other countries, with a fat content of around 18%. It’s perfect for pouring and adding to recipes without being too heavy. Always check labels if you’re using a substitute."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, single cream in the UK is similar to light cream in other countries, with a fat content of around 18%. It’s perfect for pouring and adding to recipes without being too heavy. Always check labels if you’re using a substitute."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute milk for single cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can, but the result will be less rich and creamy. For a closer substitute, mix milk with a small amount of melted butter. However, for dishes where creaminess is key, like sauces or custards, sticking to single cream is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can, but the result will be less rich and creamy. For a closer substitute, mix milk with a small amount of melted butter. However, for dishes where creaminess is key, like sauces or custards, sticking to single cream is best."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of single cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of single cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream",
     "description": "Convert 1.33 cups of single cream to ounces effortlessly with our simple guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of single cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-single-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of single cream equals approximately 10.64 ounces. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you’re making a creamy pasta sauce or a decadent dessert, knowing the exact weight helps avoid mishaps. Single cream, a staple in British cooking, is lighter than double cream but still rich enough for many dishes. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

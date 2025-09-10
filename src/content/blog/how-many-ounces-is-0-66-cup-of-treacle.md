@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle"
-        },
-        "headline": "Quick Answer: How many ounces is 0.66 cup of treacle?",
-        "description": "Find out exactly how many ounces are in 0.66 cup of treacle with our easy conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle"
+    },
+    "headline": "Quick Answer: How many ounces is 0.66 cup of treacle?",
+    "description": "Find out exactly how many ounces are in 0.66 cup of treacle with our easy conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-treacle.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-treacle.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use golden syrup instead of treacle in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute golden syrup for treacle in most air fryer recipes, but keep in mind it has a lighter flavour. Use the same 0.66 cup (7.5 ounce) measurement, but expect a slightly different taste profile in your finished dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute golden syrup for treacle in most air fryer recipes, but keep in mind it has a lighter flavour. Use the same 0.66 cup (7.5 ounce) measurement, but expect a slightly different taste profile in your finished dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean treacle from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For sticky treacle residue, soak the air fryer basket in warm, soapy water before scrubbing. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaning guide</a> has more tips for tackling tough stains while keeping your appliance in top condition."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For sticky treacle residue, soak the air fryer basket in warm, soapy water before scrubbing. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaning guide</a> has more tips for tackling tough stains while keeping your appliance in top condition."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does treacle measurement differ between UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 0.66 cup of treacle equals 7.5 ounces in both UK and US measurements. However, always double-check your recipe’s origin as other ingredients may vary between measurement systems."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 0.66 cup of treacle equals 7.5 ounces in both UK and US measurements. However, always double-check your recipe’s origin as other ingredients may vary between measurement systems."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reduce the amount of treacle in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can adjust treacle quantities to suit your taste, but remember this may affect texture and cooking time. For best results, maintain the liquid-to-dry ingredient ratio when modifying recipes in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can adjust treacle quantities to suit your taste, but remember this may affect texture and cooking time. For best results, maintain the liquid-to-dry ingredient ratio when modifying recipes in your air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.66 cup of treacle?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.66 cup of treacle?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle",
     "description": "Find out exactly how many ounces are in 0.66 cup of treacle with our easy conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.66 cup of treacle?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-treacle"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.66 cup of treacle equals approximately 7.5 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re baking a sticky toffee pudding or glazing meats, knowing how many ounces are in 0.66 cup of treacle helps you achieve consistent results.</p>

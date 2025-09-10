@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice"
-        },
-        "headline": "Quick Conversion: 3.0 Cups of Lime Juice to ml",
-        "description": "Convert 3.0 cups of lime juice to ml effortlessly for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice"
+    },
+    "headline": "Quick Conversion: 3.0 Cups of Lime Juice to ml",
+    "description": "Convert 3.0 cups of lime juice to ml effortlessly for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does bottled lime juice measure the same as fresh for 3.0 cups (710 ml)?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled and fresh lime juice measure the same volumetrically—3.0 cups equal 710 ml for both. However, fresh lime juice often has a brighter, more complex flavour. If using bottled, check for additives that might alter taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled and fresh lime juice measure the same volumetrically—3.0 cups equal 710 ml for both. However, fresh lime juice often has a brighter, more complex flavour. If using bottled, check for additives that might alter taste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reduce 3.0 cups of lime juice for a more concentrated flavour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Simmering 710 ml of lime juice gently reduces it by half, intensifying the tartness. Use reduced lime juice sparingly in glazes or sauces, as its potency increases significantly. Always cool before adding to marinades."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Simmering 710 ml of lime juice gently reduces it by half, intensifying the tartness. Use reduced lime juice sparingly in glazes or sauces, as its potency increases significantly. Always cool before adding to marinades."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 3.0 cups (710 ml) of lime juice last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fresh lime juice keeps for 3–4 days refrigerated in an airtight container. Bottled lime juice lasts longer—up to 6 months unopened, or 1 month after opening. For best results in air fryer recipes, use within a week."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fresh lime juice keeps for 3–4 days refrigerated in an airtight container. Bottled lime juice lasts longer—up to 6 months unopened, or 1 month after opening. For best results in air fryer recipes, use within a week."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to juice limes for 3.0 cups (710 ml)?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Roll limes firmly on a countertop before cutting to maximise yield. A citrus juicer or reamer extracts the most juice efficiently. For 710 ml, you’ll need roughly 18–20 medium limes, depending on size and ripeness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Roll limes firmly on a countertop before cutting to maximise yield. A citrus juicer or reamer extracts the most juice efficiently. For 710 ml, you’ll need roughly 18–20 medium limes, depending on size and ripeness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.0 Cups of Lime Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.0 Cups of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice",
     "description": "Convert 3.0 cups of lime juice to ml effortlessly for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.0 Cups of Lime Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.0 cups of lime juice equals 710 ml, making it easy to measure for air fryer recipes. Whether you're marinating chicken, whipping up a citrusy glaze, or baking a tangy dessert, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accuracy is when converting cups to millilitres, especially for zesty lime-based dishes.</p>  

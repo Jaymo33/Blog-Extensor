@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast"
-        },
-        "headline": "Quick Answer: How Many Grams in 0.5 Tbsp of Yeast?",
-        "description": "Discover the exact grams in 0.5 tbsp of yeast for perfect baking every time. Get precise UK conversions for flawless air fryer recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast"
+    },
+    "headline": "Quick Answer: How Many Grams in 0.5 Tbsp of Yeast?",
+    "description": "Discover the exact grams in 0.5 tbsp of yeast for perfect baking every time. Get precise UK conversions for flawless air fryer recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-yeast.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-yeast.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.5 tbsp of yeast for a large loaf of bread?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.5 tbsp of yeast (4.5g) is best suited for small batches, like a single loaf or pizza base. For larger loaves, you may need to double the amount to ensure proper rising. Always adjust yeast quantities based on recipe size and fermentation time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.5 tbsp of yeast (4.5g) is best suited for small batches, like a single loaf or pizza base. For larger loaves, you may need to double the amount to ensure proper rising. Always adjust yeast quantities based on recipe size and fermentation time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 tbsp of yeast to grams if I don’t have a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without a scale, use a standard UK tablespoon and level off the yeast with a knife. 0.5 tbsp equals roughly 4.5 grams. For accuracy, consider investing in a digital scale, especially for baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without a scale, use a standard UK tablespoon and level off the yeast with a knife. 0.5 tbsp equals roughly 4.5 grams. For accuracy, consider investing in a digital scale, especially for baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of yeast affect the 0.5 tbsp to grams conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, fresh yeast and active dry yeast have different densities. This conversion (0.5 tbsp = 4.5g) applies to active dry yeast. For fresh yeast, you’ll need slightly more, as it’s less concentrated."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, fresh yeast and active dry yeast have different densities. This conversion (0.5 tbsp = 4.5g) applies to active dry yeast. For fresh yeast, you’ll need slightly more, as it’s less concentrated."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute instant yeast for 0.5 tbsp of active dry yeast?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, instant yeast can be used in the same quantity (0.5 tbsp or 4.5g). However, it doesn’t require proofing and can be mixed directly into dry ingredients, saving time in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, instant yeast can be used in the same quantity (0.5 tbsp or 4.5g). However, it doesn’t require proofing and can be mixed directly into dry ingredients, saving time in your air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of yeast?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of yeast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast",
     "description": "Discover the exact grams in 0.5 tbsp of yeast for perfect baking every time. Get precise UK conversions for flawless air fryer recipes.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of yeast?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-yeast"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of yeast equals approximately 4.5 grams. This precise measurement ensures your dough rises perfectly, whether you're baking bread, pizza, or rolls in your air fryer. Accurate conversions are key to successful baking, and knowing the exact grams in 0.5 tbsp of yeast helps avoid under or over-proofing. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

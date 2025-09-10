@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil"
-        },
-        "headline": "Quick Guide: Convert 1.33 Cups of Sesame Oil to Ounces",
-        "description": "Learn how to convert 1.33 cups of sesame oil to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil"
+    },
+    "headline": "Quick Guide: Convert 1.33 Cups of Sesame Oil to Ounces",
+    "description": "Learn how to convert 1.33 cups of sesame oil to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-133-cups-of-sesame-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-133-cups-of-sesame-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.33 cups of sesame oil to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use a liquid measuring cup to measure 1.33 cups of sesame oil, which equals approximately 10.64 ounces. For accuracy, place the measuring cup on a flat surface and check at eye level. If you need precise amounts regularly, consider investing in a kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use a liquid measuring cup to measure 1.33 cups of sesame oil, which equals approximately 10.64 ounces. For accuracy, place the measuring cup on a flat surface and check at eye level. If you need precise amounts regularly, consider investing in a kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of sesame oil affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, toasted sesame oil is slightly denser than light sesame oil, but the difference is minimal. For most recipes, 1.33 cups of either type will still weigh around 10.64 ounces. Always check your recipe for specific oil recommendations to ensure the best flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, toasted sesame oil is slightly denser than light sesame oil, but the difference is minimal. For most recipes, 1.33 cups of either type will still weigh around 10.64 ounces. Always check your recipe for specific oil recommendations to ensure the best flavour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 1.33 cups of sesame oil in all air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While sesame oil adds great flavour, it’s potent—so 1.33 cups (10.64 oz) is usually too much for a single recipe. Most dishes need just 1–2 tablespoons. Reserve larger quantities for batch cooking or marinades, and always adjust other liquids accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While sesame oil adds great flavour, it’s potent—so 1.33 cups (10.64 oz) is usually too much for a single recipe. Most dishes need just 1–2 tablespoons. Reserve larger quantities for batch cooking or marinades, and always adjust other liquids accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find more air fryer conversion guides?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for handy measurements, including cups to ounces for common ingredients. We also offer tips for adjusting recipes to suit different air fryer models and portion sizes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for handy measurements, including cups to ounces for common ingredients. We also offer tips for adjusting recipes to suit different air fryer models and portion sizes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of sesame oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of sesame oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil",
     "description": "Learn how to convert 1.33 cups of sesame oil to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of sesame oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-133-cups-of-sesame-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of sesame oil equals approximately 10.64 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re whipping up a stir-fry or marinating chicken, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for perfect dishes.</p>  

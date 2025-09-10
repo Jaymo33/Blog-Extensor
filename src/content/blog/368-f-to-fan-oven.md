@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven"
-        },
-        "headline": "368°F to Fan Oven Conversion Guide | UK Air Fryer Tips",
-        "description": "Convert 368°F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven"
+    },
+    "headline": "368°F to Fan Oven Conversion Guide | UK Air Fryer Tips",
+    "description": "Convert 368°F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T23:29:04.388Z",
-        "dateModified": "2025-07-21T23:29:04.388Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/368-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T23:29:04.388Z",
+    "dateModified": "2025-07-21T23:29:04.388Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/368-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How does 368°F compare to gas mark settings in fan ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "368°F equates to Gas Mark 5 in traditional ovens, but in fan ovens and air fryers, you'd typically use 187°C (about Gas Mark 4-5). Fan-assisted cooking requires slightly lower temperatures than conventional gas settings for equivalent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "368°F equates to Gas Mark 5 in traditional ovens, but in fan ovens and air fryers, you'd typically use 187°C (about Gas Mark 4-5). Fan-assisted cooking requires slightly lower temperatures than conventional gas settings for equivalent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the 368°F conversion for all air fryer models?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 187°C works for most air fryers, some compact or high-power models may need 5-10°C less. Always check your manufacturer's guidelines and do a test run with a simple recipe like chips to observe how your specific model performs at this temperature."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 187°C works for most air fryers, some compact or high-power models may need 5-10°C less. Always check your manufacturer's guidelines and do a test run with a simple recipe like chips to observe how your specific model performs at this temperature."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food cook faster at 368°F in the air fryer than my fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers have more concentrated heat and faster air circulation in a smaller space. At 187°C, the intense airflow removes moisture from food surfaces quicker, creating crispiness faster than a full-sized fan oven could achieve at the same temperature setting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers have more concentrated heat and faster air circulation in a smaller space. At 187°C, the intense airflow removes moisture from food surfaces quicker, creating crispiness faster than a full-sized fan oven could achieve at the same temperature setting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What foods should I avoid cooking at 368°F (187°C) in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Delicate items like custards, very thin fish fillets, or foods with loose coatings might burn at this temperature. For these, reduce to 160-170°C. Also avoid cooking large quantities of high-moisture vegetables at once, as they may steam instead of roast properly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Delicate items like custards, very thin fish fillets, or foods with loose coatings might burn at this temperature. For these, reduce to 160-170°C. Also avoid cooking large quantities of high-moisture vegetables at once, as they may steam instead of roast properly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "368 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "368 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven",
     "description": "Convert 368°F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T23:29:04.388000+00:00",
     "dateModified": "2025-07-21T23:29:04.388000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "368 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/368-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>368°F converts to approximately 187°C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy textures while ensuring even cooking. Whether you're adapting an American recipe or fine-tuning your air fryer settings, knowing this conversion is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these adjustments effortless for home cooks. Let’s explore how this conversion works and why it matters for your air fryer.</p>

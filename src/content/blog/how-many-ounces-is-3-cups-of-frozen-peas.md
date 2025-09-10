@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas"
-        },
-        "headline": "Quick Guide: Convert 3 Cups of Frozen Peas to Ounces",
-        "description": "Learn how to convert 3 cups of frozen peas to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas"
+    },
+    "headline": "Quick Guide: Convert 3 Cups of Frozen Peas to Ounces",
+    "description": "Learn how to convert 3 cups of frozen peas to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-frozen-peas.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-frozen-peas.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use fresh peas instead of frozen in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use fresh peas, but the cooking time may vary slightly. Fresh peas are less dense, so 3 cups will weigh around 9-10 ounces instead of 12. Adjust cooking time to 5-7 minutes at 180°C for a tender yet crisp result."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use fresh peas, but the cooking time may vary slightly. Fresh peas are less dense, so 3 cups will weigh around 9-10 ounces instead of 12. Adjust cooking time to 5-7 minutes at 180°C for a tender yet crisp result."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do I need to thaw frozen peas before air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s no need to thaw frozen peas before air frying. In fact, cooking them straight from frozen helps retain texture and prevents sogginess. Just toss them in oil and seasoning, then air fry for 8-10 minutes at 180°C."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s no need to thaw frozen peas before air frying. In fact, cooking them straight from frozen helps retain texture and prevents sogginess. Just toss them in oil and seasoning, then air fry for 8-10 minutes at 180°C."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover cooked peas from the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover air-fried peas in an airtight container in the fridge for up to 3 days. Reheat them in the air fryer at 160°C for 2-3 minutes to restore crispiness. Avoid microwaving, as it can make them mushy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover air-fried peas in an airtight container in the fridge for up to 3 days. Reheat them in the air fryer at 160°C for 2-3 minutes to restore crispiness. Avoid microwaving, as it can make them mushy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook other frozen vegetables with peas in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Frozen carrots, corn, or green beans pair well with peas. Just ensure the total weight doesn’t exceed your air fryer’s capacity. Cook at 180°C for 10-12 minutes, shaking halfway for even crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Frozen carrots, corn, or green beans pair well with peas. Just ensure the total weight doesn’t exceed your air fryer’s capacity. Cook at 180°C for 10-12 minutes, shaking halfway for even crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of frozen peas",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of frozen peas",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas",
     "description": "Learn how to convert 3 cups of frozen peas to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of frozen peas",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-frozen-peas"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of frozen peas weigh approximately 12 ounces (340 grams). This conversion is essential for air fryer recipes, ensuring precise cooking times and perfect results every time. Whether you're meal prepping or whipping up a quick side dish, knowing the weight helps streamline your cooking process.</p>  

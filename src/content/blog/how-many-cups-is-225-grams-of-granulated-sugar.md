@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar"
-        },
-        "headline": "Quick Guide: Convert 225 Grams of Granulated Sugar to Cups",
-        "description": "Learn how to convert 225 grams of granulated sugar to cups for perfect baking results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar"
+    },
+    "headline": "Quick Guide: Convert 225 Grams of Granulated Sugar to Cups",
+    "description": "Learn how to convert 225 grams of granulated sugar to cups for perfect baking results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:31:11.578Z",
-        "dateModified": "2025-07-26T21:31:11.578Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-granulated-sugar.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:31:11.578Z",
+    "dateModified": "2025-07-26T21:31:11.578Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-granulated-sugar.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 225 grams of granulated sugar the same as caster sugar in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, granulated and caster sugar have different densities. While 225 grams of granulated sugar equals about 1.13 UK cups, caster sugar is finer, so it measures slightly more per cup. Always check specific conversions if substituting sugars in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, granulated and caster sugar have different densities. While 225 grams of granulated sugar equals about 1.13 UK cups, caster sugar is finer, so it measures slightly more per cup. Always check specific conversions if substituting sugars in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use brown sugar instead of granulated sugar in the same measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Brown sugar is denser due to its moisture content, so 225 grams will fill slightly less cup space. If substituting, pack it lightly into the cup or weigh it for accuracy. The flavour will also differ, adding a caramel note to your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brown sugar is denser due to its moisture content, so 225 grams will fill slightly less cup space. If substituting, pack it lightly into the cup or weigh it for accuracy. The flavour will also differ, adding a caramel note to your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover granulated sugar after measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep granulated sugar in an airtight container in a cool, dry place. This prevents clumping and moisture absorption, ensuring it stays fresh for future baking. Avoid storing near strong-smelling foods, as sugar can absorb odours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep granulated sugar in an airtight container in a cool, dry place. This prevents clumping and moisture absorption, ensuring it stays fresh for future baking. Avoid storing near strong-smelling foods, as sugar can absorb odours."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer dessert taste too sweet with 225 grams of sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook faster than conventional ovens, sometimes intensifying sweetness. Try reducing sugar by 10-15% for air fryer recipes. Also, check if your recipe was designed for traditional baking, as adjustments may be needed for air fryer use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook faster than conventional ovens, sometimes intensifying sweetness. Try reducing sugar by 10-15% for air fryer recipes. Also, check if your recipe was designed for traditional baking, as adjustments may be needed for air fryer use."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 225 Grams of Granulated Sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 225 Grams of Granulated Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar",
     "description": "Learn how to convert 225 grams of granulated sugar to cups for perfect baking results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:11.578000+00:00",
     "dateModified": "2025-07-26T21:31:11.578000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 225 Grams of Granulated Sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-granulated-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>225 grams of granulated sugar is approximately 1.13 cups in the UK or 1.06 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for desserts. Whether you're making cookies, cakes, or sweet treats, getting the measurement right ensures perfect results every time.</p>  

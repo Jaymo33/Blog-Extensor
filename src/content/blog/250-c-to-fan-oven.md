@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven"
-        },
-        "headline": "250 C to Fan Oven Conversion | Air Fryer Equivalent",
-        "description": "Convert 250°C to fan oven settings for baking & air frying. Includes UK temperature guide, air fryer equivalents & practical tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven"
+    },
+    "headline": "250 C to Fan Oven Conversion | Air Fryer Equivalent",
+    "description": "Convert 250°C to fan oven settings for baking & air frying. Includes UK temperature guide, air fryer equivalents & practical tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T18:01:14.562Z",
-        "dateModified": "2025-07-21T18:01:14.562Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/250-c-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T18:01:14.562Z",
+    "dateModified": "2025-07-21T18:01:14.562Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/250-c-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 250 C to fan oven for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baking at 250°C in a conventional oven, set your fan oven to 220°C and reduce cooking time by 5-10 minutes. This adjustment prevents over-browning while ensuring even cooking. Always check cakes or bread 5 minutes before the recipe’s suggested time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baking at 250°C in a conventional oven, set your fan oven to 220°C and reduce cooking time by 5-10 minutes. This adjustment prevents over-browning while ensuring even cooking. Always check cakes or bread 5 minutes before the recipe’s suggested time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the air fryer equivalent of 250 C fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most air fryers should be set to 200-210°C when converting from 250°C fan oven recipes. The compact space intensifies heat circulation, so slightly lower temperatures prevent burning. Reduce cooking time by 10-15% and shake or turn food halfway through."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most air fryers should be set to 200-210°C when converting from 250°C fan oven recipes. The compact space intensifies heat circulation, so slightly lower temperatures prevent burning. Reduce cooking time by 10-15% and shake or turn food halfway through."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do fan ovens cook faster at lower temperatures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air continuously, transferring heat more efficiently than conventional ovens. The moving air eliminates cold spots and surrounds food evenly, allowing lower temperatures (like 220°C vs 250°C) to achieve the same or better results in less time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air continuously, transferring heat more efficiently than conventional ovens. The moving air eliminates cold spots and surrounds food evenly, allowing lower temperatures (like 220°C vs 250°C) to achieve the same or better results in less time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 250 C fan oven times for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, air fryers typically require 10-20% less time than even fan ovens at equivalent temperatures. For a 250°C fan oven recipe calling for 30 minutes, start checking your air fryer at 22-25 minutes. The exact time depends on your air fryer’s wattage and food quantity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, air fryers typically require 10-20% less time than even fan ovens at equivalent temperatures. For a 250°C fan oven recipe calling for 30 minutes, start checking your air fryer at 22-25 minutes. The exact time depends on your air fryer’s wattage and food quantity."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "250 C to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven",
+    "@type": "WebPage",
+    "name": "250 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven",
     "description": "Convert 250°C to fan oven settings for baking & air frying. Includes UK temperature guide, air fryer equivalents & practical tips.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T18:01:14.562000+00:00",
     "dateModified": "2025-07-21T18:01:14.562000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "250 C to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/250-c-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250°C in a conventional oven equals approximately 220°C in a fan oven. The general rule is to reduce the temperature by 20-30°C when using a fan-assisted oven, as the circulating air cooks food more efficiently. This conversion is crucial for baking, roasting, and especially when adapting recipes for air fryers, which work similarly to fan ovens.</p>

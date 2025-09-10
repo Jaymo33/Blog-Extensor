@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of cottage cheese?",
-        "description": "Find out exactly how many ounces are in 2 cups of cottage cheese with this simple UK conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of cottage cheese?",
+    "description": "Find out exactly how many ounces are in 2 cups of cottage cheese with this simple UK conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-cottage-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-cottage-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use grams instead of ounces for cottage cheese measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can easily convert ounces to grams for cottage cheese. Since 2 cups equal 16 ounces, this translates to approximately 454 grams. Many UK recipes use grams, so this conversion can be helpful for precision. Just remember that air fryer recipes often work best with weight measurements rather than volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can easily convert ounces to grams for cottage cheese. Since 2 cups equal 16 ounces, this translates to approximately 454 grams. Many UK recipes use grams, so this conversion can be helpful for precision. Just remember that air fryer recipes often work best with weight measurements rather than volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the fat content of cottage cheese affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The fat content doesn't significantly change the weight, but it can affect the texture. Full-fat, low-fat, and fat-free cottage cheese all weigh roughly the same per cup (about 8 ounces). However, fuller-fat varieties may be slightly denser, so it's always best to measure by weight for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The fat content doesn't significantly change the weight, but it can affect the texture. Full-fat, low-fat, and fat-free cottage cheese all weigh roughly the same per cup (about 8 ounces). However, fuller-fat varieties may be slightly denser, so it's always best to measure by weight for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover cottage cheese after measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After measuring out 2 cups (16 ounces), store any remaining cottage cheese in an airtight container in the fridge. It typically lasts 5-7 days after opening. For longer storage, you can freeze cottage cheese, though the texture may become grainy when thawed. Use frozen cottage cheese in cooked air fryer dishes rather than fresh applications."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After measuring out 2 cups (16 ounces), store any remaining cottage cheese in an airtight container in the fridge. It typically lasts 5-7 days after opening. For longer storage, you can freeze cottage cheese, though the texture may become grainy when thawed. Use frozen cottage cheese in cooked air fryer dishes rather than fresh applications."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes list cottage cheese in cups and others in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes may use cups for convenience or ounces for precision. Cups are easier to measure without scales, while ounces provide more accuracy, especially for air fryer cooking where exact amounts matter. Many professional recipes use weight measurements to ensure consistent results every time. When in doubt, 2 cups equal 16 ounces for cottage cheese."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes may use cups for convenience or ounces for precision. Cups are easier to measure without scales, while ounces provide more accuracy, especially for air fryer cooking where exact amounts matter. Many professional recipes use weight measurements to ensure consistent results every time. When in doubt, 2 cups equal 16 ounces for cottage cheese."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of cottage cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of cottage cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese",
     "description": "Find out exactly how many ounces are in 2 cups of cottage cheese with this simple UK conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of cottage cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cottage-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of cottage cheese equals approximately 16 ounces (or 1 pound) in UK measurements. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're making a cheesy bake or a protein-packed snack, knowing the weight of cottage cheese helps with consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate conversions to make cooking effortless. Keep reading to learn why this measurement matters and how to use it in your air fryer dishes.</p>  

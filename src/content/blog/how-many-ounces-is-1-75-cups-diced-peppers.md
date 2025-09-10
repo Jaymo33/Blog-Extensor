@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers"
-        },
-        "headline": "Quick Answer: 1.75 Cups Diced Peppers to Ounces UK",
-        "description": "Convert 1.75 cups of diced peppers to ounces easily with our air fryer-friendly guide. Perfect for recipes and meal prep!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers"
+    },
+    "headline": "Quick Answer: 1.75 Cups Diced Peppers to Ounces UK",
+    "description": "Convert 1.75 cups of diced peppers to ounces easily with our air fryer-friendly guide. Perfect for recipes and meal prep!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-diced-peppers.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-diced-peppers.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.75 cups of diced peppers to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.75 cups of diced peppers (14 oz) is roughly 400 grams. This conversion is useful for recipes requiring metric measurements. Always weigh ingredients for precision, especially in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.75 cups of diced peppers (14 oz) is roughly 400 grams. This conversion is useful for recipes requiring metric measurements. Always weigh ingredients for precision, especially in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen diced peppers instead of fresh for this measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, frozen diced peppers can substitute fresh, but thaw and drain them first to remove excess water. The weight remains the same (14 oz), but texture may differ slightly when air-fried."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, frozen diced peppers can substitute fresh, but thaw and drain them first to remove excess water. The weight remains the same (14 oz), but texture may differ slightly when air-fried."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does the weight of diced peppers vary slightly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The density of diced peppers can change based on how finely they're chopped or how tightly packed they are in the cup. For accuracy, weighing with a kitchen scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The density of diced peppers can change based on how finely they're chopped or how tightly packed they are in the cup. For accuracy, weighing with a kitchen scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many bell peppers do I need to make 1.75 cups diced?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "About 2 medium bell peppers yield 1.75 cups (14 oz) when diced. Size varies, so it's wise to have an extra pepper on hand to reach the desired amount."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 2 medium bell peppers yield 1.75 cups (14 oz) when diced. Size varies, so it's wise to have an extra pepper on hand to reach the desired amount."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of diced peppers",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of diced peppers",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers",
     "description": "Convert 1.75 cups of diced peppers to ounces easily with our air fryer-friendly guide. Perfect for recipes and meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of diced peppers",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-diced-peppers"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of diced peppers equals approximately 14 ounces (or 14 oz) in UK measurements. This conversion is essential for air fryer recipes, ensuring accurate portioning and perfect results every time. Whether you're making stuffed peppers, fajitas, or a stir-fry, knowing the weight helps streamline your cooking process.</p>  

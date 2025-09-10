@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour"
-        },
-        "headline": "Quick Guide: Convert 0.375 Cup of Flour to Ounces Easily",
-        "description": "Learn how to convert 0.375 cup of flour to ounces for perfect baking results. Includes UK measurements and air fryer-friendly tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour"
+    },
+    "headline": "Quick Guide: Convert 0.375 Cup of Flour to Ounces Easily",
+    "description": "Learn how to convert 0.375 cup of flour to ounces for perfect baking results. Includes UK measurements and air fryer-friendly tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.375 cup of flour the same as 3/8 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.375 cup is exactly the same as 3/8 cup of flour. This measurement equals six tablespoons or 1.5 ounces of flour. It's a common quantity in smaller batch recipes, especially for air fryer cooking where space is limited."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.375 cup is exactly the same as 3/8 cup of flour. This measurement equals six tablespoons or 1.5 ounces of flour. It's a common quantity in smaller batch recipes, especially for air fryer cooking where space is limited."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.375 cup of flour without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can measure 0.375 cup (3/8 cup) of flour using tablespoons - it's exactly 6 level tablespoons. Alternatively, use kitchen scales to weigh out 1.5 ounces or 42.5 grams. For air fryer recipes, weighing ingredients often gives more consistent results than volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can measure 0.375 cup (3/8 cup) of flour using tablespoons - it's exactly 6 level tablespoons. Alternatively, use kitchen scales to weigh out 1.5 ounces or 42.5 grams. For air fryer recipes, weighing ingredients often gives more consistent results than volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of flour affect the ounce measurement for 0.375 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different flours have slightly different densities. While 0.375 cup of plain flour weighs about 1.5 oz, wholemeal flour might be slightly heavier (around 1.6 oz) for the same volume. For air fryer baking where precision matters, it's best to weigh each type of flour separately."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different flours have slightly different densities. While 0.375 cup of plain flour weighs about 1.5 oz, wholemeal flour might be slightly heavier (around 1.6 oz) for the same volume. For air fryer baking where precision matters, it's best to weigh each type of flour separately."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the 0.375 cup to ounce conversion for other dry ingredients?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion varies between ingredients. While 0.375 cup of flour equals 1.5 oz, sugar would be about 2.6 oz for the same volume. Always check specific conversion charts for different ingredients, especially when preparing air fryer recipes where precise measurements affect cooking results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion varies between ingredients. While 0.375 cup of flour equals 1.5 oz, sugar would be about 2.6 oz for the same volume. Always check specific conversion charts for different ingredients, especially when preparing air fryer recipes where precise measurements affect cooking results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.375 cup of flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.375 cup of flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour",
     "description": "Learn how to convert 0.375 cup of flour to ounces for perfect baking results. Includes UK measurements and air fryer-friendly tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.375 cup of flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.375 cup of flour equals approximately 1.5 ounces (oz) in UK measurements. This conversion is essential for precise baking, especially when using air fryers where ingredient ratios affect texture and cooking times. Whether you're making air fryer cookies or cakes, getting your flour measurements right ensures consistent results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice"
-        },
-        "headline": "Quick Answer: How Many Ounces in 0.33 Cup of Cooked Rice?",
-        "description": "Find out exactly how many ounces are in 0.33 cup of cooked rice for perfect air fryer meal prep. Includes UK conversions and tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice"
+    },
+    "headline": "Quick Answer: How Many Ounces in 0.33 Cup of Cooked Rice?",
+    "description": "Find out exactly how many ounces are in 0.33 cup of cooked rice for perfect air fryer meal prep. Includes UK conversions and tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-cooked-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-cooked-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use uncooked rice measurements instead of cooked rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, uncooked and cooked rice have vastly different weights and volumes. Uncooked rice expands when cooked, so 0.33 cup of uncooked rice yields about 1 cup of cooked rice. Always measure cooked rice after preparation for accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, uncooked and cooked rice have vastly different weights and volumes. Uncooked rice expands when cooked, so 0.33 cup of uncooked rice yields about 1 cup of cooked rice. Always measure cooked rice after preparation for accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does the type of rice affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different rice varieties (e.g., white, brown, or jasmine) have slightly varying weights due to grain size and density. However, the difference is minimal—0.33 cup of any cooked rice will be close to 2.64 ounces. For precise recipes, weigh your rice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different rice varieties (e.g., white, brown, or jasmine) have slightly varying weights due to grain size and density. However, the difference is minimal—0.33 cup of any cooked rice will be close to 2.64 ounces. For precise recipes, weigh your rice."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my 0.33 cup of cooked rice not weighing 2.64 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Variations can occur due to packing the rice too tightly or measuring while it’s still hot. Always fluff the rice with a fork before measuring and let it cool slightly for the most accurate weight. A kitchen scale eliminates this issue."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Variations can occur due to packing the rice too tightly or measuring while it’s still hot. Always fluff the rice with a fork before measuring and let it cool slightly for the most accurate weight. A kitchen scale eliminates this issue."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 0.33 cup portions of cooked rice for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Portion 2.64-ounce servings into airtight containers or freezer bags. Reheat directly in the air fryer at 160°C for 5–7 minutes. For more tips, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning and storage guide</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Portion 2.64-ounce servings into airtight containers or freezer bags. Reheat directly in the air fryer at 160°C for 5–7 minutes. For more tips, visit our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning and storage guide</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of cooked rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of cooked rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice",
     "description": "Find out exactly how many ounces are in 0.33 cup of cooked rice for perfect air fryer meal prep. Includes UK conversions and tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of cooked rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-cooked-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of cooked rice equals approximately 2.64 ounces (74.8 grams). This measurement is essential for precise air fryer cooking, ensuring your portions are spot-on for recipes and meal prep.</p>  

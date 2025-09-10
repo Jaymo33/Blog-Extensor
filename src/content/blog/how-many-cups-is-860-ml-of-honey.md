@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey"
-        },
-        "headline": "Quick Answer: How Many Cups Is 860 ml of Honey?",
-        "description": "Convert 860 ml of honey to cups easily for baking and air frying. Get precise measurements and tips for perfect recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey"
+    },
+    "headline": "Quick Answer: How Many Cups Is 860 ml of Honey?",
+    "description": "Convert 860 ml of honey to cups easily for baking and air frying. Get precise measurements and tips for perfect recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 860 ml of honey the same as 3.6 cups in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 860 ml converts to roughly 3.6 cups universally, but cup sizes can vary slightly by region. The US and UK use standardised cup measurements (240 ml per cup), so this conversion holds true for most recipes. Always check if a recipe uses metric or imperial cups for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 860 ml converts to roughly 3.6 cups universally, but cup sizes can vary slightly by region. The US and UK use standardised cup measurements (240 ml per cup), so this conversion holds true for most recipes. Always check if a recipe uses metric or imperial cups for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 860 ml of honey without making a mess?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly grease your measuring cup with oil or warm the honey slightly for easier pouring. Use a silicone spatula to scrape out every bit, and avoid packing the honey down. For sticky ingredients, a liquid measuring cup with a spout works best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly grease your measuring cup with oil or warm the honey slightly for easier pouring. Use a silicone spatula to scrape out every bit, and avoid packing the honey down. For sticky ingredients, a liquid measuring cup with a spout works best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute sugar for 860 ml of honey in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but reduce other liquids in the recipe by about 20%, as honey adds moisture. Honey also browns faster, so lower the air fryer temperature by 10°C to prevent burning. Adjust sweetness to taste, as honey is sweeter than granulated sugar."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but reduce other liquids in the recipe by about 20%, as honey adds moisture. Honey also browns faster, so lower the air fryer temperature by 10°C to prevent burning. Adjust sweetness to taste, as honey is sweeter than granulated sugar."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover honey after measuring 860 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep honey in an airtight container at room temperature, away from direct sunlight. Crystallisation is normal—just warm the jar in hot water to reliquify. Avoid refrigerating honey, as it accelerates thickening. Proper storage keeps it fresh for months."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep honey in an airtight container at room temperature, away from direct sunlight. Crystallisation is normal—just warm the jar in hot water to reliquify. Avoid refrigerating honey, as it accelerates thickening. Proper storage keeps it fresh for months."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 860 ml of Honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 860 ml of Honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey",
     "description": "Convert 860 ml of honey to cups easily for baking and air frying. Get precise measurements and tips for perfect recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 860 ml of Honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>860 ml of honey is roughly 3.6 cups, making it easy to measure for your air fryer recipes. Whether you're baking a cake or glazing chicken, knowing this conversion ensures perfect results every time. Honey’s thickness means it doesn’t pour like water, so measuring accurately is key. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify conversions so your cooking stays stress-free. Keep reading for tips on measuring sticky ingredients like honey.</p>  

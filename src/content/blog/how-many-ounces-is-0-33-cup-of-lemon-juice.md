@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice"
-        },
-        "headline": "Quick Answer: 0.33 Cup Lemon Juice to Ounces UK",
-        "description": "Convert 0.33 cup of lemon juice to ounces easily. Perfect for air fryer recipes & precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice"
+    },
+    "headline": "Quick Answer: 0.33 Cup Lemon Juice to Ounces UK",
+    "description": "Convert 0.33 cup of lemon juice to ounces easily. Perfect for air fryer recipes & precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-lemon-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-lemon-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lemon juice instead of fresh for 0.33 cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lemon juice works, but check the label for concentration differences. Some brands are more potent, so adjust to taste. For best results in air fryer recipes, fresh lemon juice (2.64 fl oz per 0.33 cup) is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lemon juice works, but check the label for concentration differences. Some brands are more potent, so adjust to taste. For best results in air fryer recipes, fresh lemon juice (2.64 fl oz per 0.33 cup) is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.33 cup of lemon juice to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.33 cup of lemon juice weighs roughly 78 grams. Since lemon juice’s density is close to water, this conversion is handy for baking or marinating. Use a kitchen scale for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.33 cup of lemon juice weighs roughly 78 grams. Since lemon juice’s density is close to water, this conversion is handy for baking or marinating. Use a kitchen scale for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 0.33 cup of lemon juice affect cooking times in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not significantly, but acidic ingredients like lemon juice can promote browning. If your recipe includes 0.33 cup (2.64 fl oz), monitor food closely to avoid over-crisping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not significantly, but acidic ingredients like lemon juice can promote browning. If your recipe includes 0.33 cup (2.64 fl oz), monitor food closely to avoid over-crisping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute lime juice for lemon juice in a 0.33 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, lime juice can replace lemon juice in equal amounts (0.33 cup = 2.64 fl oz). The flavour will be sharper, so adjust other seasonings accordingly. Works well in air fryer seafood dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, lime juice can replace lemon juice in equal amounts (0.33 cup = 2.64 fl oz). The flavour will be sharper, so adjust other seasonings accordingly. Works well in air fryer seafood dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of lemon juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of lemon juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice",
     "description": "Convert 0.33 cup of lemon juice to ounces easily. Perfect for air fryer recipes & precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of lemon juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-lemon-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of lemon juice equals approximately 2.64 fluid ounces (fl oz). Whether you're preparing a zesty marinade or a tangy glaze for air fryer dishes, precise measurements matter. This conversion ensures your recipes turn out perfectly every time.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade"
-        },
-        "headline": "Quick Conversion: How many ounces is 50g of marmalade?",
-        "description": "Find out exactly how many ounces 50g of marmalade is with our simple conversion guide. Perfect for air fryer recipes and baking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade"
+    },
+    "headline": "Quick Conversion: How many ounces is 50g of marmalade?",
+    "description": "Find out exactly how many ounces 50g of marmalade is with our simple conversion guide. Perfect for air fryer recipes and baking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-50g-of-marmalade.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-50g-of-marmalade.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for 50g of marmalade?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use a measuring cup, but it’s less accurate. Two tablespoons of marmalade roughly equal 50g or 1.76 ounces. For best results, a digital kitchen scale is recommended, especially for air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use a measuring cup, but it’s less accurate. Two tablespoons of marmalade roughly equal 50g or 1.76 ounces. For best results, a digital kitchen scale is recommended, especially for air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 50g of marmalade compare to other sweeteners in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "50g of marmalade (1.76 oz) is similar in weight to other thick sweeteners like honey or jam. However, marmalade has a distinct tangy flavour, so substitutions may alter the taste of your dish. Always adjust measurements carefully when swapping ingredients."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50g of marmalade (1.76 oz) is similar in weight to other thick sweeteners like honey or jam. However, marmalade has a distinct tangy flavour, so substitutions may alter the taste of your dish. Always adjust measurements carefully when swapping ingredients."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to know how many ounces 50g of marmalade is for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook food quickly and evenly, so precise measurements ensure balanced flavours and textures. Knowing that 50g of marmalade equals 1.76 ounces helps you follow recipes accurately, preventing overly sweet or sticky results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook food quickly and evenly, so precise measurements ensure balanced flavours and textures. Knowing that 50g of marmalade equals 1.76 ounces helps you follow recipes accurately, preventing overly sweet or sticky results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze marmalade if I don’t use all 50g at once?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, marmalade freezes well. Portion the remaining marmalade into small containers or ice cube trays for easy use later. Thaw it in the fridge before measuring out another 50g (1.76 oz) for your next recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, marmalade freezes well. Portion the remaining marmalade into small containers or ice cube trays for easy use later. Thaw it in the fridge before measuring out another 50g (1.76 oz) for your next recipe."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 50g of marmalade?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade",
+    "@type": "WebPage",
+    "name": "How many ounces is 50g of marmalade?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade",
     "description": "Find out exactly how many ounces 50g of marmalade is with our simple conversion guide. Perfect for air fryer recipes and baking!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 50g of marmalade?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-50g-of-marmalade"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50g of marmalade is approximately 1.76 ounces. This conversion is essential for anyone using recipes that require precise measurements, especially when cooking with an air fryer. Whether you’re making a glaze for meats or a sweet topping for desserts, knowing how many ounces 50g of marmalade is can make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup"
-        },
-        "headline": "Quick Guide: Convert 1.75 Cups of Golden Syrup to Ounces Easily",
-        "description": "Learn how to convert 1.75 cups of golden syrup to ounces with our simple guide. Perfect for air fryer recipes and baking accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup"
+    },
+    "headline": "Quick Guide: Convert 1.75 Cups of Golden Syrup to Ounces Easily",
+    "description": "Learn how to convert 1.75 cups of golden syrup to ounces with our simple guide. Perfect for air fryer recipes and baking accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-golden-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-golden-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use honey instead of golden syrup in my air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute honey for golden syrup in most recipes, but keep in mind that honey is slightly sweeter and has a stronger flavour. Use a 1:1 ratio, but you may want to reduce other sweeteners in the recipe slightly to balance the taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute honey for golden syrup in most recipes, but keep in mind that honey is slightly sweeter and has a stronger flavour. Use a 1:1 ratio, but you may want to reduce other sweeteners in the recipe slightly to balance the taste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean my air fryer after using sticky golden syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To clean sticky residue from golden syrup, let the air fryer cool slightly, then wipe it with a warm, damp cloth. For tougher stains, use a mixture of warm water and mild dish soap. Avoid abrasive scrubbers to prevent damaging the non-stick coating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To clean sticky residue from golden syrup, let the air fryer cool slightly, then wipe it with a warm, damp cloth. For tougher stains, use a mixture of warm water and mild dish soap. Avoid abrasive scrubbers to prevent damaging the non-stick coating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does golden syrup weigh more than water in the same volume?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Golden syrup is denser than water due to its high sugar content and viscosity. This means that 1.75 cups of golden syrup will weigh more (about 21 ounces) compared to the same volume of water, which weighs around 14 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Golden syrup is denser than water due to its high sugar content and viscosity. This means that 1.75 cups of golden syrup will weigh more (about 21 ounces) compared to the same volume of water, which weighs around 14 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reduce the amount of golden syrup in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can reduce the amount of golden syrup, but it may affect the texture and sweetness of your dish. If you're watching your sugar intake, consider reducing it gradually and adjusting other ingredients to maintain the desired consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can reduce the amount of golden syrup, but it may affect the texture and sweetness of your dish. If you're watching your sugar intake, consider reducing it gradually and adjusting other ingredients to maintain the desired consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of golden syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of golden syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup",
     "description": "Learn how to convert 1.75 cups of golden syrup to ounces with our simple guide. Perfect for air fryer recipes and baking accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of golden syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-golden-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of golden syrup equals approximately 21 ounces (oz). This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Golden syrup, a staple in British baking, has a thick consistency, so measuring it accurately is crucial for achieving the right texture and flavour.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce"
-        },
-        "headline": "Quick Guide: Convert 1.33 Cups of Worcestershire Sauce to Ounces",
-        "description": "Learn how to convert 1.33 cups of Worcestershire sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce"
+    },
+    "headline": "Quick Guide: Convert 1.33 Cups of Worcestershire Sauce to Ounces",
+    "description": "Learn how to convert 1.33 cups of Worcestershire sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-worcestershire-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-worcestershire-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for Worcestershire sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, dry measuring cups aren’t ideal for liquids like Worcestershire sauce. Use a liquid measuring cup with clear markings for accuracy. If you only have dry cups, weigh the sauce to confirm it’s 10.64 ounces for 1.33 cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, dry measuring cups aren’t ideal for liquids like Worcestershire sauce. Use a liquid measuring cup with clear markings for accuracy. If you only have dry cups, weigh the sauce to confirm it’s 10.64 ounces for 1.33 cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of Worcestershire sauce affect the ounce measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most brands have a similar density, so 1.33 cups should equal 10.64 ounces. However, thicker or imported sauces might vary slightly. When in doubt, weigh it for precision, especially for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most brands have a similar density, so 1.33 cups should equal 10.64 ounces. However, thicker or imported sauces might vary slightly. When in doubt, weigh it for precision, especially for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust the recipe if I only have a 1-cup measure?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Measure 1 cup (8 ounces) first, then add roughly 1/3 cup (2.64 ounces) to reach 1.33 cups total. Alternatively, use a kitchen scale to measure 10.64 ounces directly for perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Measure 1 cup (8 ounces) first, then add roughly 1/3 cup (2.64 ounces) to reach 1.33 cups total. Alternatively, use a kitchen scale to measure 10.64 ounces directly for perfect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute Worcestershire sauce with soy sauce in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust the quantity since soy sauce is saltier. Use about 3/4 the amount of Worcestershire sauce (around 8 ounces for 1.33 cups). Taste as you go to avoid over-seasoning your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust the quantity since soy sauce is saltier. Use about 3/4 the amount of Worcestershire sauce (around 8 ounces for 1.33 cups). Taste as you go to avoid over-seasoning your dish."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of worcestershire sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of worcestershire sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce",
     "description": "Learn how to convert 1.33 cups of Worcestershire sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of worcestershire sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-worcestershire-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of Worcestershire sauce equals approximately 10.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you’re marinating chicken or adding depth to a beef recipe, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we prioritise accuracy to help you achieve restaurant-quality results at home. Keep reading for tips on measuring Worcestershire sauce and other handy conversions.</p>

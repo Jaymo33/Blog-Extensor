@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds"
-        },
-        "headline": "Easy 6.75 kg whole chicken to pounds conversion guide",
-        "description": "Convert 6.75 kg whole chicken to pounds instantly. Get perfect air fryer cooking times and temperatures with our simple guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds"
+    },
+    "headline": "Easy 6.75 kg whole chicken to pounds conversion guide",
+    "description": "Convert 6.75 kg whole chicken to pounds instantly. Get perfect air fryer cooking times and temperatures with our simple guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T18:51:22.444Z",
-        "dateModified": "2025-08-22T18:51:22.444Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-75-kg-whole-chicken-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T18:51:22.444Z",
+    "dateModified": "2025-08-22T18:51:22.444Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-75-kg-whole-chicken-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is a 6.75 kg whole chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 6.75 kg whole chicken is approximately 14.88 pounds. This conversion is done by multiplying the kilogram weight by 2.20462, which is the standard conversion factor. Knowing this exact weight is crucial for air fryer cooking, as it helps you set the correct time and temperature. Always round to the nearest hundredth for practical use in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 6.75 kg whole chicken is approximately 14.88 pounds. This conversion is done by multiplying the kilogram weight by 2.20462, which is the standard conversion factor. Knowing this exact weight is crucial for air fryer cooking, as it helps you set the correct time and temperature. Always round to the nearest hundredth for practical use in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook a 6.75 kg whole chicken in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can cook a 6.75 kg whole chicken in an air fryer, but you need a model with a large enough capacity. This size chicken converts to nearly 15 pounds, so check your air fryer’s maximum weight limit before proceeding. Cooking times will be longer, typically around 25-30 minutes per pound at 180°C. Always use a meat thermometer to ensure the internal temperature reaches 75°C for safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can cook a 6.75 kg whole chicken in an air fryer, but you need a model with a large enough capacity. This size chicken converts to nearly 15 pounds, so check your air fryer’s maximum weight limit before proceeding. Cooking times will be longer, typically around 25-30 minutes per pound at 180°C. Always use a meat thermometer to ensure the internal temperature reaches 75°C for safety."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most air fryer recipes and preset functions use pounds rather than kilograms, especially in the UK and US. Converting ensures you follow cooking times and temperatures accurately, leading to perfectly cooked food. It also helps when using guides or charts that are based on imperial measurements. Accurate conversions prevent under or overcooking, making your air frying experience more reliable and enjoyable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most air fryer recipes and preset functions use pounds rather than kilograms, especially in the UK and US. Converting ensures you follow cooking times and temperatures accurately, leading to perfectly cooked food. It also helps when using guides or charts that are based on imperial measurements. Accurate conversions prevent under or overcooking, making your air frying experience more reliable and enjoyable."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What is 6.75 kg whole chicken in pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "6.75 kg whole chicken is approximately 14 pounds and 14 ounces. To break it down, 0.88 pounds is equal to about 14 ounces, giving you the combined weight. This level of detail can be helpful for recipes that require precise measurements in smaller increments. Knowing both pounds and ounces ensures you can adapt to any air fryer recipe or guideline with confidence."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "6.75 kg whole chicken is approximately 14 pounds and 14 ounces. To break it down, 0.88 pounds is equal to about 14 ounces, giving you the combined weight. This level of detail can be helpful for recipes that require precise measurements in smaller increments. Knowing both pounds and ounces ensures you can adapt to any air fryer recipe or guideline with confidence."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "6.75 kg whole chicken to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds",
+    "@type": "WebPage",
+    "name": "6.75 kg whole chicken to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds",
     "description": "Convert 6.75 kg whole chicken to pounds instantly. Get perfect air fryer cooking times and temperatures with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "6.75 kg whole chicken to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/6-75-kg-whole-chicken-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>6.75 kg whole chicken to pounds is approximately 14.88 pounds, making it a large bird perfect for feeding a crowd or meal prepping. This conversion is essential for anyone using an air fryer, as cooking times and temperatures are often given in pounds rather than kilograms. Knowing the exact weight in pounds helps you achieve that perfectly crispy skin and juicy meat we all love. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or experimenting on your own, accurate measurements are key. So grab your kitchen scales and let’s get cooking.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 1000g Crushed Garlic to Ounces Easily",
-        "description": "Learn how to convert 1000g of crushed garlic to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 1000g Crushed Garlic to Ounces Easily",
+    "description": "Learn how to convert 1000g of crushed garlic to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-crushed-garlic-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-crushed-garlic-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 1000g of crushed garlic to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 1000g of crushed garlic to ounces (35.27 oz) ensures recipe accuracy, especially in air fryer cooking where precise measurements affect taste and texture. Many recipes use ounces, so knowing the conversion helps avoid errors."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 1000g of crushed garlic to ounces (35.27 oz) ensures recipe accuracy, especially in air fryer cooking where precise measurements affect taste and texture. Many recipes use ounces, so knowing the conversion helps avoid errors."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use volume measurements instead of weight for crushed garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight (grams or ounces) is more accurate than volume for crushed garlic, as density varies. 1000g equals 35.27 oz, but if you must use volume, 1000g is roughly 4 metric cups—though weighing is best for consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight (grams or ounces) is more accurate than volume for crushed garlic, as density varies. 1000g equals 35.27 oz, but if you must use volume, 1000g is roughly 4 metric cups—though weighing is best for consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store 1000g of crushed garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Portion 1000g (35.27 oz) into smaller airtight containers or freezer bags. Refrigerate for short-term use or freeze for longer storage. This prevents waste and keeps garlic fresh for future air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Portion 1000g (35.27 oz) into smaller airtight containers or freezer bags. Refrigerate for short-term use or freeze for longer storage. This prevents waste and keeps garlic fresh for future air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes work best with 1000g of crushed garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Large-batch recipes like garlic marinades, roasted vegetables, or garlic butter spreads are ideal. Try it in <a href=https://www.airfryerrecipe.co.uk/recipe-category/shrimp>garlic shrimp</a> or <a href=https://www.airfryerrecipe.co.uk/recipe-category/mushrooms>stuffed mushrooms</a> for bold flavour. Adjust quantities as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Large-batch recipes like garlic marinades, roasted vegetables, or garlic butter spreads are ideal. Try it in <a href=https://www.airfryerrecipe.co.uk/recipe-category/shrimp>garlic shrimp</a> or <a href=https://www.airfryerrecipe.co.uk/recipe-category/mushrooms>stuffed mushrooms</a> for bold flavour. Adjust quantities as needed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of crushed garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of crushed garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces",
     "description": "Learn how to convert 1000g of crushed garlic to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of crushed garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-crushed-garlic-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000 grams (g) of crushed garlic equals approximately 35.27 ounces (oz). This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re meal prepping or following a specific dish, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify cooking conversions for hassle-free air frying.</p>  

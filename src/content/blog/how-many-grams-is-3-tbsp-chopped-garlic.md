@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic"
-        },
-        "headline": "Quick Guide: Convert 3 tbsp chopped garlic to grams easily",
-        "description": "Discover how many grams are in 3 tbsp of chopped garlic with our simple conversion guide. Perfect for air fryer recipes and precise cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic"
+    },
+    "headline": "Quick Guide: Convert 3 tbsp chopped garlic to grams easily",
+    "description": "Discover how many grams are in 3 tbsp of chopped garlic with our simple conversion guide. Perfect for air fryer recipes and precise cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-chopped-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-chopped-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of garlic affect the weight conversion for 3 tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the variety can slightly impact measurements. Common white garlic typically yields about 45 grams for 3 tbsp chopped. Elephant garlic, being larger, may weigh less for the same volume as the pieces are less dense. Always use fresh garlic for most accurate conversions in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the variety can slightly impact measurements. Common white garlic typically yields about 45 grams for 3 tbsp chopped. Elephant garlic, being larger, may weigh less for the same volume as the pieces are less dense. Always use fresh garlic for most accurate conversions in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does minced garlic compare to chopped in the 3 tbsp to grams conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Minced garlic packs more densely, so 3 tablespoons may weigh closer to 50 grams. For air fryer cooking where surface area matters, chopped garlic (45g per 3 tbsp) often works better as it browns more evenly. Check your recipe's specific requirements on airfryerrecipe.co.uk for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Minced garlic packs more densely, so 3 tablespoons may weigh closer to 50 grams. For air fryer cooking where surface area matters, chopped garlic (45g per 3 tbsp) often works better as it browns more evenly. Check your recipe's specific requirements on airfryerrecipe.co.uk for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use garlic powder instead of 3 tbsp chopped garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the conversion differs dramatically. Only use about 3 teaspoons (9 grams) of garlic powder to replace 3 tbsp (45g) chopped garlic. Powder disperses more intensely in an air fryer's circulating heat, so start with less and adjust to taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the conversion differs dramatically. Only use about 3 teaspoons (9 grams) of garlic powder to replace 3 tbsp (45g) chopped garlic. Powder disperses more intensely in an air fryer's circulating heat, so start with less and adjust to taste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes list garlic in grams while others use tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Professional recipes often use weight (grams) for precision, while home cooks frequently prefer volume measures (tablespoons). The 3 tbsp chopped garlic UK grams conversion (45g) bridges this gap. Weight measurements are particularly useful for air fryer recipes where ingredient distribution affects cooking results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Professional recipes often use weight (grams) for precision, while home cooks frequently prefer volume measures (tablespoons). The 3 tbsp chopped garlic UK grams conversion (45g) bridges this gap. Weight measurements are particularly useful for air fryer recipes where ingredient distribution affects cooking results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 3 tbsp of chopped garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic",
+    "@type": "WebPage",
+    "name": "How many grams is 3 tbsp of chopped garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic",
     "description": "Discover how many grams are in 3 tbsp of chopped garlic with our simple conversion guide. Perfect for air fryer recipes and precise cooking!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 3 tbsp of chopped garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-chopped-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 tablespoons of chopped garlic equals approximately 45 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you're preparing a garlic-infused dish or following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, knowing the exact weight ensures consistency.</p>

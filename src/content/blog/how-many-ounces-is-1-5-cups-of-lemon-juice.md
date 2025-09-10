@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1.5 Cups of Lemon Juice?",
-        "description": "Discover how many ounces are in 1.5 cups of lemon juice for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1.5 Cups of Lemon Juice?",
+    "description": "Discover how many ounces are in 1.5 cups of lemon juice for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-lemon-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-lemon-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lemon juice instead of fresh for 1.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use bottled lemon juice as a substitute for fresh lemon juice. However, fresh lemon juice often has a brighter, more vibrant flavour. If using bottled, check for additives like preservatives, which might alter the taste of your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use bottled lemon juice as a substitute for fresh lemon juice. However, fresh lemon juice often has a brighter, more vibrant flavour. If using bottled, check for additives like preservatives, which might alter the taste of your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many lemons do I need for 1.5 cups of juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "On average, one medium lemon yields about 2-3 tablespoons of juice. For 1.5 cups (24 tablespoons), you'll need roughly 8-12 lemons, depending on their size and juiciness. Rolling lemons before juicing can help extract more liquid."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On average, one medium lemon yields about 2-3 tablespoons of juice. For 1.5 cups (24 tablespoons), you'll need roughly 8-12 lemons, depending on their size and juiciness. Rolling lemons before juicing can help extract more liquid."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the conversion change if the lemon juice is concentrated?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, concentrated lemon juice is more potent, so you'll need less. Typically, you'd dilute it with water according to the bottle's instructions. For 1.5 cups of diluted juice, check the concentration ratio to adjust the amount accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, concentrated lemon juice is more potent, so you'll need less. Typically, you'd dilute it with water according to the bottle's instructions. For 1.5 cups of diluted juice, check the concentration ratio to adjust the amount accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute lime juice for lemon juice in the same amount?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lime juice can be substituted for lemon juice, but keep in mind it has a slightly different flavour profile. Use the same 1.5 cups (12 ounces) measurement, but taste as you go, as lime can be more tart or aromatic depending on the variety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lime juice can be substituted for lemon juice, but keep in mind it has a slightly different flavour profile. Use the same 1.5 cups (12 ounces) measurement, but taste as you go, as lime can be more tart or aromatic depending on the variety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.5 cups of lemon juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of lemon juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice",
     "description": "Discover how many ounces are in 1.5 cups of lemon juice for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.5 cups of lemon juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lemon-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of lemon juice equals approximately 12 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a citrusy marinade or a tangy dessert, knowing this conversion ensures your dish turns out perfectly every time.</p>

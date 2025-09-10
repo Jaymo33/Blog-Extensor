@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries"
-        },
-        "headline": "Quick Answer: How Many Cups Is 400 Grams of Blueberries?",
-        "description": "Find out exactly how many cups 400 grams of blueberries equals for perfect baking and air frying every time. Includes UK and US conversions.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries"
+    },
+    "headline": "Quick Answer: How Many Cups Is 400 Grams of Blueberries?",
+    "description": "Find out exactly how many cups 400 grams of blueberries equals for perfect baking and air frying every time. Includes UK and US conversions.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-blueberries.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-blueberries.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the cup measurement change if the blueberries are frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Frozen blueberries take up slightly more space than fresh ones due to ice crystals, so 400 grams might fill about 2.75 US cups instead of 2.5. However, the weight remains the same. For air fryer recipes, you can use frozen blueberries directly without thawing - just add a couple of minutes to the cooking time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Frozen blueberries take up slightly more space than fresh ones due to ice crystals, so 400 grams might fill about 2.75 US cups instead of 2.5. However, the weight remains the same. For air fryer recipes, you can use frozen blueberries directly without thawing - just add a couple of minutes to the cooking time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other berries in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While this conversion works well for blueberries, other berries have different densities. Raspberries, for example, are lighter, so 400 grams would be more cups. Always check specific conversions for each berry type when preparing air fryer recipes to ensure accurate measurements and cooking results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While this conversion works well for blueberries, other berries have different densities. Raspberries, for example, are lighter, so 400 grams would be more cups. Always check specific conversions for each berry type when preparing air fryer recipes to ensure accurate measurements and cooking results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air fryer blueberry recipes sometimes turn out watery?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Excess liquid can occur if the blueberries release too much juice during cooking. To prevent this, you can toss 400 grams of blueberries with a teaspoon of cornflour before air frying. This helps thicken the juices. Also, avoid overcrowding the air fryer basket to allow proper air circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Excess liquid can occur if the blueberries release too much juice during cooking. To prevent this, you can toss 400 grams of blueberries with a teaspoon of cornflour before air frying. This helps thicken the juices. Also, avoid overcrowding the air fryer basket to allow proper air circulation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I adapt conventional oven blueberry recipes for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "When converting recipes, reduce the temperature by about 20°C and check frequently as air fryers cook faster. For 400 grams of blueberries, you'll typically cook at 160-180°C in an air fryer versus 180-200°C in a conventional oven. Start checking at half the original recipe's cooking time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When converting recipes, reduce the temperature by about 20°C and check frequently as air fryers cook faster. For 400 grams of blueberries, you'll typically cook at 160-180°C in an air fryer versus 180-200°C in a conventional oven. Start checking at half the original recipe's cooking time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 400 Grams of Blueberries?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 400 Grams of Blueberries?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries",
     "description": "Find out exactly how many cups 400 grams of blueberries equals for perfect baking and air frying every time. Includes UK and US conversions.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 400 Grams of Blueberries?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-blueberries"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>400 grams of blueberries is approximately 2.5 cups in standard US measurements and around 3 cups in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making blueberry muffins or a fruity compote, knowing how many cups 400 grams of blueberries equals ensures consistent results every time.</p>

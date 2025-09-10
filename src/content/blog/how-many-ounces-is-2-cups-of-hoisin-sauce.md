@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce"
-        },
-        "headline": "Quick Guide: Convert 2 Cups of Hoisin Sauce to Ounces",
-        "description": "Learn how to convert 2 cups of hoisin sauce to ounces for precise air fryer recipes. Get accurate measurements for perfect results every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce"
+    },
+    "headline": "Quick Guide: Convert 2 Cups of Hoisin Sauce to Ounces",
+    "description": "Learn how to convert 2 cups of hoisin sauce to ounces for precise air fryer recipes. Get accurate measurements for perfect results every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-hoisin-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-hoisin-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a liquid measuring cup for hoisin sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but for accuracy, a dry measuring cup or kitchen scale is better. Hoisin sauce’s thick consistency can leave air pockets in liquid cups, leading to uneven measurements. Levelling off the top ensures you get the right amount for your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but for accuracy, a dry measuring cup or kitchen scale is better. Hoisin sauce’s thick consistency can leave air pockets in liquid cups, leading to uneven measurements. Levelling off the top ensures you get the right amount for your air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does hoisin sauce weight vary by brand?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slight variations exist due to different ingredient ratios (like sugar or starch content). Most brands hover around 8 ounces per cup, but checking the label or weighing ensures precision, especially for sensitive air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slight variations exist due to different ingredient ratios (like sugar or starch content). Most brands hover around 8 ounces per cup, but checking the label or weighing ensures precision, especially for sensitive air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does hoisin sauce last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Opened hoisin sauce lasts about a month refrigerated. Always check for off smells or mould before use. For air fryer cooking, fresh sauce ensures the best flavour and consistency in glazes or marinades."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opened hoisin sauce lasts about a month refrigerated. Always check for off smells or mould before use. For air fryer cooking, fresh sauce ensures the best flavour and consistency in glazes or marinades."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute hoisin sauce in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A mix of soy sauce, peanut butter, and honey can mimic hoisin’s flavour in a pinch. However, for authentic results in recipes like air fryer ribs or stir-fries, real hoisin sauce is recommended. Adjust other seasonings to balance the taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A mix of soy sauce, peanut butter, and honey can mimic hoisin’s flavour in a pinch. However, for authentic results in recipes like air fryer ribs or stir-fries, real hoisin sauce is recommended. Adjust other seasonings to balance the taste."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of hoisin sauce",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of hoisin sauce",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce",
     "description": "Learn how to convert 2 cups of hoisin sauce to ounces for precise air fryer recipes. Get accurate measurements for perfect results every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of hoisin sauce",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-hoisin-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of hoisin sauce equals approximately 16 ounces (or 1 pound). This conversion is essential for air fryer recipes, ensuring accurate measurements for marinades, glazes, and sauces. Whether you're whipping up a quick stir-fry or a flavourful glaze for chicken, knowing the exact weight helps achieve consistent results.</p>  

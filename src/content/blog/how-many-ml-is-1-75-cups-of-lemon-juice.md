@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice"
-        },
-        "headline": "Quick Answer: How Many ml Is 1.75 Cups of Lemon Juice?",
-        "description": "Convert 1.75 cups of lemon juice to ml effortlessly for precise air fryer recipes. Get the exact measurement and tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice"
+    },
+    "headline": "Quick Answer: How Many ml Is 1.75 Cups of Lemon Juice?",
+    "description": "Convert 1.75 cups of lemon juice to ml effortlessly for precise air fryer recipes. Get the exact measurement and tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T23:32:33.463Z",
-        "dateModified": "2025-07-28T23:32:33.463Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-75-cups-of-lemon-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T23:32:33.463Z",
+    "dateModified": "2025-07-28T23:32:33.463Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-75-cups-of-lemon-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.75 cups of lemon juice the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.75 cups of lemon juice is the same volume in both the UK and USA, equalling approximately 414 ml. However, measuring cups may have slight variations, so using a digital scale for precision is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.75 cups of lemon juice is the same volume in both the UK and USA, equalling approximately 414 ml. However, measuring cups may have slight variations, so using a digital scale for precision is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lemon juice instead of fresh for 1.75 cups (414 ml)?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lemon juice works if fresh isn’t available, but check the label to ensure it’s 100% juice with no added sugars or preservatives. Fresh lemon juice often has a brighter flavour, so adjust seasoning if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lemon juice works if fresh isn’t available, but check the label to ensure it’s 100% juice with no added sugars or preservatives. Fresh lemon juice often has a brighter flavour, so adjust seasoning if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover lemon juice after measuring 1.75 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover lemon juice in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays—each cube is roughly 30 ml, making future measurements easy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover lemon juice in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays—each cube is roughly 30 ml, making future measurements easy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to squeeze 1.75 cups (414 ml) of lemon juice quickly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a citrus juicer or roll lemons on a countertop before cutting to maximize yield. On average, one large lemon yields about 50 ml, so you’ll need roughly 8–9 lemons for 414 ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a citrus juicer or roll lemons on a countertop before cutting to maximize yield. On average, one large lemon yields about 50 ml, so you’ll need roughly 8–9 lemons for 414 ml."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 1.75 Cups of Lemon Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice",
+    "@type": "WebPage",
+    "name": "How Many ml Is 1.75 Cups of Lemon Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice",
     "description": "Convert 1.75 cups of lemon juice to ml effortlessly for precise air fryer recipes. Get the exact measurement and tips here!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T23:32:33.463000+00:00",
     "dateModified": "2025-07-28T23:32:33.463000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 1.75 Cups of Lemon Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-lemon-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of lemon juice equals approximately 414 ml. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re making a zesty marinade or a tangy dessert, knowing the exact ml equivalent of 1.75 cups of lemon juice can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you get the measurements spot-on for flawless cooking.</p>  

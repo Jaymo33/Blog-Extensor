@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut"
-        },
-        "headline": "Quick Answer: 0.75 Cup Shredded Coconut to Ounces UK",
-        "description": "Convert 0.75 cup of shredded coconut to ounces easily with our UK guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut"
+    },
+    "headline": "Quick Answer: 0.75 Cup Shredded Coconut to Ounces UK",
+    "description": "Convert 0.75 cup of shredded coconut to ounces easily with our UK guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-shredded-coconut.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-shredded-coconut.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of shredded coconut affect the weight measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the cut and moisture content make a difference. Finely shredded coconut packs more densely than flaked, so weight varies slightly. For air fryer recipes, unsweetened dried coconut is recommended as it provides consistent results and better crisping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the cut and moisture content make a difference. Finely shredded coconut packs more densely than flaked, so weight varies slightly. For air fryer recipes, unsweetened dried coconut is recommended as it provides consistent results and better crisping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use desiccated coconut instead of shredded in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Desiccated coconut works but produces a finer texture. Since it's drier and more compact, you might need slightly less by volume. For 0.75 cup shredded coconut (2.25 oz), try 0.6 cup desiccated coconut for similar coverage in air fryer coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Desiccated coconut works but produces a finer texture. Since it's drier and more compact, you might need slightly less by volume. For 0.75 cup shredded coconut (2.25 oz), try 0.6 cup desiccated coconut for similar coverage in air fryer coatings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover shredded coconut after measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep opened shredded coconut in an airtight container in a cool, dark place. It lasts about 6 months this way. For longer storage, freeze it in portioned bags. Always bring to room temperature before using in air fryer recipes for even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep opened shredded coconut in an airtight container in a cool, dark place. It lasts about 6 months this way. For longer storage, freeze it in portioned bags. Always bring to room temperature before using in air fryer recipes for even cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer coconut coating burn before the food cooks?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This usually means either too much coconut or too high temperature. Stick to the 0.75 cup (2.25 oz) measurement per 4 servings and reduce heat by 10°C. Spraying lightly with oil helps coconut brown evenly without burning in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This usually means either too much coconut or too high temperature. Stick to the 0.75 cup (2.25 oz) measurement per 4 servings and reduce heat by 10°C. Spraying lightly with oil helps coconut brown evenly without burning in the air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.75 cup of shredded coconut?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.75 cup of shredded coconut?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut",
     "description": "Convert 0.75 cup of shredded coconut to ounces easily with our UK guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.75 cup of shredded coconut?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-shredded-coconut"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cup of shredded coconut equals approximately 2.25 ounces (64 grams) in UK measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and flavour. Whether you're making coconut-crusted chicken or a tropical dessert, knowing the exact weight helps avoid dry or overly dense results.</p>

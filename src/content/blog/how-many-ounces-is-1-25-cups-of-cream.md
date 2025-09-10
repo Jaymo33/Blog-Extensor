@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream"
-        },
-        "headline": "Quick Guide: Convert 1.25 Cups of Cream to Ounces Easily",
-        "description": "Discover how to convert 1.25 cups of cream to ounces with our simple guide. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream"
+    },
+    "headline": "Quick Guide: Convert 1.25 Cups of Cream to Ounces Easily",
+    "description": "Discover how to convert 1.25 cups of cream to ounces with our simple guide. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a different type of cream if I don't have the exact amount?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute other types of cream, but keep in mind that the fat content may vary. For example, single cream has less fat than double cream, which can affect the texture of your dish. If you're short on cream, you can also use milk mixed with a bit of butter as a substitute."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute other types of cream, but keep in mind that the fat content may vary. For example, single cream has less fat than double cream, which can affect the texture of your dish. If you're short on cream, you can also use milk mixed with a bit of butter as a substitute."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.25 cups of cream to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.25 cups of cream is approximately 284 grams. This conversion is useful if you're using a kitchen scale for more precise measurements. Remember that the weight can vary slightly depending on the type of cream you're using, so always check the packaging for exact details."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.25 cups of cream is approximately 284 grams. This conversion is useful if you're using a kitchen scale for more precise measurements. Remember that the weight can vary slightly depending on the type of cream you're using, so always check the packaging for exact details."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my cream-based dish sometimes curdle in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cream can curdle if it's overheated or if the air fryer temperature is too high. To prevent this, cook at a lower temperature and stir the cream mixture occasionally. Also, make sure to use fresh cream and avoid adding acidic ingredients like lemon juice directly to hot cream."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cream can curdle if it's overheated or if the air fryer temperature is too high. To prevent this, cook at a lower temperature and stir the cream mixture occasionally. Also, make sure to use fresh cream and avoid adding acidic ingredients like lemon juice directly to hot cream."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze dishes made with 1.25 cups of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the texture may change slightly upon thawing. Cream-based dishes like soups or sauces can be frozen, but they may separate when reheated. To restore the texture, whisk the dish gently while reheating or add a bit of fresh cream to bring it back to the right consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the texture may change slightly upon thawing. Cream-based dishes like soups or sauces can be frozen, but they may separate when reheated. To restore the texture, whisk the dish gently while reheating or add a bit of fresh cream to bring it back to the right consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream",
     "description": "Discover how to convert 1.25 cups of cream to ounces with our simple guide. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of cream equals approximately 10 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a creamy sauce or a decadent dessert, knowing how to convert cups to ounces can make all the difference.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer"
-        },
-        "headline": "Bamboo Sticks in Air Fryer: Safety & Usage Guide (UK)",
-        "description": "Wondering if bamboo sticks are air fryer safe? Learn the risks, alternatives, and expert tips for using them correctly in your UK air fryer.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer"
+    },
+    "headline": "Bamboo Sticks in Air Fryer: Safety & Usage Guide (UK)",
+    "description": "Wondering if bamboo sticks are air fryer safe? Learn the risks, alternatives, and expert tips for using them correctly in your UK air fryer.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T22:38:02.529Z",
-        "dateModified": "2025-07-22T22:38:02.529Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-bamboo-sticks-in-an-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Safety"
-        },
-        "articleSection": "Safety",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T22:38:02.529Z",
+    "dateModified": "2025-07-22T22:38:02.529Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-bamboo-sticks-in-an-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Safety"
+    },
+    "articleSection": "Safety",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Will bamboo sticks catch fire in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Properly soaked bamboo sticks are unlikely to catch fire in an air fryer when used correctly. Always soak them for at least 30 minutes before use and keep cooking temperatures below 200°C to minimise any fire risk."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Properly soaked bamboo sticks are unlikely to catch fire in an air fryer when used correctly. Always soak them for at least 30 minutes before use and keep cooking temperatures below 200°C to minimise any fire risk."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reuse bamboo skewers in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can technically reuse bamboo skewers, it's not recommended for air fryer use. The intense heat dries them out, making subsequent uses less safe. For best results, use fresh skewers each time you cook."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can technically reuse bamboo skewers, it's not recommended for air fryer use. The intense heat dries them out, making subsequent uses less safe. For best results, use fresh skewers each time you cook."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long should I soak bamboo sticks before air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For optimal safety, soak bamboo skewers in cold water for 30-60 minutes before using them in your air fryer. This creates a moisture barrier that prevents charring and reduces fire risks during cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For optimal safety, soak bamboo skewers in cold water for 30-60 minutes before using them in your air fryer. This creates a moisture barrier that prevents charring and reduces fire risks during cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are there certain air fryer models where bamboo sticks work better?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Bamboo sticks work best in air fryers with spacious baskets where they won't touch the heating elements. Compact models like the Ninja air fryer may require shorter skewers or alternative cooking methods to ensure safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bamboo sticks work best in air fryers with spacious baskets where they won't touch the heating elements. Compact models like the Ninja air fryer may require shorter skewers or alternative cooking methods to ensure safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Can You Put Bamboo Sticks in an Air Fryer?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer",
+    "@type": "WebPage",
+    "name": "Can You Put Bamboo Sticks in an Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer",
     "description": "Wondering if bamboo sticks are air fryer safe? Learn the risks, alternatives, and expert tips for using them correctly in your UK air fryer.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
     "dateModified": "2025-07-22T22:38:02.529000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "Can You Put Bamboo Sticks in an Air Fryer?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-bamboo-sticks-in-an-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Yes, you can put bamboo sticks in an air fryer, but they require careful handling to prevent burning or drying out. Bamboo skewers are commonly used for kebabs and small food items in air fryers across the UK. However, their porous nature makes them susceptible to high heat, so proper preparation is crucial for safety.</p>

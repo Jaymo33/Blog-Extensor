@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt"
-        },
-        "headline": "Quick Answer: How many ounces is 30g of greek yogurt?",
-        "description": "Find out exactly how many ounces 30g of greek yogurt is with our simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt"
+    },
+    "headline": "Quick Answer: How many ounces is 30g of greek yogurt?",
+    "description": "Find out exactly how many ounces 30g of greek yogurt is with our simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-greek-yogurt.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-greek-yogurt.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use grams and others use ounces for yogurt measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes use different measurement systems based on their origin. Metric measurements (grams) are standard in the UK and Europe, while imperial (ounces) is more common in the US. At airfryerrecipe.co.uk, we often provide both to cater to all our readers."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes use different measurement systems based on their origin. Metric measurements (grams) are standard in the UK and Europe, while imperial (ounces) is more common in the US. At airfryerrecipe.co.uk, we often provide both to cater to all our readers."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use regular yogurt instead of greek yogurt in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute regular yogurt, but remember it's thinner than greek yogurt. For every 30g (1.06 oz) of greek yogurt, you might need slightly less regular yogurt to achieve the same consistency in your air fryer recipes. Always adjust other liquid ingredients accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute regular yogurt, but remember it's thinner than greek yogurt. For every 30g (1.06 oz) of greek yogurt, you might need slightly less regular yogurt to achieve the same consistency in your air fryer recipes. Always adjust other liquid ingredients accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 30g of greek yogurt?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "There are typically 17-20 calories in 30g (1.06 oz) of fat-free greek yogurt, or about 30 calories for full-fat versions. This makes it a great low-calorie ingredient for air fryer cooking. Always check your specific brand's nutritional information for precise values."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are typically 17-20 calories in 30g (1.06 oz) of fat-free greek yogurt, or about 30 calories for full-fat versions. This makes it a great low-calorie ingredient for air fryer cooking. Always check your specific brand's nutritional information for precise values."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do I need to adjust cooking times when using yogurt in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yogurt-based marinades or coatings might require slight time adjustments. The moisture in 30g of greek yogurt (1.06 oz) can affect browning. Start with the recommended time, then check for doneness. Our air fryer conversion chart includes timing tips for yogurt-based dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yogurt-based marinades or coatings might require slight time adjustments. The moisture in 30g of greek yogurt (1.06 oz) can affect browning. Start with the recommended time, then check for doneness. Our air fryer conversion chart includes timing tips for yogurt-based dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 30g of greek yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of greek yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt",
     "description": "Find out exactly how many ounces 30g of greek yogurt is with our simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 30g of greek yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-greek-yogurt"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>30g of greek yogurt equals approximately 1.06 ounces. This conversion is handy when following air fryer recipes that list ingredients in grams but you prefer measuring in ounces. Whether you're making a creamy dip or a healthy breakfast, knowing this conversion ensures your dish turns out just right.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce"
-        },
-        "headline": "Quick Guide: Convert 3 Cups of Hot Sauce to Ounces Easily",
-        "description": "Learn how to convert 3 cups of hot sauce to ounces with our simple guide. Perfect for air fryer recipes and precise measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce"
+    },
+    "headline": "Quick Guide: Convert 3 Cups of Hot Sauce to Ounces Easily",
+    "description": "Learn how to convert 3 cups of hot sauce to ounces with our simple guide. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-hot-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-hot-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 3 cups of hot sauce the same as 24 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 3 cups of hot sauce equals 24 fluid ounces. This standard conversion applies to most liquid ingredients, including hot sauce. However, thicker sauces may weigh slightly more due to density, but the volume remains the same."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 3 cups of hot sauce equals 24 fluid ounces. This standard conversion applies to most liquid ingredients, including hot sauce. However, thicker sauces may weigh slightly more due to density, but the volume remains the same."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 3 cups of hot sauce to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "24 fluid ounces of hot sauce (3 cups) is roughly 680 grams. For precise measurements, use a kitchen scale. Note that thicker sauces like sriracha may weigh more, but the gram equivalent is close for most standard hot sauces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "24 fluid ounces of hot sauce (3 cups) is roughly 680 grams. For precise measurements, use a kitchen scale. Note that thicker sauces like sriracha may weigh more, but the gram equivalent is close for most standard hot sauces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use UK measuring cups for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, UK and US measuring cups hold the same volume (240ml per cup). So, 3 UK cups of hot sauce also equals 24 fluid ounces. The conversion is consistent regardless of the cup type."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, UK and US measuring cups hold the same volume (240ml per cup). So, 3 UK cups of hot sauce also equals 24 fluid ounces. The conversion is consistent regardless of the cup type."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes work best with 3 cups of hot sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Three cups of hot sauce is perfect for marinating large batches of chicken wings, shrimp, or tofu. It’s also great for making spicy glazes or coating frozen snacks like jalapeño poppers. Adjust cooking times slightly to account for added moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Three cups of hot sauce is perfect for marinating large batches of chicken wings, shrimp, or tofu. It’s also great for making spicy glazes or coating frozen snacks like jalapeño poppers. Adjust cooking times slightly to account for added moisture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of hot sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of hot sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce",
     "description": "Learn how to convert 3 cups of hot sauce to ounces with our simple guide. Perfect for air fryer recipes and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of hot sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-hot-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <h2>How Many Ounces Are in 3 Cups of Hot Sauce?</h2>  

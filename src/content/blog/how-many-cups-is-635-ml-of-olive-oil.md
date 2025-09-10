@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil"
-        },
-        "headline": "Quick Guide: Convert 635 ml of Olive Oil to Cups Easily",
-        "description": "Learn how to convert 635 ml of olive oil to cups for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 635 ml of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 635 ml of olive oil to cups for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 635 ml of olive oil exactly 2.68 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 635 ml of olive oil equals approximately 2.68 US cups. The conversion is based on the standard US cup measurement of 237 ml. While there might be minimal variations due to olive oil density, this measurement is accurate for most cooking purposes, especially in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 635 ml of olive oil equals approximately 2.68 US cups. The conversion is based on the standard US cup measurement of 237 ml. While there might be minimal variations due to olive oil density, this measurement is accurate for most cooking purposes, especially in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 635 ml of olive oil convert to UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In UK measurements, where 1 cup equals 284 ml, 635 ml of olive oil converts to about 2.24 cups. However, most modern recipes, including those for air fryers, use the US cup measurement unless specifically noted otherwise. It's always best to check which standard your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In UK measurements, where 1 cup equals 284 ml, 635 ml of olive oil converts to about 2.24 cups. However, most modern recipes, including those for air fryers, use the US cup measurement unless specifically noted otherwise. It's always best to check which standard your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for 635 ml of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Olive oil weighs approximately 0.92 grams per ml, so 635 ml would weigh about 584 grams. Using a kitchen scale can be more accurate than measuring cups, especially for larger quantities like 635 ml (2.68 cups) of olive oil in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Olive oil weighs approximately 0.92 grams per ml, so 635 ml would weigh about 584 grams. Using a kitchen scale can be more accurate than measuring cups, especially for larger quantities like 635 ml (2.68 cups) of olive oil in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long will 635 ml (2.68 cups) of olive oil last for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "635 ml of olive oil will last quite a while for air fryer cooking since air fryers use significantly less oil than traditional frying methods. Depending on usage, 2.68 cups could last for 15-20 batches of air-fried vegetables or proteins. Store your olive oil properly to maintain its quality between uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "635 ml of olive oil will last quite a while for air fryer cooking since air fryers use significantly less oil than traditional frying methods. Depending on usage, 2.68 cups could last for 15-20 batches of air-fried vegetables or proteins. Store your olive oil properly to maintain its quality between uses."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 635 ml of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 635 ml of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil",
     "description": "Learn how to convert 635 ml of olive oil to cups for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 635 ml of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>635 ml of olive oil equals approximately 2.68 cups. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're baking, frying, or roasting, knowing how to convert millilitres to cups ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with olive oil in air fryers.</p>

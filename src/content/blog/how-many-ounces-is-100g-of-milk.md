@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk"
-        },
-        "headline": "Quick 100g milk to ounces conversion for UK air fryer recipes",
-        "description": "Convert 100g of milk to ounces in seconds for perfect air fryer baking. Get precise measurements for fluffy cakes and creamy sauces every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk"
+    },
+    "headline": "Quick 100g milk to ounces conversion for UK air fryer recipes",
+    "description": "Convert 100g of milk to ounces in seconds for perfect air fryer baking. Get precise measurements for fluffy cakes and creamy sauces every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100g of milk the same as 100ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For milk, 100g is approximately equal to 100ml because milk's density is very close to water. However, this can vary slightly depending on fat content. For absolute precision in air fryer recipes, especially baking, weighing 100g is more accurate than measuring 100ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For milk, 100g is approximately equal to 100ml because milk's density is very close to water. However, this can vary slightly depending on fat content. For absolute precision in air fryer recipes, especially baking, weighing 100g is more accurate than measuring 100ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 100g of milk without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without scales, you can use volume measurements. 100g of milk equals about 100ml, which is roughly 6.5 UK tablespoons. A standard metric measuring jug will show 100ml clearly. For baking recipes in your air fryer, we recommend investing in digital scales for perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without scales, you can use volume measurements. 100g of milk equals about 100ml, which is roughly 6.5 UK tablespoons. A standard metric measuring jug will show 100ml clearly. For baking recipes in your air fryer, we recommend investing in digital scales for perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of milk affect the 100g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different milks (whole, skimmed, plant-based) have slightly varying densities, but the difference is minimal for home cooking. Whether you're using cow's milk or almond milk, 100g will still convert to approximately 3.53 ounces. The more significant factor is recipe adjustment for fat content differences."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different milks (whole, skimmed, plant-based) have slightly varying densities, but the difference is minimal for home cooking. Whether you're using cow's milk or almond milk, 100g will still convert to approximately 3.53 ounces. The more significant factor is recipe adjustment for fat content differences."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is precise milk measurement important in air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Precise milk measurements ensure proper hydration of dry ingredients and affect texture in air fryer recipes. Too much milk can make batters runny, while too little can result in dry baked goods. The 100g to 3.53 ounce conversion helps maintain balance, especially important in the air fryer's concentrated heat environment."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Precise milk measurements ensure proper hydration of dry ingredients and affect texture in air fryer recipes. Too much milk can make batters runny, while too little can result in dry baked goods. The 100g to 3.53 ounce conversion helps maintain balance, especially important in the air fryer's concentrated heat environment."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 100g of milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk",
     "description": "Convert 100g of milk to ounces in seconds for perfect air fryer baking. Get precise measurements for fluffy cakes and creamy sauces every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 100g of milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100g of milk equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a cake, pancake batter, or a creamy sauce, knowing how many ounces 100g of milk translates to ensures consistency.</p>

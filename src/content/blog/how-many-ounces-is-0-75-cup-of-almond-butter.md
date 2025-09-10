@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter"
-        },
-        "headline": "Quick Guide: Convert 0.75 Cup Almond Butter to Ounces Easily",
-        "description": "Discover how to convert 0.75 cup of almond butter to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter"
+    },
+    "headline": "Quick Guide: Convert 0.75 Cup Almond Butter to Ounces Easily",
+    "description": "Discover how to convert 0.75 cup of almond butter to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-almond-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-almond-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use crunchy almond butter instead of smooth for 0.75 cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, crunchy almond butter measures the same as smooth—0.75 cup equals 6 ounces. The texture differs, but the weight remains consistent. Just ensure you level off the measuring cup properly for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, crunchy almond butter measures the same as smooth—0.75 cup equals 6 ounces. The texture differs, but the weight remains consistent. Just ensure you level off the measuring cup properly for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.75 cup of almond butter to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.75 cup (6 ounces) of almond butter is approximately 170 grams. Use a kitchen scale for precise measurements, especially for baking. This conversion works for both UK and international recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.75 cup (6 ounces) of almond butter is approximately 170 grams. Use a kitchen scale for precise measurements, especially for baking. This conversion works for both UK and international recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my almond butter measurement seem off?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sticky ingredients like almond butter can cling to cups, causing under-measuring. Grease your cup lightly or weigh it (6 ounces per 0.75 cup) for better accuracy. Air pockets can also skew results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sticky ingredients like almond butter can cling to cups, causing under-measuring. Grease your cup lightly or weigh it (6 ounces per 0.75 cup) for better accuracy. Air pockets can also skew results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute peanut butter for almond butter in the same amount?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, peanut butter can replace almond butter in a 1:1 ratio by volume (0.75 cup = 6 ounces). However, flavour and texture will vary slightly, so adjust seasonings if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, peanut butter can replace almond butter in a 1:1 ratio by volume (0.75 cup = 6 ounces). However, flavour and texture will vary slightly, so adjust seasonings if needed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.75 cup of almond butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.75 cup of almond butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter",
     "description": "Discover how to convert 0.75 cup of almond butter to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.75 cup of almond butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-almond-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cup of almond butter equals approximately 6 ounces. This measurement is crucial for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're baking almond butter cookies or making a savoury glaze, accurate conversions make all the difference. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify these calculations so you can focus on cooking.</p>

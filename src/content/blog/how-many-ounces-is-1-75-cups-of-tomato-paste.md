@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1.75 Cups of Tomato Paste?",
-        "description": "Convert 1.75 cups of tomato paste to ounces easily and accurately for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1.75 Cups of Tomato Paste?",
+    "description": "Convert 1.75 cups of tomato paste to ounces easily and accurately for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-tomato-paste.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-tomato-paste.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use tomato sauce instead of tomato paste in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can substitute tomato sauce, the results will differ. Tomato paste is concentrated, so you'll need about 3 times the amount of tomato sauce to match the flavour intensity. Keep in mind this will add more liquid to your recipe, which may affect cooking times in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can substitute tomato sauce, the results will differ. Tomato paste is concentrated, so you'll need about 3 times the amount of tomato sauce to match the flavour intensity. Keep in mind this will add more liquid to your recipe, which may affect cooking times in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.75 cups of tomato paste without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have measuring cups, use a kitchen scale to weigh out 14 ounces of tomato paste. Alternatively, a standard UK tablespoon holds about 0.5 ounces, so you'd need 28 level tablespoons to make 1.75 cups. For small quantities, a teaspoon (0.17 ounces) can help you measure precisely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have measuring cups, use a kitchen scale to weigh out 14 ounces of tomato paste. Alternatively, a standard UK tablespoon holds about 0.5 ounces, so you'd need 28 level tablespoons to make 1.75 cups. For small quantities, a teaspoon (0.17 ounces) can help you measure precisely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of tomato paste affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most brands have similar densities, so the weight per cup remains fairly consistent. However, organic or imported tomato pastes might vary slightly. When precision matters, always weigh your ingredients rather than relying solely on volume measurements for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most brands have similar densities, so the weight per cup remains fairly consistent. However, organic or imported tomato pastes might vary slightly. When precision matters, always weigh your ingredients rather than relying solely on volume measurements for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover tomato paste after measuring out 1.75 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Freezing is a great way to preserve leftover tomato paste. Portion it into tablespoon amounts (about 0.5 ounces each) or ice cube trays for easy use later. Frozen tomato paste keeps for up to 3 months and can be added directly to air fryer recipes without thawing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Freezing is a great way to preserve leftover tomato paste. Portion it into tablespoon amounts (about 0.5 ounces each) or ice cube trays for easy use later. Frozen tomato paste keeps for up to 3 months and can be added directly to air fryer recipes without thawing."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of tomato paste?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of tomato paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste",
     "description": "Convert 1.75 cups of tomato paste to ounces easily and accurately for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of tomato paste?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-tomato-paste"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of tomato paste equals approximately 14 ounces, making it easy to measure for air fryer recipes. Whether you're whipping up a quick pasta sauce or a hearty stew, knowing this conversion ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we believe precise measurements are key to culinary success, especially when using an air fryer.</p>  

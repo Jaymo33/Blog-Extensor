@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup"
-        },
-        "headline": "Quick Conversion: 2.75 Cups of Corn Syrup to ml Explained",
-        "description": "Convert 2.75 cups of corn syrup to ml effortlessly with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup"
+    },
+    "headline": "Quick Conversion: 2.75 Cups of Corn Syrup to ml Explained",
+    "description": "Convert 2.75 cups of corn syrup to ml effortlessly with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:40.901Z",
-        "dateModified": "2025-07-30T08:54:40.901Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-corn-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:40.901Z",
+    "dateModified": "2025-07-30T08:54:40.901Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-corn-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.75 cups of corn syrup the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, US cups (236.59 ml) and UK cups (284 ml) differ slightly. For 2.75 US cups, it’s about 650 ml, whereas 2.75 UK cups would be roughly 781 ml. Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, US cups (236.59 ml) and UK cups (284 ml) differ slightly. For 2.75 US cups, it’s about 650 ml, whereas 2.75 UK cups would be roughly 781 ml. Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute golden syrup for corn syrup in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, golden syrup can work as a substitute, but it has a stronger flavour. Use the same ml measurement (650 ml for 2.75 cups), but expect a slightly different taste and colour in your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, golden syrup can work as a substitute, but it has a stronger flavour. Use the same ml measurement (650 ml for 2.75 cups), but expect a slightly different taste and colour in your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean my air fryer after using corn syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Wipe the basket with warm, soapy water immediately after use to prevent sticking. For stubborn residue, soak the parts in warm water and use a soft sponge. Avoid abrasive cleaners to protect the non-stick coating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wipe the basket with warm, soapy water immediately after use to prevent sticking. For stubborn residue, soak the parts in warm water and use a soft sponge. Avoid abrasive cleaners to protect the non-stick coating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my recipe call for corn syrup instead of sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Corn syrup prevents crystallisation, giving sauces and desserts a smoother texture. It’s ideal for glazes and candies, ensuring even distribution of sweetness in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Corn syrup prevents crystallisation, giving sauces and desserts a smoother texture. It’s ideal for glazes and candies, ensuring even distribution of sweetness in air fryer cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.75 Cups of Corn Syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.75 Cups of Corn Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup",
     "description": "Convert 2.75 cups of corn syrup to ml effortlessly with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:40.901000+00:00",
     "dateModified": "2025-07-30T08:54:40.901000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.75 Cups of Corn Syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-corn-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.75 cups of corn syrup equals approximately 650 ml, making it easy to measure for your air fryer recipes. Whether you're whipping up a sticky dessert or a savoury glaze, precise measurements ensure consistent results. Corn syrup is a common ingredient in many dishes, and knowing how to convert cups to millilitres is essential for accuracy.</p>

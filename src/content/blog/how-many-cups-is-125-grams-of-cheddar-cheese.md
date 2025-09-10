@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese"
-        },
-        "headline": "Quick Guide: Convert 125 Grams of Cheddar Cheese to Cups",
-        "description": "Learn how to convert 125 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese"
+    },
+    "headline": "Quick Guide: Convert 125 Grams of Cheddar Cheese to Cups",
+    "description": "Learn how to convert 125 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T21:00:06.212Z",
-        "dateModified": "2025-07-27T21:00:06.212Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-cheddar-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T21:00:06.212Z",
+    "dateModified": "2025-07-27T21:00:06.212Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-125-grams-of-cheddar-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 125 grams of cheddar cheese the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 125 grams of cheddar cheese is roughly 1.25 cups when grated. The exact volume depends on how the cheese is prepared—grated, cubed, or shredded. Always use a kitchen scale for the most accurate measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 125 grams of cheddar cheese is roughly 1.25 cups when grated. The exact volume depends on how the cheese is prepared—grated, cubed, or shredded. Always use a kitchen scale for the most accurate measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese instead of grating my own?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but pre-shredded cheese often contains anti-caking agents, which can affect melting. For best results in air fryer recipes, freshly grated cheddar cheese is recommended. If using pre-shredded, adjust measurements slightly as it may be denser."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but pre-shredded cheese often contains anti-caking agents, which can affect melting. For best results in air fryer recipes, freshly grated cheddar cheese is recommended. If using pre-shredded, adjust measurements slightly as it may be denser."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 125 grams of cheddar cheese to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "125 grams of cheddar cheese is approximately 4.4 ounces. This conversion is useful for recipes that use imperial measurements. A kitchen scale will give you the most precise result."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "125 grams of cheddar cheese is approximately 4.4 ounces. This conversion is useful for recipes that use imperial measurements. A kitchen scale will give you the most precise result."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cheddar affect the cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, aged cheddar is denser than mild cheddar, so 125 grams may take up slightly less space in a cup. For consistency, weigh your cheese rather than relying solely on cup measurements, especially in baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, aged cheddar is denser than mild cheddar, so 125 grams may take up slightly less space in a cup. For consistency, weigh your cheese rather than relying solely on cup measurements, especially in baking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 125 Grams of Cheddar Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 125 Grams of Cheddar Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese",
     "description": "Learn how to convert 125 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T21:00:06.212000+00:00",
     "dateModified": "2025-07-27T21:00:06.212000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 125 Grams of Cheddar Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-125-grams-of-cheddar-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>125 grams of cheddar cheese is roughly equivalent to 1.25 cups when grated. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making cheesy nachos or a gooey casserole, knowing how many cups is 125 grams of cheddar cheese ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

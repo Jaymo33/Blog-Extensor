@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour"
-        },
-        "headline": "Quick Answer: How many ounces is 3 cups of rice flour?",
-        "description": "Find out exactly how many ounces 3 cups of rice flour weighs for perfect air fryer baking every time. Includes UK conversions and tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour"
+    },
+    "headline": "Quick Answer: How many ounces is 3 cups of rice flour?",
+    "description": "Find out exactly how many ounces 3 cups of rice flour weighs for perfect air fryer baking every time. Includes UK conversions and tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-rice-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-rice-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 3 cups of rice flour weigh the same as 3 cups of wheat flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, rice flour is slightly denser than wheat flour. While 3 cups of rice flour weighs about 12 ounces, 3 cups of all-purpose wheat flour typically weighs around 13.5 ounces. This difference matters in air fryer recipes where texture is crucial, so always measure by weight for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, rice flour is slightly denser than wheat flour. While 3 cups of rice flour weighs about 12 ounces, 3 cups of all-purpose wheat flour typically weighs around 13.5 ounces. This difference matters in air fryer recipes where texture is crucial, so always measure by weight for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same ounce measurement for brown rice flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Brown rice flour is marginally heavier than white rice flour – about 0.5 ounces more per 3 cups. For most air fryer recipes, this small difference won’t affect outcomes, but for precision baking, it’s worth adjusting liquids slightly if substituting one for the other."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brown rice flour is marginally heavier than white rice flour – about 0.5 ounces more per 3 cups. For most air fryer recipes, this small difference won’t affect outcomes, but for precision baking, it’s worth adjusting liquids slightly if substituting one for the other."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 3 cups of rice flour to grams for UK recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "3 cups of rice flour equals approximately 340 grams. Many UK air fryer recipes use metric measurements, so this conversion is handy. Remember that UK cups are slightly larger (284ml vs 240ml), but the weight difference for rice flour is negligible – still roughly 340g per 3 cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "3 cups of rice flour equals approximately 340 grams. Many UK air fryer recipes use metric measurements, so this conversion is handy. Remember that UK cups are slightly larger (284ml vs 240ml), but the weight difference for rice flour is negligible – still roughly 340g per 3 cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer batter with rice flour come out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Rice flour absorbs more liquid than wheat flour. If your batter seems dry when using 3 cups (12 ounces) of rice flour, try adding 1-2 extra tablespoons of liquid. Letting the batter rest for 10 minutes before cooking also helps hydration, leading to better texture in your air-fried foods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rice flour absorbs more liquid than wheat flour. If your batter seems dry when using 3 cups (12 ounces) of rice flour, try adding 1-2 extra tablespoons of liquid. Letting the batter rest for 10 minutes before cooking also helps hydration, leading to better texture in your air-fried foods."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of rice flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of rice flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour",
     "description": "Find out exactly how many ounces 3 cups of rice flour weighs for perfect air fryer baking every time. Includes UK conversions and tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of rice flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-rice-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of rice flour equals approximately 12 ounces (340 grams) when measured correctly. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re making gluten-free treats or crispy coatings, knowing how many ounces 3 cups of rice flour weighs ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you get the most out of your air fryer with accurate conversions and foolproof recipes.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven"
-        },
-        "headline": "400°F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 400°F to fan oven settings easily. Learn the exact temperature and adjustments for perfect air fryer and fan oven cooking every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven"
+    },
+    "headline": "400°F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 400°F to fan oven settings easily. Learn the exact temperature and adjustments for perfect air fryer and fan oven cooking every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T23:29:04.388Z",
-        "dateModified": "2025-07-21T23:29:04.388Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/400-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T23:29:04.388Z",
+    "dateModified": "2025-07-21T23:29:04.388Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/400-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 400°F to a fan oven for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baking, 400°F converts to 200°C in a fan oven. Reduce the cooking time by 20-25% to account for the fan oven’s efficiency, and always preheat for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baking, 400°F converts to 200°C in a fan oven. Reduce the cooking time by 20-25% to account for the fan oven’s efficiency, and always preheat for consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same temperature for my air fryer as a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, air fryers and fan ovens operate similarly, so 400°F (200°C) works for both. However, air fryers cook faster, so reduce the time by 5-10 minutes and check food regularly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, air fryers and fan ovens operate similarly, so 400°F (200°C) works for both. However, air fryers cook faster, so reduce the time by 5-10 minutes and check food regularly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food cook unevenly at 400°F in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Uneven cooking can happen if the oven isn’t preheated, the tray is overcrowded, or the temperature is inaccurate. Use an oven thermometer and space food evenly for better results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uneven cooking can happen if the oven isn’t preheated, the tray is overcrowded, or the temperature is inaccurate. Use an oven thermometer and space food evenly for better results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to adjust recipes from a conventional oven to a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lower the temperature by 20°C (e.g., 400°F/200°C) and reduce cooking time by 20-25%. For air fryers, check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for tailored guidance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lower the temperature by 20°C (e.g., 400°F/200°C) and reduce cooking time by 20-25%. For air fryers, check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for tailored guidance."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "400 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "400 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven",
     "description": "Convert 400°F to fan oven settings easily. Learn the exact temperature and adjustments for perfect air fryer and fan oven cooking every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T23:29:04.388000+00:00",
     "dateModified": "2025-07-21T23:29:04.388000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "400 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/400-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>400°F converts to approximately 200°C in a fan oven. This is the standard conversion for most recipes, ensuring your dishes cook evenly whether you're using an air fryer or a conventional fan oven. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you navigate these conversions effortlessly.</p>

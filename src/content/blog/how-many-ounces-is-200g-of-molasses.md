@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses"
-        },
-        "headline": "Quick Answer: How Many Ounces is 200g of Molasses?",
-        "description": "Convert 200g of molasses to ounces effortlessly with our simple guide—perfect for air fryer recipes and baking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses"
+    },
+    "headline": "Quick Answer: How Many Ounces is 200g of Molasses?",
+    "description": "Convert 200g of molasses to ounces effortlessly with our simple guide—perfect for air fryer recipes and baking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-molasses.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-molasses.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a US ounce measurement for 200g of molasses in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1 ounce is the same in both US and UK measurements. 200g of molasses converts to roughly 7.05 ounces regardless of location. However, UK recipes often use metric measurements, so a digital scale is handy for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1 ounce is the same in both US and UK measurements. 200g of molasses converts to roughly 7.05 ounces regardless of location. However, UK recipes often use metric measurements, so a digital scale is handy for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I substitute molasses if I don’t have 200g available?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you’re short on molasses, you can use dark corn syrup or honey as a substitute, though the flavour will differ. For 200g (7.05 oz) of molasses, use the same weight of substitute. Adjust sweetness in the recipe if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you’re short on molasses, you can use dark corn syrup or honey as a substitute, though the flavour will differ. For 200g (7.05 oz) of molasses, use the same weight of substitute. Adjust sweetness in the recipe if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air fryer recipe too sweet with 200g of molasses?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Molasses is intensely sweet, so 200g (7.05 oz) may overpower some dishes. Try reducing the amount slightly or balancing it with acidic ingredients like vinegar or lemon juice. Always taste-test before cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Molasses is intensely sweet, so 200g (7.05 oz) may overpower some dishes. Try reducing the amount slightly or balancing it with acidic ingredients like vinegar or lemon juice. Always taste-test before cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover molasses after measuring 200g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store molasses in an airtight container at room temperature. If it hardens, warm the jar in hot water to loosen it. Proper storage ensures it stays fresh for future air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store molasses in an airtight container at room temperature. If it hardens, warm the jar in hot water to loosen it. Proper storage ensures it stays fresh for future air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of molasses?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of molasses?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses",
     "description": "Convert 200g of molasses to ounces effortlessly with our simple guide—perfect for air fryer recipes and baking.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of molasses?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-molasses"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200 grams of molasses equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, ensuring accuracy in baking or glazing dishes. Whether you're making sticky toffee pudding or a savoury glaze, knowing how to convert 200g of molasses to ounces helps achieve consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking. Keep reading for more tips on using molasses in your air fryer.</p>  

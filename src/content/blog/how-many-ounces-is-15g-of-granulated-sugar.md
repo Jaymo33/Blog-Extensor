@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar"
-        },
-        "headline": "Quick Guide: Convert 15g of Granulated Sugar to Ounces Easily",
-        "description": "Learn how to convert 15g of granulated sugar to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar"
+    },
+    "headline": "Quick Guide: Convert 15g of Granulated Sugar to Ounces Easily",
+    "description": "Learn how to convert 15g of granulated sugar to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-granulated-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-granulated-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 15g of granulated sugar without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have scales, use a tablespoon: 1 level tbsp holds about 12.5g of granulated sugar, so 15g is just over 1 tbsp. For air fryer recipes, slightly heaping the spoon gets you close enough for most purposes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have scales, use a tablespoon: 1 level tbsp holds about 12.5g of granulated sugar, so 15g is just over 1 tbsp. For air fryer recipes, slightly heaping the spoon gets you close enough for most purposes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does brown sugar weigh the same as granulated sugar per 15g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Brown sugar is slightly denser due to moisture. 15g of packed brown sugar equals roughly 0.53 oz (same as granulated), but if loosely packed, it may measure differently. For air fryer glazes or rubs, always weigh for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brown sugar is slightly denser due to moisture. 15g of packed brown sugar equals roughly 0.53 oz (same as granulated), but if loosely packed, it may measure differently. For air fryer glazes or rubs, always weigh for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for caster or icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Caster sugar is finer, so 15g takes up slightly more volume (still ~0.53 oz). Icing sugar is lighter and fluffier—15g equals about 0.53 oz but fills more space. In air fryer baking, stick to weight measurements for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Caster sugar is finer, so 15g takes up slightly more volume (still ~0.53 oz). Icing sugar is lighter and fluffier—15g equals about 0.53 oz but fills more space. In air fryer baking, stick to weight measurements for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify grams instead of ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most modern UK recipes use grams for precision, especially in baking where small differences matter. Air fryers’ rapid circulation makes accurate sugar measurements crucial to avoid burning or uneven cooking. Grams eliminate measurement ambiguity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most modern UK recipes use grams for precision, especially in baking where small differences matter. Air fryers’ rapid circulation makes accurate sugar measurements crucial to avoid burning or uneven cooking. Grams eliminate measurement ambiguity."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 15g of granulated sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of granulated sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar",
     "description": "Learn how to convert 15g of granulated sugar to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 15g of granulated sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-granulated-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>15g of granulated sugar equals approximately 0.53 ounces. This conversion is essential for air fryer recipes and baking, where precision matters. Whether you’re whipping up a cake or sweetening your morning oats, knowing how to convert grams to ounces ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get measurements spot-on for delicious dishes.</p>

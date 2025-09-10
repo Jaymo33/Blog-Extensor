@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces"
-        },
-        "headline": "Quick Conversion: 25g porridge oats to ounces UK",
-        "description": "Discover how to convert 25g of porridge oats to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces"
+    },
+    "headline": "Quick Conversion: 25g porridge oats to ounces UK",
+    "description": "Discover how to convert 25g of porridge oats to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-porridge-oats-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-porridge-oats-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 25g of porridge oats without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a scale, you can use tablespoons to measure 25g of porridge oats. One tablespoon typically holds around 5g of oats, so 25g would be roughly 5 tablespoons. For more accuracy, lightly spoon the oats into the tablespoon and level it off."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a scale, you can use tablespoons to measure 25g of porridge oats. One tablespoon typically holds around 5g of oats, so 25g would be roughly 5 tablespoons. For more accuracy, lightly spoon the oats into the tablespoon and level it off."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 25g of porridge oats in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 25g of porridge oats is perfect for air fryer recipes like granola, oat bars, or as a crispy topping. Just ensure you spread them evenly in the basket for even cooking. Check out our air fryer recipes for inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 25g of porridge oats is perfect for air fryer recipes like granola, oat bars, or as a crispy topping. Just ensure you spread them evenly in the basket for even cooking. Check out our air fryer recipes for inspiration."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert grams to ounces for porridge oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting grams to ounces ensures accuracy, especially when following recipes from different regions. Precise measurements can affect cooking times and textures, particularly in air fryer recipes where even cooking is crucial."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting grams to ounces ensures accuracy, especially when following recipes from different regions. Precise measurements can affect cooking times and textures, particularly in air fryer recipes where even cooking is crucial."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What other ingredients can I pair with 25g of porridge oats in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "25g of porridge oats pairs well with fruits like apples or bananas, nuts, and honey in the air fryer. You can also mix them with yogurt or milk for a quick breakfast. Explore our recipe collection for more ideas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "25g of porridge oats pairs well with fruits like apples or bananas, nuts, and honey in the air fryer. You can also mix them with yogurt or milk for a quick breakfast. Explore our recipe collection for more ideas."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of porridge oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of porridge oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces",
     "description": "Discover how to convert 25g of porridge oats to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of porridge oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/25g-porridge-oats-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of porridge oats equals approximately 0.88 ounces. This conversion is essential for anyone using an air fryer to prepare breakfast recipes, ensuring accurate measurements for perfect results every time. Whether you're making overnight oats or a quick morning porridge, knowing how to convert grams to ounces can make all the difference.</p>

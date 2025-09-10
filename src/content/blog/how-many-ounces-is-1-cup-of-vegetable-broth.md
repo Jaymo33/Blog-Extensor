@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth"
-        },
-        "headline": "Quick Guide: Convert 1 Cup of Vegetable Broth to Ounces",
-        "description": "Learn how to convert 1 cup of vegetable broth to ounces with our simple guide—perfect for air fryer recipes and precise cooking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth"
+    },
+    "headline": "Quick Guide: Convert 1 Cup of Vegetable Broth to Ounces",
+    "description": "Learn how to convert 1 cup of vegetable broth to ounces with our simple guide—perfect for air fryer recipes and precise cooking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-vegetable-broth.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-vegetable-broth.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1 cup of vegetable broth the same as 8 oz in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1 cup of vegetable broth is 8 fluid ounces in both the US and UK. The measurement is consistent for liquid volumes, though weight may vary slightly due to density. Always use a liquid measuring cup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1 cup of vegetable broth is 8 fluid ounces in both the US and UK. The measurement is consistent for liquid volumes, though weight may vary slightly due to density. Always use a liquid measuring cup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use vegetable broth instead of water in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Vegetable broth adds extra flavour to air fryer dishes like grains, soups, and marinades. Just remember that 1 cup of broth equals 8 oz, so adjust quantities as needed. It works especially well in recipes for roasted vegetables or braised meats."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Vegetable broth adds extra flavour to air fryer dishes like grains, soups, and marinades. Just remember that 1 cup of broth equals 8 oz, so adjust quantities as needed. It works especially well in recipes for roasted vegetables or braised meats."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1 cup of vegetable broth without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring cup, you can use a kitchen scale. Since 1 cup of vegetable broth is roughly 8.3 oz by weight, weigh it out for a close approximation. Alternatively, a standard mug holds about 8–10 oz, but this method is less precise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring cup, you can use a kitchen scale. Since 1 cup of vegetable broth is roughly 8.3 oz by weight, weigh it out for a close approximation. Alternatively, a standard mug holds about 8–10 oz, but this method is less precise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does vegetable broth weigh the same as water in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, vegetable broth is slightly denser than water due to its added ingredients. While 1 cup (8 fluid oz) of water weighs about 8.3 oz, vegetable broth may weigh a tad more. For air fryer recipes, stick to fluid ounces for consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, vegetable broth is slightly denser than water due to its added ingredients. While 1 cup (8 fluid oz) of water weighs about 8.3 oz, vegetable broth may weigh a tad more. For air fryer recipes, stick to fluid ounces for consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of vegetable broth?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of vegetable broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth",
     "description": "Learn how to convert 1 cup of vegetable broth to ounces with our simple guide—perfect for air fryer recipes and precise cooking.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of vegetable broth?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vegetable-broth"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of vegetable broth equals approximately 8 fluid ounces (oz) in both US and UK measurements. This conversion is essential for air fryer recipes, where precise liquid measurements can affect cooking times and results. Whether you're making soups, sauces, or marinades, knowing this conversion ensures your dish turns out perfectly every time.</p>  

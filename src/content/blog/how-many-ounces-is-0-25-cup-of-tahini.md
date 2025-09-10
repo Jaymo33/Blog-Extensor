@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini"
-        },
-        "headline": "Quick Answer: 0.25 Cup of Tahini to Ounces Conversion",
-        "description": "Discover how many ounces are in 0.25 cup of tahini for precise air fryer recipes. Get accurate measurements and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini"
+    },
+    "headline": "Quick Answer: 0.25 Cup of Tahini to Ounces Conversion",
+    "description": "Discover how many ounces are in 0.25 cup of tahini for precise air fryer recipes. Get accurate measurements and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-tahini.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-tahini.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 0.25 cup of tahini?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.25 cup equals 4 tablespoons of tahini. However, for accuracy, weighing it (2 ounces) is best, especially for air fryer recipes where consistency matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.25 cup equals 4 tablespoons of tahini. However, for accuracy, weighing it (2 ounces) is best, especially for air fryer recipes where consistency matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does tahini weigh the same as other nut butters per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Tahini is slightly denser than some nut butters. While 0.25 cup of tahini is 2 ounces, almond butter might weigh slightly less. Always check specific conversions for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tahini is slightly denser than some nut butters. While 0.25 cup of tahini is 2 ounces, almond butter might weigh slightly less. Always check specific conversions for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I stop tahini from sticking to the measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly oil the measuring cup or use a spatula to scrape it out. For 0.25 cup of tahini, a scale avoids the mess entirely and ensures perfect 2-ounce portions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly oil the measuring cup or use a spatula to scrape it out. For 0.25 cup of tahini, a scale avoids the mess entirely and ensures perfect 2-ounce portions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute another nut butter for tahini in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the flavour and texture will differ. For 0.25 cup of tahini (2 ounces), cashew butter works best as a substitute, though adjustments may be needed for consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the flavour and texture will differ. For 0.25 cup of tahini (2 ounces), cashew butter works best as a substitute, though adjustments may be needed for consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of tahini?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of tahini?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini",
     "description": "Discover how many ounces are in 0.25 cup of tahini for precise air fryer recipes. Get accurate measurements and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of tahini?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tahini"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of tahini equals approximately 2 ounces (oz). This measurement is crucial for air fryer recipes where precision ensures the best texture and flavour. Whether you’re whipping up a batch of hummus or a tahini-based dressing, knowing how many ounces are in 0.25 cup of tahini helps you follow recipes accurately.</p>  

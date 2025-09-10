@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil"
-        },
-        "headline": "Quick Guide: Convert 435 ml of Vegetable Oil to Cups Easily",
-        "description": "Learn how to convert 435 ml of vegetable oil to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Guide: Convert 435 ml of Vegetable Oil to Cups Easily",
+    "description": "Learn how to convert 435 ml of vegetable oil to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-vegetable-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 435 ml of vegetable oil the same as 1.84 cups in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 435 ml of vegetable oil equals approximately 1.84 cups in both the UK and USA. While cup sizes can vary slightly, the standard metric conversion (1 cup = 236.59 ml) applies universally for liquid measurements like oil."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 435 ml of vegetable oil equals approximately 1.84 cups in both the UK and USA. While cup sizes can vary slightly, the standard metric conversion (1 cup = 236.59 ml) applies universally for liquid measurements like oil."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for 435 ml of vegetable oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Since vegetable oil has a consistent density, you can weigh it instead. 435 ml of vegetable oil weighs roughly 400 grams. Using a scale can be even more accurate than measuring cups, especially for baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Since vegetable oil has a consistent density, you can weigh it instead. 435 ml of vegetable oil weighs roughly 400 grams. Using a scale can be even more accurate than measuring cups, especially for baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 435 ml of vegetable oil if I only have a 1-cup measure?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fill your 1-cup measure to the top twice, then add just under half a cup (about 0.84 cups) to reach 435 ml. For most recipes, 1 ¾ cups is a close enough approximation and works well in air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fill your 1-cup measure to the top twice, then add just under half a cup (about 0.84 cups) to reach 435 ml. For most recipes, 1 ¾ cups is a close enough approximation and works well in air fryer dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of vegetable oil affect the ml-to-cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same regardless of the vegetable oil type (sunflower, rapeseed, etc.). All liquid oils have similar densities, so 435 ml will always equal roughly 1.84 cups. However, thicker oils like coconut may pack differently."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same regardless of the vegetable oil type (sunflower, rapeseed, etc.). All liquid oils have similar densities, so 435 ml will always equal roughly 1.84 cups. However, thicker oils like coconut may pack differently."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 435 ml of Vegetable Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 435 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil",
     "description": "Learn how to convert 435 ml of vegetable oil to cups for perfect baking and air frying every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 435 ml of Vegetable Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-vegetable-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>435 ml of vegetable oil is approximately 1.84 cups. This conversion is essential for accurate baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're whipping up a cake or crisping chips in your air fryer, knowing how to measure oil correctly makes all the difference.</p>  

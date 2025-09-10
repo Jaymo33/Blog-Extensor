@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds"
-        },
-        "headline": "Easy 0.25 kg Whole Chicken to Pounds Conversion Guide",
-        "description": "Convert 0.25 kg whole chicken to pounds quickly for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds"
+    },
+    "headline": "Easy 0.25 kg Whole Chicken to Pounds Conversion Guide",
+    "description": "Convert 0.25 kg whole chicken to pounds quickly for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T17:40:31.379Z",
-        "dateModified": "2025-08-22T17:40:31.379Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-whole-chicken-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T17:40:31.379Z",
+    "dateModified": "2025-08-22T17:40:31.379Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-whole-chicken-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.25 kg whole chicken to pounds accurately?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 0.25 kg whole chicken to pounds accurately, multiply 0.25 by 2.20462. This gives you approximately 0.55 pounds. For even more precision, you can use a digital kitchen scale that switches between metric and imperial units. This ensures your air fryer cooking times are spot on for perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 0.25 kg whole chicken to pounds accurately, multiply 0.25 by 2.20462. This gives you approximately 0.55 pounds. For even more precision, you can use a digital kitchen scale that switches between metric and imperial units. This ensures your air fryer cooking times are spot on for perfect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is a 0.25 kg whole chicken big enough for one person?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a 0.25 kg whole chicken is typically perfect for one person, providing a generous portion with possibly some leftovers. It's an ideal size for single-serving air fryer meals, offering both breast and leg meat. This size is also great for meal prep or adding to salads and sandwiches throughout the week."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a 0.25 kg whole chicken is typically perfect for one person, providing a generous portion with possibly some leftovers. It's an ideal size for single-serving air fryer meals, offering both breast and leg meat. This size is also great for meal prep or adding to salads and sandwiches throughout the week."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weight conversion important for air frying a whole chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight conversion is crucial because air fryer cooking times depend heavily on the mass of the food. An accurate 0.25 kg to pounds conversion ensures you don't undercook or overcook your chicken. It helps you follow recipes correctly and achieve safe internal temperatures. Proper conversion leads to juicy, perfectly cooked meat every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight conversion is crucial because air fryer cooking times depend heavily on the mass of the food. An accurate 0.25 kg to pounds conversion ensures you don't undercook or overcook your chicken. It helps you follow recipes correctly and achieve safe internal temperatures. Proper conversion leads to juicy, perfectly cooked meat every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other chicken pieces, not just whole birds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely, the conversion rate is the same for any chicken cut—1 kg always equals approximately 2.20462 pounds. So whether you're converting a whole bird, breasts, or thighs, the math remains consistent. This makes it easy to adapt any air fryer recipe using metric measurements to imperial units for precise cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely, the conversion rate is the same for any chicken cut—1 kg always equals approximately 2.20462 pounds. So whether you're converting a whole bird, breasts, or thighs, the math remains consistent. This makes it easy to adapt any air fryer recipe using metric measurements to imperial units for precise cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "0.25 kg whole chicken to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds",
+    "@type": "WebPage",
+    "name": "0.25 kg whole chicken to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds",
     "description": "Convert 0.25 kg whole chicken to pounds quickly for perfect air fryer cooking. Get accurate measurements and cooking tips in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "0.25 kg whole chicken to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-whole-chicken-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>If you're wondering what 0.25 kg whole chicken is in pounds, the answer is straightforward: 0.25 kg is approximately 0.55 pounds. This conversion is essential for anyone using an air fryer, as many recipes and appliance guidelines use imperial measurements. Getting the weight right ensures your chicken cooks evenly and reaches a safe internal temperature. Whether you're following a British recipe or using an American cookbook, this simple conversion makes life easier. For more handy conversion tips, check out the resources at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

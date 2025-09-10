@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 10g of Breadcrumbs to Ounces Easily",
-        "description": "Learn how to convert 10g of breadcrumbs to ounces in seconds with this simple guide. Perfect for air fryer recipes and precise cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 10g of Breadcrumbs to Ounces Easily",
+    "description": "Learn how to convert 10g of breadcrumbs to ounces in seconds with this simple guide. Perfect for air fryer recipes and precise cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-breadcrumbs-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-breadcrumbs-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 10g of breadcrumbs for gluten-free recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 10g of gluten-free breadcrumbs equals the same weight (0.35 oz) as regular breadcrumbs. However, gluten-free varieties may behave differently in cooking, so adjust air fryer times slightly for optimal crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 10g of gluten-free breadcrumbs equals the same weight (0.35 oz) as regular breadcrumbs. However, gluten-free varieties may behave differently in cooking, so adjust air fryer times slightly for optimal crispiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 10g of breadcrumbs to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10g of breadcrumbs is roughly 1/8 cup, but this varies by breadcrumb type. For accuracy, use a scale. Our conversion chart at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a> has detailed measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10g of breadcrumbs is roughly 1/8 cup, but this varies by breadcrumb type. For accuracy, use a scale. Our conversion chart at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk</a> has detailed measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 10g of breadcrumbs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers require precise coatings to ensure even cooking. Ten grams provides enough coverage without overcrowding, which could lead to soggy results. It’s a common measurement for single servings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers require precise coatings to ensure even cooking. Ten grams provides enough coverage without overcrowding, which could lead to soggy results. It’s a common measurement for single servings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do panko breadcrumbs weigh the same as regular breadcrumbs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, panko is lighter and flakier. Ten grams of panko will take up more volume than fine breadcrumbs, but the weight conversion to ounces (0.35 oz) remains the same. Adjust recipes accordingly for texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, panko is lighter and flakier. Ten grams of panko will take up more volume than fine breadcrumbs, but the weight conversion to ounces (0.35 oz) remains the same. Adjust recipes accordingly for texture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 10g of breadcrumbs?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 10g of breadcrumbs?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces",
     "description": "Learn how to convert 10g of breadcrumbs to ounces in seconds with this simple guide. Perfect for air fryer recipes and precise cooking!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 10g of breadcrumbs?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/10g-breadcrumbs-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>10 grams of breadcrumbs equals approximately 0.35 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're coating chicken or making crispy toppings, knowing how to convert 10g of breadcrumbs to ounces ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for flawless cooking.</p>  

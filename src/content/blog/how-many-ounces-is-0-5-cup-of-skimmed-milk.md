@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk"
-        },
-        "headline": "Quick Answer: 0.5 Cup of Skimmed Milk to Ounces (UK)",
-        "description": "Discover how many ounces are in 0.5 cup of skimmed milk for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk"
+    },
+    "headline": "Quick Answer: 0.5 Cup of Skimmed Milk to Ounces (UK)",
+    "description": "Discover how many ounces are in 0.5 cup of skimmed milk for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-skimmed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-skimmed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.5 cup of skimmed milk in place of whole milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute 0.5 cup of skimmed milk (4.23 oz) for whole milk in most air fryer recipes. The texture may be slightly lighter, but the difference is minimal. Adjust cooking times if the batter seems thinner."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute 0.5 cup of skimmed milk (4.23 oz) for whole milk in most air fryer recipes. The texture may be slightly lighter, but the difference is minimal. Adjust cooking times if the batter seems thinner."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.5 cup of skimmed milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 4.23 oz (120 grams) of skimmed milk. Alternatively, a standard UK tablespoon holds 0.5 oz, so roughly 8.5 tablespoons equal 0.5 cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 4.23 oz (120 grams) of skimmed milk. Alternatively, a standard UK tablespoon holds 0.5 oz, so roughly 8.5 tablespoons equal 0.5 cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 0.5 cup of skimmed milk weigh the same as other types of milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, skimmed milk is slightly denser than whole milk due to reduced fat. However, the difference is negligible for most recipes—0.5 cup (4.23 oz) works as a universal measurement unless precision is critical."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, skimmed milk is slightly denser than whole milk due to reduced fat. However, the difference is negligible for most recipes—0.5 cup (4.23 oz) works as a universal measurement unless precision is critical."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 0.5 cup portions of skimmed milk for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Freeze 0.5 cup (4.23 oz) portions in airtight containers for up to 3 months. Thaw in the fridge overnight and stir well before using in air fryer recipes to restore consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Freeze 0.5 cup (4.23 oz) portions in airtight containers for up to 3 months. Thaw in the fridge overnight and stir well before using in air fryer recipes to restore consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.5 cup of skimmed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of skimmed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk",
     "description": "Discover how many ounces are in 0.5 cup of skimmed milk for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.5 cup of skimmed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-skimmed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cup of skimmed milk equals approximately 4.23 ounces (or 4.2 oz for simplicity). This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you’re whipping up a creamy sauce or baking a light dessert, knowing how many ounces are in 0.5 cup of skimmed milk helps you nail the recipe every time.</p>  

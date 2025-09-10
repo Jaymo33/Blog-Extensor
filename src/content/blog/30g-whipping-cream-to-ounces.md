@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces"
-        },
-        "headline": "Quick 30g whipping cream to ounces conversion for UK cooks",
-        "description": "Convert 30g of whipping cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces"
+    },
+    "headline": "Quick 30g whipping cream to ounces conversion for UK cooks",
+    "description": "Convert 30g of whipping cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-whipping-cream-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-whipping-cream-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 30g of whipping cream the same as 30ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 30g and 30ml of whipping cream aren't identical. While they're close in volume, weight measurements are more accurate for baking. 30ml of whipping cream weighs slightly less than 30g due to density variations between brands."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 30g and 30ml of whipping cream aren't identical. While they're close in volume, weight measurements are more accurate for baking. 30ml of whipping cream weighs slightly less than 30g due to density variations between brands."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use double cream instead of whipping cream in a 30g measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute double cream for whipping cream in a 30g measurement, but adjust your expectations. Double cream has higher fat content, so your results may be richer and thicker. The 30g to ounces (1.06oz) conversion remains the same for both types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute double cream for whipping cream in a 30g measurement, but adjust your expectations. Double cream has higher fat content, so your results may be richer and thicker. The 30g to ounces (1.06oz) conversion remains the same for both types."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 30g of whipped cream instead of liquid whipping cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Measuring 30g of already whipped cream requires a different approach. Gently spoon the whipped cream into your measuring tool without packing it down. The volume will appear larger than liquid cream because of incorporated air, but the weight (30g/1.06oz) stays consistent."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Measuring 30g of already whipped cream requires a different approach. Gently spoon the whipped cream into your measuring tool without packing it down. The volume will appear larger than liquid cream because of incorporated air, but the weight (30g/1.06oz) stays consistent."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes specify grams instead of ounces for small amounts like 30g of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes often use grams for small quantities like 30g of whipping cream because metric measurements offer greater precision. When working with delicate air fryer recipes, this accuracy ensures consistent results. The 30g to ounces (1.06oz) conversion helps bridge measurement systems."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes often use grams for small quantities like 30g of whipping cream because metric measurements offer greater precision. When working with delicate air fryer recipes, this accuracy ensures consistent results. The 30g to ounces (1.06oz) conversion helps bridge measurement systems."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 30g of whipping cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of whipping cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces",
     "description": "Convert 30g of whipping cream to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 30g of whipping cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/30g-whipping-cream-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>30g of whipping cream equals approximately 1.06 ounces. This conversion is essential for UK cooks using air fryer recipes that require precise measurements. Whether you're making desserts or savoury dishes in your air fryer, getting the cream quantity right makes all the difference.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water"
-        },
-        "headline": "Quick Answer: How Many Cups Is 960 ml of Water?",
-        "description": "Discover how to convert 960 ml of water to cups for perfect air fryer recipes every time. Get precise measurements and cooking tips now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water"
+    },
+    "headline": "Quick Answer: How Many Cups Is 960 ml of Water?",
+    "description": "Discover how to convert 960 ml of water to cups for perfect air fryer recipes every time. Get precise measurements and cooking tips now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 960 ml of water the same as 4 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 960 ml of water is approximately 4.06 cups in both UK and US measurements. The slight difference (0.06 cups) is negligible for most cooking, especially in air fryer recipes where small variances won’t affect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 960 ml of water is approximately 4.06 cups in both UK and US measurements. The slight difference (0.06 cups) is negligible for most cooking, especially in air fryer recipes where small variances won’t affect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular drinking glass to measure 960 ml of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s not recommended, as glass sizes vary. A standard UK cup is 284 ml, and a US cup is 237 ml, so 960 ml would be just over 3.5 UK cups or 4 US cups. For accuracy, use a measuring jug or scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s not recommended, as glass sizes vary. A standard UK cup is 284 ml, and a US cup is 237 ml, so 960 ml would be just over 3.5 UK cups or 4 US cups. For accuracy, use a measuring jug or scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 960 ml of water affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Liquid content can change cooking times. For example, steaming with 960 ml of water may require longer cooking than dry roasting. Always check recipes for adjustments and preheat your air fryer for even results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liquid content can change cooking times. For example, steaming with 960 ml of water may require longer cooking than dry roasting. Always check recipes for adjustments and preheat your air fryer for even results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to convert ml to cups for other liquids like oil or milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion is the same (960 ml = ~4 cups), but viscosity differs. For thicker liquids like oil, use a spoon to level the cup. For milk, pour slowly to avoid spills. Our conversion chart simplifies this for all ingredients."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion is the same (960 ml = ~4 cups), but viscosity differs. For thicker liquids like oil, use a spoon to level the cup. For milk, pour slowly to avoid spills. Our conversion chart simplifies this for all ingredients."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 960 ml of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 960 ml of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water",
     "description": "Discover how to convert 960 ml of water to cups for perfect air fryer recipes every time. Get precise measurements and cooking tips now!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 960 ml of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>960 ml of water equals approximately 4.06 cups in the UK or 4.06 US cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and cooking times. Whether you’re preparing a sauce, batter, or simply hydrating ingredients, knowing how many cups is 960 ml of water ensures consistency in your dishes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless results every time.</p>  

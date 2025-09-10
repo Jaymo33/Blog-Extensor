@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce"
-        },
-        "headline": "Quick Guide: Convert 500g of Fish Sauce to Ounces Easily",
-        "description": "Learn how to convert 500g of fish sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce"
+    },
+    "headline": "Quick Guide: Convert 500g of Fish Sauce to Ounces Easily",
+    "description": "Learn how to convert 500g of fish sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T23:46:47.435Z",
-        "dateModified": "2025-08-08T23:46:47.435Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-fish-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T23:46:47.435Z",
+    "dateModified": "2025-08-08T23:46:47.435Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-fish-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 500g of fish sauce instead of a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While a tablespoon can give you a rough estimate, it’s not the most accurate way to measure 500g of fish sauce. One tablespoon of fish sauce weighs about 15g, so you’d need roughly 33 tablespoons to reach 500g. For precision, especially in air fryer recipes, a kitchen scale is highly recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While a tablespoon can give you a rough estimate, it’s not the most accurate way to measure 500g of fish sauce. One tablespoon of fish sauce weighs about 15g, so you’d need roughly 33 tablespoons to reach 500g. For precision, especially in air fryer recipes, a kitchen scale is highly recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 500g of fish sauce last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An opened 500g bottle of fish sauce can last up to a year if stored properly in a cool, dark place. The high salt content preserves it, but its flavour may gradually diminish over time. For best results, use it within six months for optimal taste in your air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An opened 500g bottle of fish sauce can last up to a year if stored properly in a cool, dark place. The high salt content preserves it, but its flavour may gradually diminish over time. For best results, use it within six months for optimal taste in your air fryer dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 500g of fish sauce the same as 500ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 500g of fish sauce is not the same as 500ml. While the weight (grams) measures mass, millilitres measure volume. Fish sauce has a density close to water, so 500g is roughly 500ml, but this can vary slightly depending on the brand. Always check the label for precise measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 500g of fish sauce is not the same as 500ml. While the weight (grams) measures mass, millilitres measure volume. Fish sauce has a density close to water, so 500g is roughly 500ml, but this can vary slightly depending on the brand. Always check the label for precise measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute soy sauce for fish sauce in a 500g measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Soy sauce can be used as a substitute, but the flavour profile will differ. If replacing 500g of fish sauce, start with half the amount of soy sauce and adjust to taste, as soy sauce is saltier. For air fryer recipes, this substitution works best in marinades or glazes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Soy sauce can be used as a substitute, but the flavour profile will differ. If replacing 500g of fish sauce, start with half the amount of soy sauce and adjust to taste, as soy sauce is saltier. For air fryer recipes, this substitution works best in marinades or glazes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 500g of fish sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 500g of fish sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce",
     "description": "Learn how to convert 500g of fish sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 500g of fish sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-fish-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500g of fish sauce equals approximately 17.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or preparing a dipping sauce, knowing how to convert 500g of fish sauce to ounces ensures consistency and flavour balance. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with bold ingredients like fish sauce.</p>

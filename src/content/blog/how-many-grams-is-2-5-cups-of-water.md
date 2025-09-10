@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water"
-        },
-        "headline": "Quick Guide: Convert 2.5 Cups of Water to Grams Easily",
-        "description": "Learn how to convert 2.5 cups of water to grams for precise cooking and baking. Perfect for air fryer recipes and kitchen accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water"
+    },
+    "headline": "Quick Guide: Convert 2.5 Cups of Water to Grams Easily",
+    "description": "Learn how to convert 2.5 cups of water to grams for precise cooking and baking. Perfect for air fryer recipes and kitchen accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T16:03:14.151Z",
-        "dateModified": "2025-07-28T16:03:14.151Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-cups-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T16:03:14.151Z",
+    "dateModified": "2025-07-28T16:03:14.151Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-cups-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.5 cups of water the same in grams for US and UK measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 2.5 cups of water differs slightly between the US and UK. In the US, 2.5 cups equal 591.47 grams, while in the UK, it’s 600 grams. This is because a US cup is 236.59 ml, and a UK cup is 250 ml. Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 2.5 cups of water differs slightly between the US and UK. In the US, 2.5 cups equal 591.47 grams, while in the UK, it’s 600 grams. This is because a US cup is 236.59 ml, and a UK cup is 250 ml. Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 2.5 cups of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale is the most accurate way to measure 2.5 cups of water in grams. Simply tare your measuring cup, then pour water until it reaches 591.47 grams (US) or 600 grams (UK). This method eliminates errors from uneven pouring or cup variations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale is the most accurate way to measure 2.5 cups of water in grams. Simply tare your measuring cup, then pour water until it reaches 591.47 grams (US) or 600 grams (UK). This method eliminates errors from uneven pouring or cup variations."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does air fryer cooking require precise water measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook food quickly with circulating hot air, so too much water can create steam and soggy results, while too little may dry out dishes. Precise measurements, like converting 2.5 cups of water to grams, ensure balanced moisture for perfect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook food quickly with circulating hot air, so too much water can create steam and soggy results, while too little may dry out dishes. Precise measurements, like converting 2.5 cups of water to grams, ensure balanced moisture for perfect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2.5 cups of other liquids, like milk, to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Liquids like milk have different densities than water. While 2.5 cups of water is 591.47 grams (US), milk weighs slightly more due to its fat content. For accuracy, use a kitchen scale or check the specific gravity of the liquid you’re measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liquids like milk have different densities than water. While 2.5 cups of water is 591.47 grams (US), milk weighs slightly more due to its fat content. For accuracy, use a kitchen scale or check the specific gravity of the liquid you’re measuring."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 2.5 Cups of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.5 Cups of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water",
     "description": "Learn how to convert 2.5 cups of water to grams for precise cooking and baking. Perfect for air fryer recipes and kitchen accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-07-28T16:03:14.151000+00:00",
     "dateModified": "2025-07-28T16:03:14.151000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 2.5 Cups of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-cups-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of water equals 591.47 grams in the US measurement system and 600 grams in the UK. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're baking, steaming, or preparing sauces, knowing how many grams 2.5 cups of water weighs ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise the importance of precise measurements for perfect results.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina"
-        },
-        "headline": "Quick Answer: 0.75 Cup of Semolina to Ounces Conversion",
-        "description": "Discover how many ounces are in 0.75 cup of semolina for perfect air fryer recipes. Get accurate UK measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina"
+    },
+    "headline": "Quick Answer: 0.75 Cup of Semolina to Ounces Conversion",
+    "description": "Discover how many ounces are in 0.75 cup of semolina for perfect air fryer recipes. Get accurate UK measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-semolina.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-semolina.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use grams instead of ounces for measuring semolina?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 0.75 cup of semolina equals 128 grams, which many UK cooks find easier for precision. Digital scales often switch between units, so choose whichever you prefer. Grams are particularly handy for baking recipes where accuracy is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 0.75 cup of semolina equals 128 grams, which many UK cooks find easier for precision. Digital scales often switch between units, so choose whichever you prefer. Grams are particularly handy for baking recipes where accuracy is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does semolina compare to breadcrumbs in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Semolina creates a crisper, grainier texture than breadcrumbs, ideal for heavy coatings or rustic dishes. Breadcrumbs offer a lighter finish but may need extra oil for browning. For 0.75 cup (4.5 oz) quantities, semolina works best with sturdy proteins like chicken or aubergine."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Semolina creates a crisper, grainier texture than breadcrumbs, ideal for heavy coatings or rustic dishes. Breadcrumbs offer a lighter finish but may need extra oil for browning. For 0.75 cup (4.5 oz) quantities, semolina works best with sturdy proteins like chicken or aubergine."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my semolina coating not sticking in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ensure proteins are patted dry and lightly dredged in flour before applying semolina. For 0.75 cup (4.5 oz) coatings, a thin egg wash or yogurt dip helps adhesion. Avoid overcrowding the basket—space allows proper crisping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ensure proteins are patted dry and lightly dredged in flour before applying semolina. For 0.75 cup (4.5 oz) coatings, a thin egg wash or yogurt dip helps adhesion. Avoid overcrowding the basket—space allows proper crisping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute flour for semolina in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Flour lacks semolina’s coarse texture, resulting in less crunch. If replacing 0.75 cup (4.5 oz) semolina, mix flour with cornmeal for a similar effect. Note that browning times may vary, so adjust cooking accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Flour lacks semolina’s coarse texture, resulting in less crunch. If replacing 0.75 cup (4.5 oz) semolina, mix flour with cornmeal for a similar effect. Note that browning times may vary, so adjust cooking accordingly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.75 cup of semolina?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.75 cup of semolina?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina",
     "description": "Discover how many ounces are in 0.75 cup of semolina for perfect air fryer recipes. Get accurate UK measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.75 cup of semolina?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-semolina"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cup of semolina equals approximately 4.5 ounces (or 128 grams) in UK measurements. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making crispy semolina-coated chicken or a light semolina cake, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise conversions to help you nail every recipe.</p>

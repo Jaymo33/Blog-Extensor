@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour"
-        },
-        "headline": "Easy Conversion: 475 Grams of Plain Flour to Cups",
-        "description": "Convert 475 grams of plain flour to cups effortlessly with our simple guide. Perfect for baking and air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour"
+    },
+    "headline": "Easy Conversion: 475 Grams of Plain Flour to Cups",
+    "description": "Convert 475 grams of plain flour to cups effortlessly with our simple guide. Perfect for baking and air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T22:50:30.984Z",
-        "dateModified": "2025-07-26T22:50:30.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-plain-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T22:50:30.984Z",
+    "dateModified": "2025-07-26T22:50:30.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-plain-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 475 grams of plain flour the same as 475ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, grams measure weight, while millilitres measure volume. The conversion depends on the ingredient's density. For plain flour, 475 grams is roughly equivalent to 900ml due to its lighter density. Always use a kitchen scale for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, grams measure weight, while millilitres measure volume. The conversion depends on the ingredient's density. For plain flour, 475 grams is roughly equivalent to 900ml due to its lighter density. Always use a kitchen scale for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 475 grams of plain flour without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a scale, use the spoon-and-level method. Lightly spoon flour into a measuring cup and level it off with a knife. For 475 grams, you'll need about 3.8 UK cups or 3.6 US cups. However, a scale is recommended for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a scale, use the spoon-and-level method. Lightly spoon flour into a measuring cup and level it off with a knife. For 475 grams, you'll need about 3.8 UK cups or 3.6 US cups. However, a scale is recommended for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of flour affect the cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different flours have varying densities. Plain flour is lighter than wholemeal or bread flour, so 475 grams will take up more volume. Always check the specific type of flour when converting grams to cups for accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different flours have varying densities. Plain flour is lighter than wholemeal or bread flour, so 475 grams will take up more volume. Always check the specific type of flour when converting grams to cups for accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Precise measurements are crucial for air fryer baking. Whether you're making cakes or bread, converting 475 grams of plain flour to cups ensures consistent results. Check our <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for tailored recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Precise measurements are crucial for air fryer baking. Whether you're making cakes or bread, converting 475 grams of plain flour to cups ensures consistent results. Check our <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for tailored recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 475 Grams of Plain Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 475 Grams of Plain Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour",
     "description": "Convert 475 grams of plain flour to cups effortlessly with our simple guide. Perfect for baking and air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T22:50:30.984000+00:00",
     "dateModified": "2025-07-26T22:50:30.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 475 Grams of Plain Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-plain-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>475 grams of plain flour is approximately 3.8 cups in the UK and 3.6 cups in the US. This conversion is essential for baking and air fryer recipes where precision matters. Whether you're making cakes, cookies, or bread, knowing how to measure flour correctly ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide detailed guides to help you master kitchen measurements effortlessly.</p>  

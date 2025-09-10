@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces"
-        },
-        "headline": "Quick 15g maple syrup to ounces conversion for UK cooks",
-        "description": "Convert 15g of maple syrup to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces"
+    },
+    "headline": "Quick 15g maple syrup to ounces conversion for UK cooks",
+    "description": "Convert 15g of maple syrup to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-maple-syrup-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15g-maple-syrup-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing maple syrup better than measuring by volume?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing maple syrup gives more consistent results because its thickness makes volume measurements unreliable. A 'tablespoon' of syrup can vary depending on how it's poured, while 15g will always be 15g. This precision matters in air fryers where exact measurements affect cooking times and textures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing maple syrup gives more consistent results because its thickness makes volume measurements unreliable. A 'tablespoon' of syrup can vary depending on how it's poured, while 15g will always be 15g. This precision matters in air fryers where exact measurements affect cooking times and textures."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this 15g to ounces conversion for other syrups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, this conversion works for most liquid sweeteners like golden syrup, agave nectar or honey, though their weights per tablespoon may vary slightly. For thicker options like molasses, you might need to adjust slightly as their density differs from maple syrup. Always check specific recipe requirements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, this conversion works for most liquid sweeteners like golden syrup, agave nectar or honey, though their weights per tablespoon may vary slightly. For thicker options like molasses, you might need to adjust slightly as their density differs from maple syrup. Always check specific recipe requirements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 15g of maple syrup without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without scales, 15g of maple syrup is roughly 1 tablespoon, but this isn't precise. For better accuracy, use the displacement method: fill a liquid measuring cup with water to 50ml, then add syrup until the water rises to 65ml (15ml syrup ≈ 15g). This works in a pinch for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without scales, 15g of maple syrup is roughly 1 tablespoon, but this isn't precise. For better accuracy, use the displacement method: fill a liquid measuring cup with water to 50ml, then add syrup until the water rises to 65ml (15ml syrup ≈ 15g). This works in a pinch for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does maple syrup behave differently in air fryers than ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, maple syrup caramelises faster in air fryers due to the concentrated heat circulation. When using 15g portions, watch closely during the last few minutes to prevent burning. Consider reducing cooking times by 20% compared to oven recipes, or dilute the syrup slightly with water or citrus juice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, maple syrup caramelises faster in air fryers due to the concentrated heat circulation. When using 15g portions, watch closely during the last few minutes to prevent burning. Consider reducing cooking times by 20% compared to oven recipes, or dilute the syrup slightly with water or citrus juice."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 15g of maple syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of maple syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces",
     "description": "Convert 15g of maple syrup to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 15g of maple syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/15g-maple-syrup-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>15g of maple syrup equals approximately 0.53 ounces. This conversion is essential when following air fryer recipes that require precise measurements, especially for sticky ingredients like maple syrup that can affect texture and cooking times.</p>

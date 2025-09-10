@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce"
-        },
-        "headline": "Quick & Easy Conversion: 985 ml of Tomato Sauce to Cups",
-        "description": "Convert 985 ml of tomato sauce to cups effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce"
+    },
+    "headline": "Quick & Easy Conversion: 985 ml of Tomato Sauce to Cups",
+    "description": "Convert 985 ml of tomato sauce to cups effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-tomato-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-tomato-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 985 ml of tomato sauce the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cup measurements differ slightly between the UK and USA. A UK metric cup is 240 ml, while a US customary cup is 236.6 ml. For 985 ml of tomato sauce, this works out to roughly 4.16 UK cups or 4.17 US cups—a negligible difference for most recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cup measurements differ slightly between the UK and USA. A UK metric cup is 240 ml, while a US customary cup is 236.6 ml. For 985 ml of tomato sauce, this works out to roughly 4.16 UK cups or 4.17 US cups—a negligible difference for most recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use passata instead of tomato sauce for the same measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, passata can be substituted for tomato sauce in equal amounts (985 ml of passata equals 985 ml of tomato sauce). However, passata is usually smoother and less seasoned, so you may need to adjust herbs and spices to match the flavour profile of your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, passata can be substituted for tomato sauce in equal amounts (985 ml of passata equals 985 ml of tomato sauce). However, passata is usually smoother and less seasoned, so you may need to adjust herbs and spices to match the flavour profile of your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover tomato sauce after measuring 985 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Leftover tomato sauce can be refrigerated in an airtight container for up to 5 days or frozen for 3 months. For easy reuse, portion it into smaller containers or ice cube trays for quick additions to future <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Leftover tomato sauce can be refrigerated in an airtight container for up to 5 days or frozen for 3 months. For easy reuse, portion it into smaller containers or ice cube trays for quick additions to future <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a>."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 985 ml of tomato sauce specifically?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many recipes use 985 ml (about 4 cups) because it's a standard quantity for family-sized dishes, ensuring even coverage without overcrowding the air fryer basket. This amount balances moisture and flavour, preventing sogginess or dryness in dishes like lasagna or casseroles."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many recipes use 985 ml (about 4 cups) because it's a standard quantity for family-sized dishes, ensuring even coverage without overcrowding the air fryer basket. This amount balances moisture and flavour, preventing sogginess or dryness in dishes like lasagna or casseroles."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 985 ml of Tomato Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 985 ml of Tomato Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce",
     "description": "Convert 985 ml of tomato sauce to cups effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 985 ml of Tomato Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-tomato-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>985 ml of tomato sauce equals approximately 4.16 cups (using the standard UK metric cup measurement of 240 ml per cup). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a rich pasta sauce or a hearty casserole, knowing how to convert millilitres to cups ensures your cooking is consistent and delicious.</p>  

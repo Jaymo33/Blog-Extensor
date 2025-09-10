@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour"
-        },
-        "headline": "Quick Guide: Convert 2 Cups of Cornflour to Ounces Easily",
-        "description": "Learn how to convert 2 cups of cornflour to ounces with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour"
+    },
+    "headline": "Quick Guide: Convert 2 Cups of Cornflour to Ounces Easily",
+    "description": "Learn how to convert 2 cups of cornflour to ounces with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-cornflour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-cornflour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 2 cups of cornflour weigh the same as 2 cups of flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cornflour and plain flour have different densities. Two cups of cornflour weigh approximately 9.6 oz, while 2 cups of plain flour weigh around 9 oz. Always check recipe requirements, as substituting without adjusting quantities can affect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cornflour and plain flour have different densities. Two cups of cornflour weigh approximately 9.6 oz, while 2 cups of plain flour weigh around 9 oz. Always check recipe requirements, as substituting without adjusting quantities can affect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a UK measuring cup for US recipes calling for 2 cups of cornflour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but note the slight difference in volume. A UK cup (250ml) holds more than a US cup (240ml). For precision, adjust the weight—2 UK cups of cornflour equal about 10 oz, whereas 2 US cups are roughly 9.6 oz."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but note the slight difference in volume. A UK cup (250ml) holds more than a US cup (240ml). For precision, adjust the weight—2 UK cups of cornflour equal about 10 oz, whereas 2 US cups are roughly 9.6 oz."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2 cups of cornflour to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Two cups of cornflour convert to roughly 272 grams. This is useful for recipes using metric measurements. If scaling up or down, remember that 1 cup equals 136 grams for consistent results in baking or frying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Two cups of cornflour convert to roughly 272 grams. This is useful for recipes using metric measurements. If scaling up or down, remember that 1 cup equals 136 grams for consistent results in baking or frying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe turn out soggy with 2 cups of cornflour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sogginess often stems from overcrowding or insufficient preheating. Even with accurate measurements (2 cups = 9.6 oz), ensure the air fryer basket isn’t packed tightly. Preheat the appliance and shake the basket mid-cook for even crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sogginess often stems from overcrowding or insufficient preheating. Even with accurate measurements (2 cups = 9.6 oz), ensure the air fryer basket isn’t packed tightly. Preheat the appliance and shake the basket mid-cook for even crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of cornflour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of cornflour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour",
     "description": "Learn how to convert 2 cups of cornflour to ounces with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of cornflour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-cornflour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of cornflour equals approximately 9.6 ounces (or 272 grams) in UK measurements. This conversion is essential for air fryer recipes, where precision ensures perfect texture and consistency. Whether you're coating chicken or thickening sauces, knowing the exact weight saves time and avoids mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making measurements simple for hassle-free cooking.</p>  

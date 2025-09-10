@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley"
-        },
-        "headline": "Quick Guide: Convert 1.33 Cups of Rolled Barley to Ounces",
-        "description": "Discover how to convert 1.33 cups of rolled barley to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley"
+    },
+    "headline": "Quick Guide: Convert 1.33 Cups of Rolled Barley to Ounces",
+    "description": "Discover how to convert 1.33 cups of rolled barley to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-rolled-barley.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-rolled-barley.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for rolled barley?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but for the most accurate results, fluff the barley first and level off the cup. 1.33 cups of rolled barley equals roughly 5.3 oz. A kitchen scale is ideal for precision, especially in air fryer recipes where consistency matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but for the most accurate results, fluff the barley first and level off the cup. 1.33 cups of rolled barley equals roughly 5.3 oz. A kitchen scale is ideal for precision, especially in air fryer recipes where consistency matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does rolled barley weigh the same as pearled barley?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, rolled barley is lighter and fluffier than pearled barley. Always check your recipe, as 1.33 cups of rolled barley (5.3 oz) may differ from pearled barley in weight. Adjust measurements accordingly for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, rolled barley is lighter and fluffier than pearled barley. Always check your recipe, as 1.33 cups of rolled barley (5.3 oz) may differ from pearled barley in weight. Adjust measurements accordingly for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust cooking times for rolled barley in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Rolled barley cooks faster than whole barley. For 1.33 cups (5.3 oz), reduce cooking time by 5-10 minutes compared to whole grains. Stir occasionally to ensure even crisping in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rolled barley cooks faster than whole barley. For 1.33 cups (5.3 oz), reduce cooking time by 5-10 minutes compared to whole grains. Stir occasionally to ensure even crisping in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute rolled barley for oats in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust quantities since oats and barley have different densities. For 1.33 cups of rolled barley (5.3 oz), you may need slightly more or less oats. Test small batches first for optimal texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust quantities since oats and barley have different densities. For 1.33 cups of rolled barley (5.3 oz), you may need slightly more or less oats. Test small batches first for optimal texture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of rolled barley?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of rolled barley?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley",
     "description": "Discover how to convert 1.33 cups of rolled barley to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of rolled barley?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-rolled-barley"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of rolled barley equals approximately 5.3 ounces (oz). This conversion is essential for air fryer recipes, ensuring precise measurements for consistent results. Whether you're making breakfast bars or adding barley to a savoury dish, knowing the weight helps avoid under or over-measuring.</p>  

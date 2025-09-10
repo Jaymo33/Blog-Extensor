@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar"
-        },
-        "headline": "Quick Answer: How Many Cups Is 985 ml of Vinegar?",
-        "description": "Find out exactly how many cups 985 ml of vinegar equals for precise cooking and baking. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar"
+    },
+    "headline": "Quick Answer: How Many Cups Is 985 ml of Vinegar?",
+    "description": "Find out exactly how many cups 985 ml of vinegar equals for precise cooking and baking. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 985 ml of vinegar the same as 4 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not quite. 985 ml of vinegar equals approximately 4.16 US cups (240 ml per cup) or 3.94 UK cups (250 ml per cup). Always check which measurement standard your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not quite. 985 ml of vinegar equals approximately 4.16 US cups (240 ml per cup) or 3.94 UK cups (250 ml per cup). Always check which measurement standard your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use apple cider vinegar instead of white vinegar for 985 ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute apple cider vinegar for white vinegar in the same quantity (985 ml or 4.16 cups). The flavour profile will differ slightly, but the acidity level is similar, making it a suitable swap in most recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute apple cider vinegar for white vinegar in the same quantity (985 ml or 4.16 cups). The flavour profile will differ slightly, but the acidity level is similar, making it a suitable swap in most recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 985 ml of vinegar without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale: 985 ml of vinegar weighs roughly 985 grams. Alternatively, use a standard UK mug (250 ml) – about 4 mugs will give you close to 985 ml. Tablespoons (15 ml each) also work, though you’ll need around 65."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale: 985 ml of vinegar weighs roughly 985 grams. Alternatively, use a standard UK mug (250 ml) – about 4 mugs will give you close to 985 ml. Tablespoons (15 ml each) also work, though you’ll need around 65."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 985 ml of vinegar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes may use 985 ml (4.16 cups) of vinegar for marinades, pickling, or making large batches of sauce. Vinegar tenderises meat and adds tangy flavour, especially in air-fried dishes where moisture is key. Always measure carefully for balanced results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes may use 985 ml (4.16 cups) of vinegar for marinades, pickling, or making large batches of sauce. Vinegar tenderises meat and adds tangy flavour, especially in air-fried dishes where moisture is key. Always measure carefully for balanced results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 985 ml of Vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 985 ml of Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar",
     "description": "Find out exactly how many cups 985 ml of vinegar equals for precise cooking and baking. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 985 ml of Vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>985 ml of vinegar is approximately 4.16 cups. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements can make or break a dish. Whether you're preparing a marinade or a tangy glaze, knowing how many cups 985 ml of vinegar equals ensures consistent results every time.</p>

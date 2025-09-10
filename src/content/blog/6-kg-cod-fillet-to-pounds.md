@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds"
-        },
-        "headline": "Easy 6 kg cod fillet to pounds conversion for air fryer cooking",
-        "description": "Convert 6 kg cod fillet to pounds instantly for perfect air fryer portions. Get cooking times, temperature tips, and delicious recipe ideas today.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds"
+    },
+    "headline": "Easy 6 kg cod fillet to pounds conversion for air fryer cooking",
+    "description": "Convert 6 kg cod fillet to pounds instantly for perfect air fryer portions. Get cooking times, temperature tips, and delicious recipe ideas today.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-kg-cod-fillet-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-kg-cod-fillet-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 6 kg cod fillet to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 6 kg cod fillet to pounds and ounces is straightforward once you know the basic conversion rates. First, convert kilograms to pounds by multiplying by 2.20462, which gives you approximately 13.23 pounds. Then, take the decimal portion (0.23) and multiply by 16 to get ounces, resulting in about 3.68 ounces. So 6 kg cod fillet equals 13 pounds and 3.68 ounces, which is helpful for precise recipe measurements and portioning for air frying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 6 kg cod fillet to pounds and ounces is straightforward once you know the basic conversion rates. First, convert kilograms to pounds by multiplying by 2.20462, which gives you approximately 13.23 pounds. Then, take the decimal portion (0.23) and multiply by 16 to get ounces, resulting in about 3.68 ounces. So 6 kg cod fillet equals 13 pounds and 3.68 ounces, which is helpful for precise recipe measurements and portioning for air frying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weight conversion important when air frying cod?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight conversion is crucial for air frying cod because cooking times and temperatures depend directly on the mass of food being cooked. Knowing that 6 kg cod fillet converts to approximately 13.23 pounds helps you determine proper air fryer settings and avoid under or overcooking. Accurate weight conversion also ensures even cooking throughout the fillet, prevents overcrowding the air fryer basket, and helps with portion control for meal planning. This knowledge leads to perfectly cooked, flaky cod every time you use your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight conversion is crucial for air frying cod because cooking times and temperatures depend directly on the mass of food being cooked. Knowing that 6 kg cod fillet converts to approximately 13.23 pounds helps you determine proper air fryer settings and avoid under or overcooking. Accurate weight conversion also ensures even cooking throughout the fillet, prevents overcrowding the air fryer basket, and helps with portion control for meal planning. This knowledge leads to perfectly cooked, flaky cod every time you use your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I air fry a whole 6 kg cod fillet at once?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most home air fryers cannot accommodate a whole 6 kg cod fillet (approximately 13.23 pounds) at once due to basket size limitations. You'll typically need to cut the fillet into smaller portions that fit in a single layer without overlapping. Overcrowding the air fryer basket prevents proper air circulation and results in uneven cooking. For best results, work in batches and adjust cooking time based on the thickness of each portion rather than the total weight of the fillet."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most home air fryers cannot accommodate a whole 6 kg cod fillet (approximately 13.23 pounds) at once due to basket size limitations. You'll typically need to cut the fillet into smaller portions that fit in a single layer without overlapping. Overcrowding the air fryer basket prevents proper air circulation and results in uneven cooking. For best results, work in batches and adjust cooking time based on the thickness of each portion rather than the total weight of the fillet."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does converting 6 kg cod fillet to pounds help with recipe adjustments?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 6 kg cod fillet to pounds (approximately 13.23) helps tremendously with recipe adjustments and scaling. If a recipe calls for a specific weight in pounds, you can easily calculate how many servings your 6 kg fillet will yield. This conversion also helps when comparing prices at fish markets that may use different measurement systems. For air fryer cooking, knowing the weight in pounds allows you to accurately follow cooking time recommendations and ensure your cod comes out perfectly cooked every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 6 kg cod fillet to pounds (approximately 13.23) helps tremendously with recipe adjustments and scaling. If a recipe calls for a specific weight in pounds, you can easily calculate how many servings your 6 kg fillet will yield. This conversion also helps when comparing prices at fish markets that may use different measurement systems. For air fryer cooking, knowing the weight in pounds allows you to accurately follow cooking time recommendations and ensure your cod comes out perfectly cooked every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "6 kg cod fillet to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds",
+    "@type": "WebPage",
+    "name": "6 kg cod fillet to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds",
     "description": "Convert 6 kg cod fillet to pounds instantly for perfect air fryer portions. Get cooking times, temperature tips, and delicious recipe ideas today.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "6 kg cod fillet to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/6-kg-cod-fillet-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>6 kg of cod fillet is equivalent to approximately 13.23 pounds. This conversion is essential for air fryer users who need to adjust cooking times and temperatures based on weight. Whether you're preparing a large batch for family dinner or meal prepping for the week, knowing the exact weight in pounds ensures your cod comes out perfectly flaky and moist. Using your air fryer for such a substantial quantity can save time and energy compared to traditional oven baking. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

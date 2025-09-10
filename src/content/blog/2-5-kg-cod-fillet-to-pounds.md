@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds"
-        },
-        "headline": "Quick 2.5 kg cod fillet to pounds conversion for perfect air frying",
-        "description": "Convert 2.5 kg cod fillet to pounds instantly for accurate air fryer cooking times and portion sizes. Get perfect results every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds"
+    },
+    "headline": "Quick 2.5 kg cod fillet to pounds conversion for perfect air frying",
+    "description": "Convert 2.5 kg cod fillet to pounds instantly for accurate air fryer cooking times and portion sizes. Get perfect results every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-5-kg-cod-fillet-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-5-kg-cod-fillet-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 2.5 kg cod fillet to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 2.5 kg cod fillet to pounds is crucial for air frying because cooking times are heavily dependent on weight. Most air fryer recipes and manufacturer guidelines provide timings based on pound measurements, so knowing your fillet is approximately 5.51 pounds allows you to set an accurate timer from the start. This prevents undercooking, which is a food safety risk with fish, or overcooking, which results in a dry and rubbery texture, ensuring your cod turns out perfectly flaky and delicious every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 2.5 kg cod fillet to pounds is crucial for air frying because cooking times are heavily dependent on weight. Most air fryer recipes and manufacturer guidelines provide timings based on pound measurements, so knowing your fillet is approximately 5.51 pounds allows you to set an accurate timer from the start. This prevents undercooking, which is a food safety risk with fish, or overcooking, which results in a dry and rubbery texture, ensuring your cod turns out perfectly flaky and delicious every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a volume measurement instead of weight for my cod fillet?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It is not recommended to use volume measurements like cups for a cod fillet, as weight is the only accurate way to determine mass for cooking. The shape and density of a fish fillet mean that two pieces filling the same volume could have drastically different weights, leading to significant errors in cooking time. Always use a kitchen scale to weigh your 2.5 kg cod fillet and convert it to pounds (5.51 lbs) for reliable results. This ensures consistent air frying performance and perfect meals."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not recommended to use volume measurements like cups for a cod fillet, as weight is the only accurate way to determine mass for cooking. The shape and density of a fish fillet mean that two pieces filling the same volume could have drastically different weights, leading to significant errors in cooking time. Always use a kitchen scale to weigh your 2.5 kg cod fillet and convert it to pounds (5.51 lbs) for reliable results. This ensures consistent air frying performance and perfect meals."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "My cod fillet weighs 3 kg; how do I convert that to pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion process is the same for any weight. Simply multiply the kilogram value by 2.20462 to get the weight in pounds. For a 3 kg cod fillet, you would calculate 3 x 2.20462, which equals approximately 6.61 pounds. This conversion allows you to accurately use air fryer recipes and guidelines that are based on imperial measurements, ensuring your larger fillet cooks evenly and thoroughly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion process is the same for any weight. Simply multiply the kilogram value by 2.20462 to get the weight in pounds. For a 3 kg cod fillet, you would calculate 3 x 2.20462, which equals approximately 6.61 pounds. This conversion allows you to accurately use air fryer recipes and guidelines that are based on imperial measurements, ensuring your larger fillet cooks evenly and thoroughly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do I need to adjust the air fryer temperature when cooking a 5.51 pound cod fillet?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The temperature itself typically doesn't need drastic adjustment, but your cooking strategy might. For a large 5.51 pound (2.5 kg) fillet, you may need to cook it in batches or fold it to fit the basket, ensuring air can circulate. The cooking time will be longer than for a smaller fillet, so it's best to use a moderate temperature like 180°C and check for doneness regularly with a fork or meat thermometer. The key is ensuring the thickest part reaches a safe internal temperature of 63°C without burning the outside."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The temperature itself typically doesn't need drastic adjustment, but your cooking strategy might. For a large 5.51 pound (2.5 kg) fillet, you may need to cook it in batches or fold it to fit the basket, ensuring air can circulate. The cooking time will be longer than for a smaller fillet, so it's best to use a moderate temperature like 180°C and check for doneness regularly with a fork or meat thermometer. The key is ensuring the thickest part reaches a safe internal temperature of 63°C without burning the outside."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "2.5 kg cod fillet to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds",
+    "@type": "WebPage",
+    "name": "2.5 kg cod fillet to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds",
     "description": "Convert 2.5 kg cod fillet to pounds instantly for accurate air fryer cooking times and portion sizes. Get perfect results every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "2.5 kg cod fillet to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-cod-fillet-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 kg of cod fillet is equal to approximately 5.51 pounds, a crucial conversion for anyone using an air fryer to cook this delicious and versatile fish. Getting your weights accurate ensures your cooking times are perfect and your results are consistently excellent, whether you're following a specific recipe or experimenting with your own creations. This conversion is particularly useful when dealing with larger fillets or batch cooking, where precision really matters for even cooking throughout. Many air fryer recipes, especially those on resources like <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, provide guidance based on weight, making this knowledge invaluable. Understanding how to convert 2.5 kg cod fillet to pounds empowers you to tackle any recipe with confidence.</p>

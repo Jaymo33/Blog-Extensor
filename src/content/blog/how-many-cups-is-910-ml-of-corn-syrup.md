@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup"
-        },
-        "headline": "Quick Guide: Convert 910 ml of Corn Syrup to Cups Easily",
-        "description": "Learn how to convert 910 ml of corn syrup to cups for perfect baking and cooking results every time. Includes UK and US conversions.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup"
+    },
+    "headline": "Quick Guide: Convert 910 ml of Corn Syrup to Cups Easily",
+    "description": "Learn how to convert 910 ml of corn syrup to cups for perfect baking and cooking results every time. Includes UK and US conversions.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-910-ml-of-corn-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-910-ml-of-corn-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 910 ml of corn syrup the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 910 ml of corn syrup equals 3.2 UK cups or 3.85 US cups due to differing cup sizes. Always check which measurement system your recipe follows to ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 910 ml of corn syrup equals 3.2 UK cups or 3.85 US cups due to differing cup sizes. Always check which measurement system your recipe follows to ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for 910 ml of corn syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale works well—corn syrup weighs about 1.42 grams per ml. For 910 ml, you’d need roughly 1,292 grams. This method is often more precise than volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale works well—corn syrup weighs about 1.42 grams per ml. For 910 ml, you’d need roughly 1,292 grams. This method is often more precise than volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes commonly use 910 ml of corn syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Large batches of pecan pie, caramel sauces, or marshmallow treats often call for this amount. It’s also used in glazes for ham or sticky buns, especially in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Large batches of pecan pie, caramel sauces, or marshmallow treats often call for this amount. It’s also used in glazes for ham or sticky buns, especially in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover corn syrup after measuring 910 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep it in an airtight container at room temperature. Avoid refrigeration, as it can thicken and crystallise. Proper storage ensures it stays ready for your next baking session."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep it in an airtight container at room temperature. Avoid refrigeration, as it can thicken and crystallise. Proper storage ensures it stays ready for your next baking session."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 910 ml of Corn Syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 910 ml of Corn Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup",
     "description": "Learn how to convert 910 ml of corn syrup to cups for perfect baking and cooking results every time. Includes UK and US conversions.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 910 ml of Corn Syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-corn-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>910 ml of corn syrup equals approximately 3.85 cups in US measurements or 3.2 cups in UK measurements. This conversion is essential for baking and cooking, especially when using an air fryer where precision matters. Whether you're making sticky buns, glazes, or desserts, knowing the exact cup measurement ensures consistent results every time.</p>  

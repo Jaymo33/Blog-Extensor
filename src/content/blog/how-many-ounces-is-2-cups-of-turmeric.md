@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric"
-        },
-        "headline": "Quick Guide: Convert 2 Cups of Turmeric to Ounces Easily",
-        "description": "Learn how to convert 2 cups of turmeric to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric"
+    },
+    "headline": "Quick Guide: Convert 2 Cups of Turmeric to Ounces Easily",
+    "description": "Learn how to convert 2 cups of turmeric to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-turmeric.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-turmeric.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2 cups of turmeric to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, fluff the turmeric with a spoon before lightly filling the measuring cup. Avoid tapping or compacting it, as this increases the weight. 2 cups of loosely packed turmeric should roughly equal 9.6 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, fluff the turmeric with a spoon before lightly filling the measuring cup. Avoid tapping or compacting it, as this increases the weight. 2 cups of loosely packed turmeric should roughly equal 9.6 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of turmeric (ground vs. fresh) affect the weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, ground turmeric is denser than freshly grated turmeric. 2 cups of ground turmeric will weigh closer to 9.6 ounces, while freshly grated may be slightly lighter due to air pockets. Always adjust measurements based on the form you’re using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, ground turmeric is denser than freshly grated turmeric. 2 cups of ground turmeric will weigh closer to 9.6 ounces, while freshly grated may be slightly lighter due to air pockets. Always adjust measurements based on the form you’re using."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other spices in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different spices have varying densities, so their weight per cup will differ. For example, 2 cups of cinnamon won’t weigh the same as turmeric. Refer to a <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for accurate measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different spices have varying densities, so their weight per cup will differ. For example, 2 cups of cinnamon won’t weigh the same as turmeric. Refer to a <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for accurate measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is measuring turmeric by weight better for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (ounces) are more precise than volume (cups) because spices can settle or clump. Air fryers cook quickly, so balanced flavours are crucial. A kitchen scale ensures consistency, especially in dishes like marinades or rubs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (ounces) are more precise than volume (cups) because spices can settle or clump. Air fryers cook quickly, so balanced flavours are crucial. A kitchen scale ensures consistency, especially in dishes like marinades or rubs."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of turmeric?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of turmeric?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric",
     "description": "Learn how to convert 2 cups of turmeric to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of turmeric?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-turmeric"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of turmeric weigh approximately 9.6 ounces (or 272 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Turmeric, a staple in many cuisines, adds vibrant colour and earthy flavour to meals. Whether you're using it in marinades, rubs, or sauces, knowing the exact weight ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

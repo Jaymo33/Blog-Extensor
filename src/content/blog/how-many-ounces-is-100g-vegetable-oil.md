@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil"
-        },
-        "headline": "Quick Answer: How many ounces is 100g of vegetable oil?",
-        "description": "Discover how to convert 100g of vegetable oil to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil"
+    },
+    "headline": "Quick Answer: How many ounces is 100g of vegetable oil?",
+    "description": "Discover how to convert 100g of vegetable oil to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-vegetable-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-vegetable-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100g of vegetable oil the same as 100ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 100g of vegetable oil is not the same as 100ml. Oil’s density means 100g equals roughly 109ml. For air frying, weight (grams or ounces) is more accurate than volume (millilitres) for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 100g of vegetable oil is not the same as 100ml. Oil’s density means 100g equals roughly 109ml. For air frying, weight (grams or ounces) is more accurate than volume (millilitres) for consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use olive oil instead of vegetable oil in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, olive oil works in air fryers, but its smoke point is lower than vegetable oil. For high-heat cooking, vegetable oil is often better. Use the same weight (100g or 3.53 oz) for a direct swap."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, olive oil works in air fryers, but its smoke point is lower than vegetable oil. For high-heat cooking, vegetable oil is often better. Use the same weight (100g or 3.53 oz) for a direct swap."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 100g of vegetable oil without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without a scale, use a liquid measuring cup: 100g of vegetable oil is roughly 7 tablespoons or 109ml. Note that this method is less precise than weighing, which is key for air fryer success."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without a scale, use a liquid measuring cup: 100g of vegetable oil is roughly 7 tablespoons or 109ml. Note that this method is less precise than weighing, which is key for air fryer success."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes use grams and others use ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes vary by region—UK and EU cooks typically use grams, while ounces are more common in the US. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide both to suit all kitchens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes vary by region—UK and EU cooks typically use grams, while ounces are more common in the US. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we provide both to suit all kitchens."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 100g of vegetable oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of vegetable oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil",
     "description": "Discover how to convert 100g of vegetable oil to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 100g of vegetable oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-vegetable-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100 grams of vegetable oil equals approximately 3.53 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you're whipping up crispy chips or a succulent roast, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly.</p>

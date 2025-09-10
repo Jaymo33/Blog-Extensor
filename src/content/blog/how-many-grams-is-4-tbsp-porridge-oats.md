@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats"
-        },
-        "headline": "Quick Answer: How Many Grams in 4 Tbsp of Porridge Oats?",
-        "description": "Discover the exact grams for 4 tbsp of porridge oats with our easy conversion guide—perfect for air fryer recipes and meal prep!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats"
+    },
+    "headline": "Quick Answer: How Many Grams in 4 Tbsp of Porridge Oats?",
+    "description": "Discover the exact grams for 4 tbsp of porridge oats with our easy conversion guide—perfect for air fryer recipes and meal prep!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-porridge-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-porridge-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a US tablespoon to measure porridge oats for UK recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, US tablespoons (14.8ml) are slightly smaller than UK tablespoons (15ml). For accuracy, stick to UK measurements or convert using a kitchen scale. A 4-tbsp UK measurement equals about 32 grams, whereas a US tablespoon might yield slightly less."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, US tablespoons (14.8ml) are slightly smaller than UK tablespoons (15ml). For accuracy, stick to UK measurements or convert using a kitchen scale. A 4-tbsp UK measurement equals about 32 grams, whereas a US tablespoon might yield slightly less."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do different types of porridge oats (rolled, quick, steel-cut) weigh the same per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not exactly. Rolled oats are fluffier, so 4 tbsp may weigh slightly less than quick oats, which are more compact. Steel-cut oats are densest, weighing about 10% more per tablespoon. For precision, weigh each type separately or refer to packaging guidelines."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not exactly. Rolled oats are fluffier, so 4 tbsp may weigh slightly less than quick oats, which are more compact. Steel-cut oats are densest, weighing about 10% more per tablespoon. For precision, weigh each type separately or refer to packaging guidelines."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 4 tbsp of porridge oats without a tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a tablespoon, use a standard metric teaspoon (5ml) and measure 12 level teaspoons for 4 tbsp. Alternatively, a kitchen scale is the most accurate tool—simply weigh out 32 grams for the equivalent of 4 UK tablespoons."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a tablespoon, use a standard metric teaspoon (5ml) and measure 12 level teaspoons for 4 tbsp. Alternatively, a kitchen scale is the most accurate tool—simply weigh out 32 grams for the equivalent of 4 UK tablespoons."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify grams instead of tablespoons for oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer recipes often use grams for consistency, as air frying requires precise ingredient ratios to avoid under- or overcooking. Grams eliminate guesswork, ensuring your oats cook evenly and achieve the desired texture, whether crispy or chewy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer recipes often use grams for consistency, as air frying requires precise ingredient ratios to avoid under- or overcooking. Grams eliminate guesswork, ensuring your oats cook evenly and achieve the desired texture, whether crispy or chewy."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 4 tbsp of porridge oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of porridge oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats",
     "description": "Discover the exact grams for 4 tbsp of porridge oats with our easy conversion guide—perfect for air fryer recipes and meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 4 tbsp of porridge oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-porridge-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4 tablespoons (tbsp) of porridge oats weigh approximately 32 grams (g). This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can affect texture and cooking times. Whether you're preparing breakfast or baking, knowing the exact weight ensures consistency in your recipes.</p>  

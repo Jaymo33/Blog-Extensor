@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven"
-        },
-        "headline": "338°F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 338°F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven"
+    },
+    "headline": "338°F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 338°F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T23:29:04.388Z",
-        "dateModified": "2025-07-21T23:29:04.388Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/338-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T23:29:04.388Z",
+    "dateModified": "2025-07-21T23:29:04.388Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/338-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 338°F to Celsius for a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "338°F equals 170°C in a fan oven. This conversion ensures accurate baking and roasting temperatures when using air fryers or convection ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "338°F equals 170°C in a fan oven. This conversion ensures accurate baking and roasting temperatures when using air fryers or convection ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Should I adjust cooking times when using 338°F in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, reduce cooking times by 10-15% compared to conventional ovens. Air fryers cook faster due to concentrated airflow, so check food earlier to prevent overcooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, reduce cooking times by 10-15% compared to conventional ovens. Air fryers cook faster due to concentrated airflow, so check food earlier to prevent overcooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 338°F fan settings for frozen foods?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 170°C fan works well for frozen chips, chicken nuggets, or pizza. Shake the basket halfway through for even crisping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 170°C fan works well for frozen chips, chicken nuggets, or pizza. Shake the basket halfway through for even crisping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook faster than my fan oven at 338°F?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers are smaller, so heat circulates more intensely. At the same temperature (170°C fan), they’ll cook food quicker than a full-sized oven. Adjust times accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers are smaller, so heat circulates more intensely. At the same temperature (170°C fan), they’ll cook food quicker than a full-sized oven. Adjust times accordingly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "338 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "338 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven",
     "description": "Convert 338°F to fan oven settings easily. Learn the exact temperature and how it affects air fryer cooking for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T23:29:04.388000+00:00",
     "dateModified": "2025-07-21T23:29:04.388000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "338 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/338-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>338°F converts to approximately 170°C in a fan oven. This is a common temperature for baking and roasting, making it essential to get right for air fryer cooking. Whether you're adapting a recipe or troubleshooting, knowing this conversion ensures your dishes turn out perfectly every time.</p>

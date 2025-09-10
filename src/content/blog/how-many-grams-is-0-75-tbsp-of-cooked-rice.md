@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice"
-        },
-        "headline": "Quick Answer: 0.75 tbsp of cooked rice to grams conversion",
-        "description": "Discover how to convert 0.75 tbsp of cooked rice into grams for perfect air fryer meals every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice"
+    },
+    "headline": "Quick Answer: 0.75 tbsp of cooked rice to grams conversion",
+    "description": "Discover how to convert 0.75 tbsp of cooked rice into grams for perfect air fryer meals every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-of-cooked-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-tbsp-of-cooked-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rice affect how much 0.75 tbsp weighs in grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of rice significantly affects the weight. Fluffier varieties like basmati will weigh less per 0.75 tbsp (about 9-10 grams) compared to stickier short-grain rice which might weigh 12-13 grams for the same volume. Always consider the rice variety when converting tablespoons to grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of rice significantly affects the weight. Fluffier varieties like basmati will weigh less per 0.75 tbsp (about 9-10 grams) compared to stickier short-grain rice which might weigh 12-13 grams for the same volume. Always consider the rice variety when converting tablespoons to grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for uncooked rice measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, this conversion specifically applies to cooked rice. Uncooked rice is much denser, with 0.75 tbsp weighing about 7 grams. Cooking causes rice to absorb water and expand, nearly doubling its volume while changing its density and weight per tablespoon."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, this conversion specifically applies to cooked rice. Uncooked rice is much denser, with 0.75 tbsp weighing about 7 grams. Cooking causes rice to absorb water and expand, nearly doubling its volume while changing its density and weight per tablespoon."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 0.75 tbsp without special measuring tools?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have measuring spoons, you can estimate 0.75 tbsp as three-quarters of a standard eating spoon (the kind you use for cereal). Alternatively, fill a tablespoon measure then remove about one-quarter of its contents to approximate 0.75 tbsp of cooked rice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have measuring spoons, you can estimate 0.75 tbsp as three-quarters of a standard eating spoon (the kind you use for cereal). Alternatively, fill a tablespoon measure then remove about one-quarter of its contents to approximate 0.75 tbsp of cooked rice."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing rice better than measuring by volume for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing provides more consistent results because rice can compress differently in a measuring spoon. The air fryer's intense heat means small measurement variations can significantly affect cooking times and textures. 11 grams of rice will always be 11 grams, while 0.75 tbsp might vary slightly each time you measure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing provides more consistent results because rice can compress differently in a measuring spoon. The air fryer's intense heat means small measurement variations can significantly affect cooking times and textures. 11 grams of rice will always be 11 grams, while 0.75 tbsp might vary slightly each time you measure."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.75 tbsp of cooked rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice",
+    "@type": "WebPage",
+    "name": "How many grams is 0.75 tbsp of cooked rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice",
     "description": "Discover how to convert 0.75 tbsp of cooked rice into grams for perfect air fryer meals every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.75 tbsp of cooked rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-tbsp-of-cooked-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 tbsp of cooked rice equals approximately 11 grams. This conversion is essential for precise meal prep, especially when using an air fryer where accurate measurements can make or break a recipe. Whether you're meal prepping or following a specific diet, knowing the exact weight of your ingredients ensures consistent results every time.</p>

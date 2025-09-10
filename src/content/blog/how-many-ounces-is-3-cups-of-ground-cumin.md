@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin"
-        },
-        "headline": "Quick Guide: Convert 3 Cups of Ground Cumin to Ounces Easily",
-        "description": "Learn how to convert 3 cups of ground cumin to ounces in seconds. Perfect for air fryer recipes and precise spice measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin"
+    },
+    "headline": "Quick Guide: Convert 3 Cups of Ground Cumin to Ounces Easily",
+    "description": "Learn how to convert 3 cups of ground cumin to ounces in seconds. Perfect for air fryer recipes and precise spice measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-ground-cumin.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-ground-cumin.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 3 cups of ground cumin to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use the standard conversion of 1 cup of ground cumin equalling 8 ounces. For 3 cups, multiply by 3 to get 24 ounces. Ensure your measuring cup is levelled off for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use the standard conversion of 1 cup of ground cumin equalling 8 ounces. For 3 cups, multiply by 3 to get 24 ounces. Ensure your measuring cup is levelled off for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the conversion of 3 cups of ground cumin to ounces differ in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same: 3 cups of ground cumin equals 24 ounces in both UK and US measurements. The density of ground cumin is consistent regardless of location."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same: 3 cups of ground cumin equals 24 ounces in both UK and US measurements. The density of ground cumin is consistent regardless of location."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other ground spices?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, most ground spices like coriander or paprika have similar densities, so 3 cups would also weigh around 24 ounces. However, always check for clumping or settling, as this can slightly affect measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, most ground spices like coriander or paprika have similar densities, so 3 cups would also weigh around 24 ounces. However, always check for clumping or settling, as this can slightly affect measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover ground cumin after measuring 3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store ground cumin in an airtight container in a cool, dark place to maintain freshness. Proper storage ensures the spice retains its flavour for future use in air fryer recipes or other dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store ground cumin in an airtight container in a cool, dark place to maintain freshness. Proper storage ensures the spice retains its flavour for future use in air fryer recipes or other dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of ground cumin?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of ground cumin?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin",
     "description": "Learn how to convert 3 cups of ground cumin to ounces in seconds. Perfect for air fryer recipes and precise spice measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of ground cumin?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-ground-cumin"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of ground cumin equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise spice measurements can make or break a dish. Whether you're whipping up a batch of spiced chicken or a fragrant vegetable curry, knowing how to convert 3 cups of ground cumin to ounces ensures consistency and flavour balance.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk"
-        },
-        "headline": "Quick Guide: Convert 2.5 tbsp of almond milk to grams",
-        "description": "Learn how to convert 2.5 tbsp of almond milk to grams for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk"
+    },
+    "headline": "Quick Guide: Convert 2.5 tbsp of almond milk to grams",
+    "description": "Learn how to convert 2.5 tbsp of almond milk to grams for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-of-almond-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-of-almond-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use any type of almond milk for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion (2.5 tbsp = 37.5g) works for most almond milk varieties, including unsweetened, sweetened, and barista-style. However, thicker almond milks may vary slightly in weight, so for baking, a scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion (2.5 tbsp = 37.5g) works for most almond milk varieties, including unsweetened, sweetened, and barista-style. However, thicker almond milks may vary slightly in weight, so for baking, a scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does almond milk compare to dairy milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almond milk is lighter and less fatty than dairy milk, so it may produce slightly crispier results in air fryer baking. For creamy dishes, you might need to reduce cooking time by 1–2 minutes to avoid drying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almond milk is lighter and less fatty than dairy milk, so it may produce slightly crispier results in air fryer baking. For creamy dishes, you might need to reduce cooking time by 1–2 minutes to avoid drying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What if my recipe uses cups instead of tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1/4 cup of almond milk equals 4 tbsp or 60g. For 2.5 tbsp (37.5g), measure slightly less than 1/4 cup. Use a liquid measuring cup for accuracy, and check our conversion chart for other amounts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1/4 cup of almond milk equals 4 tbsp or 60g. For 2.5 tbsp (37.5g), measure slightly less than 1/4 cup. Use a liquid measuring cup for accuracy, and check our conversion chart for other amounts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does almond milk affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almond milk can slightly reduce cooking times due to its lower fat content. If substituting it for dairy milk, start checking your dish 2–3 minutes earlier to prevent over-browning. Adjust as needed based on your air fryer model."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almond milk can slightly reduce cooking times due to its lower fat content. If substituting it for dairy milk, start checking your dish 2–3 minutes earlier to prevent over-browning. Adjust as needed based on your air fryer model."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2.5 tbsp of almond milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk",
+    "@type": "WebPage",
+    "name": "How many grams is 2.5 tbsp of almond milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk",
     "description": "Learn how to convert 2.5 tbsp of almond milk to grams for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2.5 tbsp of almond milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-almond-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 tablespoons (tbsp) of almond milk equals approximately 37.5 grams. This conversion is essential for air fryer recipes where precision matters, whether you’re baking cakes, making sauces, or preparing creamy dishes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know accurate measurements can make or break a recipe, so let’s dive into the details.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey"
-        },
-        "headline": "Quick Guide: Convert 0.375 Cup of Honey to Ounces Easily",
-        "description": "Learn how to convert 0.375 cup of honey to ounces with our simple guide—perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey"
+    },
+    "headline": "Quick Guide: Convert 0.375 Cup of Honey to Ounces Easily",
+    "description": "Learn how to convert 0.375 cup of honey to ounces with our simple guide—perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 0.375 cup of honey?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but it’s less precise. 0.375 cup equals 6 tablespoons, but honey’s thickness can make levelling tricky. A kitchen scale is more reliable for accurate measurements, especially in air fryer recipes where consistency matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but it’s less precise. 0.375 cup equals 6 tablespoons, but honey’s thickness can make levelling tricky. A kitchen scale is more reliable for accurate measurements, especially in air fryer recipes where consistency matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of honey affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slightly. Thicker honeys like manuka may weigh more per cup than lighter varieties like clover. However, the difference is minimal—0.375 cup of any honey will be close to 4.5 ounces. For precision, always weigh it."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slightly. Thicker honeys like manuka may weigh more per cup than lighter varieties like clover. However, the difference is minimal—0.375 cup of any honey will be close to 4.5 ounces. For precision, always weigh it."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.375 cup of honey to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.375 cup of honey is roughly 128 grams. Since honey’s density varies, weighing it ensures accuracy. This conversion is handy for UK recipes, which often use metric measurements for baking and air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.375 cup of honey is roughly 128 grams. Since honey’s density varies, weighing it ensures accuracy. This conversion is handy for UK recipes, which often use metric measurements for baking and air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute syrup for honey in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust quantities. Maple syrup is thinner, so use slightly less (about 0.33 cup for 0.375 cup honey). Agave syrup is sweeter, so reduce the amount by 25%. Always check for consistency during cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust quantities. Maple syrup is thinner, so use slightly less (about 0.33 cup for 0.375 cup honey). Agave syrup is sweeter, so reduce the amount by 25%. Always check for consistency during cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.375 cup of honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.375 cup of honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey",
     "description": "Learn how to convert 0.375 cup of honey to ounces with our simple guide—perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.375 cup of honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.375 cup of honey equals approximately 4.5 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you're whipping up a glaze for chicken or sweetening a dessert, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve the best results. Honey’s thickness can vary, so measuring by weight is often more reliable than volume.</p>

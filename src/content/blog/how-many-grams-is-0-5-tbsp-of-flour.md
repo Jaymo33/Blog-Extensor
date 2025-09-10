@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour"
-        },
-        "headline": "Quick Answer: How Many Grams is 0.5 Tbsp of Flour?",
-        "description": "Find out exactly how many grams are in 0.5 tbsp of flour for perfect air fryer recipes every time. Get the UK conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour"
+    },
+    "headline": "Quick Answer: How Many Grams is 0.5 Tbsp of Flour?",
+    "description": "Find out exactly how many grams are in 0.5 tbsp of flour for perfect air fryer recipes every time. Get the UK conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.5 tbsp of flour directly in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 0.5 tbsp of flour (4g) is typically used in coatings or batters before air frying. Sprinkling dry flour directly into the air fryer can cause uneven cooking or a messy cleanup. Always mix it with other ingredients for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 0.5 tbsp of flour (4g) is typically used in coatings or batters before air frying. Sprinkling dry flour directly into the air fryer can cause uneven cooking or a messy cleanup. Always mix it with other ingredients for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe need 0.5 tbsp of flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.5 tbsp of flour (4g) often acts as a binder or thickener in air fryer recipes. It helps coatings stick to proteins or creates a crispier texture. For delicate dishes like tempura, this small amount makes a big difference."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.5 tbsp of flour (4g) often acts as a binder or thickener in air fryer recipes. It helps coatings stick to proteins or creates a crispier texture. For delicate dishes like tempura, this small amount makes a big difference."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 tbsp of flour to grams for gluten-free flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free flours vary in density, so 0.5 tbsp may not always equal 4 grams. Weigh it separately or check the packaging for conversions. Almond flour, for example, is lighter—0.5 tbsp is closer to 3 grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free flours vary in density, so 0.5 tbsp may not always equal 4 grams. Weigh it separately or check the packaging for conversions. Almond flour, for example, is lighter—0.5 tbsp is closer to 3 grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute 0.5 tbsp of flour with cornstarch in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but use half the amount (0.25 tbsp or 2g) since cornstarch is more absorbent. It’s great for crispiness but can dry out dishes if overused. Test small batches first to adjust textures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but use half the amount (0.25 tbsp or 2g) since cornstarch is more absorbent. It’s great for crispiness but can dry out dishes if overused. Test small batches first to adjust textures."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour",
     "description": "Find out exactly how many grams are in 0.5 tbsp of flour for perfect air fryer recipes every time. Get the UK conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of flour equals approximately 4 grams in UK measurements. This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking air fryer cookies or coating chicken, knowing the exact weight of 0.5 tbsp of flour helps avoid mishaps.</p>  

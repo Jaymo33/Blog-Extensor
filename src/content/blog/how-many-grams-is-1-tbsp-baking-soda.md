@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda"
-        },
-        "headline": "Quick Answer: How many grams is 1 tbsp of baking soda?",
-        "description": "Discover how many grams are in 1 tbsp of baking soda for perfect air fryer recipes every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda"
+    },
+    "headline": "Quick Answer: How many grams is 1 tbsp of baking soda?",
+    "description": "Discover how many grams are in 1 tbsp of baking soda for perfect air fryer recipes every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-baking-soda.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-baking-soda.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use baking powder instead of baking soda in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Baking powder and baking soda aren’t interchangeable. Baking soda is 3-4 times stronger, so substitutions require recipe adjustments. For every 1 tbsp (14g) of baking soda, you’d need 3-4 tbsp of baking powder, but this may alter taste and texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Baking powder and baking soda aren’t interchangeable. Baking soda is 3-4 times stronger, so substitutions require recipe adjustments. For every 1 tbsp (14g) of baking soda, you’d need 3-4 tbsp of baking powder, but this may alter taste and texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cake taste bitter?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Bitterness often comes from too much baking soda. Since air fryers cook faster, chemical reactions intensify. Stick to 1 tbsp (14g) per recipe unless specified otherwise. Always level your measurements for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bitterness often comes from too much baking soda. Since air fryers cook faster, chemical reactions intensify. Stick to 1 tbsp (14g) per recipe unless specified otherwise. Always level your measurements for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert US tablespoons to UK grams for baking soda?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Luckily, 1 tbsp of baking soda is consistently 14 grams in both US and UK measurements. No conversion is needed unless your recipe uses cups—then refer to a conversion chart for precise weights."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Luckily, 1 tbsp of baking soda is consistently 14 grams in both US and UK measurements. No conversion is needed unless your recipe uses cups—then refer to a conversion chart for precise weights."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can baking soda help clean my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! A paste of baking soda and water works wonders on grease and residue. Use about 2 tbsp (28g) mixed with water, scrub gently, then rinse. It’s a natural, non-toxic cleaner perfect for air fryer maintenance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! A paste of baking soda and water works wonders on grease and residue. Use about 2 tbsp (28g) mixed with water, scrub gently, then rinse. It’s a natural, non-toxic cleaner perfect for air fryer maintenance."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of baking soda?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of baking soda?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda",
     "description": "Discover how many grams are in 1 tbsp of baking soda for perfect air fryer recipes every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of baking soda?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-baking-soda"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 tablespoon (tbsp) of baking soda weighs approximately 14 grams. This measurement is essential for precise baking, especially when using an air fryer where exact quantities can affect texture and rise. Whether you’re whipping up cakes, cookies, or even savoury dishes, knowing this conversion ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour"
-        },
-        "headline": "Quick Answer: How Many Cups Is 400 Grams of Self-Raising Flour?",
-        "description": "Discover how to convert 400 grams of self-raising flour to cups for perfect baking every time. Get precise measurements and air fryer-friendly tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour"
+    },
+    "headline": "Quick Answer: How Many Cups Is 400 Grams of Self-Raising Flour?",
+    "description": "Discover how to convert 400 grams of self-raising flour to cups for perfect baking every time. Get precise measurements and air fryer-friendly tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-self-raising-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-400-grams-of-self-raising-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour for 400 grams in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to add baking powder. For every 100 grams of plain flour, mix in 1 teaspoon of baking powder. So for 400 grams, add 4 teaspoons. The cup measurement remains roughly the same, but the leavening agent is crucial for rise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to add baking powder. For every 100 grams of plain flour, mix in 1 teaspoon of baking powder. So for 400 grams, add 4 teaspoons. The cup measurement remains roughly the same, but the leavening agent is crucial for rise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of self-raising flour affect the cup measurement for 400 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slight variations in brand density can affect the cup measurement, but the difference is minimal. Always fluff the flour before measuring to ensure consistency. For precision, weighing is best, but 3.2 cups is a reliable estimate for most brands."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slight variations in brand density can affect the cup measurement, but the difference is minimal. Always fluff the flour before measuring to ensure consistency. For precision, weighing is best, but 3.2 cups is a reliable estimate for most brands."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 400 grams of self-raising flour to cups for gluten-free flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free self-raising flour has a different density, so 400 grams may equal around 3.5 cups. Check the packaging for specific conversions, as blends vary. Adjust liquids in your recipe, as gluten-free flours often absorb more moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free self-raising flour has a different density, so 400 grams may equal around 3.5 cups. Check the packaging for specific conversions, as blends vary. Adjust liquids in your recipe, as gluten-free flours often absorb more moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cake with 400 grams of self-raising flour turn out dense?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Overmixing the batter can develop gluten, leading to a dense texture. Also, ensure your air fryer is preheated and not overcrowded. Using fresh self-raising flour is key, as old baking powder loses its effectiveness. Check our cake recipes for foolproof methods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overmixing the batter can develop gluten, leading to a dense texture. Also, ensure your air fryer is preheated and not overcrowded. Using fresh self-raising flour is key, as old baking powder loses its effectiveness. Check our cake recipes for foolproof methods."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 400 Grams of Self-Raising Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 400 Grams of Self-Raising Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour",
     "description": "Discover how to convert 400 grams of self-raising flour to cups for perfect baking every time. Get precise measurements and air fryer-friendly tips!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 400 Grams of Self-Raising Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-400-grams-of-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>400 grams of self-raising flour is roughly equivalent to 3.2 cups. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you’re whipping up a cake or a batch of scones, knowing how to convert grams to cups ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, so let’s dive into the details.</p>

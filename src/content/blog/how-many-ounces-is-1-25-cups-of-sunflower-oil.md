@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil"
-        },
-        "headline": "Quick Guide: Convert 1.25 Cups of Sunflower Oil to Ounces",
-        "description": "Learn how to convert 1.25 cups of sunflower oil to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil"
+    },
+    "headline": "Quick Guide: Convert 1.25 Cups of Sunflower Oil to Ounces",
+    "description": "Learn how to convert 1.25 cups of sunflower oil to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-sunflower-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-sunflower-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a different oil if I don’t have sunflower oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute sunflower oil with other high-smoke-point oils like canola, vegetable, or light olive oil. Just note that weights may vary slightly—1.25 cups of olive oil, for example, weighs about 10.5 ounces. Adjust measurements accordingly for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute sunflower oil with other high-smoke-point oils like canola, vegetable, or light olive oil. Just note that weights may vary slightly—1.25 cups of olive oil, for example, weighs about 10.5 ounces. Adjust measurements accordingly for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing oil better than measuring by volume?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing oil (in ounces or grams) is more precise because volume measurements can vary due to temperature or how the oil settles in a cup. A kitchen scale eliminates guesswork, ensuring consistent results in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing oil (in ounces or grams) is more precise because volume measurements can vary due to temperature or how the oil settles in a cup. A kitchen scale eliminates guesswork, ensuring consistent results in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean my air fryer after using sunflower oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After cooking, let the air fryer cool, then wipe the basket and tray with warm, soapy water. For stubborn residue, use a non-abrasive sponge or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Regular cleaning prevents smoke and maintains performance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After cooking, let the air fryer cool, then wipe the basket and tray with warm, soapy water. For stubborn residue, use a non-abrasive sponge or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Regular cleaning prevents smoke and maintains performance."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reuse sunflower oil in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Reusing oil isn’t recommended as it degrades with heat and can affect flavour and food quality. For best results, use fresh sunflower oil each time. If you must reuse it, strain it and store it in the fridge for no more than one additional use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reusing oil isn’t recommended as it degrades with heat and can affect flavour and food quality. For best results, use fresh sunflower oil each time. If you must reuse it, strain it and store it in the fridge for no more than one additional use."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of sunflower oil",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of sunflower oil",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil",
     "description": "Learn how to convert 1.25 cups of sunflower oil to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of sunflower oil",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-sunflower-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of sunflower oil equals approximately 10 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're frying, roasting, or baking, knowing the exact weight of your ingredients makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve culinary perfection with accurate conversions and easy-to-follow guides.</p>  

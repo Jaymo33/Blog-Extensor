@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk"
-        },
-        "headline": "Quick Guide: Convert 15g of Milk to Ounces Easily",
-        "description": "Learn how to convert 15g of milk to ounces in seconds. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk"
+    },
+    "headline": "Quick Guide: Convert 15g of Milk to Ounces Easily",
+    "description": "Learn how to convert 15g of milk to ounces in seconds. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plant-based milk instead of regular milk for 15g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, plant-based milk like almond or oat milk can be substituted for regular milk in the same 15g quantity. However, keep in mind that the texture and taste might vary slightly, especially in baked goods. Always check the consistency of your recipe as you go."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, plant-based milk like almond or oat milk can be substituted for regular milk in the same 15g quantity. However, keep in mind that the texture and taste might vary slightly, especially in baked goods. Always check the consistency of your recipe as you go."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 15g of milk without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "One tablespoon of milk is approximately 15g, though this can vary based on the milk’s density. For better accuracy, use a measuring spoon and level it off. If you’re working with small amounts, a syringe or medicine cup can also help measure liquids precisely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "One tablespoon of milk is approximately 15g, though this can vary based on the milk’s density. For better accuracy, use a measuring spoon and level it off. If you’re working with small amounts, a syringe or medicine cup can also help measure liquids precisely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is 15g of milk important in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "15g of milk is often used to add moisture or bind ingredients without overwhelming the dish. In air fryer cooking, precise measurements ensure even cooking and perfect texture, especially in batters, sauces, and baked goods. Too much or too little can affect the outcome."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "15g of milk is often used to add moisture or bind ingredients without overwhelming the dish. In air fryer cooking, precise measurements ensure even cooking and perfect texture, especially in batters, sauces, and baked goods. Too much or too little can affect the outcome."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the fat content of milk affect the 15g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the fat content doesn’t change the weight conversion—15g of skim milk and 15g of whole milk both equal 0.53 ounces. However, higher-fat milk may be denser, so always measure by weight for accuracy in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the fat content doesn’t change the weight conversion—15g of skim milk and 15g of whole milk both equal 0.53 ounces. However, higher-fat milk may be denser, so always measure by weight for accuracy in recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 15g of milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk",
     "description": "Learn how to convert 15g of milk to ounces in seconds. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 15g of milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>15 grams of milk equals approximately 0.53 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a creamy sauce or baking a dessert, knowing how many ounces is 15g of milk can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you nail those measurements for flawless results.</p>  

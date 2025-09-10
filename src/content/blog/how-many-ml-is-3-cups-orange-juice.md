@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice"
-        },
-        "headline": "Quick Conversion: 3.0 Cups of Orange Juice to ml",
-        "description": "Convert 3.0 cups of orange juice to ml effortlessly for precise cooking and baking. Get accurate measurements for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice"
+    },
+    "headline": "Quick Conversion: 3.0 Cups of Orange Juice to ml",
+    "description": "Convert 3.0 cups of orange juice to ml effortlessly for precise cooking and baking. Get accurate measurements for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-orange-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-orange-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 3.0 cups of orange juice the same in UK and US measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s a slight difference. In the US, 3.0 cups equal 710 ml, while the UK metric cup is 250 ml per cup, making 3.0 cups 750 ml. Most air fryer recipes use US measurements, so stick to 710 ml unless specified otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s a slight difference. In the US, 3.0 cups equal 710 ml, while the UK metric cup is 250 ml per cup, making 3.0 cups 750 ml. Most air fryer recipes use US measurements, so stick to 710 ml unless specified otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled orange juice instead of fresh for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled orange juice works, but check for added sugars or preservatives, as these can alter the recipe’s flavour and texture. Fresh juice often provides a brighter taste, but bottled is convenient for consistent measurements like 3.0 cups (710 ml)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled orange juice works, but check for added sugars or preservatives, as these can alter the recipe’s flavour and texture. Fresh juice often provides a brighter taste, but bottled is convenient for consistent measurements like 3.0 cups (710 ml)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust cooking time when using 3.0 cups of orange juice in a marinade?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Marinating with 710 ml of orange juice may require slightly shorter cooking times in the air fryer, as the acidity can tenderise proteins faster. Reduce heat by 5–10°C and check for doneness a few minutes earlier to avoid overcooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marinating with 710 ml of orange juice may require slightly shorter cooking times in the air fryer, as the acidity can tenderise proteins faster. Reduce heat by 5–10°C and check for doneness a few minutes earlier to avoid overcooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store leftover orange juice after measuring 3.0 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Transfer unused juice to an airtight container and refrigerate for up to 3 days. For longer storage, freeze in ice cube trays (each cube is about 30 ml) and thaw as needed for future recipes requiring 3.0 cups (710 ml) conversions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Transfer unused juice to an airtight container and refrigerate for up to 3 days. For longer storage, freeze in ice cube trays (each cube is about 30 ml) and thaw as needed for future recipes requiring 3.0 cups (710 ml) conversions."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.0 Cups of Orange Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.0 Cups of Orange Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice",
     "description": "Convert 3.0 cups of orange juice to ml effortlessly for precise cooking and baking. Get accurate measurements for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.0 Cups of Orange Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-orange-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.0 cups of orange juice equals approximately 710 ml. This conversion is essential for precise cooking, especially when using an air fryer, where accurate measurements can make or break a recipe. Whether you're whipping up a marinade, glaze, or baking a citrus-infused dessert, knowing how many ml is 3.0 cups of orange juice ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions easy so your dishes turn out perfectly every time.</p>

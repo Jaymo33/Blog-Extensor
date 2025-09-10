@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk"
-        },
-        "headline": "Quick Answer: How Many Ounces in 2.5 Cups of Whole Milk?",
-        "description": "Discover how to convert 2.5 cups of whole milk to ounces with our easy guide—perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk"
+    },
+    "headline": "Quick Answer: How Many Ounces in 2.5 Cups of Whole Milk?",
+    "description": "Discover how to convert 2.5 cups of whole milk to ounces with our easy guide—perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-whole-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-whole-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use skimmed milk instead of whole milk for 2.5 cups in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute skimmed milk, but the texture and richness may differ. Whole milk has a higher fat content, which contributes to creamier results in air fryer dishes. If using skimmed milk, consider adding a teaspoon of butter per cup to mimic the richness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute skimmed milk, but the texture and richness may differ. Whole milk has a higher fat content, which contributes to creamier results in air fryer dishes. If using skimmed milk, consider adding a teaspoon of butter per cup to mimic the richness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 2.5 cups of whole milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a kitchen scale to weigh 20 ounces of whole milk. Alternatively, a standard UK mug holds approximately 10 ounces, so 2 mugs would give you roughly 2.5 cups (20 ounces). For precision, a measuring cup is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a kitchen scale to weigh 20 ounces of whole milk. Alternatively, a standard UK mug holds approximately 10 ounces, so 2 mugs would give you roughly 2.5 cups (20 ounces). For precision, a measuring cup is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 2.5 cups of whole milk weigh the same as 2.5 cups of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, whole milk is slightly denser than water due to its fat and protein content. While 2.5 cups of water weigh about 20 ounces, whole milk may be marginally heavier. However, for most air fryer recipes, the difference is negligible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, whole milk is slightly denser than water due to its fat and protein content. While 2.5 cups of water weigh about 20 ounces, whole milk may be marginally heavier. However, for most air fryer recipes, the difference is negligible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 2.5 cups of whole milk for later use in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can freeze whole milk, but it may separate slightly when thawed. Stir well before using it in air fryer recipes like sauces or bakes. Freeze in portions (e.g., 1-cup batches) for easier use. Thaw in the fridge overnight for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can freeze whole milk, but it may separate slightly when thawed. Stir well before using it in air fryer recipes like sauces or bakes. Freeze in portions (e.g., 1-cup batches) for easier use. Thaw in the fridge overnight for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of whole milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of whole milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk",
     "description": "Discover how to convert 2.5 cups of whole milk to ounces with our easy guide—perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of whole milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-whole-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of whole milk equals 20 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a creamy sauce or baking a cake, knowing how many ounces are in 2.5 cups of whole milk ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate conversions and expert tips.</p>  

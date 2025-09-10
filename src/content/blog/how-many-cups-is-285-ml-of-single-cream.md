@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream"
-        },
-        "headline": "Quick Answer: How Many Cups Is 285 ml of Single Cream?",
-        "description": "Convert 285 ml of single cream to cups effortlessly for perfect baking and cooking every time. Includes UK and US conversions!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 285 ml of Single Cream?",
+    "description": "Convert 285 ml of single cream to cups effortlessly for perfect baking and cooking every time. Includes UK and US conversions!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-single-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-single-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 285 ml of single cream the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 285 ml of single cream is slightly more than one cup. In the UK, it’s about 1.2 cups, and in the US, it’s roughly 1.19 cups. Always check your recipe’s measurement system for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 285 ml of single cream is slightly more than one cup. In the UK, it’s about 1.2 cups, and in the US, it’s roughly 1.19 cups. Always check your recipe’s measurement system for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 285 ml of single cream in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Single cream works well in air fryer recipes like creamy pastas, custards, or sauces. Just ensure you measure it correctly—285 ml is just over one cup, so adjust accordingly for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Single cream works well in air fryer recipes like creamy pastas, custards, or sauces. Just ensure you measure it correctly—285 ml is just over one cup, so adjust accordingly for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 285 ml of single cream to US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "285 ml of single cream equals about 1.19 US cups. If you don’t have a measuring cup, use 1 cup plus 2 tablespoons for a close approximation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "285 ml of single cream equals about 1.19 US cups. If you don’t have a measuring cup, use 1 cup plus 2 tablespoons for a close approximation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What can I make with 285 ml of single cream in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use 285 ml of single cream for dishes like creamy garlic mushrooms, bread pudding, or even a quick custard. Check <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more recipe ideas!"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use 285 ml of single cream for dishes like creamy garlic mushrooms, bread pudding, or even a quick custard. Check <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more recipe ideas!"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 285 ml of Single Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 285 ml of Single Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream",
     "description": "Convert 285 ml of single cream to cups effortlessly for perfect baking and cooking every time. Includes UK and US conversions!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 285 ml of Single Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-single-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>285 ml of single cream equals approximately 1.2 UK cups or 1.19 US cups. This conversion is essential for baking, cooking, and especially when using an air fryer for creamy dishes. Whether you're whipping up a dessert or a savoury sauce, knowing the exact measurement ensures perfect results every time.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar"
-        },
-        "headline": "Quick Answer: How many ounces in 1 cup of balsamic vinegar?",
-        "description": "Discover how many ounces are in 1 cup of balsamic vinegar for perfect air fryer recipes. Get precise conversions and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar"
+    },
+    "headline": "Quick Answer: How many ounces in 1 cup of balsamic vinegar?",
+    "description": "Discover how many ounces are in 1 cup of balsamic vinegar for perfect air fryer recipes. Get precise conversions and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-balsamic-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-balsamic-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of balsamic vinegar affect the ounce measurement per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, traditional and commercial balsamic vinegars have similar densities, so 1 cup will always be around 8.45 ounces. However, aged, syrupy varieties may pour more slowly—just ensure you’re measuring by volume, not viscosity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, traditional and commercial balsamic vinegars have similar densities, so 1 cup will always be around 8.45 ounces. However, aged, syrupy varieties may pour more slowly—just ensure you’re measuring by volume, not viscosity."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other vinegars in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Apple cider, red wine, and white vinegars all follow the same 8.45-ounce-per-cup ratio. Adjust sweetness levels in recipes, as balsamic is naturally sweeter than other varieties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Apple cider, red wine, and white vinegars all follow the same 8.45-ounce-per-cup ratio. Adjust sweetness levels in recipes, as balsamic is naturally sweeter than other varieties."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1 cup of balsamic vinegar to tablespoons for smaller air fryer batches?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1 cup equals 16 tablespoons (or 48 teaspoons). For precise air fryer portions, like a glaze for two servings, scale down to 2–4 tablespoons as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1 cup equals 16 tablespoons (or 48 teaspoons). For precise air fryer portions, like a glaze for two servings, scale down to 2–4 tablespoons as needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer balsamic glaze sometimes burn?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Balsamic vinegar’s sugar content caramelises quickly under high heat. To prevent burning, reduce the temperature by 10°C and check frequently. Mixing it with oil or water also helps distribute heat evenly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Balsamic vinegar’s sugar content caramelises quickly under high heat. To prevent burning, reduce the temperature by 10°C and check frequently. Mixing it with oil or water also helps distribute heat evenly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of balsamic vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of balsamic vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar",
     "description": "Discover how many ounces are in 1 cup of balsamic vinegar for perfect air fryer recipes. Get precise conversions and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of balsamic vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-balsamic-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of balsamic vinegar equals approximately 8.45 ounces. This measurement is crucial for air fryer recipes, ensuring your marinades, glazes, and dressings turn out perfectly balanced every time. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this conversion helps avoid guesswork.</p>

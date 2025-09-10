@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes"
-        },
-        "headline": "Quick Answer: How Many Grams Is 1.75 Cups of Potatoes?",
-        "description": "Find out exactly how many grams 1.75 cups of potatoes weigh for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes"
+    },
+    "headline": "Quick Answer: How Many Grams Is 1.75 Cups of Potatoes?",
+    "description": "Find out exactly how many grams 1.75 cups of potatoes weigh for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T23:31:15.891Z",
-        "dateModified": "2025-07-27T23:31:15.891Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-75-cups-of-potatoes.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T23:31:15.891Z",
+    "dateModified": "2025-07-27T23:31:15.891Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-75-cups-of-potatoes.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of potato affect how many grams are in 1.75 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different potato varieties have slight density variations. Russet potatoes are denser than red or sweet potatoes, so 1.75 cups may weigh closer to 220 grams for russets versus 200 grams for sweeter varieties. Always weigh for accuracy if your recipe is sensitive to measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different potato varieties have slight density variations. Russet potatoes are denser than red or sweet potatoes, so 1.75 cups may weigh closer to 220 grams for russets versus 200 grams for sweeter varieties. Always weigh for accuracy if your recipe is sensitive to measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen potatoes instead of fresh for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Frozen potatoes often have added moisture, so 1.75 cups may weigh slightly more due to ice content. Thaw and pat them dry before measuring for better accuracy. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods section</a> for adjusted cooking times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Frozen potatoes often have added moisture, so 1.75 cups may weigh slightly more due to ice content. Thaw and pat them dry before measuring for better accuracy. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods section</a> for adjusted cooking times."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams back to cups if my recipe uses weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Divide the gram measurement by 120 (the approximate weight of 1 cup of diced potatoes). For example, 210 grams ÷ 120 = 1.75 cups. Use our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for other common ingredients."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Divide the gram measurement by 120 (the approximate weight of 1 cup of diced potatoes). For example, 210 grams ÷ 120 = 1.75 cups. Use our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for other common ingredients."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook potatoes unevenly even with the right grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Overcrowding or uneven cuts can cause inconsistent cooking. Ensure potatoes are uniformly sized and spaced in the basket. Shake the basket halfway, and adjust time/temp based on your air fryer’s performance. For more tips, visit our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes page</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overcrowding or uneven cuts can cause inconsistent cooking. Ensure potatoes are uniformly sized and spaced in the basket. Shake the basket halfway, and adjust time/temp based on your air fryer’s performance. For more tips, visit our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes page</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 1.75 Cups of Potatoes",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.75 Cups of Potatoes",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes",
     "description": "Find out exactly how many grams 1.75 cups of potatoes weigh for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:31:15.891000+00:00",
     "dateModified": "2025-07-27T23:31:15.891000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 1.75 Cups of Potatoes",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-75-cups-of-potatoes"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of potatoes weigh approximately 210 grams, though this can vary slightly based on potato type and how they're cut. Whether you're prepping for crispy roast potatoes or a hearty air fryer hash, getting the measurement right ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precision matters when cooking with an air fryer, so let’s break down the details.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup"
-        },
-        "headline": "Quick Answer: 0.125 Cup Sugar Syrup to Ounces UK",
-        "description": "Discover how many ounces are in 0.125 cup of sugar syrup with our easy conversion guide. Perfect for air fryer recipes and precise measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup"
+    },
+    "headline": "Quick Answer: 0.125 Cup Sugar Syrup to Ounces UK",
+    "description": "Discover how many ounces are in 0.125 cup of sugar syrup with our easy conversion guide. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0125-cup-of-sugar-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0125-cup-of-sugar-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use honey instead of sugar syrup in a 0.125 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute honey for sugar syrup in a 0.125 cup measurement, but the flavour and texture will differ slightly. Honey is thicker and sweeter, so you might want to thin it with a teaspoon of water for glazes. Adjust cooking times slightly, as honey caramelises faster in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute honey for sugar syrup in a 0.125 cup measurement, but the flavour and texture will differ slightly. Honey is thicker and sweeter, so you might want to thin it with a teaspoon of water for glazes. Adjust cooking times slightly, as honey caramelises faster in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.125 cup of sugar syrup without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use 2 tablespoons to measure 0.125 cup of sugar syrup. Alternatively, a kitchen scale can measure 1 fluid ounce (30 grams) for precision. Lightly grease the spoon or scale bowl to prevent sticking and ensure an accurate pour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use 2 tablespoons to measure 0.125 cup of sugar syrup. Alternatively, a kitchen scale can measure 1 fluid ounce (30 grams) for precision. Lightly grease the spoon or scale bowl to prevent sticking and ensure an accurate pour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 0.125 cup of sugar syrup work for savoury air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! A 0.125 cup of sugar syrup adds a subtle sweetness to savoury dishes like glazed ham or teriyaki chicken. Combine it with soy sauce or vinegar for balance. The small quantity ensures the dish isn’t overly sweet while enhancing caramelisation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! A 0.125 cup of sugar syrup adds a subtle sweetness to savoury dishes like glazed ham or teriyaki chicken. Combine it with soy sauce or vinegar for balance. The small quantity ensures the dish isn’t overly sweet while enhancing caramelisation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my sugar syrup crystallise in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sugar syrup can crystallise if exposed to high heat for too long. To prevent this, mix 0.125 cup of syrup with a splash of lemon juice or corn syrup before brushing it onto food. Also, avoid overcooking—check dishes frequently to maintain the perfect glaze."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sugar syrup can crystallise if exposed to high heat for too long. To prevent this, mix 0.125 cup of syrup with a splash of lemon juice or corn syrup before brushing it onto food. Also, avoid overcooking—check dishes frequently to maintain the perfect glaze."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of sugar syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of sugar syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup",
     "description": "Discover how many ounces are in 0.125 cup of sugar syrup with our easy conversion guide. Perfect for air fryer recipes and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of sugar syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0125-cup-of-sugar-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of sugar syrup equals approximately 1 fluid ounce (oz) in the UK. This measurement is essential for precision in air fryer recipes, especially when making glazes, marinades, or desserts. Whether you’re whipping up a batch of sticky wings or a sweet drizzle for cakes, knowing how many ounces are in 0.125 cup of sugar syrup ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect measurements for flawless cooking every time.</p>

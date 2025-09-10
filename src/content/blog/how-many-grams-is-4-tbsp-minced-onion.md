@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion"
-        },
-        "headline": "Quick Answer: 4 tbsp minced onion to grams UK",
-        "description": "Convert 4 tbsp of minced onion into grams easily with our UK measurement guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion"
+    },
+    "headline": "Quick Answer: 4 tbsp minced onion to grams UK",
+    "description": "Convert 4 tbsp of minced onion into grams easily with our UK measurement guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-minced-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-minced-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use dried minced onion instead of fresh for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, dried minced onion can be substituted, but the weight differs. Typically, 1 tbsp dried minced onion equals about 5g, so you’d need 8 tbsp to match 40g fresh. Rehydrate it with water before use for similar texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, dried minced onion can be substituted, but the weight differs. Typically, 1 tbsp dried minced onion equals about 5g, so you’d need 8 tbsp to match 40g fresh. Rehydrate it with water before use for similar texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of onion affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yellow, white, and red onions have similar densities when minced, so the 10g-per-tbsp rule applies broadly. Sweet onions might be slightly lighter due to higher water content—adjust by taste if precision isn’t crucial."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yellow, white, and red onions have similar densities when minced, so the 10g-per-tbsp rule applies broadly. Sweet onions might be slightly lighter due to higher water content—adjust by taste if precision isn’t crucial."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams back to tablespoons for minced onion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Divide the gram amount by 10 to get tablespoons. For example, 60g minced onion equals 6 tbsp. Always measure lightly packed for consistency, especially in air fryer recipes where ratios matter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Divide the gram amount by 10 to get tablespoons. For example, 60g minced onion equals 6 tbsp. Always measure lightly packed for consistency, especially in air fryer recipes where ratios matter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify grams instead of tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams ensure accuracy across all ingredient states (chopped, minced, etc.). Tablespoons can vary based on packing density. For reliable air fryer results, weighing ingredients like minced onion is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams ensure accuracy across all ingredient states (chopped, minced, etc.). Tablespoons can vary based on packing density. For reliable air fryer results, weighing ingredients like minced onion is best."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 4 tbsp of minced onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of minced onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion",
     "description": "Convert 4 tbsp of minced onion into grams easily with our UK measurement guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 4 tbsp of minced onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-minced-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4 tablespoons (tbsp) of minced onion equals approximately 40 grams (g) in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you’re following a recipe from <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a> or improvising, knowing the exact weight ensures consistent results every time.</p>  

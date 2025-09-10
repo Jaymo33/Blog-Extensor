@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 200g of Soft Cheese to Ounces Easily",
-        "description": "Learn how to convert 200g of soft cheese to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 200g of Soft Cheese to Ounces Easily",
+    "description": "Learn how to convert 200g of soft cheese to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-soft-cheese-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/200g-soft-cheese-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups to measure 200g of soft cheese instead of ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use cups to measure 200g of soft cheese, though it's less precise. One UK metric cup holds about 225g of soft cheese, so 200g is just slightly less than a full cup. For most recipes, especially in air fryers where quantities matter, this approximation works well."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use cups to measure 200g of soft cheese, though it's less precise. One UK metric cup holds about 225g of soft cheese, so 200g is just slightly less than a full cup. For most recipes, especially in air fryers where quantities matter, this approximation works well."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of soft cheese affect the 200g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the type of soft cheese doesn't change the weight conversion. 200g always equals approximately 7.05 ounces, whether it's cream cheese, ricotta, or mascarpone. However, different cheeses have varying densities, so they'll occupy different volumes for the same weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the type of soft cheese doesn't change the weight conversion. 200g always equals approximately 7.05 ounces, whether it's cream cheese, ricotta, or mascarpone. However, different cheeses have varying densities, so they'll occupy different volumes for the same weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many tablespoons is 200g of soft cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "200g of soft cheese equals about 13 tablespoons, assuming each tablespoon holds approximately 15g. This measurement is handy when you don't have scales, but for precise air fryer recipes, weighing is more accurate as soft cheese can vary in density when spooned."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "200g of soft cheese equals about 13 tablespoons, assuming each tablespoon holds approximately 15g. This measurement is handy when you don't have scales, but for precise air fryer recipes, weighing is more accurate as soft cheese can vary in density when spooned."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use grams and others use ounces for soft cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes use different measurements based on their origin and the chef's preference. UK recipes typically use grams (metric system), while some older recipes or American versions might use ounces. Our conversion helps bridge this gap, especially for air fryer cooking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes use different measurements based on their origin and the chef's preference. UK recipes typically use grams (metric system), while some older recipes or American versions might use ounces. Our conversion helps bridge this gap, especially for air fryer cooking where precision matters."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of soft cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of soft cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces",
     "description": "Learn how to convert 200g of soft cheese to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of soft cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/200g-soft-cheese-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200g of soft cheese equals approximately 7.05 ounces. This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're making a creamy dip or a cheesy bake, knowing the exact weight ensures perfect results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour"
-        },
-        "headline": "Quick Answer: 0.33 Cup Wheat Flour to Ounces Conversion",
-        "description": "Discover how many ounces are in 0.33 cup of wheat flour for perfect air fryer baking. Get accurate conversions and expert tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour"
+    },
+    "headline": "Quick Answer: 0.33 Cup Wheat Flour to Ounces Conversion",
+    "description": "Discover how many ounces are in 0.33 cup of wheat flour for perfect air fryer baking. Get accurate conversions and expert tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-wheat-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-wheat-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use self-raising flour instead of wheat flour for 0.33 cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but note that self-raising flour contains baking powder, which affects the recipe's rise. For accurate results, adjust leavening agents or stick to plain wheat flour unless the recipe specifies otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but note that self-raising flour contains baking powder, which affects the recipe's rise. For accurate results, adjust leavening agents or stick to plain wheat flour unless the recipe specifies otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.33 cup of wheat flour without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale to weigh 1.4 ounces (40 grams) of flour. Alternatively, divide a standard cup into thirds visually, though this method is less precise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale to weigh 1.4 ounces (40 grams) of flour. Alternatively, divide a standard cup into thirds visually, though this method is less precise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does sifting flour change the weight of 0.33 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sifting adds air, making the flour lighter per cup. For accuracy, sift before measuring or weigh the flour to ensure you're using the correct amount."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sifting adds air, making the flour lighter per cup. For accuracy, sift before measuring or weigh the flour to ensure you're using the correct amount."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute almond flour for wheat flour in a 0.33 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almond flour behaves differently due to its lack of gluten. Use a 1:1 ratio by weight (1.4 ounces) but expect a denser texture. Adjust liquids as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almond flour behaves differently due to its lack of gluten. Use a 1:1 ratio by weight (1.4 ounces) but expect a denser texture. Adjust liquids as needed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of wheat flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of wheat flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour",
     "description": "Discover how many ounces are in 0.33 cup of wheat flour for perfect air fryer baking. Get accurate conversions and expert tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of wheat flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-wheat-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of wheat flour equals approximately 1.4 ounces (40 grams). This conversion is essential for precise baking in your air fryer, ensuring your recipes turn out perfectly every time. Whether you're whipping up cakes, cookies, or bread, getting the measurements right is key to success. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with smaller quantities like 0.33 cup of wheat flour.</p>  

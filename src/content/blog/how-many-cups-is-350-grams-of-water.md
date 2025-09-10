@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water"
-        },
-        "headline": "Quick Answer: How Many Cups Is 350 Grams of Water?",
-        "description": "Discover how to convert 350 grams of water to cups for precise air fryer cooking. Get accurate measurements and tips for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water"
+    },
+    "headline": "Quick Answer: How Many Cups Is 350 Grams of Water?",
+    "description": "Discover how to convert 350 grams of water to cups for precise air fryer cooking. Get accurate measurements and tips for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 350 grams of water the same as 350ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 350 grams of water is equivalent to 350 millilitres, as water has a density of 1g/ml. This makes it easy to measure liquids by weight or volume. However, this only applies to water—other liquids like oil or milk have different densities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 350 grams of water is equivalent to 350 millilitres, as water has a density of 1g/ml. This makes it easy to measure liquids by weight or volume. However, this only applies to water—other liquids like oil or milk have different densities."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 350 grams of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A standard UK or US measuring cup holds about 236.6ml (or grams) of water, so 350 grams would be roughly 1.48 cups. For accuracy, use a liquid measuring jug with clear markings. Eyeballing it with a regular cup may lead to slight inaccuracies in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard UK or US measuring cup holds about 236.6ml (or grams) of water, so 350 grams would be roughly 1.48 cups. For accuracy, use a liquid measuring jug with clear markings. Eyeballing it with a regular cup may lead to slight inaccuracies in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes sometimes use grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide a more precise measurement than cups, especially for liquids like water. Air fryer cooking often requires exact ratios to ensure even cooking and texture. Using weight measurements eliminates inconsistencies caused by how ingredients settle in a cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide a more precise measurement than cups, especially for liquids like water. Air fryer cooking often requires exact ratios to ensure even cooking and texture. Using weight measurements eliminates inconsistencies caused by how ingredients settle in a cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 350 grams of water affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Adding 350 grams of water (1.48 cups) can introduce steam, which may slightly increase cooking times. It helps keep foods moist but should be used sparingly to avoid sogginess. Always adjust cooking times based on the recipe and your air fryer model."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Adding 350 grams of water (1.48 cups) can introduce steam, which may slightly increase cooking times. It helps keep foods moist but should be used sparingly to avoid sogginess. Always adjust cooking times based on the recipe and your air fryer model."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 350 Grams of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 350 Grams of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water",
     "description": "Discover how to convert 350 grams of water to cups for precise air fryer cooking. Get accurate measurements and tips for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 350 Grams of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>350 grams of water equals approximately 1.48 cups in the UK or 1.48 US cups. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're preparing a sauce, baking, or adjusting liquid ingredients, knowing how many cups is 350 grams of water ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate conversions. Keep reading for detailed tips and why this measurement matters in air frying.</p>

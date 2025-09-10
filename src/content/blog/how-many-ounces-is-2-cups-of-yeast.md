@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of yeast?",
-        "description": "Find out exactly how many ounces are in 2 cups of yeast for perfect baking results every time. Includes UK conversions and air fryer tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of yeast?",
+    "description": "Find out exactly how many ounces are in 2 cups of yeast for perfect baking results every time. Includes UK conversions and air fryer tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-yeast.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-yeast.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2 cups of yeast the same as 10.58 ounces in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2 cups of yeast typically equals 10.58 ounces in UK measurements. However, slight variations can occur depending on how the yeast is packed. For baking precision, especially in air fryer recipes, weighing the yeast with a kitchen scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2 cups of yeast typically equals 10.58 ounces in UK measurements. However, slight variations can occur depending on how the yeast is packed. For baking precision, especially in air fryer recipes, weighing the yeast with a kitchen scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use instant yeast instead of active dry yeast in the same amount?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Instant yeast and active dry yeast can often be used interchangeably, but instant yeast is more potent. If substituting, you might need slightly less—about 25% less by weight. Always check your recipe’s instructions for the best results, particularly in air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Instant yeast and active dry yeast can often be used interchangeably, but instant yeast is more potent. If substituting, you might need slightly less—about 25% less by weight. Always check your recipe’s instructions for the best results, particularly in air fryer baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store yeast to keep it fresh for longer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yeast stays fresh longest when stored in an airtight container in the fridge or freezer. For active dry yeast, check the expiration date and proof it in warm water before use if unsure. Proper storage ensures consistent rising, whether you're baking in an oven or air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yeast stays fresh longest when stored in an airtight container in the fridge or freezer. For active dry yeast, check the expiration date and proof it in warm water before use if unsure. Proper storage ensures consistent rising, whether you're baking in an oven or air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer bread sometimes turn out dense?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dense bread in an air fryer can result from inaccurate yeast measurements, overproofing, or insufficient heat distribution. Ensure you’re using the correct weight of yeast (like 10.58 oz for 2 cups) and follow air fryer-specific recipes for optimal texture. Preheating the air fryer can also help."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dense bread in an air fryer can result from inaccurate yeast measurements, overproofing, or insufficient heat distribution. Ensure you’re using the correct weight of yeast (like 10.58 oz for 2 cups) and follow air fryer-specific recipes for optimal texture. Preheating the air fryer can also help."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of yeast?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of yeast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast",
     "description": "Find out exactly how many ounces are in 2 cups of yeast for perfect baking results every time. Includes UK conversions and air fryer tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of yeast?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-yeast"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of yeast equals approximately 10.58 ounces (oz) in UK measurements. This conversion is essential for bakers who need precise measurements to ensure their dough rises perfectly. Whether you're using an air fryer for quick bread recipes or a conventional oven, knowing the exact weight of yeast guarantees consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

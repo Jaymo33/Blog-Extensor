@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk"
-        },
-        "headline": "Quick Conversion: 3.25 Cups of Coconut Milk to ml",
-        "description": "Convert 3.25 cups of coconut milk to ml effortlessly for perfect air fryer recipes. Get precise measurements for flawless cooking every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk"
+    },
+    "headline": "Quick Conversion: 3.25 Cups of Coconut Milk to ml",
+    "description": "Convert 3.25 cups of coconut milk to ml effortlessly for perfect air fryer recipes. Get precise measurements for flawless cooking every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-coconut-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-coconut-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of coconut milk affect the ml measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the ml measurement remains the same whether you use full-fat, light, or canned coconut milk. However, thicker varieties may require stirring before measuring for accuracy. Always check the consistency if substituting between types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the ml measurement remains the same whether you use full-fat, light, or canned coconut milk. However, thicker varieties may require stirring before measuring for accuracy. Always check the consistency if substituting between types."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 3.25 cups of coconut milk in any air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 768 ml of coconut milk works in many recipes, always check your dish’s liquid requirements. Air fryers need balanced moisture to avoid soggy results. Adjust other liquids if your recipe isn’t designed for this quantity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 768 ml of coconut milk works in many recipes, always check your dish’s liquid requirements. Air fryers need balanced moisture to avoid soggy results. Adjust other liquids if your recipe isn’t designed for this quantity."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 3.25 cups of coconut milk to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Coconut milk’s weight varies by density, but roughly, 3.25 cups (768 ml) equals about 800 grams. For precise baking, weigh it using kitchen scales, especially if your recipe lists ingredients by mass."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Coconut milk’s weight varies by density, but roughly, 3.25 cups (768 ml) equals about 800 grams. For precise baking, weigh it using kitchen scales, especially if your recipe lists ingredients by mass."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air fryer recipe too wet with 3.25 cups of coconut milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook faster than conventional methods, so excess liquid can steam rather than evaporate. Reduce the coconut milk slightly or extend cooking time. Always preheat the air fryer to help manage moisture levels."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook faster than conventional methods, so excess liquid can steam rather than evaporate. Reduce the coconut milk slightly or extend cooking time. Always preheat the air fryer to help manage moisture levels."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.25 Cups of Coconut Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.25 Cups of Coconut Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk",
     "description": "Convert 3.25 cups of coconut milk to ml effortlessly for perfect air fryer recipes. Get precise measurements for flawless cooking every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.25 Cups of Coconut Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-coconut-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.25 cups of coconut milk is equivalent to approximately 768 ml. This conversion is essential for air fryer recipes, ensuring accuracy whether you're baking, frying, or making sauces. Precise measurements help maintain the right consistency and flavour in dishes like curries, desserts, or marinades. If you're using an air fryer, knowing exact liquid quantities prevents under or overcooking. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

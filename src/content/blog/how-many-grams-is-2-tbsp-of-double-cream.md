@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream"
-        },
-        "headline": "Quick & Easy: Convert 2 tbsp of double cream to grams",
-        "description": "Discover how to convert 2 tbsp of double cream into grams for perfect recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream"
+    },
+    "headline": "Quick & Easy: Convert 2 tbsp of double cream to grams",
+    "description": "Discover how to convert 2 tbsp of double cream into grams for perfect recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-of-double-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-of-double-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use single cream instead of double cream in the same quantity?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, single cream has a lower fat content (around 18%) and thinner consistency. If substituting, use 10% more by weight (33g instead of 30g for 2 tbsp) to compensate for the reduced richness. However, the texture in cooked dishes may still differ slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, single cream has a lower fat content (around 18%) and thinner consistency. If substituting, use 10% more by weight (33g instead of 30g for 2 tbsp) to compensate for the reduced richness. However, the texture in cooked dishes may still differ slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams to milliliters for double cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Double cream’s density means 30 grams (2 tbsp) equals roughly 30ml, as its weight and volume are nearly identical. For larger amounts, 100g = 100ml. This 1:1 ratio makes it easy to switch between measurements in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Double cream’s density means 30 grams (2 tbsp) equals roughly 30ml, as its weight and volume are nearly identical. For larger amounts, 100g = 100ml. This 1:1 ratio makes it easy to switch between measurements in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK and US tablespoon measurements differ for cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A UK tablespoon holds 15ml, while a US tablespoon is 14.2ml. This small difference (0.8ml per tbsp) means 2 US tbsp of double cream weighs about 28g instead of 30g. Always check which measurement system your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A UK tablespoon holds 15ml, while a US tablespoon is 14.2ml. This small difference (0.8ml per tbsp) means 2 US tbsp of double cream weighs about 28g instead of 30g. Always check which measurement system your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I measure double cream with a kitchen spoon instead of a proper tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Standard eating spoons vary widely in size, so they’re unreliable for measuring. A proper 15ml measuring spoon ensures accuracy. If you must use a teaspoon, note that 1 UK tbsp = 3 tsp (5ml each), so 2 tbsp = 6 tsp or 30g."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Standard eating spoons vary widely in size, so they’re unreliable for measuring. A proper 15ml measuring spoon ensures accuracy. If you must use a teaspoon, note that 1 UK tbsp = 3 tsp (5ml each), so 2 tbsp = 6 tsp or 30g."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2 tbsp of double cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of double cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream",
     "description": "Discover how to convert 2 tbsp of double cream into grams for perfect recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2 tbsp of double cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-of-double-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 tablespoons (tbsp) of double cream weigh approximately 30 grams in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing the exact weight ensures consistent results every time.</p>

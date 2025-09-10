@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil"
-        },
-        "headline": "Quick Answer: How Many Ounces in 0.5 Cup Coconut Oil?",
-        "description": "Discover how to convert 0.5 cup of coconut oil to ounces for perfect air fryer recipes every time. Get the exact measurement now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil"
+    },
+    "headline": "Quick Answer: How Many Ounces in 0.5 Cup Coconut Oil?",
+    "description": "Discover how to convert 0.5 cup of coconut oil to ounces for perfect air fryer recipes every time. Get the exact measurement now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-half-cup-coconut-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-half-cup-coconut-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 cup of coconut oil the same as 4 ounces in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.5 cup of coconut oil equals 4 ounces in both the UK and US measurements. The conversion remains consistent regardless of location. For air fryer recipes, this precision ensures your dishes turn out perfectly every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.5 cup of coconut oil equals 4 ounces in both the UK and US measurements. The conversion remains consistent regardless of location. For air fryer recipes, this precision ensures your dishes turn out perfectly every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use melted coconut oil for the 0.5 cup to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Whether solid or melted, 0.5 cup of coconut oil still measures 4 ounces. Just ensure you’re measuring it in the state specified by your recipe for the best results. Melted oil is easier to pour and mix evenly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Whether solid or melted, 0.5 cup of coconut oil still measures 4 ounces. Just ensure you’re measuring it in the state specified by your recipe for the best results. Melted oil is easier to pour and mix evenly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.5 cup of coconut oil without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a dry measuring cup for solid coconut oil, packing it firmly. For liquid oil, a liquid measuring cup works best. Level off the top with a knife for accuracy. Remember, 0.5 cup equals 4 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a dry measuring cup for solid coconut oil, packing it firmly. For liquid oil, a liquid measuring cup works best. Level off the top with a knife for accuracy. Remember, 0.5 cup equals 4 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for coconut oil in ounces instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ounces provide a more precise measurement, especially for oils. Air fryers require exact amounts to ensure even cooking and avoid greasiness. Converting 0.5 cup of coconut oil to ounces (4 oz) guarantees consistency in your dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ounces provide a more precise measurement, especially for oils. Air fryers require exact amounts to ensure even cooking and avoid greasiness. Converting 0.5 cup of coconut oil to ounces (4 oz) guarantees consistency in your dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.5 cup of coconut oil",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of coconut oil",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil",
     "description": "Discover how to convert 0.5 cup of coconut oil to ounces for perfect air fryer recipes every time. Get the exact measurement now!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.5 cup of coconut oil",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-coconut-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cup of coconut oil equals approximately 4 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re baking, frying, or roasting, knowing the exact weight ensures consistent results every time. Coconut oil is a popular choice for air frying due to its high smoke point and rich flavour. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese"
-        },
-        "headline": "Quick Answer: How Many Cups Is 275 Grams of Grated Cheese?",
-        "description": "Convert 275 grams of grated cheese to cups effortlessly for perfect air fryer recipes. Get precise measurements and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese"
+    },
+    "headline": "Quick Answer: How Many Cups Is 275 Grams of Grated Cheese?",
+    "description": "Convert 275 grams of grated cheese to cups effortlessly for perfect air fryer recipes. Get precise measurements and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:31:11.916Z",
-        "dateModified": "2025-07-26T21:31:11.916Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-grated-cheese.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:31:11.916Z",
+    "dateModified": "2025-07-26T21:31:11.916Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-grated-cheese.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cheese affect how many cups 275 grams equals?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of cheese makes a difference. Hard cheeses like parmesan are lighter and fluffier when grated, so 275 grams may fill closer to 3 cups. Softer cheeses, like cheddar, are denser, so 275 grams will be around 2.5 cups. Always measure lightly for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of cheese makes a difference. Hard cheeses like parmesan are lighter and fluffier when grated, so 275 grams may fill closer to 3 cups. Softer cheeses, like cheddar, are denser, so 275 grams will be around 2.5 cups. Always measure lightly for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese instead of grating it myself?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Pre-shredded cheese works fine, but it may be fluffier than freshly grated, so the cup measurement could vary slightly. If using pre-shredded, lightly spoon it into the measuring cup without packing it down. For best results in air fryer recipes, weigh it if possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pre-shredded cheese works fine, but it may be fluffier than freshly grated, so the cup measurement could vary slightly. If using pre-shredded, lightly spoon it into the measuring cup without packing it down. For best results in air fryer recipes, weigh it if possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 275 grams of grated cheese if my recipe uses ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "275 grams is approximately 9.7 ounces. If your recipe calls for ounces, use this conversion. For air fryer dishes, weighing ingredients ensures consistency, especially when working with cheese, which can vary in density."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "275 grams is approximately 9.7 ounces. If your recipe calls for ounces, use this conversion. For air fryer dishes, weighing ingredients ensures consistency, especially when working with cheese, which can vary in density."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide a more precise measurement than cups, which can vary based on how ingredients are packed. Air fryer recipes often use grams to ensure even cooking and perfect texture. If you don't have a scale, use the general rule of 100 grams ≈ 1 cup for grated cheese."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide a more precise measurement than cups, which can vary based on how ingredients are packed. Air fryer recipes often use grams to ensure even cooking and perfect texture. If you don't have a scale, use the general rule of 100 grams ≈ 1 cup for grated cheese."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 275 Grams of Grated Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 275 Grams of Grated Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese",
     "description": "Convert 275 grams of grated cheese to cups effortlessly for perfect air fryer recipes. Get precise measurements and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:11.916000+00:00",
     "dateModified": "2025-07-26T21:31:11.916000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 275 Grams of Grated Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-grated-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>275 grams of grated cheese is roughly equivalent to 2.75 cups, though this can vary slightly depending on the cheese type and how finely it's grated. If you're using an air fryer, precise measurements ensure your dishes turn out perfectly every time. Whether you're making cheesy nachos, stuffed mushrooms, or a crispy topping for a casserole, knowing how to convert grams to cups is essential. For more air fryer recipe inspiration, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

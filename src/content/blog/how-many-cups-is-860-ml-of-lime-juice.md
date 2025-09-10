@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice"
-        },
-        "headline": "Quick Conversion: How Many Cups Is 860 ml of Lime Juice?",
-        "description": "Discover how to convert 860 ml of lime juice to cups for perfect recipes every time. Get precise measurements for baking and cooking with ease.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice"
+    },
+    "headline": "Quick Conversion: How Many Cups Is 860 ml of Lime Juice?",
+    "description": "Discover how to convert 860 ml of lime juice to cups for perfect recipes every time. Get precise measurements for baking and cooking with ease.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 860 ml of lime juice the same as 860 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 860 ml of lime juice is not exactly the same as 860 grams. Lime juice has a density of about 1.04 grams per ml, so 860 ml would weigh approximately 894 grams. This slight difference matters in baking where precision is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 860 ml of lime juice is not exactly the same as 860 grams. Lime juice has a density of about 1.04 grams per ml, so 860 ml would weigh approximately 894 grams. This slight difference matters in baking where precision is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lime juice can be used, but it may have a slightly different acidity and flavour profile compared to fresh. For consistent results in recipes, stick to one type. Bottled juice often has a longer shelf life, making it convenient for frequent use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lime juice can be used, but it may have a slightly different acidity and flavour profile compared to fresh. For consistent results in recipes, stick to one type. Bottled juice often has a longer shelf life, making it convenient for frequent use."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 860 ml of lime juice without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a kitchen scale. Since lime juice weighs about 1.04 grams per ml, 860 ml would be roughly 894 grams. Alternatively, use a standard drinking glass (usually 250 ml) and measure 3.44 glasses for UK cups or 3.63 for US cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a kitchen scale. Since lime juice weighs about 1.04 grams per ml, 860 ml would be roughly 894 grams. Alternatively, use a standard drinking glass (usually 250 ml) and measure 3.44 glasses for UK cups or 3.63 for US cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes can I make with 860 ml of lime juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "860 ml of lime juice is perfect for large batches of marinades, dressings, or desserts. Try it in air fryer recipes like citrus-glazed chicken, lime-infused shrimp, or even homemade lime sorbet. Check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "860 ml of lime juice is perfect for large batches of marinades, dressings, or desserts. Try it in air fryer recipes like citrus-glazed chicken, lime-infused shrimp, or even homemade lime sorbet. Check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for more inspiration."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 860 ml of Lime Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 860 ml of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice",
     "description": "Discover how to convert 860 ml of lime juice to cups for perfect recipes every time. Get precise measurements for baking and cooking with ease.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 860 ml of Lime Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>860 ml of lime juice is approximately 3.63 cups. This conversion is essential for anyone using lime juice in recipes, especially when baking or cooking with an air fryer. Whether you’re making a zesty marinade or a tangy dessert, knowing the exact measurement ensures your dish turns out perfectly every time.</p>

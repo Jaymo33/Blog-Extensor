@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice"
-        },
-        "headline": "Quick Answer: 1.33 Cups Pineapple Juice to Ounces UK",
-        "description": "Convert 1.33 cups of pineapple juice to ounces effortlessly. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice"
+    },
+    "headline": "Quick Answer: 1.33 Cups Pineapple Juice to Ounces UK",
+    "description": "Convert 1.33 cups of pineapple juice to ounces effortlessly. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-pineapple-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-pineapple-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use fresh pineapple juice instead of canned for 1.33 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, fresh pineapple juice works just as well as canned for measuring 1.33 cups (10.64 ounces). However, fresh juice may have a slightly stronger flavour and fewer preservatives. Strain it well to remove pulp if a smoother consistency is needed for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, fresh pineapple juice works just as well as canned for measuring 1.33 cups (10.64 ounces). However, fresh juice may have a slightly stronger flavour and fewer preservatives. Strain it well to remove pulp if a smoother consistency is needed for your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 1.33 cups of pineapple juice affect cooking time in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Using 1.33 cups (10.64 ounces) of pineapple juice in marinades or glazes may slightly increase cooking time due to added moisture. Always pat proteins dry before air frying to ensure crispiness. Adjust cooking times by 1-2 minutes if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Using 1.33 cups (10.64 ounces) of pineapple juice in marinades or glazes may slightly increase cooking time due to added moisture. Always pat proteins dry before air frying to ensure crispiness. Adjust cooking times by 1-2 minutes if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 1.33 cups of pineapple juice the same as 1 and 1/3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.33 cups is the decimal equivalent of 1 and 1/3 cups. Both measurements equal approximately 10.64 ounces of pineapple juice. Use whichever measurement is more convenient for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.33 cups is the decimal equivalent of 1 and 1/3 cups. Both measurements equal approximately 10.64 ounces of pineapple juice. Use whichever measurement is more convenient for your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute another juice for pineapple juice in a 1.33-cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute orange or apple juice for pineapple juice in a 1.33-cup (10.64-ounce) measurement, but the flavour profile will change. Pineapple juice adds a distinct sweetness and acidity, so adjust seasonings accordingly for similar results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute orange or apple juice for pineapple juice in a 1.33-cup (10.64-ounce) measurement, but the flavour profile will change. Pineapple juice adds a distinct sweetness and acidity, so adjust seasonings accordingly for similar results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of pineapple juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of pineapple juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice",
     "description": "Convert 1.33 cups of pineapple juice to ounces effortlessly. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of pineapple juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-pineapple-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of pineapple juice equals approximately 10.64 ounces. This conversion is essential for precise measurements, especially when preparing air fryer recipes that require accuracy for the best results. Whether you're making marinades, glazes, or beverages, knowing the exact weight ensures consistency in flavour and texture.</p>

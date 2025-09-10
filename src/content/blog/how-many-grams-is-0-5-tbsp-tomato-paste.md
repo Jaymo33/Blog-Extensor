@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste"
-        },
-        "headline": "Quick Answer: How many grams is 0.5 tbsp of tomato paste?",
-        "description": "Find out exactly how many grams are in 0.5 tbsp of tomato paste for perfect air fryer recipes every time. Get conversions fast!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste"
+    },
+    "headline": "Quick Answer: How many grams is 0.5 tbsp of tomato paste?",
+    "description": "Find out exactly how many grams are in 0.5 tbsp of tomato paste for perfect air fryer recipes every time. Get conversions fast!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-tomato-paste.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-tomato-paste.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use tomato purée instead of tomato paste in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Tomato purée has a thinner consistency and less concentrated flavour than tomato paste. If substituting, you'll need to use about 1.5 times the amount of purée to match 0.5 tbsp (7 grams) of tomato paste. Adjust other liquid ingredients in your air fryer recipe accordingly to maintain the right texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tomato purée has a thinner consistency and less concentrated flavour than tomato paste. If substituting, you'll need to use about 1.5 times the amount of purée to match 0.5 tbsp (7 grams) of tomato paste. Adjust other liquid ingredients in your air fryer recipe accordingly to maintain the right texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.5 tbsp of tomato paste without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have digital scales, use a proper measuring spoon for accuracy. Fill a tablespoon measure halfway for 0.5 tbsp (about 7 grams). Alternatively, many tomato paste tubes have markings showing tablespoon measurements. You can squeeze out exactly half a tablespoon directly into your air fryer dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have digital scales, use a proper measuring spoon for accuracy. Fill a tablespoon measure halfway for 0.5 tbsp (about 7 grams). Alternatively, many tomato paste tubes have markings showing tablespoon measurements. You can squeeze out exactly half a tablespoon directly into your air fryer dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of tomato paste affect the weight conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different brands may have slightly varying densities, but most standard tomato pastes will weigh about 7 grams per 0.5 tbsp. For absolute precision in air fryer cooking, especially with expensive ingredients, it's always best to weigh your tomato paste rather than relying solely on volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different brands may have slightly varying densities, but most standard tomato pastes will weigh about 7 grams per 0.5 tbsp. For absolute precision in air fryer cooking, especially with expensive ingredients, it's always best to weigh your tomato paste rather than relying solely on volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes often use small amounts like 0.5 tbsp of tomato paste?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers intensify flavours due to their concentrated cooking method. Small amounts of strong ingredients like tomato paste (0.5 tbsp or 7 grams) provide enough flavour without overwhelming the dish. This measurement also helps prevent burning or drying out that can occur with larger quantities in the air fryer's intense heat."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers intensify flavours due to their concentrated cooking method. Small amounts of strong ingredients like tomato paste (0.5 tbsp or 7 grams) provide enough flavour without overwhelming the dish. This measurement also helps prevent burning or drying out that can occur with larger quantities in the air fryer's intense heat."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of tomato paste?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of tomato paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste",
     "description": "Find out exactly how many grams are in 0.5 tbsp of tomato paste for perfect air fryer recipes every time. Get conversions fast!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of tomato paste?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-tomato-paste"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of tomato paste equals approximately 7 grams. This measurement is crucial for air fryer recipes where precision can make or break your dish. Whether you're making a rich pasta sauce or a flavourful marinade, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect cooking.</p>

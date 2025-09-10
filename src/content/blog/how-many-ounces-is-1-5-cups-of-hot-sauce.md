@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1.5 Cups of Hot Sauce?",
-        "description": "Find out exactly how many ounces are in 1.5 cups of hot sauce for perfect air fryer recipes. Convert measurements easily with our guide!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1.5 Cups of Hot Sauce?",
+    "description": "Find out exactly how many ounces are in 1.5 cups of hot sauce for perfect air fryer recipes. Convert measurements easily with our guide!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-hot-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-hot-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 1.5 cups of hot sauce in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale can give you the most accurate measurement. Since 1.5 cups of hot sauce equals 12 fluid ounces, you can weigh it directly. Set your scale to ounces, tare the container, and pour the hot sauce until it reaches 12 oz. This method is especially useful for thicker sauces where volume measurements might vary."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale can give you the most accurate measurement. Since 1.5 cups of hot sauce equals 12 fluid ounces, you can weigh it directly. Set your scale to ounces, tare the container, and pour the hot sauce until it reaches 12 oz. This method is especially useful for thicker sauces where volume measurements might vary."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of hot sauce affect the 1.5 cups to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most hot sauces have a similar density, so 1.5 cups will generally equal 12 oz. However, very thick or chunky sauces might weigh slightly more due to added ingredients. For precise recipes, stick to standard liquid hot sauces or adjust slightly if using a thicker variety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most hot sauces have a similar density, so 1.5 cups will generally equal 12 oz. However, very thick or chunky sauces might weigh slightly more due to added ingredients. For precise recipes, stick to standard liquid hot sauces or adjust slightly if using a thicker variety."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I use 1.5 cups of hot sauce in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.5 cups (12 oz) of hot sauce works great for marinating chicken wings, coating cauliflower, or glazing shrimp. Mix it with melted butter or oil for even distribution. For balanced heat, pair it with honey or brown sugar in your air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.5 cups (12 oz) of hot sauce works great for marinating chicken wings, coating cauliflower, or glazing shrimp. Mix it with melted butter or oil for even distribution. For balanced heat, pair it with honey or brown sugar in your air fryer dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store leftover hot sauce after measuring 1.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After measuring, ensure the hot sauce bottle is tightly sealed and stored in a cool, dark place. Refrigeration can extend its shelf life, especially for natural or homemade varieties. Always check for changes in colour or smell before reusing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After measuring, ensure the hot sauce bottle is tightly sealed and stored in a cool, dark place. Refrigeration can extend its shelf life, especially for natural or homemade varieties. Always check for changes in colour or smell before reusing."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.5 cups of hot sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of hot sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce",
     "description": "Find out exactly how many ounces are in 1.5 cups of hot sauce for perfect air fryer recipes. Convert measurements easily with our guide!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.5 cups of hot sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-hot-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of hot sauce equals 12 fluid ounces (oz). Whether you’re whipping up a spicy marinade or adding heat to your air fryer favourites, knowing this conversion ensures your recipes turn out perfectly every time.</p>

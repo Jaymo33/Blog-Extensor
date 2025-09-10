@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark"
-        },
-        "headline": "361 F to Gas Mark Conversion Guide for Air Fryers",
-        "description": "Convert 361 F to Gas Mark for your air fryer or oven. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark"
+    },
+    "headline": "361 F to Gas Mark Conversion Guide for Air Fryers",
+    "description": "Convert 361 F to Gas Mark for your air fryer or oven. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T21:01:50.722Z",
-        "dateModified": "2025-07-20T21:01:50.722Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/361-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T21:01:50.722Z",
+    "dateModified": "2025-07-20T21:01:50.722Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/361-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 361 F in my air fryer if it doesn't have Gas Mark settings?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Most air fryers display temperatures in Fahrenheit or Celsius. Simply set your air fryer to 361 F, which equals Gas Mark 4.5. The cooking results will be identical whether you use Gas Mark or Fahrenheit settings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Most air fryers display temperatures in Fahrenheit or Celsius. Simply set your air fryer to 361 F, which equals Gas Mark 4.5. The cooking results will be identical whether you use Gas Mark or Fahrenheit settings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does cooking time differ between Gas Mark 4.5 in an oven and 361 F in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers typically cook 20-25% faster than conventional ovens at the same temperature. If a recipe calls for 30 minutes at Gas Mark 4.5 (361 F) in an oven, start checking your food at 22-24 minutes in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers typically cook 20-25% faster than conventional ovens at the same temperature. If a recipe calls for 30 minutes at Gas Mark 4.5 (361 F) in an oven, start checking your food at 22-24 minutes in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 361 F (Gas Mark 4.5) in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "361 F (Gas Mark 4.5) works perfectly for roasting vegetables, baking fish fillets, cooking chicken pieces, and reheating leftovers. It's also ideal for frozen foods like chicken nuggets or potato waffles that need thorough cooking without burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "361 F (Gas Mark 4.5) works perfectly for roasting vegetables, baking fish fillets, cooking chicken pieces, and reheating leftovers. It's also ideal for frozen foods like chicken nuggets or potato waffles that need thorough cooking without burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my food cooking unevenly at 361 F in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Uneven cooking at 361 F (Gas Mark 4.5) usually means the air fryer basket is overcrowded. Ensure proper spacing between food items for optimal air circulation. Also remember to shake or turn food halfway through cooking for even results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uneven cooking at 361 F (Gas Mark 4.5) usually means the air fryer basket is overcrowded. Ensure proper spacing between food items for optimal air circulation. Also remember to shake or turn food halfway through cooking for even results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "361 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "361 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark",
     "description": "Convert 361 F to Gas Mark for your air fryer or oven. Learn the exact Gas Mark equivalent and cooking tips for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T21:01:50.722000+00:00",
     "dateModified": "2025-07-20T21:01:50.722000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "361 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/361-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <h2>Understanding 361 F to Gas Mark Conversion</h2>

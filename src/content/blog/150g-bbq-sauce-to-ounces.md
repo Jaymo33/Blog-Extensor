@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces"
-        },
-        "headline": "Quick 150g bbq sauce to ounces conversion for UK cooks",
-        "description": "Convert 150g of bbq sauce to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces"
+    },
+    "headline": "Quick 150g bbq sauce to ounces conversion for UK cooks",
+    "description": "Convert 150g of bbq sauce to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-bbq-sauce-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-bbq-sauce-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 150g of bbq sauce to ounces for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 150g of bbq sauce to ounces (about 5.29 oz) ensures precise measurements in air fryer recipes. The air fryer's intense heat can cause sauces to reduce quickly, so accurate quantities prevent over-drying or excessive stickiness. This is especially important for glazes and marinades where balance is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 150g of bbq sauce to ounces (about 5.29 oz) ensures precise measurements in air fryer recipes. The air fryer's intense heat can cause sauces to reduce quickly, so accurate quantities prevent over-drying or excessive stickiness. This is especially important for glazes and marinades where balance is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I measure 150g of bbq sauce without kitchen scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can approximate 150g of bbq sauce (5.29 ounces) using tablespoons if you don't have scales. It's roughly equivalent to 5 level tablespoons. However, for best results in air fryer cooking, investing in digital scales will give you more consistent and accurate measurements, especially for critical recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can approximate 150g of bbq sauce (5.29 ounces) using tablespoons if you don't have scales. It's roughly equivalent to 5 level tablespoons. However, for best results in air fryer cooking, investing in digital scales will give you more consistent and accurate measurements, especially for critical recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of bbq sauce affect the 150g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion from 150g to ounces (5.29 oz) remains the same regardless of bbq sauce type, as it's based on weight. However, thicker sauces may measure slightly differently by volume. In air fryer cooking, thicker sauces often work better as they're less likely to drip, but the weight conversion remains constant."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion from 150g to ounces (5.29 oz) remains the same regardless of bbq sauce type, as it's based on weight. However, thicker sauces may measure slightly differently by volume. In air fryer cooking, thicker sauces often work better as they're less likely to drip, but the weight conversion remains constant."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I adjust cooking times when using 150g of bbq sauce in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "When using 150g (5.29 oz) of bbq sauce in the air fryer, consider applying it in stages to prevent burning. Start with a thin layer, cook for half the time, then add the remaining sauce. This technique works particularly well for chicken or ribs, giving you better control over the caramelisation process."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When using 150g (5.29 oz) of bbq sauce in the air fryer, consider applying it in stages to prevent burning. Start with a thin layer, cook for half the time, then add the remaining sauce. This technique works particularly well for chicken or ribs, giving you better control over the caramelisation process."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 150g of bbq sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of bbq sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces",
     "description": "Convert 150g of bbq sauce to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 150g of bbq sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/150g-bbq-sauce-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150g of bbq sauce equals approximately 5.29 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference to your dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own marinade, knowing how to convert grams to ounces is a valuable kitchen skill.</p>

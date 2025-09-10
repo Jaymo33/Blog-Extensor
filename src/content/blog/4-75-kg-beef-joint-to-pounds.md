@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds"
-        },
-        "headline": "Quick 4.75 kg Beef Joint to Pounds Conversion Guide",
-        "description": "Convert 4.75 kg beef joint to pounds instantly. Perfect for air fryer cooking times and portion planning. Get accurate results now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds"
+    },
+    "headline": "Quick 4.75 kg Beef Joint to Pounds Conversion Guide",
+    "description": "Convert 4.75 kg beef joint to pounds instantly. Perfect for air fryer cooking times and portion planning. Get accurate results now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T19:48:49.567Z",
-        "dateModified": "2025-08-23T19:48:49.567Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-75-kg-beef-joint-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T19:48:49.567Z",
+    "dateModified": "2025-08-23T19:48:49.567Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-75-kg-beef-joint-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 4.75 kg beef joint to pounds for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 4.75 kg beef joint to pounds, multiply 4.75 by 2.20462, which gives you approximately 10.47 pounds. This conversion is vital for air fryer recipes that use imperial measurements, as cooking times are often based on weight per pound. Knowing the exact weight in pounds helps you set the correct timer and temperature for a perfectly cooked roast."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 4.75 kg beef joint to pounds, multiply 4.75 by 2.20462, which gives you approximately 10.47 pounds. This conversion is vital for air fryer recipes that use imperial measurements, as cooking times are often based on weight per pound. Knowing the exact weight in pounds helps you set the correct timer and temperature for a perfectly cooked roast."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to know the weight in pounds for an air fryer beef joint?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer cooking times and temperatures are frequently calculated per pound of meat, especially in recipes from the UK and US. If you start with a 4.75 kg beef joint and don't convert to pounds, you might undercook or overcook it, leading to disappointing results. Accurate conversion ensures you follow recipes precisely and achieve ideal doneness and juiciness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer cooking times and temperatures are frequently calculated per pound of meat, especially in recipes from the UK and US. If you start with a 4.75 kg beef joint and don't convert to pounds, you might undercook or overcook it, leading to disappointing results. Accurate conversion ensures you follow recipes precisely and achieve ideal doneness and juiciness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a 4.75 kg beef joint in any air fryer, and how long does it take to cook?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 4.75 kg beef joint (about 10.47 pounds) requires a large-capacity air fryer to fit without overcrowding. Cooking time varies but is roughly 20 minutes per pound plus extra time at 180°C for medium doneness, so around 3.5 to 4 hours total. Always use a meat thermometer to check the internal temperature reaches at least 60°C for medium-rare or 70°C for well-done."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 4.75 kg beef joint (about 10.47 pounds) requires a large-capacity air fryer to fit without overcrowding. Cooking time varies but is roughly 20 minutes per pound plus extra time at 180°C for medium doneness, so around 3.5 to 4 hours total. Always use a meat thermometer to check the internal temperature reaches at least 60°C for medium-rare or 70°C for well-done."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes for beef joints?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can explore a variety of beef joint recipes tailored for air fryers at airfryerrecipe.co.uk/recipe-category/beef. The site offers cooking times, temperatures, and tips for different sizes and cuts, including conversions for weights like 4.75 kg to pounds. These recipes are designed to help you make the most of your air fryer for juicy, flavorful roasts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can explore a variety of beef joint recipes tailored for air fryers at airfryerrecipe.co.uk/recipe-category/beef. The site offers cooking times, temperatures, and tips for different sizes and cuts, including conversions for weights like 4.75 kg to pounds. These recipes are designed to help you make the most of your air fryer for juicy, flavorful roasts."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "4.75 kg beef joint to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds",
+    "@type": "WebPage",
+    "name": "4.75 kg beef joint to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds",
     "description": "Convert 4.75 kg beef joint to pounds instantly. Perfect for air fryer cooking times and portion planning. Get accurate results now!",
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "4.75 kg beef joint to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/4-75-kg-beef-joint-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>If you have a 4.75 kg beef joint and need to know its weight in pounds, the conversion is straightforward: 4.75 kilograms equals approximately 10.47 pounds. This conversion is essential for air fryer users who follow recipes or cooking guidelines that use imperial measurements. Knowing the exact weight helps you calculate cooking times accurately, ensuring your beef joint is perfectly cooked through. Whether you're preparing a Sunday roast or a special dinner, getting the weight right is the first step to success. For more handy conversion tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil"
-        },
-        "headline": "Quick Guide: Convert 135 ml of Olive Oil to Cups Easily",
-        "description": "Learn how to convert 135 ml of olive oil to cups for precise cooking and baking. Get accurate measurements for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 135 ml of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 135 ml of olive oil to cups for precise cooking and baking. Get accurate measurements for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-135-ml-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-135-ml-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 135 ml of olive oil the same as 135 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, olive oil has a density of about 0.92 grams per millilitre, so 135 ml weighs roughly 124 grams. Always use volume measurements (ml or cups) for liquids unless a recipe specifies weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, olive oil has a density of about 0.92 grams per millilitre, so 135 ml weighs roughly 124 grams. Always use volume measurements (ml or cups) for liquids unless a recipe specifies weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use vegetable oil instead of olive oil in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust the quantity slightly. Vegetable oil is less dense, so you might need about 0.6 cups (142 ml) to match 135 ml of olive oil. Check your recipe for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust the quantity slightly. Vegetable oil is less dense, so you might need about 0.6 cups (142 ml) to match 135 ml of olive oil. Check your recipe for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 135 ml of olive oil without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoons: 1 tablespoon = 15 ml, so 135 ml equals 9 tablespoons. For larger amounts, a kitchen scale set to grams (124 g for 135 ml) is more accurate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoons: 1 tablespoon = 15 ml, so 135 ml equals 9 tablespoons. For larger amounts, a kitchen scale set to grams (124 g for 135 ml) is more accurate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air-fried food turn out greasy with 135 ml of oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You might be using too much oil or not distributing it evenly. Try spraying or brushing oil onto food instead of pouring. For lighter results, reduce the oil by 10-15% and shake the basket mid-cook."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You might be using too much oil or not distributing it evenly. Try spraying or brushing oil onto food instead of pouring. For lighter results, reduce the oil by 10-15% and shake the basket mid-cook."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 135 ml of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 135 ml of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil",
     "description": "Learn how to convert 135 ml of olive oil to cups for precise cooking and baking. Get accurate measurements for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 135 ml of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-135-ml-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>135 ml of olive oil equals approximately 0.57 cups (or just over half a cup). This conversion is essential for precise cooking, especially when using an air fryer, where measurements can impact texture and flavour. Whether you're preparing a crispy roast or a moist cake, knowing how to convert millilitres to cups ensures consistency in your recipes.</p>

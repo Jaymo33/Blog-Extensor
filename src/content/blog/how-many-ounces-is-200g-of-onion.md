@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion"
-        },
-        "headline": "Quick Answer: How many ounces is 200g of onion?",
-        "description": "Discover how many ounces 200g of onion equals and master air fryer measurements for perfect recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion"
+    },
+    "headline": "Quick Answer: How many ounces is 200g of onion?",
+    "description": "Discover how many ounces 200g of onion equals and master air fryer measurements for perfect recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 200g of onion without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can estimate 200g of onion by volume: diced onions fill about 1.5 metric cups, while sliced onions occupy roughly 2 cups. However, for air fryer recipes, weighing is more accurate since onion density varies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can estimate 200g of onion by volume: diced onions fill about 1.5 metric cups, while sliced onions occupy roughly 2 cups. However, for air fryer recipes, weighing is more accurate since onion density varies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is 200g of onion a common measurement in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "200g (7.05 oz) of onion is a versatile quantity that provides enough flavour without overpowering dishes. It’s ideal for family-sized portions and works well in everything from stir-fries to soups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "200g (7.05 oz) of onion is a versatile quantity that provides enough flavour without overpowering dishes. It’s ideal for family-sized portions and works well in everything from stir-fries to soups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen onions instead of fresh for 200g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, frozen onions can substitute fresh in a 1:1 ratio by weight. However, they may release more moisture in the air fryer, so pat them dry or adjust cooking times slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, frozen onions can substitute fresh in a 1:1 ratio by weight. However, they may release more moisture in the air fryer, so pat them dry or adjust cooking times slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many onions equal 200g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Typically, two medium onions weigh around 200g, but sizes vary. For accuracy, use kitchen scales. Large onions can weigh 200g each, while small ones might take three to reach 200g."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Typically, two medium onions weigh around 200g, but sizes vary. For accuracy, use kitchen scales. Large onions can weigh 200g each, while small ones might take three to reach 200g."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion",
     "description": "Discover how many ounces 200g of onion equals and master air fryer measurements for perfect recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200g of onion equals approximately 7.05 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're prepping ingredients for a stir-fry or caramelising onions for a burger topping, knowing the exact weight ensures consistent results. At <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for hassle-free cooking. Let’s dive deeper into why this matters and how to measure onions perfectly for your air fryer.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk"
-        },
-        "headline": "Quick Answer: How many grams is 1 tbsp of condensed milk?",
-        "description": "Discover the exact weight of 1 tbsp condensed milk in grams for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk"
+    },
+    "headline": "Quick Answer: How many grams is 1 tbsp of condensed milk?",
+    "description": "Discover the exact weight of 1 tbsp condensed milk in grams for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use sweetened condensed milk instead of regular condensed milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, sweetened condensed milk works similarly but is sweeter and thicker. Adjust sugar levels in your recipe accordingly. For air frying, it caramelises beautifully, adding a rich flavour to desserts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, sweetened condensed milk works similarly but is sweeter and thicker. Adjust sugar levels in your recipe accordingly. For air frying, it caramelises beautifully, adding a rich flavour to desserts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does condensed milk weight vary slightly between brands?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different brands may have slight variations in density due to sugar content or processing methods. Always check the label or weigh it yourself for precision, especially in air fryer recipes where consistency matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different brands may have slight variations in density due to sugar content or processing methods. Always check the label or weigh it yourself for precision, especially in air fryer recipes where consistency matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover condensed milk after measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Transfer any unused condensed milk to an airtight container and refrigerate. It lasts up to two weeks. For longer storage, freeze it in small portions for future air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Transfer any unused condensed milk to an airtight container and refrigerate. It lasts up to two weeks. For longer storage, freeze it in small portions for future air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute evaporated milk for condensed milk in air fryer baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk is unsweetened and thinner. If substituting, add sugar to match condensed milk’s sweetness and texture. For best results, stick to the original recipe or adjust cooking times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk is unsweetened and thinner. If substituting, add sugar to match condensed milk’s sweetness and texture. For best results, stick to the original recipe or adjust cooking times."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of condensed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of condensed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk",
     "description": "Discover the exact weight of 1 tbsp condensed milk in grams for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of condensed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 tablespoon (tbsp) of condensed milk weighs approximately 19 grams. This measurement is essential for precise baking and cooking, especially when using an air fryer where ingredient ratios can affect texture and cooking times. Whether you're making desserts or glazes, knowing this conversion ensures consistent results every time.</p>  

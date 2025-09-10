@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce"
-        },
-        "headline": "Quick Guide: Convert 0.66 Cup of Hoisin Sauce to Ounces",
-        "description": "Learn how to convert 0.66 cup of hoisin sauce to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce"
+    },
+    "headline": "Quick Guide: Convert 0.66 Cup of Hoisin Sauce to Ounces",
+    "description": "Learn how to convert 0.66 cup of hoisin sauce to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-hoisin-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-hoisin-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 0.66 cup of hoisin sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, it’s not the most accurate method. 0.66 cup equals about 10.5 tablespoons, but hoisin sauce’s thickness can lead to inconsistencies. A kitchen scale or liquid measuring cup is better for precise results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, it’s not the most accurate method. 0.66 cup equals about 10.5 tablespoons, but hoisin sauce’s thickness can lead to inconsistencies. A kitchen scale or liquid measuring cup is better for precise results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does hoisin sauce weight change if it’s refrigerated?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Hoisin sauce thickens when chilled, which might slightly affect volume measurements. For accuracy, let it sit at room temperature for 10 minutes before measuring 0.66 cup (5.28 oz). Stirring it can also help maintain consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hoisin sauce thickens when chilled, which might slightly affect volume measurements. For accuracy, let it sit at room temperature for 10 minutes before measuring 0.66 cup (5.28 oz). Stirring it can also help maintain consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best air fryer recipe for 0.66 cup of hoisin sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Try our sticky hoisin-glazed chicken thighs or tofu bites. The 0.66 cup (5.28 oz) quantity is perfect for coating 4–6 servings. Preheat your air fryer to 200°C and cook for 12–15 minutes, brushing with extra sauce halfway."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Try our sticky hoisin-glazed chicken thighs or tofu bites. The 0.66 cup (5.28 oz) quantity is perfect for coating 4–6 servings. Preheat your air fryer to 200°C and cook for 12–15 minutes, brushing with extra sauce halfway."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean hoisin sauce from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Soak the basket in warm, soapy water to loosen sticky residue. For stubborn spots, use a soft brush or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid abrasive scrubbers to protect non-stick coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Soak the basket in warm, soapy water to loosen sticky residue. For stubborn spots, use a soft brush or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. Avoid abrasive scrubbers to protect non-stick coatings."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.66 cup of hoisin sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.66 cup of hoisin sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce",
     "description": "Learn how to convert 0.66 cup of hoisin sauce to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.66 cup of hoisin sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-hoisin-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.66 cup of hoisin sauce equals approximately 5.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're marinating chicken or glazing tofu, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you nail every detail, from conversions to cooking times.</p>

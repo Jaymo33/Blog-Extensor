@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter"
-        },
-        "headline": "Quick Answer: How Many Cups Is 75 Grams of Butter?",
-        "description": "Find out exactly how many cups 75 grams of butter equals for perfect baking and air frying every time. Simple conversions made easy!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter"
+    },
+    "headline": "Quick Answer: How Many Cups Is 75 Grams of Butter?",
+    "description": "Find out exactly how many cups 75 grams of butter equals for perfect baking and air frying every time. Simple conversions made easy!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T19:05:43.270Z",
-        "dateModified": "2025-07-27T19:05:43.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T19:05:43.270Z",
+    "dateModified": "2025-07-27T19:05:43.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 75 grams of butter the same as 1/3 cup in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 75 grams of butter generally equals 1/3 cup, slight variations exist between the UK (250ml cup) and US (240ml cup). For most home cooking, the difference is negligible, but for precision baking in your air fryer, it’s best to use grams or a kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 75 grams of butter generally equals 1/3 cup, slight variations exist between the UK (250ml cup) and US (240ml cup). For most home cooking, the difference is negligible, but for precision baking in your air fryer, it’s best to use grams or a kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use margarine instead of butter for 75 grams in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute margarine for butter in equal amounts (75 grams or 1/3 cup), but be aware it may alter flavour and texture. Margarine often has higher water content, which can affect crispiness in air-fried foods. For best results, stick to butter unless the recipe specifies otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute margarine for butter in equal amounts (75 grams or 1/3 cup), but be aware it may alter flavour and texture. Margarine often has higher water content, which can affect crispiness in air-fried foods. For best results, stick to butter unless the recipe specifies otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 75 grams of butter if I don’t have a scale or cup measures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoon measures (about 5.5 tablespoons for 75 grams) or check the markings on a butter wrapper. Most UK butter blocks have 50g increments—cut just over halfway between 50g and 100g. For sticky ingredients, lightly grease your measuring spoon first."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoon measures (about 5.5 tablespoons for 75 grams) or check the markings on a butter wrapper. Most UK butter blocks have 50g increments—cut just over halfway between 50g and 100g. For sticky ingredients, lightly grease your measuring spoon first."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer smoke when I use butter?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Butter has a low smoke point (around 150°C), so it can burn easily in high-heat air fryers. To prevent this, use butter sparingly (like 75 grams/1/3 cup brushed on) or mix it with oil. Always clean your air fryer after buttery recipes to avoid residue buildup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Butter has a low smoke point (around 150°C), so it can burn easily in high-heat air fryers. To prevent this, use butter sparingly (like 75 grams/1/3 cup brushed on) or mix it with oil. Always clean your air fryer after buttery recipes to avoid residue buildup."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 75 Grams of Butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 75 Grams of Butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter",
     "description": "Find out exactly how many cups 75 grams of butter equals for perfect baking and air frying every time. Simple conversions made easy!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 75 Grams of Butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75 grams of butter is roughly equivalent to 1/3 cup (or 0.33 cups to be precise). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up crispy cookies or a buttery cake in your air fryer, knowing how many cups 75 grams of butter equals ensures perfect results every time.</p>

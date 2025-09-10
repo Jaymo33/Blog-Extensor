@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice"
-        },
-        "headline": "Quick Conversion: 2.75 Cups of Lime Juice to ml Explained",
-        "description": "Convert 2.75 cups of lime juice to ml effortlessly with our simple guide—perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice"
+    },
+    "headline": "Quick Conversion: 2.75 Cups of Lime Juice to ml Explained",
+    "description": "Convert 2.75 cups of lime juice to ml effortlessly with our simple guide—perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:40.896Z",
-        "dateModified": "2025-07-30T08:54:40.896Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:40.896Z",
+    "dateModified": "2025-07-30T08:54:40.896Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.75 cups of lime juice the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2.75 cups of lime juice equals approximately 650.62 ml in both UK and US measurements. While cup sizes can vary slightly by country, the difference is negligible for liquid ingredients like lime juice. Always use a standard measuring cup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2.75 cups of lime juice equals approximately 650.62 ml in both UK and US measurements. While cup sizes can vary slightly by country, the difference is negligible for liquid ingredients like lime juice. Always use a standard measuring cup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for this measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Bottled lime juice works fine, especially when you need 650.62 ml (2.75 cups). Just ensure it’s 100% lime juice without added sugars or preservatives, which can alter flavours. Fresh lime juice offers a brighter taste, but bottled is convenient for large quantities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Bottled lime juice works fine, especially when you need 650.62 ml (2.75 cups). Just ensure it’s 100% lime juice without added sugars or preservatives, which can alter flavours. Fresh lime juice offers a brighter taste, but bottled is convenient for large quantities."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many limes do I need for 2.75 cups (650.62 ml) of juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You’ll need about 18-20 medium limes to yield 2.75 cups (650.62 ml) of juice. Roll limes firmly before juicing to maximise yield. For efficiency, consider a citrus juicer—it’s a lifesaver when prepping large amounts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You’ll need about 18-20 medium limes to yield 2.75 cups (650.62 ml) of juice. Roll limes firmly before juicing to maximise yield. For efficiency, consider a citrus juicer—it’s a lifesaver when prepping large amounts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store leftover lime juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover lime juice in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays—each cube holds roughly 30 ml, making it easy to thaw the exact amount needed for future air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover lime juice in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays—each cube holds roughly 30 ml, making it easy to thaw the exact amount needed for future air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.75 Cups of Lime Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.75 Cups of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice",
     "description": "Convert 2.75 cups of lime juice to ml effortlessly with our simple guide—perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:40.896000+00:00",
     "dateModified": "2025-07-30T08:54:40.896000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.75 Cups of Lime Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.75 cups of lime juice equals approximately 650.62 millilitres (ml). This conversion is essential for air fryer recipes where precision ensures the perfect balance of flavours. Whether you’re whipping up a zesty marinade or a tangy dessert, knowing how to convert cups to ml is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making cooking conversions effortless, so you can focus on creating delicious meals.</p>

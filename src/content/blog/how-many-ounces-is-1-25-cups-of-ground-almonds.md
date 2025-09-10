@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds"
-        },
-        "headline": "Quick Answer: How many ounces is 1.25 cups of ground almonds?",
-        "description": "Find out exactly how many ounces are in 1.25 cups of ground almonds for perfect air fryer recipes every time. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds"
+    },
+    "headline": "Quick Answer: How many ounces is 1.25 cups of ground almonds?",
+    "description": "Find out exactly how many ounces are in 1.25 cups of ground almonds for perfect air fryer recipes every time. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-ground-almonds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-of-ground-almonds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of almond affect the 1.25 cups to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, almond variety can slightly affect the conversion. Blanched almonds grind finer than whole almonds with skins, potentially changing the weight. However, for most recipes, the difference is minimal when converting 1.25 cups to ounces. Always use the same type specified in your air fryer recipe for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, almond variety can slightly affect the conversion. Blanched almonds grind finer than whole almonds with skins, potentially changing the weight. However, for most recipes, the difference is minimal when converting 1.25 cups to ounces. Always use the same type specified in your air fryer recipe for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other nut flours in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the 1.25 cups to ounces conversion works similarly for most nut flours, weights vary slightly. For example, hazelnut flour is slightly denser than almond flour. Always check specific conversions when substituting in air fryer recipes, as cooking times may need adjustment for different nut flours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the 1.25 cups to ounces conversion works similarly for most nut flours, weights vary slightly. For example, hazelnut flour is slightly denser than almond flour. Always check specific conversions when substituting in air fryer recipes, as cooking times may need adjustment for different nut flours."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust air fryer temperature when using ground almonds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ground almonds brown quickly in air fryers due to their high fat content. When using 1.25 cups (4.5 ounces), reduce temperature by 10-15°C from standard recipes. Watch closely during cooking, as almond coatings can go from golden to burnt quickly in the concentrated heat of an air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ground almonds brown quickly in air fryers due to their high fat content. When using 1.25 cups (4.5 ounces), reduce temperature by 10-15°C from standard recipes. Watch closely during cooking, as almond coatings can go from golden to burnt quickly in the concentrated heat of an air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my almond coating fall off in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This usually happens when the 1.25 cups to ounces ratio is off, making the coating too dry or too wet. Ensure proper measurement and consider adding an egg wash for adhesion. Also, preheat your air fryer and lightly spray the basket with oil to help coatings stick better during cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This usually happens when the 1.25 cups to ounces ratio is off, making the coating too dry or too wet. Ensure proper measurement and consider adding an egg wash for adhesion. Also, preheat your air fryer and lightly spray the basket with oil to help coatings stick better during cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of ground almonds?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of ground almonds?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds",
     "description": "Find out exactly how many ounces are in 1.25 cups of ground almonds for perfect air fryer recipes every time. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of ground almonds?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-of-ground-almonds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of ground almonds equals approximately 4.5 ounces. This conversion is essential for air fryer recipes where precision matters. Whether you're baking almond flour cookies or coating chicken, getting the measurement right ensures perfect results every time. Ground almonds are a versatile ingredient, and knowing their weight in ounces helps avoid kitchen mishaps. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

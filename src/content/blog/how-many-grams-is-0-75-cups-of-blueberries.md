@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries"
-        },
-        "headline": "Quick Answer: How Many Grams in 0.75 Cups of Blueberries?",
-        "description": "Find out exactly how many grams 0.75 cups of blueberries equals for perfect air fryer recipes every time. No more guesswork!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries"
+    },
+    "headline": "Quick Answer: How Many Grams in 0.75 Cups of Blueberries?",
+    "description": "Find out exactly how many grams 0.75 cups of blueberries equals for perfect air fryer recipes every time. No more guesswork!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:24.205Z",
-        "dateModified": "2025-07-27T16:11:24.205Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-blueberries.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:24.205Z",
+    "dateModified": "2025-07-27T16:11:24.205Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-75-cups-of-blueberries.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the weight of 0.75 cups blueberries change if they're frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, frozen blueberries typically weigh slightly more than fresh - about 10-15% extra due to ice crystals. For 0.75 cups frozen, you might get around 120-125 grams. Always thaw and pat them dry before measuring for air fryer recipes to prevent excess moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, frozen blueberries typically weigh slightly more than fresh - about 10-15% extra due to ice crystals. For 0.75 cups frozen, you might get around 120-125 grams. Always thaw and pat them dry before measuring for air fryer recipes to prevent excess moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this same conversion for other berries in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 0.75 cups of most small berries is roughly similar, weights vary. Raspberries are lighter (about 90g for 0.75 cups), while blackberries are heavier (around 130g). Always check specific conversions when substituting berries in air fryer recipes for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 0.75 cups of most small berries is roughly similar, weights vary. Raspberries are lighter (about 90g for 0.75 cups), while blackberries are heavier (around 130g). Always check specific conversions when substituting berries in air fryer recipes for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I adjust air fryer cooking times when using 0.75 cups blueberries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For recipes using 112g (0.75 cups) blueberries, you typically don't need major time adjustments. However, if making something like muffins or cakes, add 1-2 minutes to account for the extra moisture. Always check doneness with a toothpick when baking with berries."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For recipes using 112g (0.75 cups) blueberries, you typically don't need major time adjustments. However, if making something like muffins or cakes, add 1-2 minutes to account for the extra moisture. Always check doneness with a toothpick when baking with berries."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer blueberry recipe come out soggy sometimes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sogginess usually means either too many blueberries (exceeding the 112g/0.75 cups measurement) or not patting frozen berries dry. Another cause could be overcrowding the air fryer basket. Ensure proper spacing and consider tossing berries in flour to absorb excess moisture before cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sogginess usually means either too many blueberries (exceeding the 112g/0.75 cups measurement) or not patting frozen berries dry. Another cause could be overcrowding the air fryer basket. Ensure proper spacing and consider tossing berries in flour to absorb excess moisture before cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 0.75 Cups of Blueberries?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.75 Cups of Blueberries?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries",
     "description": "Find out exactly how many grams 0.75 cups of blueberries equals for perfect air fryer recipes every time. No more guesswork!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:24.205000+00:00",
     "dateModified": "2025-07-27T16:11:24.205000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 0.75 Cups of Blueberries?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-75-cups-of-blueberries"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cups of blueberries equals approximately 112 grams. This measurement is crucial for air fryer recipes where precision ensures even cooking and perfect texture. Whether you're making blueberry muffins, compote, or a fruity dessert, knowing this conversion helps avoid kitchen mishaps.</p>

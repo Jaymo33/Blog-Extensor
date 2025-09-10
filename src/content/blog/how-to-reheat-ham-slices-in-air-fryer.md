@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer"
-        },
-        "headline": "Reheat Ham Slices in Air Fryer - Quick & Juicy Results",
-        "description": "Learn how to reheat ham slices in an air fryer without drying them out. Get perfect temperature, timing, and tips for juicy leftovers every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer"
+    },
+    "headline": "Reheat Ham Slices in Air Fryer - Quick & Juicy Results",
+    "description": "Learn how to reheat ham slices in an air fryer without drying them out. Get perfect temperature, timing, and tips for juicy leftovers every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T18:39:33.442Z",
-        "dateModified": "2025-07-22T18:39:33.442Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-ham-slices-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T18:39:33.442Z",
+    "dateModified": "2025-07-22T18:39:33.442Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-ham-slices-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat ham slices straight from the fridge in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but for best results, let refrigerated ham slices sit at room temperature for 10 minutes first. This helps them reheat more evenly without the outside overcooking while the centre stays cold."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but for best results, let refrigerated ham slices sit at room temperature for 10 minutes first. This helps them reheat more evenly without the outside overcooking while the centre stays cold."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent ham slices from drying out in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a lower temperature (160°C/320°F) and shorter cooking time (3-4 minutes). You can also lightly brush slices with glaze or broth before reheating, or place a small dish of water in the air fryer to create steam."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a lower temperature (160°C/320°F) and shorter cooking time (3-4 minutes). You can also lightly brush slices with glaze or broth before reheating, or place a small dish of water in the air fryer to create steam."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat frozen ham slices in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, it's better to thaw ham slices first in the refrigerator overnight. If reheating from frozen, add 1-2 minutes to the cooking time and check frequently to prevent drying or uneven heating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, it's better to thaw ham slices first in the refrigerator overnight. If reheating from frozen, add 1-2 minutes to the cooking time and check frequently to prevent drying or uneven heating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to reheat multiple ham slices at once?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For even results, reheat in a single layer without overlapping. If you must stack, separate layers with parchment paper and flip halfway through cooking. For large quantities, work in batches and keep cooked slices warm in a low oven."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For even results, reheat in a single layer without overlapping. If you must stack, separate layers with parchment paper and flip halfway through cooking. For large quantities, work in batches and keep cooked slices warm in a low oven."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Ham Slices in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Ham Slices in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer",
     "description": "Learn how to reheat ham slices in an air fryer without drying them out. Get perfect temperature, timing, and tips for juicy leftovers every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:39:33.442000+00:00",
     "dateModified": "2025-07-22T18:39:33.442000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Ham Slices in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-ham-slices-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>To reheat ham slices in an air fryer, set the temperature to 160°C (320°F) and cook for 3-4 minutes. This gentle heat warms the ham through without drying it out, while the air circulation adds a light crispness to the edges. Whether you're using leftover holiday ham or deli slices, your air fryer delivers better results than a microwave.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce"
-        },
-        "headline": "Quick Answer: How many grams is 0.25 tbsp of hot sauce?",
-        "description": "Find out exactly how many grams are in 0.25 tbsp of hot sauce for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce"
+    },
+    "headline": "Quick Answer: How many grams is 0.25 tbsp of hot sauce?",
+    "description": "Find out exactly how many grams are in 0.25 tbsp of hot sauce for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-of-hot-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-of-hot-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of hot sauce affect the gram measurement for 0.25 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different hot sauces can vary slightly in density. Thicker sauces like sriracha will weigh slightly more per tablespoon than thinner vinegar-based sauces. However, the difference is minimal for small quantities like 0.25 tbsp, with most falling in the 3.5-4 gram range."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different hot sauces can vary slightly in density. Thicker sauces like sriracha will weigh slightly more per tablespoon than thinner vinegar-based sauces. However, the difference is minimal for small quantities like 0.25 tbsp, with most falling in the 3.5-4 gram range."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other liquid ingredients in my air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While this conversion works for hot sauce, other liquids may have different densities. For example, 0.25 tbsp of oil weighs about 3.7 grams, similar to hot sauce, but thicker liquids like honey would weigh more. Always check specific conversions for different ingredients when precision matters in your air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While this conversion works for hot sauce, other liquids may have different densities. For example, 0.25 tbsp of oil weighs about 3.7 grams, similar to hot sauce, but thicker liquids like honey would weigh more. Always check specific conversions for different ingredients when precision matters in your air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 0.25 tbsp of hot sauce if I don't have measuring spoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you lack measuring spoons, you can estimate 0.25 tbsp as about half of a standard teaspoon (since 1 tbsp equals 3 tsp). Alternatively, use the bottle's drip rate - about 12-15 drops from a standard hot sauce bottle equals roughly 0.25 tbsp. For consistent results in air fryer recipes, we recommend investing in proper measuring tools."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you lack measuring spoons, you can estimate 0.25 tbsp as about half of a standard teaspoon (since 1 tbsp equals 3 tsp). Alternatively, use the bottle's drip rate - about 12-15 drops from a standard hot sauce bottle equals roughly 0.25 tbsp. For consistent results in air fryer recipes, we recommend investing in proper measuring tools."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is precise measurement important when using hot sauce in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Precision matters because the air fryer's intense heat can concentrate flavours. Too much hot sauce can make dishes unbearably spicy, while too little might leave them bland. The enclosed cooking environment also means flavours distribute evenly, so accurate measurements ensure balanced results every time you cook."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Precision matters because the air fryer's intense heat can concentrate flavours. Too much hot sauce can make dishes unbearably spicy, while too little might leave them bland. The enclosed cooking environment also means flavours distribute evenly, so accurate measurements ensure balanced results every time you cook."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.25 tbsp of hot sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce",
+    "@type": "WebPage",
+    "name": "How many grams is 0.25 tbsp of hot sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce",
     "description": "Find out exactly how many grams are in 0.25 tbsp of hot sauce for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.25 tbsp of hot sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-hot-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 tbsp of hot sauce weighs approximately 3.75 grams. This measurement is essential for precision in air fryer cooking, where exact quantities can make or break a recipe. Whether you're spicing up chicken wings or adding a kick to your vegetables, knowing this conversion ensures consistent results every time.</p>

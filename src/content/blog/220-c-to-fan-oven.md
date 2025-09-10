@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven"
-        },
-        "headline": "220 C to Fan Oven: Easy Conversion Guide",
-        "description": "Learn how to convert 220 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven"
+    },
+    "headline": "220 C to Fan Oven: Easy Conversion Guide",
+    "description": "Learn how to convert 220 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T17:06:33.012Z",
-        "dateModified": "2025-07-21T17:06:33.012Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/220-c-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T17:06:33.012Z",
+    "dateModified": "2025-07-21T17:06:33.012Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/220-c-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 220 C in a fan oven without converting?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It's best to convert 220 C to 200 C in a fan oven to avoid overcooking. Fan ovens circulate heat more efficiently, so the lower temperature ensures even results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It's best to convert 220 C to 200 C in a fan oven to avoid overcooking. Fan ovens circulate heat more efficiently, so the lower temperature ensures even results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the air fryer equivalent of 220 C fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers work similarly to fan ovens, so 200 C is ideal. However, cooking times may be shorter—check food 5-10 minutes earlier than usual."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers work similarly to fan ovens, so 200 C is ideal. However, cooking times may be shorter—check food 5-10 minutes earlier than usual."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do fan ovens need lower temperatures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens distribute heat evenly with a circulating fan, so reducing the temperature by 20 degrees (e.g., 220 C to 200 C) prevents burning or drying out."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens distribute heat evenly with a circulating fan, so reducing the temperature by 20 degrees (e.g., 220 C to 200 C) prevents burning or drying out."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust baking times when converting 220 C to fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Start checking food 5-10 minutes earlier, as fan ovens cook faster. For air fryers, reduce times by 15-20% and shake the basket midway for even crisping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Start checking food 5-10 minutes earlier, as fan ovens cook faster. For air fryers, reduce times by 15-20% and shake the basket midway for even crisping."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "220 C to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven",
+    "@type": "WebPage",
+    "name": "220 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven",
     "description": "Learn how to convert 220 C to fan oven settings for perfect baking. Includes air fryer equivalents and temperature tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T17:06:33.012000+00:00",
     "dateModified": "2025-07-21T17:06:33.012000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "220 C to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/220-c-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>220 C in a fan oven is equivalent to 200 C, as fan ovens circulate hot air for even cooking, allowing you to reduce the temperature by 20 degrees. This adjustment ensures your food cooks evenly without drying out or burning. Whether you're baking, roasting, or air frying, understanding this conversion is key to perfect results. For more detailed guides, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

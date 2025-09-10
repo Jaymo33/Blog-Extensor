@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella"
-        },
-        "headline": "Quick Answer: How many ounces is 1.5 cups of Nutella?",
-        "description": "Find out exactly how many ounces are in 1.5 cups of Nutella for perfect air fryer recipes every time. Includes UK conversions.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella"
+    },
+    "headline": "Quick Answer: How many ounces is 1.5 cups of Nutella?",
+    "description": "Find out exactly how many ounces are in 1.5 cups of Nutella for perfect air fryer recipes every time. Includes UK conversions.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-nutella.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-nutella.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use grams instead of ounces to measure 1.5 cups of Nutella?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 1.5 cups of Nutella equals approximately 340 grams. Many UK recipes use metric measurements, and kitchen scales often provide more accurate results than volume measurements for thick spreads like Nutella."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 1.5 cups of Nutella equals approximately 340 grams. Many UK recipes use metric measurements, and kitchen scales often provide more accurate results than volume measurements for thick spreads like Nutella."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of Nutella affect the ounce measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While different brands might have slight density variations, 1.5 cups of any chocolate hazelnut spread will be roughly 12 ounces. For precision baking in your air fryer, weighing the ingredients (340g) is more reliable than volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While different brands might have slight density variations, 1.5 cups of any chocolate hazelnut spread will be roughly 12 ounces. For precision baking in your air fryer, weighing the ingredients (340g) is more reliable than volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 1.5 cups (12 oz) of Nutella make in air fryer desserts?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Typically, 12 ounces of Nutella makes 6-8 servings depending on the recipe. For stuffed pastries or cookies, it's enough for about a dozen pieces. Always check your specific recipe's serving sizes as air fryer capacities vary."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Typically, 12 ounces of Nutella makes 6-8 servings depending on the recipe. For stuffed pastries or cookies, it's enough for about a dozen pieces. Always check your specific recipe's serving sizes as air fryer capacities vary."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute other nut butters for Nutella in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute other nut butters, but they won't provide the same sweetness or texture. If swapping, adjust sugar content accordingly. For best results with the 1.5 cup (12 oz) measurement, stick to Nutella or similar chocolate-hazelnut spreads."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute other nut butters, but they won't provide the same sweetness or texture. If swapping, adjust sugar content accordingly. For best results with the 1.5 cup (12 oz) measurement, stick to Nutella or similar chocolate-hazelnut spreads."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.5 cups of nutella?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of nutella?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella",
     "description": "Find out exactly how many ounces are in 1.5 cups of Nutella for perfect air fryer recipes every time. Includes UK conversions.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.5 cups of nutella?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-nutella"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of Nutella equals approximately 12 ounces (340 grams) in UK measurements. This conversion is essential for air fryer recipes where precise measurements matter. Whether you're making Nutella brownies or stuffed pastries, knowing this conversion ensures perfect results every time.</p>

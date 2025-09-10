@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar"
-        },
-        "headline": "Quick Guide: Convert 25g of Caster Sugar to Ounces Easily",
-        "description": "Learn how to convert 25g of caster sugar to ounces in seconds with our simple guide. Perfect for air fryer baking and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar"
+    },
+    "headline": "Quick Guide: Convert 25g of Caster Sugar to Ounces Easily",
+    "description": "Learn how to convert 25g of caster sugar to ounces in seconds with our simple guide. Perfect for air fryer baking and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-caster-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-caster-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use granulated sugar instead of caster sugar in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but with caution. Granulated sugar has larger crystals, so it may not dissolve as evenly in air fryer recipes. If substituting, pulse the granulated sugar in a blender briefly to make it finer. The weight conversion remains the same—25g equals 0.88 oz for both types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but with caution. Granulated sugar has larger crystals, so it may not dissolve as evenly in air fryer recipes. If substituting, pulse the granulated sugar in a blender briefly to make it finer. The weight conversion remains the same—25g equals 0.88 oz for both types."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 25g of caster sugar if I only have cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "25g of caster sugar is roughly 2 tablespoons or 1/8 cup. However, cup measurements can vary, so weighing is more accurate. For air fryer baking, where precision matters, we recommend using digital scales for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "25g of caster sugar is roughly 2 tablespoons or 1/8 cup. However, cup measurements can vary, so weighing is more accurate. For air fryer baking, where precision matters, we recommend using digital scales for the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer bake unevenly when using caster sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This could be due to overcrowding or incorrect temperature settings. Air fryers need space for proper air circulation. When baking with 25g of caster sugar (0.88 oz), use parchment paper with holes and shake the basket halfway for even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This could be due to overcrowding or incorrect temperature settings. Air fryers need space for proper air circulation. When baking with 25g of caster sugar (0.88 oz), use parchment paper with holes and shake the basket halfway for even cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 25g of caster sugar have the same calories in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the calorie content remains the same regardless of the measurement unit. 25g (0.88 oz) of caster sugar contains about 100 calories. The weight-to-volume conversion doesn't affect nutritional values, only how you measure it."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the calorie content remains the same regardless of the measurement unit. 25g (0.88 oz) of caster sugar contains about 100 calories. The weight-to-volume conversion doesn't affect nutritional values, only how you measure it."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of caster sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of caster sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar",
     "description": "Learn how to convert 25g of caster sugar to ounces in seconds with our simple guide. Perfect for air fryer baking and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of caster sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-caster-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of caster sugar equals approximately 0.88 ounces. This conversion is essential for air fryer baking, where precision can make or break your recipe. Whether you're whipping up cakes, cookies, or desserts, knowing how to convert grams to ounces ensures your measurements are spot-on. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with delicate ingredients like caster sugar.</p>

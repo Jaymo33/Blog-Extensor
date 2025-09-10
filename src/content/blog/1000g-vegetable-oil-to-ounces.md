@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces"
-        },
-        "headline": "Quick Conversion: 1000g Vegetable Oil to Ounces UK",
-        "description": "Convert 1000g of vegetable oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces"
+    },
+    "headline": "Quick Conversion: 1000g Vegetable Oil to Ounces UK",
+    "description": "Convert 1000g of vegetable oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-vegetable-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1000g-vegetable-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 1000g of vegetable oil for deep frying in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers are designed to use minimal oil, so 1000g would be excessive. Typically, you’d use just 1-2 tablespoons for most recipes. Stick to lighter coatings or sprays for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers are designed to use minimal oil, so 1000g would be excessive. Typically, you’d use just 1-2 tablespoons for most recipes. Stick to lighter coatings or sprays for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 1000g of vegetable oil compare to other oils in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most cooking oils have similar densities, so 1000g of olive, sunflower, or canola oil also equals roughly 35.27 ounces. Small variations exist, but the difference is negligible for air frying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most cooking oils have similar densities, so 1000g of olive, sunflower, or canola oil also equals roughly 35.27 ounces. Small variations exist, but the difference is negligible for air frying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes list oil in grams and others in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes vary by region—UK and EU recipes often use grams, while older or US recipes may use ounces. Converting 1000g to 35.27 ounces helps standardise measurements for consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes vary by region—UK and EU recipes often use grams, while older or US recipes may use ounces. Converting 1000g to 35.27 ounces helps standardise measurements for consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 1000g of vegetable oil last in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It depends on usage, but 1000g (35.27 oz) can last months if stored properly. Since air fryers use little oil, you’ll likely use it across multiple recipes. Always check for rancidity before reuse."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on usage, but 1000g (35.27 oz) can last months if stored properly. Since air fryers use little oil, you’ll likely use it across multiple recipes. Always check for rancidity before reuse."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of vegetable oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of vegetable oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces",
     "description": "Convert 1000g of vegetable oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of vegetable oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/1000g-vegetable-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of vegetable oil equals approximately 35.27 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re whipping up crispy chips or a moist cake, getting the oil quantity right ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how crucial accuracy is for air fryer success. Let’s dive deeper into why this conversion matters and how to use it in your kitchen.</p>

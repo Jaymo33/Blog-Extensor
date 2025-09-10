@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer"
-        },
-        "headline": "Reheat Stuffed Potato Skins in Air Fryer – Crispy & Easy",
-        "description": "Learn the best way to reheat stuffed potato skins in an air fryer for crispy results without drying out. Perfect temps & timings explained!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer"
+    },
+    "headline": "Reheat Stuffed Potato Skins in Air Fryer – Crispy & Easy",
+    "description": "Learn the best way to reheat stuffed potato skins in an air fryer for crispy results without drying out. Perfect temps & timings explained!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-stuffed-potato-skins-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-stuffed-potato-skins-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat stuffed potato skins from frozen in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Frozen stuffed potato skins reheat beautifully in an air fryer at 180°C for 6–8 minutes. No need to thaw – just add 2–3 minutes to the usual reheating time and check that the centre reaches 74°C."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Frozen stuffed potato skins reheat beautifully in an air fryer at 180°C for 6–8 minutes. No need to thaw – just add 2–3 minutes to the usual reheating time and check that the centre reaches 74°C."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent reheated potato skins from drying out?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly brush the potato skins with oil or butter before reheating, and avoid overcooking. Keeping the temperature at 170–180°C and checking at 3-minute intervals helps maintain moisture while achieving crispness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly brush the potato skins with oil or butter before reheating, and avoid overcooking. Keeping the temperature at 170–180°C and checking at 3-minute intervals helps maintain moisture while achieving crispness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store leftover stuffed potato skins?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cool completely, then store in an airtight container in the fridge for up to 3 days. For longer storage, freeze individually on a tray before bagging. Always reheat from chilled or frozen – never at room temperature."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cool completely, then store in an airtight container in the fridge for up to 3 days. For longer storage, freeze individually on a tray before bagging. Always reheat from chilled or frozen – never at room temperature."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat potato skins with sour cream already on them?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s better to add fresh sour cream after reheating, as the air fryer’s heat can cause dairy toppings to separate. If reheating with sour cream, use lower heat (160°C) and cover loosely with foil."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s better to add fresh sour cream after reheating, as the air fryer’s heat can cause dairy toppings to separate. If reheating with sour cream, use lower heat (160°C) and cover loosely with foil."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Stuffed Potato Skins in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Stuffed Potato Skins in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer",
     "description": "Learn the best way to reheat stuffed potato skins in an air fryer for crispy results without drying out. Perfect temps & timings explained!",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Stuffed Potato Skins in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffed-potato-skins-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>To reheat stuffed potato skins in an air fryer, set the temperature to 180°C (350°F) and cook for 3–5 minutes until piping hot. This method restores crispiness while preventing the filling from drying out – far superior to microwaving. Whether you’ve stored them in the fridge or freezer, your air fryer can revive leftover potato skins with minimal effort.</p>

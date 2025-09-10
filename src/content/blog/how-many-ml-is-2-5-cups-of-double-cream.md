@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream"
-        },
-        "headline": "Quick Answer: 2.5 Cups of Double Cream in ml",
-        "description": "Convert 2.5 cups of double cream to ml effortlessly for perfect baking and cooking results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream"
+    },
+    "headline": "Quick Answer: 2.5 Cups of Double Cream in ml",
+    "description": "Convert 2.5 cups of double cream to ml effortlessly for perfect baking and cooking results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:40.088Z",
-        "dateModified": "2025-07-30T08:54:40.088Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-5-cups-of-double-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:40.088Z",
+    "dateModified": "2025-07-30T08:54:40.088Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-5-cups-of-double-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.5 cups of double cream the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While UK and US cup sizes differ (284ml vs. 240ml), 2.5 cups of double cream equals 600ml in both. The density of double cream ensures consistency, so no adjustment is needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While UK and US cup sizes differ (284ml vs. 240ml), 2.5 cups of double cream equals 600ml in both. The density of double cream ensures consistency, so no adjustment is needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 600ml of single cream instead of double cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Single cream has a lower fat content, so it won’t whip or thicken the same way. For best results, stick to double cream unless the recipe specifies otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Single cream has a lower fat content, so it won’t whip or thicken the same way. For best results, stick to double cream unless the recipe specifies otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 600ml of double cream last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Once opened, double cream lasts up to three days in the fridge. Store it in an airtight container to maintain freshness. Freezing is an option for longer storage."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Once opened, double cream lasts up to three days in the fridge. Store it in an airtight container to maintain freshness. Freezing is an option for longer storage."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 2.5 cups of double cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale: 600ml of double cream weighs roughly 600 grams. Alternatively, a standard UK metric measuring jug will give you the exact millilitre measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale: 600ml of double cream weighs roughly 600 grams. Alternatively, a standard UK metric measuring jug will give you the exact millilitre measurement."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.5 Cups of Double Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.5 Cups of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream",
     "description": "Convert 2.5 cups of double cream to ml effortlessly for perfect baking and cooking results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:40.088000+00:00",
     "dateModified": "2025-07-30T08:54:40.088000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.5 Cups of Double Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-double-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of double cream equals 600 millilitres (ml). This conversion is essential for air fryer recipes, ensuring accurate measurements for creamy, rich dishes. Whether you're whipping up desserts or savoury sauces, knowing how many ml is 2.5 cups of double cream guarantees consistency in your cooking. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

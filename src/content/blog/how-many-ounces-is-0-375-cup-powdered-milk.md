@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk"
-        },
-        "headline": "Quick Guide: Convert 0.375 Cup Powdered Milk to Ounces Easily",
-        "description": "Learn how to convert 0.375 cup of powdered milk to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk"
+    },
+    "headline": "Quick Guide: Convert 0.375 Cup Powdered Milk to Ounces Easily",
+    "description": "Learn how to convert 0.375 cup of powdered milk to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-powdered-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-powdered-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use liquid milk instead of 0.375 cup powdered milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to adjust the recipe. Replace 0.375 cup powdered milk (3 ounces) with 1.5 cups of liquid milk and reduce other liquids slightly. Keep in mind that texture may vary, especially in baked goods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to adjust the recipe. Replace 0.375 cup powdered milk (3 ounces) with 1.5 cups of liquid milk and reduce other liquids slightly. Keep in mind that texture may vary, especially in baked goods."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.375 cup of powdered milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoons for accuracy—0.375 cup equals 6 tablespoons (3 ounces). Alternatively, weigh it on a kitchen scale (85 grams). Levelling off the powder ensures you don’t overmeasure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoons for accuracy—0.375 cup equals 6 tablespoons (3 ounces). Alternatively, weigh it on a kitchen scale (85 grams). Levelling off the powder ensures you don’t overmeasure."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 0.375 cup of powdered milk work well in savoury air fryer dishes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! It adds creaminess to sauces, soups, and coatings. For example, mix 0.375 cup (3 ounces) with breadcrumbs for a crispy chicken coating. Adjust seasonings to taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! It adds creaminess to sauces, soups, and coatings. For example, mix 0.375 cup (3 ounces) with breadcrumbs for a crispy chicken coating. Adjust seasonings to taste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 0.375 cup of powdered milk clump in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Clumping happens if the powder isn’t sifted or stored properly. Before using 0.375 cup (3 ounces), sift it into the mixture. Store powdered milk in a cool, dry place to prevent moisture buildup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Clumping happens if the powder isn’t sifted or stored properly. Before using 0.375 cup (3 ounces), sift it into the mixture. Store powdered milk in a cool, dry place to prevent moisture buildup."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.375 cup of powdered milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.375 cup of powdered milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk",
     "description": "Learn how to convert 0.375 cup of powdered milk to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.375 cup of powdered milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-powdered-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.375 cup of powdered milk equals approximately 3 ounces. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're whipping up a cake or preparing a creamy sauce, knowing the exact weight ensures consistency.</p>

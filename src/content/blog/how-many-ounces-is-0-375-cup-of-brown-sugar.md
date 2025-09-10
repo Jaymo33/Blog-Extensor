@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar"
-        },
-        "headline": "Quick Answer: 0.375 Cup of Brown Sugar to Ounces UK",
-        "description": "Convert 0.375 cup of brown sugar to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements in the UK.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar"
+    },
+    "headline": "Quick Answer: 0.375 Cup of Brown Sugar to Ounces UK",
+    "description": "Convert 0.375 cup of brown sugar to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements in the UK.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-brown-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-brown-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use granulated sugar instead of brown sugar in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the results will differ. Brown sugar adds moisture and a caramel-like flavor due to its molasses content. If substituting, use the same weight (3 ounces for 0.375 cup), but expect a drier, less complex taste. For best results, stick to brown sugar in recipes specifically designed for it."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the results will differ. Brown sugar adds moisture and a caramel-like flavor due to its molasses content. If substituting, use the same weight (3 ounces for 0.375 cup), but expect a drier, less complex taste. For best results, stick to brown sugar in recipes specifically designed for it."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.375 cup of brown sugar if I only have a 1-cup measure?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fill the 1-cup measure halfway to 0.5 cup, then remove half of that amount. This leaves you with 0.375 cup (3 ounces). Alternatively, use 6 tablespoons, as each tablespoon is 0.5 ounce. For sticky ingredients like brown sugar, lightly pack it into the measure for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fill the 1-cup measure halfway to 0.5 cup, then remove half of that amount. This leaves you with 0.375 cup (3 ounces). Alternatively, use 6 tablespoons, as each tablespoon is 0.5 ounce. For sticky ingredients like brown sugar, lightly pack it into the measure for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 0.375 cup of brown sugar instead of a round number?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes often use precise measurements like 0.375 cup (3 ounces) to balance sweetness and moisture perfectly. Air fryers cook quickly, so exact amounts prevent burning or uneven results. This measurement is common in small-batch or single-serving recipes where every ounce counts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes often use precise measurements like 0.375 cup (3 ounces) to balance sweetness and moisture perfectly. Air fryers cook quickly, so exact amounts prevent burning or uneven results. This measurement is common in small-batch or single-serving recipes where every ounce counts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I soften hardened brown sugar for accurate 0.375 cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Place the hardened sugar in a bowl with a damp paper towel and microwave in 10-second bursts until soft. Alternatively, put it in your air fryer at 100°C for 2-3 minutes. Once softened, measure out your 0.375 cup (3 ounces) as usual. Store leftover sugar with a terra cotta disc to prevent re-hardening."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Place the hardened sugar in a bowl with a damp paper towel and microwave in 10-second bursts until soft. Alternatively, put it in your air fryer at 100°C for 2-3 minutes. Once softened, measure out your 0.375 cup (3 ounces) as usual. Store leftover sugar with a terra cotta disc to prevent re-hardening."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.375 cup of brown sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.375 cup of brown sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar",
     "description": "Convert 0.375 cup of brown sugar to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements in the UK.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.375 cup of brown sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-brown-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.375 cup of brown sugar equals approximately 3 ounces (84 grams) in UK measurements. This conversion is essential for air fryer recipes where precision matters. Whether you're whipping up cookies or a glaze, knowing how many ounces are in 0.375 cup of brown sugar ensures perfect results every time. For more air fryer conversions, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

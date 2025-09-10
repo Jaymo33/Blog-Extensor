@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds"
-        },
-        "headline": "Quick 8 kg prawns to pounds conversion for air fryer cooking",
-        "description": "Convert 8 kg prawns to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds"
+    },
+    "headline": "Quick 8 kg prawns to pounds conversion for air fryer cooking",
+    "description": "Convert 8 kg prawns to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-prawns-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-kg-prawns-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 8 kg of prawns?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "8 kg of prawns is approximately 17.64 pounds. This conversion uses the standard ratio where 1 kilogram equals 2.20462 pounds, making it easy to calculate for any recipe or portion planning. Knowing this helps immensely when preparing large batches in your air fryer, ensuring even cooking and perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "8 kg of prawns is approximately 17.64 pounds. This conversion uses the standard ratio where 1 kilogram equals 2.20462 pounds, making it easy to calculate for any recipe or portion planning. Knowing this helps immensely when preparing large batches in your air fryer, ensuring even cooking and perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert 8 kg prawns to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 8 kg prawns to pounds helps you follow air fryer recipes accurately, as many use imperial measurements. It also ensures proper portioning to avoid overcrowding the air fryer basket, which is crucial for even cooking and crisp results. Accurate weight conversion leads to better timing, seasoning distribution, and overall dish quality."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 8 kg prawns to pounds helps you follow air fryer recipes accurately, as many use imperial measurements. It also ensures proper portioning to avoid overcrowding the air fryer basket, which is crucial for even cooking and crisp results. Accurate weight conversion leads to better timing, seasoning distribution, and overall dish quality."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I convert 8 kg prawns to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 8 kg prawns converts to 17 pounds and approximately 10.24 ounces. This detailed breakdown is useful for smaller batch cooking or when recipes specify weights in pounds and ounces. Having both measurements allows for greater flexibility and precision in your air fryer cooking, especially with ingredients like prawns that cook quickly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 8 kg prawns converts to 17 pounds and approximately 10.24 ounces. This detailed breakdown is useful for smaller batch cooking or when recipes specify weights in pounds and ounces. Having both measurements allows for greater flexibility and precision in your air fryer cooking, especially with ingredients like prawns that cook quickly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is there a difference between US pounds and imperial pounds for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, both US customary pounds and imperial pounds are essentially the same for practical kitchen conversions, including converting 8 kg prawns to pounds. The pound unit is standardized internationally for weight measurements in cooking, so you can use the same conversion factor regardless of where your recipe originates. This consistency makes it easy to use any air fryer recipe with confidence."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, both US customary pounds and imperial pounds are essentially the same for practical kitchen conversions, including converting 8 kg prawns to pounds. The pound unit is standardized internationally for weight measurements in cooking, so you can use the same conversion factor regardless of where your recipe originates. This consistency makes it easy to use any air fryer recipe with confidence."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "8 kg prawns to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds",
+    "@type": "WebPage",
+    "name": "8 kg prawns to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds",
     "description": "Convert 8 kg prawns to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for delicious results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "8 kg prawns to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/8-kg-prawns-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>8 kg of prawns converts to approximately 17.64 pounds, which is essential knowledge when preparing seafood in your air fryer. Whether you're cooking for a large gathering or simply stocking up, understanding this measurement ensures you get portions and cooking times just right. Many air fryer recipes use imperial measurements, so converting from metric helps you follow instructions accurately. Getting this conversion correct means your prawns will cook evenly and come out perfectly succulent. Visit <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> for more handy conversion tips and seafood inspiration.</p>

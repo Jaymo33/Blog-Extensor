@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream"
-        },
-        "headline": "Quick Guide: Convert 85 ml of Cream to Cups Easily",
-        "description": "Learn how to convert 85 ml of cream to cups for perfect baking and cooking every time. Simple, accurate, and hassle-free!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream"
+    },
+    "headline": "Quick Guide: Convert 85 ml of Cream to Cups Easily",
+    "description": "Learn how to convert 85 ml of cream to cups for perfect baking and cooking every time. Simple, accurate, and hassle-free!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 85 ml of cream the same as 85 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 85 ml of cream is not the same as 85 grams. The weight of cream depends on its density, which can vary slightly. Generally, 85 ml of heavy cream weighs about 82-85 grams, but it’s best to use a scale for precise measurements, especially in baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 85 ml of cream is not the same as 85 grams. The weight of cream depends on its density, which can vary slightly. Generally, 85 ml of heavy cream weighs about 82-85 grams, but it’s best to use a scale for precise measurements, especially in baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of cream if a recipe calls for 85 ml of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute milk for cream, but the texture and richness will differ. For a closer match, mix 60 ml of milk with 25 ml of melted butter to replace 85 ml of cream. This works well in sauces but may not be ideal for whipped desserts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute milk for cream, but the texture and richness will differ. For a closer match, mix 60 ml of milk with 25 ml of melted butter to replace 85 ml of cream. This works well in sauces but may not be ideal for whipped desserts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 85 ml of cream without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring jug, use tablespoons: 85 ml is roughly 5.5 tablespoons. Alternatively, a small teacup (about 100 ml) filled to just under the brim will give you close to 85 ml. For accuracy, a digital scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring jug, use tablespoons: 85 ml is roughly 5.5 tablespoons. Alternatively, a small teacup (about 100 ml) filled to just under the brim will give you close to 85 ml. For accuracy, a digital scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK and US cup measurements differ for 85 ml of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The difference stems from historical measurement standards. A UK cup is 284 ml, while a US cup is 240 ml. This means 85 ml of cream is 0.36 UK cups or 0.35 US cups—a small but notable difference in precise recipes. Always check which standard your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The difference stems from historical measurement standards. A UK cup is 284 ml, while a US cup is 240 ml. This means 85 ml of cream is 0.36 UK cups or 0.35 US cups—a small but notable difference in precise recipes. Always check which standard your recipe uses."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 85 ml of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 85 ml of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream",
     "description": "Learn how to convert 85 ml of cream to cups for perfect baking and cooking every time. Simple, accurate, and hassle-free!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 85 ml of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>85 ml of cream is approximately 0.36 cups in the UK and 0.35 cups in the US. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you're making a creamy sauce or a decadent dessert, knowing how to convert 85 ml of cream to cups ensures consistency and perfect results every time.</p>

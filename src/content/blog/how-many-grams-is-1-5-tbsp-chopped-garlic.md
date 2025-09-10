@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic"
-        },
-        "headline": "Quick Answer: 1.5 tbsp chopped garlic to grams UK",
-        "description": "Discover how many grams are in 1.5 tbsp of chopped garlic for perfect air fryer recipes. Get precise conversions for UK measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic"
+    },
+    "headline": "Quick Answer: 1.5 tbsp chopped garlic to grams UK",
+    "description": "Discover how many grams are in 1.5 tbsp of chopped garlic for perfect air fryer recipes. Get precise conversions for UK measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-chopped-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-chopped-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.5 tbsp of chopped garlic to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.5 tbsp of chopped garlic is approximately 15 grams. This conversion is based on the average weight of chopped garlic per tablespoon. For precise measurements, use a kitchen scale to ensure accuracy in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.5 tbsp of chopped garlic is approximately 15 grams. This conversion is based on the average weight of chopped garlic per tablespoon. For precise measurements, use a kitchen scale to ensure accuracy in your air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use minced garlic instead of chopped garlic in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use minced garlic as a substitute for chopped garlic. The conversion remains the same: 1.5 tbsp of minced garlic also equals about 15 grams. Just be aware that minced garlic may have a slightly stronger flavour due to its finer texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use minced garlic as a substitute for chopped garlic. The conversion remains the same: 1.5 tbsp of minced garlic also equals about 15 grams. Just be aware that minced garlic may have a slightly stronger flavour due to its finer texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to measure garlic accurately in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Accurate garlic measurements ensure balanced flavours in your dishes. Too much garlic can overpower other ingredients, while too little might leave your meal tasting bland. In the air fryer, precise measurements help achieve even cooking and consistent results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Accurate garlic measurements ensure balanced flavours in your dishes. Too much garlic can overpower other ingredients, while too little might leave your meal tasting bland. In the air fryer, precise measurements help achieve even cooking and consistent results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does chopped garlic last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Chopped garlic can last up to a week in the fridge if stored in an airtight container. For longer storage, freeze it in ice cube trays. This way, you’ll always have the right amount ready for your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chopped garlic can last up to a week in the fridge if stored in an airtight container. For longer storage, freeze it in ice cube trays. This way, you’ll always have the right amount ready for your air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1.5 tbsp of chopped garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of chopped garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic",
     "description": "Discover how many grams are in 1.5 tbsp of chopped garlic for perfect air fryer recipes. Get precise conversions for UK measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1.5 tbsp of chopped garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-chopped-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 tbsp of chopped garlic equals approximately 15 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a garlic-infused dish or adjusting a recipe, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on providing accurate conversions to help you cook with confidence.</p>

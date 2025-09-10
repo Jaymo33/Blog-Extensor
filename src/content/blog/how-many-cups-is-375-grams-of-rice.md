@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice"
-        },
-        "headline": "Quick Guide: Convert 375 Grams of Rice to Cups Easily",
-        "description": "Learn how to convert 375 grams of rice to cups for perfect cooking every time. Includes UK and US measurements for accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice"
+    },
+    "headline": "Quick Guide: Convert 375 Grams of Rice to Cups Easily",
+    "description": "Learn how to convert 375 grams of rice to cups for perfect cooking every time. Includes UK and US measurements for accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-375-grams-of-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-375-grams-of-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rice affect how many cups 375 grams equals?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, slightly. Fluffier rice like basmati takes up more space, so 375 grams may be closer to 2.1 US cups. Denser short-grain rice could measure just under 2 cups. Always check your specific rice type for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, slightly. Fluffier rice like basmati takes up more space, so 375 grams may be closer to 2.1 US cups. Denser short-grain rice could measure just under 2 cups. Always check your specific rice type for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for cooked rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cooked rice expands, so 375 grams of uncooked rice yields about 3–4 cups cooked. If a recipe calls for cooked rice by weight, you’ll need to adjust accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cooked rice expands, so 375 grams of uncooked rice yields about 3–4 cups cooked. If a recipe calls for cooked rice by weight, you’ll need to adjust accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK and US cups differ for 375 grams of rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The UK uses a 250ml cup, while the US uses 240ml. This small volume difference adds up with dense ingredients like rice, leading to varying gram-to-cup conversions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The UK uses a 250ml cup, while the US uses 240ml. This small volume difference adds up with dense ingredients like rice, leading to varying gram-to-cup conversions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover 375 grams of cooked rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cool it quickly, then refrigerate in an airtight container for up to 3 days. Reheat in the air fryer at 160°C for 4–5 minutes, sprinkling with water to prevent drying out."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cool it quickly, then refrigerate in an airtight container for up to 3 days. Reheat in the air fryer at 160°C for 4–5 minutes, sprinkling with water to prevent drying out."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 375 Grams of Rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 375 Grams of Rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice",
     "description": "Learn how to convert 375 grams of rice to cups for perfect cooking every time. Includes UK and US measurements for accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 375 Grams of Rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-375-grams-of-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>375 grams of rice equals approximately 1.9 cups in the UK or 2.2 cups in the US. Getting this measurement right is essential for perfectly cooked rice, especially when using an air fryer. Whether you're meal prepping or whipping up a quick side dish, knowing how to convert grams to cups ensures consistency.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats"
-        },
-        "headline": "Quick 150g rolled oats to ounces conversion for UK cooks",
-        "description": "Convert 150g of rolled oats to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats"
+    },
+    "headline": "Quick 150g rolled oats to ounces conversion for UK cooks",
+    "description": "Convert 150g of rolled oats to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-rolled-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-rolled-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 150g rolled oats to ounces for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Precise measurements ensure even cooking and proper texture in air fryer recipes. Since air fryers circulate hot air rapidly, the wrong oat quantity could lead to dry or unevenly cooked dishes. Converting 150g to 5.29 ounces helps maintain recipe integrity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Precise measurements ensure even cooking and proper texture in air fryer recipes. Since air fryers circulate hot air rapidly, the wrong oat quantity could lead to dry or unevenly cooked dishes. Converting 150g to 5.29 ounces helps maintain recipe integrity."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use US ounces when converting 150g rolled oats for UK recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fortunately, both US and UK use the same ounce measurement for weight, so 150g equals 5.29 ounces in either system. However, be cautious with fluid ounces when measuring liquids, as these differ between measurement systems."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fortunately, both US and UK use the same ounce measurement for weight, so 150g equals 5.29 ounces in either system. However, be cautious with fluid ounces when measuring liquids, as these differ between measurement systems."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 150g of rolled oats compare to other common air fryer ingredient weights?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "150g (5.29 oz) of rolled oats is roughly equivalent to 1 medium chicken breast or 2 small potatoes in weight. This makes it a substantial ingredient that can form the base of many air fryer meals, from breakfast dishes to crispy coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "150g (5.29 oz) of rolled oats is roughly equivalent to 1 medium chicken breast or 2 small potatoes in weight. This makes it a substantial ingredient that can form the base of many air fryer meals, from breakfast dishes to crispy coatings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to measure 150g rolled oats if my scales only show ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Simply set your scales to ounces and measure out 5.29 oz. If your scales don't display decimals, round to 5¼ ounces for most recipes. For baking where precision matters, consider upgrading to digital scales that show both grams and ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Simply set your scales to ounces and measure out 5.29 oz. If your scales don't display decimals, round to 5¼ ounces for most recipes. For baking where precision matters, consider upgrading to digital scales that show both grams and ounces."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 150g of rolled oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of rolled oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats",
     "description": "Convert 150g of rolled oats to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 150g of rolled oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-rolled-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150 grams of rolled oats equals approximately 5.29 ounces. This conversion is essential for anyone using UK recipes or air fryer meal prep, where precise measurements matter. Whether you're making overnight oats, granola bars, or air fryer-friendly baked goods, knowing how to convert grams to ounces ensures consistent results.</p>

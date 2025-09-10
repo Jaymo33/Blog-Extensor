@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds"
-        },
-        "headline": "Easy 5.5 kg Whole Chicken to Pounds Conversion Guide",
-        "description": "Convert 5.5 kg whole chicken to pounds quickly and accurately with our simple guide. Perfect for air fryer cooking and recipe adjustments.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds"
+    },
+    "headline": "Easy 5.5 kg Whole Chicken to Pounds Conversion Guide",
+    "description": "Convert 5.5 kg whole chicken to pounds quickly and accurately with our simple guide. Perfect for air fryer cooking and recipe adjustments.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T18:51:22.444Z",
-        "dateModified": "2025-08-22T18:51:22.444Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-whole-chicken-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T18:51:22.444Z",
+    "dateModified": "2025-08-22T18:51:22.444Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-whole-chicken-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is a 5.5 kg whole chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 5.5 kg whole chicken is approximately 12.125 pounds. This conversion uses the standard rate where 1 kilogram equals about 2.20462 pounds. For most practical purposes, you can round it to 12 pounds, but for precise cooking times in your air fryer, sticking to the exact figure is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 5.5 kg whole chicken is approximately 12.125 pounds. This conversion uses the standard rate where 1 kilogram equals about 2.20462 pounds. For most practical purposes, you can round it to 12 pounds, but for precise cooking times in your air fryer, sticking to the exact figure is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert 5.5 kg whole chicken to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 5.5 kg whole chicken to pounds is crucial because many air fryer recipes and guidelines use imperial measurements. Accurate weight ensures you set the correct cooking time and temperature, which is vital for achieving juicy, evenly cooked meat. It also helps you avoid overloading your air fryer, which can affect performance and results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 5.5 kg whole chicken to pounds is crucial because many air fryer recipes and guidelines use imperial measurements. Accurate weight ensures you set the correct cooking time and temperature, which is vital for achieving juicy, evenly cooked meat. It also helps you avoid overloading your air fryer, which can affect performance and results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook a 5.5 kg whole chicken in any air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not all air fryers can accommodate a 5.5 kg whole chicken, which is about 12 pounds. Check your air fryer's capacity and manufacturer guidelines first. Larger models or oven-style air fryers are more suitable for big birds. If your appliance is too small, consider spatchcocking the chicken or using a conventional oven instead."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not all air fryers can accommodate a 5.5 kg whole chicken, which is about 12 pounds. Check your air fryer's capacity and manufacturer guidelines first. Larger models or oven-style air fryers are more suitable for big birds. If your appliance is too small, consider spatchcocking the chicken or using a conventional oven instead."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does it take to air fry a 5.5 kg whole chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air frying a 5.5 kg whole chicken typically takes between 60 to 75 minutes at 180°C, depending on your air fryer's power and efficiency. Always use a meat thermometer to check the internal temperature reaches 75°C in the thickest part. Let it rest for 10 minutes before carving for the best texture and flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air frying a 5.5 kg whole chicken typically takes between 60 to 75 minutes at 180°C, depending on your air fryer's power and efficiency. Always use a meat thermometer to check the internal temperature reaches 75°C in the thickest part. Let it rest for 10 minutes before carving for the best texture and flavour."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "5.5 kg whole chicken to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds",
+    "@type": "WebPage",
+    "name": "5.5 kg whole chicken to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds",
     "description": "Convert 5.5 kg whole chicken to pounds quickly and accurately with our simple guide. Perfect for air fryer cooking and recipe adjustments.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T18:51:22.444000+00:00",
     "dateModified": "2025-08-22T18:51:22.444000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "5.5 kg whole chicken to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-whole-chicken-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>A 5.5 kg whole chicken is equivalent to approximately 12.125 pounds. This conversion is essential for anyone using recipes or cooking instructions that rely on imperial measurements, especially when preparing a large bird in an air fryer. Knowing the exact weight in pounds helps you adjust cooking times, ensure even cooking, and achieve that perfect crispy skin. Whether you're meal prepping or cooking for a crowd, this conversion makes life easier. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

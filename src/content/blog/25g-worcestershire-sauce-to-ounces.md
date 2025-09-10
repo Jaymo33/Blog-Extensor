@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 25g Worcestershire Sauce to Ounces",
-        "description": "Learn how to convert 25g of Worcestershire sauce to ounces with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 25g Worcestershire Sauce to Ounces",
+    "description": "Learn how to convert 25g of Worcestershire sauce to ounces with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T23:46:47.435Z",
-        "dateModified": "2025-08-08T23:46:47.435Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-worcestershire-sauce-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T23:46:47.435Z",
+    "dateModified": "2025-08-08T23:46:47.435Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-worcestershire-sauce-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 25g of Worcestershire sauce without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use tablespoons to measure 25g (0.88 oz) of Worcestershire sauce. One tablespoon holds about 15g, so 1.5 tablespoons will give you roughly 25g. For more accuracy, use a liquid measuring spoon or a graduated jug."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use tablespoons to measure 25g (0.88 oz) of Worcestershire sauce. One tablespoon holds about 15g, so 1.5 tablespoons will give you roughly 25g. For more accuracy, use a liquid measuring spoon or a graduated jug."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is Worcestershire sauce measured in grams in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The UK uses the metric system, so grams are the standard unit for weight in cooking. Ounces are more common in the US, but converting between the two is simple with a reliable chart or calculator."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The UK uses the metric system, so grams are the standard unit for weight in cooking. Ounces are more common in the US, but converting between the two is simple with a reliable chart or calculator."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute Worcestershire sauce with soy sauce in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the flavour will differ. Worcestershire sauce has a tangy, umami taste, while soy sauce is saltier. Use a 1:1 ratio, but adjust other seasonings to balance the dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the flavour will differ. Worcestershire sauce has a tangy, umami taste, while soy sauce is saltier. Use a 1:1 ratio, but adjust other seasonings to balance the dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does Worcestershire sauce last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An opened bottle of Worcestershire sauce lasts about 1-2 years if stored in a cool, dark place. Check for changes in colour or smell before using it in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An opened bottle of Worcestershire sauce lasts about 1-2 years if stored in a cool, dark place. Check for changes in colour or smell before using it in your air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of worcestershire sauce",
-            "url": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of worcestershire sauce",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces",
     "description": "Learn how to convert 25g of Worcestershire sauce to ounces with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of worcestershire sauce",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/25g-worcestershire-sauce-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of Worcestershire sauce equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you’re marinating chicken or adding a splash to a beef stir-fry, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless, so you can focus on flavour.</p>  

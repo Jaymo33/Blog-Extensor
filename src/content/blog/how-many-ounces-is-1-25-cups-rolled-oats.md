@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats"
-        },
-        "headline": "Quick Guide: Convert 1.25 Cups of Rolled Oats to Ounces",
-        "description": "Learn how to convert 1.25 cups of rolled oats to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats"
+    },
+    "headline": "Quick Guide: Convert 1.25 Cups of Rolled Oats to Ounces",
+    "description": "Learn how to convert 1.25 cups of rolled oats to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-rolled-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-25-cups-rolled-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use quick oats instead of rolled oats for 1.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but quick oats are finer and denser, so 1.25 cups will weigh slightly more (about 4 ounces). Adjust cooking times in your air fryer, as quick oats cook faster and may dry out if overdone."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but quick oats are finer and denser, so 1.25 cups will weigh slightly more (about 4 ounces). Adjust cooking times in your air fryer, as quick oats cook faster and may dry out if overdone."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover rolled oats after measuring 1.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Transfer unused oats to an airtight container and keep them in a cool, dark place. Properly stored, they’ll stay fresh for up to 6 months. For longer storage, freeze them in a sealed bag."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Transfer unused oats to an airtight container and keep them in a cool, dark place. Properly stored, they’ll stay fresh for up to 6 months. For longer storage, freeze them in a sealed bag."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe with 1.25 cups of rolled oats turn out soggy?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sogginess often stems from overcrowding or insufficient air circulation. Spread oats evenly in the basket, and shake halfway through cooking. Also, ensure your oats are dry—moisture from humidity can affect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sogginess often stems from overcrowding or insufficient air circulation. Spread oats evenly in the basket, and shake halfway through cooking. Also, ensure your oats are dry—moisture from humidity can affect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 1.25 cups of rolled oats the same as steel-cut oats in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, steel-cut oats are denser. 1.25 cups of steel-cut oats weigh about 4.5 ounces (128 grams). Adjust recipes accordingly, as they require longer cooking times and more liquid in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, steel-cut oats are denser. 1.25 cups of steel-cut oats weigh about 4.5 ounces (128 grams). Adjust recipes accordingly, as they require longer cooking times and more liquid in the air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.25 cups of rolled oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.25 cups of rolled oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats",
     "description": "Learn how to convert 1.25 cups of rolled oats to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.25 cups of rolled oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-25-cups-rolled-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of rolled oats equals approximately 3.5 ounces (99 grams). This conversion is essential for air fryer recipes, ensuring your breakfast bakes, granolas, or oat-based dishes turn out perfectly every time. Whether you’re meal prepping or whipping up a quick snack, accurate measurements make all the difference.</p>  

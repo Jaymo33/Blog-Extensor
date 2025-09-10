@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce"
-        },
-        "headline": "Quick Guide: Convert 3.25 Cups of Tomato Sauce to ml Easily",
-        "description": "Learn how to convert 3.25 cups of tomato sauce to ml for perfect air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce"
+    },
+    "headline": "Quick Guide: Convert 3.25 Cups of Tomato Sauce to ml Easily",
+    "description": "Learn how to convert 3.25 cups of tomato sauce to ml for perfect air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-tomato-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-tomato-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of tomato sauce affect the ml conversion for 3.25 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker or chunkier sauces may slightly vary in millilitre volume due to density. For precise conversions, blend chunky sauces briefly before measuring. Thin sauces like passata will measure closer to the standard 768 ml for 3.25 cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker or chunkier sauces may slightly vary in millilitre volume due to density. For precise conversions, blend chunky sauces briefly before measuring. Thin sauces like passata will measure closer to the standard 768 ml for 3.25 cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other sauces in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! This conversion works for any liquid or semi-liquid sauce, like BBQ or teriyaki. Just remember that thicker sauces may need slight adjustments. Always check your air fryer’s manual for liquid limits to avoid overflow."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! This conversion works for any liquid or semi-liquid sauce, like BBQ or teriyaki. Just remember that thicker sauces may need slight adjustments. Always check your air fryer’s manual for liquid limits to avoid overflow."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 3.25 cups if I don’t have a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale set to millilitres (768 ml for 3.25 cups) or convert using tablespoons (1 cup = 16 tbsp, so 3.25 cups = 52 tbsp). For sticky sauces, lightly oil your spoon or scale bowl for accurate pouring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale set to millilitres (768 ml for 3.25 cups) or convert using tablespoons (1 cup = 16 tbsp, so 3.25 cups = 52 tbsp). For sticky sauces, lightly oil your spoon or scale bowl for accurate pouring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe turn out soggy with 3.25 cups of tomato sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers work best with minimal liquid. Try reducing the sauce slightly before adding it, or layer it between drier ingredients like pasta or meat. Alternatively, cook in batches to maintain crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers work best with minimal liquid. Try reducing the sauce slightly before adding it, or layer it between drier ingredients like pasta or meat. Alternatively, cook in batches to maintain crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.25 Cups of Tomato Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.25 Cups of Tomato Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce",
     "description": "Learn how to convert 3.25 cups of tomato sauce to ml for perfect air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.25 Cups of Tomato Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-tomato-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.25 cups of tomato sauce equals approximately 768 ml, making it easy to measure for air fryer recipes. Whether you're preparing a rich pasta dish or a saucy casserole, precise measurements ensure consistent results. Understanding conversions like this helps streamline your cooking process, especially when using an air fryer where ingredient ratios matter. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

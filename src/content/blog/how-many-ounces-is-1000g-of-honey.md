@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey"
-        },
-        "headline": "Quick & Easy 1000g Honey to Ounces Conversion Guide",
-        "description": "Convert 1000g of honey to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey"
+    },
+    "headline": "Quick & Easy 1000g Honey to Ounces Conversion Guide",
+    "description": "Convert 1000g of honey to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1000g of honey the same as 35 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not quite. 1000g of honey equals approximately 35.27 ounces, so rounding to 35 ounces would leave you slightly short. For precise air fryer recipes, it’s best to use the exact conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not quite. 1000g of honey equals approximately 35.27 ounces, so rounding to 35 ounces would leave you slightly short. For precise air fryer recipes, it’s best to use the exact conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup for 1000g of honey?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, it’s less accurate due to honey’s thickness. A digital scale is ideal, but if using a cup, note that 1000g of honey fills roughly 3 metric cups (or 2.5 US cups). Stirring first helps eliminate air pockets."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, it’s less accurate due to honey’s thickness. A digital scale is ideal, but if using a cup, note that 1000g of honey fills roughly 3 metric cups (or 2.5 US cups). Stirring first helps eliminate air pockets."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does honey’s type affect the 1000g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No—whether it’s raw, manuka, or regular honey, 1000g always equals 35.27 ounces. However, thicker honeys may take longer to pour, so warm the jar slightly for easier measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No—whether it’s raw, manuka, or regular honey, 1000g always equals 35.27 ounces. However, thicker honeys may take longer to pour, so warm the jar slightly for easier measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 1000g of honey last in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1000g of honey goes a long way! It’s enough for about 10-12 batches of honey-glazed chicken or 6-8 dessert recipes. Store unused honey in a cool, dry place to maintain freshness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1000g of honey goes a long way! It’s enough for about 10-12 batches of honey-glazed chicken or 6-8 dessert recipes. Store unused honey in a cool, dry place to maintain freshness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey",
     "description": "Convert 1000g of honey to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000 grams of honey equals approximately 35.27 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up a honey-glazed salmon or a batch of air-fried cookies, knowing how to convert grams to ounces ensures perfect results every time.</p>

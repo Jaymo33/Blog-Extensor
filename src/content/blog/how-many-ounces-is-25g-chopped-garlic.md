@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic"
-        },
-        "headline": "Quick Answer: How many ounces is 25g of chopped garlic?",
-        "description": "Find out how many ounces 25g of chopped garlic equals for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic"
+    },
+    "headline": "Quick Answer: How many ounces is 25g of chopped garlic?",
+    "description": "Find out how many ounces 25g of chopped garlic equals for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-chopped-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-chopped-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use minced garlic instead of chopped garlic in my air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use minced garlic as a substitute for chopped garlic in air fryer recipes. However, remember that minced garlic is typically more concentrated in flavour, so you might want to use slightly less than the recipe calls for. As a general rule, reduce the amount by about a third when substituting minced for chopped garlic."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use minced garlic as a substitute for chopped garlic in air fryer recipes. However, remember that minced garlic is typically more concentrated in flavour, so you might want to use slightly less than the recipe calls for. As a general rule, reduce the amount by about a third when substituting minced for chopped garlic."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many garlic cloves equal 25g of chopped garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "On average, one medium garlic clove yields about 5g when chopped. Therefore, 25g of chopped garlic would be approximately five medium cloves. Keep in mind that clove sizes can vary, so for precise measurements, especially in air fryer cooking, using a kitchen scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On average, one medium garlic clove yields about 5g when chopped. Therefore, 25g of chopped garlic would be approximately five medium cloves. Keep in mind that clove sizes can vary, so for precise measurements, especially in air fryer cooking, using a kitchen scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does garlic burn easily in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Garlic can burn in the air fryer if not prepared properly. To prevent burning, mix your chopped garlic with a bit of oil before adding it to your dish. Also, consider adding garlic towards the end of cooking time for recipes with longer cook times, or use lower temperatures when garlic is a primary ingredient."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Garlic can burn in the air fryer if not prepared properly. To prevent burning, mix your chopped garlic with a bit of oil before adding it to your dish. Also, consider adding garlic towards the end of cooking time for recipes with longer cook times, or use lower temperatures when garlic is a primary ingredient."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover chopped garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Chopped garlic freezes well for future use in air fryer recipes. Portion it out (like your 25g measurements), place in an airtight container or freezer bag with a bit of oil, and it will keep for several months. Frozen garlic is perfect for adding directly to dishes without needing to thaw first."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Chopped garlic freezes well for future use in air fryer recipes. Portion it out (like your 25g measurements), place in an airtight container or freezer bag with a bit of oil, and it will keep for several months. Frozen garlic is perfect for adding directly to dishes without needing to thaw first."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of chopped garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of chopped garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic",
     "description": "Find out how many ounces 25g of chopped garlic equals for perfect air fryer recipes. Get accurate conversions and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of chopped garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-chopped-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of chopped garlic equals approximately 0.88 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a garlic-infused dish or adjusting a recipe, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you get the measurements spot on for perfect results every time.</p>

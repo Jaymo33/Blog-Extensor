@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds"
-        },
-        "headline": "Quick 12.2 kg to Pounds Conversion for Air Fryer Cooking",
-        "description": "Convert 12.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds"
+    },
+    "headline": "Quick 12.2 kg to Pounds Conversion for Air Fryer Cooking",
+    "description": "Convert 12.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-20T17:08:58.382Z",
-        "dateModified": "2025-08-20T17:08:58.382Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/12-2-kg-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-20T17:08:58.382Z",
+    "dateModified": "2025-08-20T17:08:58.382Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/12-2-kg-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 12.2 kg to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting weight accurately is crucial for air frying because it directly impacts cooking time and results. Air fryers work by circulating hot air, and an overloaded basket (from misjudging the conversion) leads to uneven cooking and soggy food. Knowing the precise weight in pounds ensures you portion correctly for your appliance's capacity, guaranteeing perfectly cooked meals every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting weight accurately is crucial for air frying because it directly impacts cooking time and results. Air fryers work by circulating hot air, and an overloaded basket (from misjudging the conversion) leads to uneven cooking and soggy food. Knowing the precise weight in pounds ensures you portion correctly for your appliance's capacity, guaranteeing perfectly cooked meals every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What is the exact formula to convert 12.2 kilograms to pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The exact formula is to multiply the number of kilograms by 2.20462. So, for 12.2 kg, you calculate 12.2 x 2.20462, which equals 26.896364 pounds. For most practical kitchen purposes, this is rounded to 26.90 pounds. This multiplier is the international standard for converting kilograms to the avoirdupois pounds used in the UK and US."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The exact formula is to multiply the number of kilograms by 2.20462. So, for 12.2 kg, you calculate 12.2 x 2.20462, which equals 26.896364 pounds. For most practical kitchen purposes, this is rounded to 26.90 pounds. This multiplier is the international standard for converting kilograms to the avoirdupois pounds used in the UK and US."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook a 12.2 kg (26.90 lb) turkey in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 12.2 kg turkey is very large, weighing nearly 27 pounds, and most standard home air fryers cannot accommodate something of that size. You would need a particularly large, high-capacity or commercial-style air fryer to fit it. It is always essential to check your specific air fryer's maximum weight and size capacity in its manual before attempting to cook such a large item to ensure safety and proper cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 12.2 kg turkey is very large, weighing nearly 27 pounds, and most standard home air fryers cannot accommodate something of that size. You would need a particularly large, high-capacity or commercial-style air fryer to fit it. It is always essential to check your specific air fryer's maximum weight and size capacity in its manual before attempting to cook such a large item to ensure safety and proper cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes that use these weight conversions?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can find a vast collection of air fryer recipes that often include both metric and imperial measurements on airfryerrecipe.co.uk. Their recipe categories, such as chicken, beef, and frozen foods, provide precise weights to help you cook with confidence. The site is an excellent resource for ensuring your conversions are accurate and your meals turn out perfectly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can find a vast collection of air fryer recipes that often include both metric and imperial measurements on airfryerrecipe.co.uk. Their recipe categories, such as chicken, beef, and frozen foods, provide precise weights to help you cook with confidence. The site is an excellent resource for ensuring your conversions are accurate and your meals turn out perfectly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "12.2 kg to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds",
+    "@type": "WebPage",
+    "name": "12.2 kg to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds",
     "description": "Convert 12.2 kg to pounds instantly for perfect air fryer portions. Get accurate results and handy cooking tips for your recipes.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T17:08:58.382000+00:00",
     "dateModified": "2025-08-20T17:08:58.382000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "12.2 kg to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/12-2-kg-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>12.2 kilograms is equal to approximately 26.90 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat, batch cooking, or following recipes that use imperial measurements. Knowing how to convert 12.2 kg to pounds accurately ensures you use the correct amount of ingredients, which directly affects cooking time and results. Whether you're meal prepping or cooking for a crowd, getting the weight right is the first step to a delicious meal. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

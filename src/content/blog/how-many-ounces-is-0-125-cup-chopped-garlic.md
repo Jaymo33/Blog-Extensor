@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic"
-        },
-        "headline": "Quick Guide: Convert 0.125 Cup Chopped Garlic to Ounces Easily",
-        "description": "Learn how to convert 0.125 cup of chopped garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic"
+    },
+    "headline": "Quick Guide: Convert 0.125 Cup Chopped Garlic to Ounces Easily",
+    "description": "Learn how to convert 0.125 cup of chopped garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-chopped-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-chopped-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use jarred minced garlic instead of fresh chopped garlic for 0.125 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust quantities slightly. Jarred minced garlic is denser, so 0.125 cup fresh chopped garlic ≈ 0.1 cup jarred. Taste as you go, as preservatives may alter flavour. For best results in air fryer recipes, fresh garlic delivers brighter notes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust quantities slightly. Jarred minced garlic is denser, so 0.125 cup fresh chopped garlic ≈ 0.1 cup jarred. Taste as you go, as preservatives may alter flavour. For best results in air fryer recipes, fresh garlic delivers brighter notes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many cloves of garlic make 0.125 cup chopped?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "About 6 medium cloves, depending on size. One clove yields roughly 1 teaspoon chopped (0.02 cups), so 6 cloves ≈ 0.125 cup. For precision, weigh the chopped garlic—it should hit 1 ounce (28 grams) for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 6 medium cloves, depending on size. One clove yields roughly 1 teaspoon chopped (0.02 cups), so 6 cloves ≈ 0.125 cup. For precision, weigh the chopped garlic—it should hit 1 ounce (28 grams) for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 0.125 cup of chopped garlic weigh the same as minced garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not exactly. Minced garlic packs more tightly, so 0.125 cup minced may weigh slightly more (around 1.2 oz). For air fryer recipes, stick to chopped unless the recipe specifies minced, and adjust cooking times if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not exactly. Minced garlic packs more tightly, so 0.125 cup minced may weigh slightly more (around 1.2 oz). For air fryer recipes, stick to chopped unless the recipe specifies minced, and adjust cooking times if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 0.125 cup of chopped garlic last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Stored properly in an airtight container, it stays fresh for 5–7 days. Adding a bit of olive oil can extend this slightly. For longer storage, freeze in 0.125 cup portions—they’ll keep for up to 3 months without significant flavour loss."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Stored properly in an airtight container, it stays fresh for 5–7 days. Adding a bit of olive oil can extend this slightly. For longer storage, freeze in 0.125 cup portions—they’ll keep for up to 3 months without significant flavour loss."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of chopped garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of chopped garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic",
     "description": "Learn how to convert 0.125 cup of chopped garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of chopped garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of chopped garlic equals approximately 1 ounce. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up garlic-infused chicken or roasted vegetables, knowing the exact weight ensures consistent results every time.</p>

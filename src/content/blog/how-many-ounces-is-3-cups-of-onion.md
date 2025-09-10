@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion"
-        },
-        "headline": "Quick Answer: How many ounces is 3 cups of onion?",
-        "description": "Find out exactly how many ounces are in 3 cups of onion for perfect air fryer recipes. Get precise measurements and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion"
+    },
+    "headline": "Quick Answer: How many ounces is 3 cups of onion?",
+    "description": "Find out exactly how many ounces are in 3 cups of onion for perfect air fryer recipes. Get precise measurements and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 3 cups of onion to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "3 cups of chopped onion is approximately 340 grams. This conversion is useful for recipes requiring metric measurements. If you’re using a kitchen scale, weigh the onions directly for the most accurate result."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "3 cups of chopped onion is approximately 340 grams. This conversion is useful for recipes requiring metric measurements. If you’re using a kitchen scale, weigh the onions directly for the most accurate result."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of onion affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, slightly. Sweet onions are denser than white or red onions, so a cup may weigh a bit more. However, for most recipes, the difference is minimal. Always chop onions uniformly for consistent measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, slightly. Sweet onions are denser than white or red onions, so a cup may weigh a bit more. However, for most recipes, the difference is minimal. Always chop onions uniformly for consistent measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen onions instead of fresh for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but frozen onions release more moisture, so you may need to adjust cooking time. Use about 10 ounces of frozen onions to match 3 cups of fresh, as they weigh slightly more due to ice content."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but frozen onions release more moisture, so you may need to adjust cooking time. Use about 10 ounces of frozen onions to match 3 cups of fresh, as they weigh slightly more due to ice content."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many onions make 3 cups chopped?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "About 3 medium-sized onions yield 3 cups when chopped. Onion sizes vary, so weighing them (12 ounces total) is more reliable than counting. This ensures your air fryer recipes turn out perfectly every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 3 medium-sized onions yield 3 cups when chopped. Onion sizes vary, so weighing them (12 ounces total) is more reliable than counting. This ensures your air fryer recipes turn out perfectly every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion",
     "description": "Find out exactly how many ounces are in 3 cups of onion for perfect air fryer recipes. Get precise measurements and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of chopped onion equals approximately 12 ounces (340 grams). This measurement is key for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re cooking onions for a stir-fry, caramelising them for a burger topping, or adding them to a casserole, knowing the weight helps with consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on precise measurements to make your cooking effortless.</p>

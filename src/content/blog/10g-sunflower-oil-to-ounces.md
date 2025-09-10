@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 10g of Sunflower Oil to Ounces",
-        "description": "Learn how to convert 10g of sunflower oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 10g of Sunflower Oil to Ounces",
+    "description": "Learn how to convert 10g of sunflower oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-sunflower-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10g-sunflower-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 10g of sunflower oil without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use teaspoons or tablespoons to approximate 10g of sunflower oil. Two teaspoons (about 10ml) will give you roughly 10g, or just under a tablespoon. Keep in mind this is an estimate, but it works well for most recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use teaspoons or tablespoons to approximate 10g of sunflower oil. Two teaspoons (about 10ml) will give you roughly 10g, or just under a tablespoon. Keep in mind this is an estimate, but it works well for most recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use other oils instead of sunflower oil in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute sunflower oil with other high-smoke-point oils like rapeseed or vegetable oil. Just ensure you use the same weight (10g or 0.35 oz) for consistent results. Avoid butter or olive oil at very high temperatures as they may burn."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute sunflower oil with other high-smoke-point oils like rapeseed or vegetable oil. Just ensure you use the same weight (10g or 0.35 oz) for consistent results. Avoid butter or olive oil at very high temperatures as they may burn."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is sunflower oil commonly used in air fryers?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sunflower oil has a high smoke point, making it ideal for air frying at high temperatures. Its neutral flavour also won’t overpower your dishes. Plus, it’s widely available and affordable, perfect for everyday cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sunflower oil has a high smoke point, making it ideal for air frying at high temperatures. Its neutral flavour also won’t overpower your dishes. Plus, it’s widely available and affordable, perfect for everyday cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 10g of sunflower oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10g of sunflower oil contains approximately 90 calories. If you’re calorie-conscious, consider using an oil spray to lightly coat food instead of pouring, reducing the amount used while still achieving crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10g of sunflower oil contains approximately 90 calories. If you’re calorie-conscious, consider using an oil spray to lightly coat food instead of pouring, reducing the amount used while still achieving crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 10g of sunflower oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 10g of sunflower oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces",
     "description": "Learn how to convert 10g of sunflower oil to ounces with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 10g of sunflower oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/10g-sunflower-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>10 grams of sunflower oil equals approximately 0.35 ounces. This conversion is essential for precise cooking, especially when using an air fryer where measurements can impact texture and flavour. Whether you’re preparing a crispy batch of roasted vegetables or a light cake, knowing how to convert grams to ounces ensures consistency in your recipes. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

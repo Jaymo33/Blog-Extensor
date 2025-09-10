@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin"
-        },
-        "headline": "Quick Guide: Convert 1.33 Cups of Ground Cumin to Ounces",
-        "description": "Learn how to convert 1.33 cups of ground cumin to ounces for precise air fryer recipes. Perfect measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin"
+    },
+    "headline": "Quick Guide: Convert 1.33 Cups of Ground Cumin to Ounces",
+    "description": "Learn how to convert 1.33 cups of ground cumin to ounces for precise air fryer recipes. Perfect measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-ground-cumin.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-ground-cumin.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.33 cups of ground cumin to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.33 cups of ground cumin equals approximately 90 grams. This conversion is useful for recipes requiring metric measurements. Always use a kitchen scale for the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.33 cups of ground cumin equals approximately 90 grams. This conversion is useful for recipes requiring metric measurements. Always use a kitchen scale for the most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use whole cumin seeds instead of ground cumin in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the flavour intensity differs. Use 1.33 cups of whole cumin seeds (about 3.2 oz) for a milder taste, or grind them for stronger flavour. Adjust cooking times slightly as whole seeds take longer to infuse."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the flavour intensity differs. Use 1.33 cups of whole cumin seeds (about 3.2 oz) for a milder taste, or grind them for stronger flavour. Adjust cooking times slightly as whole seeds take longer to infuse."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste too spicy with 1.33 cups of ground cumin?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Over-measuring can cause excessive heat. Ensure you’re using level cups (3.2 oz) and not packing the spice. If the dish is too spicy, balance it with yogurt or citrus."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Over-measuring can cause excessive heat. Ensure you’re using level cups (3.2 oz) and not packing the spice. If the dish is too spicy, balance it with yogurt or citrus."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover ground cumin after measuring 1.33 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store ground cumin in an airtight container away from heat and light. Proper storage keeps it fresh for up to six months. For long-term use, consider buying whole seeds and grinding as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store ground cumin in an airtight container away from heat and light. Proper storage keeps it fresh for up to six months. For long-term use, consider buying whole seeds and grinding as needed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of ground cumin?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of ground cumin?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin",
     "description": "Learn how to convert 1.33 cups of ground cumin to ounces for precise air fryer recipes. Perfect measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of ground cumin?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-ground-cumin"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of ground cumin equals approximately 3.2 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you’re spicing up chicken, beef, or vegetables, knowing the exact weight helps avoid over- or under-seasoning.</p>  

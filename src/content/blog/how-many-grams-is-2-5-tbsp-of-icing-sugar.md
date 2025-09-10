@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar"
-        },
-        "headline": "Quick Answer: How many grams is 2.5 tbsp of icing sugar?",
-        "description": "Find out exactly how many grams are in 2.5 tbsp of icing sugar with our easy conversion guide. Perfect for air fryer baking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar"
+    },
+    "headline": "Quick Answer: How many grams is 2.5 tbsp of icing sugar?",
+    "description": "Find out exactly how many grams are in 2.5 tbsp of icing sugar with our easy conversion guide. Perfect for air fryer baking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-of-icing-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-of-icing-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use granulated sugar instead of icing sugar for 2.5 tbsp in grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, granulated sugar has a different density, so 2.5 tbsp won’t weigh the same as icing sugar. For accurate results, stick to icing sugar or use a conversion chart to adjust the measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, granulated sugar has a different density, so 2.5 tbsp won’t weigh the same as icing sugar. For accurate results, stick to icing sugar or use a conversion chart to adjust the measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does 2.5 tbsp of icing sugar sometimes weigh more or less?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This can happen if the sugar is packed down or loosely spooned. Always measure lightly for consistency. A kitchen scale ensures the most accurate 2.5 tbsp icing sugar UK grams conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This can happen if the sugar is packed down or loosely spooned. Always measure lightly for consistency. A kitchen scale ensures the most accurate 2.5 tbsp icing sugar UK grams conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2.5 tbsp of icing sugar to grams without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While a scale is best, you can use the standard conversion of 1 tbsp = 12.5g. So, 2.5 tbsp equals 31 grams. For precise air fryer baking, we recommend investing in a scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While a scale is best, you can use the standard conversion of 1 tbsp = 12.5g. So, 2.5 tbsp equals 31 grams. For precise air fryer baking, we recommend investing in a scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 2.5 tablespoons of icing sugar the same in the US and UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, tablespoon measurements are generally the same. However, always check your recipe’s origin, as some variations exist. Our conversions at airfryerrecipe.co.uk use UK standards for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, tablespoon measurements are generally the same. However, always check your recipe’s origin, as some variations exist. Our conversions at airfryerrecipe.co.uk use UK standards for accuracy."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2.5 tbsp of icing sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar",
+    "@type": "WebPage",
+    "name": "How many grams is 2.5 tbsp of icing sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar",
     "description": "Find out exactly how many grams are in 2.5 tbsp of icing sugar with our easy conversion guide. Perfect for air fryer baking!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2.5 tbsp of icing sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-of-icing-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 tablespoons of icing sugar equals approximately 31 grams. This conversion is essential for precise baking, especially when using an air fryer, where measurements can make or break a recipe. Whether you’re whipping up a cake or dusting desserts, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the best results with accurate conversions.</p>  

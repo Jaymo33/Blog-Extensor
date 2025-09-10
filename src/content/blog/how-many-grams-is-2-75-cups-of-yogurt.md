@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt"
-        },
-        "headline": "Quick Answer: How Many Grams Is 2.75 Cups of Yogurt?",
-        "description": "Discover the exact gram measurement for 2.75 cups of yogurt with our easy conversion guide—perfect for air fryer recipes and baking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt"
+    },
+    "headline": "Quick Answer: How Many Grams Is 2.75 Cups of Yogurt?",
+    "description": "Discover the exact gram measurement for 2.75 cups of yogurt with our easy conversion guide—perfect for air fryer recipes and baking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T16:03:13.518Z",
-        "dateModified": "2025-07-28T16:03:13.518Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-yogurt.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T16:03:13.518Z",
+    "dateModified": "2025-07-28T16:03:13.518Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-75-cups-of-yogurt.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.75 cups of yogurt the same in grams for all types of yogurt?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, Greek yogurt is denser, so 2.75 cups may weigh closer to 700 grams, while regular yogurt averages 660 grams. Always check the label or weigh it for accuracy, especially in air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, Greek yogurt is denser, so 2.75 cups may weigh closer to 700 grams, while regular yogurt averages 660 grams. Always check the label or weigh it for accuracy, especially in air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 2.75 cups of yogurt in grams for baking in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Converting 2.75 cups of yogurt to grams (660g) ensures consistent results in air-fryer cakes and muffins. Grams provide better accuracy than cups, reducing the risk of overly dense or dry baked goods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Converting 2.75 cups of yogurt to grams (660g) ensures consistent results in air-fryer cakes and muffins. Grams provide better accuracy than cups, reducing the risk of overly dense or dry baked goods."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 2.75 cups of yogurt without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a liquid measuring cup and spoon the yogurt in gently, levelling the top. Remember that 1 cup ≈ 240 grams, so 2.75 cups ≈ 660 grams. For sticky yogurts, lightly grease the cup for easier release."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a liquid measuring cup and spoon the yogurt in gently, levelling the top. Remember that 1 cup ≈ 240 grams, so 2.75 cups ≈ 660 grams. For sticky yogurts, lightly grease the cup for easier release."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is gram measurement better than cups for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams eliminate variability caused by how yogurt is packed into cups. Air fryer cooking relies on precise ingredient ratios for even cooking, making grams the gold standard for recipes like marinades or batters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams eliminate variability caused by how yogurt is packed into cups. Air fryer cooking relies on precise ingredient ratios for even cooking, making grams the gold standard for recipes like marinades or batters."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 2.75 Cups of Yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.75 Cups of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt",
     "description": "Discover the exact gram measurement for 2.75 cups of yogurt with our easy conversion guide—perfect for air fryer recipes and baking!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T16:03:13.518000+00:00",
     "dateModified": "2025-07-28T16:03:13.518000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 2.75 Cups of Yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-75-cups-of-yogurt"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.75 cups of yogurt is approximately 660 grams, making it easy to measure for air fryer recipes and baking. This conversion ensures accuracy, whether you're whipping up a creamy dessert or a savoury marinade. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements are key to perfect results, especially when using an air fryer.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream"
-        },
-        "headline": "Quick Answer: How Many ml Is 0.5 Cups of Double Cream?",
-        "description": "Discover the exact ml measurement for 0.5 cups of double cream with our simple conversion guide—perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream"
+    },
+    "headline": "Quick Answer: How Many ml Is 0.5 Cups of Double Cream?",
+    "description": "Discover the exact ml measurement for 0.5 cups of double cream with our simple conversion guide—perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:11:40.852Z",
-        "dateModified": "2025-07-28T20:11:40.852Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-double-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:11:40.852Z",
+    "dateModified": "2025-07-28T20:11:40.852Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-double-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 cups of double cream the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.5 cups of double cream is approximately 118 ml in both the UK and USA. However, double cream in the UK has a slightly higher fat content (around 48%) compared to heavy cream in the USA (36–40%). For air fryer recipes, this difference may affect richness but not the ml measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.5 cups of double cream is approximately 118 ml in both the UK and USA. However, double cream in the UK has a slightly higher fat content (around 48%) compared to heavy cream in the USA (36–40%). For air fryer recipes, this difference may affect richness but not the ml measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use single cream instead of double cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Single cream can be substituted, but it has a lower fat content (around 18%), which may affect texture. For sauces or baked goods, you might need to adjust cooking times slightly. If using 0.5 cups (118 ml) of single cream, consider adding a thickening agent like cornflour for better results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Single cream can be substituted, but it has a lower fat content (around 18%), which may affect texture. For sauces or baked goods, you might need to adjust cooking times slightly. If using 0.5 cups (118 ml) of single cream, consider adding a thickening agent like cornflour for better results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 cups of double cream to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.5 cups (118 ml) of double cream weighs roughly 120 grams. This conversion is useful for recipes requiring weight measurements. Use a kitchen scale for accuracy, especially when baking in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.5 cups (118 ml) of double cream weighs roughly 120 grams. This conversion is useful for recipes requiring weight measurements. Use a kitchen scale for accuracy, especially when baking in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my double cream split in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Double cream can split if heated too quickly or at high temperatures. To avoid this, heat it gradually or mix it with other ingredients first. Stirring occasionally and using the air fryer’s lower temperature settings also helps maintain a smooth consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Double cream can split if heated too quickly or at high temperatures. To avoid this, heat it gradually or mix it with other ingredients first. Stirring occasionally and using the air fryer’s lower temperature settings also helps maintain a smooth consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 0.5 Cups of Double Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream",
+    "@type": "WebPage",
+    "name": "How Many ml Is 0.5 Cups of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream",
     "description": "Discover the exact ml measurement for 0.5 cups of double cream with our simple conversion guide—perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:11:40.852000+00:00",
     "dateModified": "2025-07-28T20:11:40.852000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 0.5 Cups of Double Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-double-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cups of double cream equals approximately 118 ml. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you’re making a creamy sauce or a decadent dessert, knowing the exact ml measurement helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions effortless for home cooks. Let’s dive deeper into why this measurement matters and how to use it.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce"
-        },
-        "headline": "Quick Guide: Converting 1.75 Cups of Chilli Sauce to Ounces",
-        "description": "Learn how to convert 1.75 cups of chilli sauce to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce"
+    },
+    "headline": "Quick Guide: Converting 1.75 Cups of Chilli Sauce to Ounces",
+    "description": "Learn how to convert 1.75 cups of chilli sauce to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-chilli-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-chilli-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 1.75 cups of chilli sauce for marinating meat in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 1.75 cups (14 ounces) of chilli sauce is ideal for marinating 2-3 pounds of meat. For best results, marinate for at least 30 minutes before air frying to let the flavours penetrate. Avoid over-marinating delicate proteins like fish, as the acidity can break them down."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 1.75 cups (14 ounces) of chilli sauce is ideal for marinating 2-3 pounds of meat. For best results, marinate for at least 30 minutes before air frying to let the flavours penetrate. Avoid over-marinating delicate proteins like fish, as the acidity can break them down."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.75 cups of chilli sauce to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Since 1 ounce equals roughly 28 grams, 14 ounces (1.75 cups) of chilli sauce is about 396 grams. Keep in mind that thicker sauces may weigh slightly more due to density. Use a kitchen scale for the most accurate measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since 1 ounce equals roughly 28 grams, 14 ounces (1.75 cups) of chilli sauce is about 396 grams. Keep in mind that thicker sauces may weigh slightly more due to density. Use a kitchen scale for the most accurate measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of chilli sauce affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker sauces like sriracha or harissa may weigh more than thinner ones like Tabasco. Always check the label for specific weight guidelines, or measure by volume for consistency in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker sauces like sriracha or harissa may weigh more than thinner ones like Tabasco. Always check the label for specific weight guidelines, or measure by volume for consistency in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover chilli sauce after measuring 1.75 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Definitely! Store unused chilli sauce in a freezer-safe container for up to 3 months. Thaw in the fridge overnight and stir well before using. Freezing may slightly alter the texture, but the flavour remains intact."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Definitely! Store unused chilli sauce in a freezer-safe container for up to 3 months. Thaw in the fridge overnight and stir well before using. Freezing may slightly alter the texture, but the flavour remains intact."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of chilli sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of chilli sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce",
     "description": "Learn how to convert 1.75 cups of chilli sauce to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of chilli sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-chilli-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of chilli sauce equals approximately 14 ounces, making it easy to measure for your air fryer recipes. Whether you’re whipping up a spicy marinade or a saucy glaze, knowing this conversion ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help simplify measurements so you can focus on creating delicious meals.</p>  

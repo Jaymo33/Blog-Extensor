@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour"
-        },
-        "headline": "Quick Guide: Convert 1 tbsp of plain flour to grams easily",
-        "description": "Discover how to convert 1 tbsp of plain flour into grams for perfect baking every time. Get accurate measurements for UK recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour"
+    },
+    "headline": "Quick Guide: Convert 1 tbsp of plain flour to grams easily",
+    "description": "Discover how to convert 1 tbsp of plain flour into grams for perfect baking every time. Get accurate measurements for UK recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-plain-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-plain-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of flour affect how many grams are in 1 tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different flours have varying densities. While plain flour weighs about 8 grams per tablespoon, wholemeal flour is slightly heavier at approximately 9 grams per tablespoon due to its coarser texture. Self-raising flour, which contains baking powder, is typically lighter at around 7 grams per tablespoon."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different flours have varying densities. While plain flour weighs about 8 grams per tablespoon, wholemeal flour is slightly heavier at approximately 9 grams per tablespoon due to its coarser texture. Self-raising flour, which contains baking powder, is typically lighter at around 7 grams per tablespoon."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for gluten-free flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free flours often have different weights than regular plain flour. Rice flour, for example, weighs about 10 grams per tablespoon, while almond flour is closer to 6 grams. Always check the packaging or weigh your gluten-free flour separately for accurate measurements in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free flours often have different weights than regular plain flour. Rice flour, for example, weighs about 10 grams per tablespoon, while almond flour is closer to 6 grams. Always check the packaging or weigh your gluten-free flour separately for accurate measurements in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some sources say 1 tbsp of flour is 7 grams or 9 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The variation comes from different measuring methods and flour compaction. The 8-gram standard assumes spooning flour into the tablespoon and leveling it off. Scooping directly from the bag can add 1-2 extra grams due to compaction, while sifted flour might measure slightly less."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The variation comes from different measuring methods and flour compaction. The 8-gram standard assumes spooning flour into the tablespoon and leveling it off. Scooping directly from the bag can add 1-2 extra grams due to compaction, while sifted flour might measure slightly less."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 1 tbsp of flour without scales or measuring spoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In a pinch, you can estimate using common household items. A UK 1p coin weighs about 3.5 grams, so two stacked coins roughly equals 1 tbsp of flour. Alternatively, a heaped dessertspoon (not teaspoon) is approximately 1 tablespoon. For best results in air fryer cooking, we recommend proper measuring tools."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In a pinch, you can estimate using common household items. A UK 1p coin weighs about 3.5 grams, so two stacked coins roughly equals 1 tbsp of flour. Alternatively, a heaped dessertspoon (not teaspoon) is approximately 1 tablespoon. For best results in air fryer cooking, we recommend proper measuring tools."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of plain flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of plain flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour",
     "description": "Discover how to convert 1 tbsp of plain flour into grams for perfect baking every time. Get accurate measurements for UK recipes.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of plain flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-plain-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 tablespoon (tbsp) of plain flour weighs approximately 8 grams in the UK. This measurement is essential for baking and cooking, especially when using an air fryer where precision can affect texture and cooking times. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or converting measurements, knowing this conversion ensures consistent results every time.</p>

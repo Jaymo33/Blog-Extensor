@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice"
-        },
-        "headline": "Quick Conversion: 635 ml of Lime Juice to Cups",
-        "description": "Convert 635 ml of lime juice to cups effortlessly for precise air fryer recipes. Perfect for baking, marinades, and cocktails!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice"
+    },
+    "headline": "Quick Conversion: 635 ml of Lime Juice to Cups",
+    "description": "Convert 635 ml of lime juice to cups effortlessly for precise air fryer recipes. Perfect for baking, marinades, and cocktails!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 635 ml of lime juice the same as 2.68 cups in all recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 635 ml of lime juice equals approximately 2.68 cups in most standard recipes. However, slight variations may occur if using UK cups (250 ml) instead of US cups (240 ml). For air fryer recipes, sticking to one measurement system ensures consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 635 ml of lime juice equals approximately 2.68 cups in most standard recipes. However, slight variations may occur if using UK cups (250 ml) instead of US cups (240 ml). For air fryer recipes, sticking to one measurement system ensures consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for 635 ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Bottled lime juice works in a pinch, but fresh lime juice offers brighter flavour. If substituting, check for added preservatives or sweeteners, which may alter the taste. For air fryer marinades, fresh juice typically yields better results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bottled lime juice works in a pinch, but fresh lime juice offers brighter flavour. If substituting, check for added preservatives or sweeteners, which may alter the taste. For air fryer marinades, fresh juice typically yields better results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 635 ml of lime juice to other units, like tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "635 ml of lime juice equals roughly 42.3 tablespoons or 127 teaspoons. This conversion is handy for smaller batches or adjusting recipes. For precise air fryer cooking, use a digital scale or liquid measuring cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "635 ml of lime juice equals roughly 42.3 tablespoons or 127 teaspoons. This conversion is handy for smaller batches or adjusting recipes. For precise air fryer cooking, use a digital scale or liquid measuring cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my lime juice measurement seem off when using an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate hot air, which can reduce liquid volume slightly. If a recipe calls for 635 ml of lime juice, account for minimal evaporation. For saucy dishes, add a splash of water or oil to maintain moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate hot air, which can reduce liquid volume slightly. If a recipe calls for 635 ml of lime juice, account for minimal evaporation. For saucy dishes, add a splash of water or oil to maintain moisture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 635 ml of Lime Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 635 ml of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice",
     "description": "Convert 635 ml of lime juice to cups effortlessly for precise air fryer recipes. Perfect for baking, marinades, and cocktails!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 635 ml of Lime Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>635 ml of lime juice is approximately 2.68 cups. This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, dressings, or desserts. Whether you're following a British or American recipe, knowing how to convert millilitres to cups guarantees perfect results every time.</p>  

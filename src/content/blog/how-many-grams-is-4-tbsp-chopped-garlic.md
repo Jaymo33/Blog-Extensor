@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic"
-        },
-        "headline": "Quick Answer: How many grams is 4 tbsp of chopped garlic?",
-        "description": "Find out exactly how many grams are in 4 tbsp of chopped garlic for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic"
+    },
+    "headline": "Quick Answer: How many grams is 4 tbsp of chopped garlic?",
+    "description": "Find out exactly how many grams are in 4 tbsp of chopped garlic for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-chopped-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-chopped-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use minced garlic instead of chopped for the 4 tbsp to grams conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but minced garlic is slightly denser, so 4 tbsp may weigh closer to 40g. For accuracy, weigh it directly or lightly spoon it into the measuring tablespoon without packing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but minced garlic is slightly denser, so 4 tbsp may weigh closer to 40g. For accuracy, weigh it directly or lightly spoon it into the measuring tablespoon without packing."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many garlic cloves equal 4 tbsp (36g) chopped?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Approximately 6 medium cloves yield 4 tbsp when chopped. Clove sizes vary, so weighing ensures consistency, especially for air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Approximately 6 medium cloves yield 4 tbsp when chopped. Clove sizes vary, so weighing ensures consistency, especially for air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does jarred chopped garlic weigh the same as fresh?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Jarred garlic often weighs more due to added liquid. Drain it well before measuring, or use 3 tbsp plus 1 tsp (about 36g) to match fresh chopped garlic’s intensity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jarred garlic often weighs more due to added liquid. Drain it well before measuring, or use 3 tbsp plus 1 tsp (about 36g) to match fresh chopped garlic’s intensity."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer garlic taste bitter sometimes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Overcooking garlic in the air fryer can cause bitterness. Add it midway through cooking or mix with oil to prevent burning. Proper measurement (4 tbsp = 36g) also avoids overpowering flavours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overcooking garlic in the air fryer can cause bitterness. Add it midway through cooking or mix with oil to prevent burning. Proper measurement (4 tbsp = 36g) also avoids overpowering flavours."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 4 tbsp of chopped garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of chopped garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic",
     "description": "Find out exactly how many grams are in 4 tbsp of chopped garlic for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 4 tbsp of chopped garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-chopped-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4 tablespoons (tbsp) of chopped garlic equals approximately 36 grams (g). This conversion is essential for air fryer recipes where precision ensures even cooking and perfect flavour. Whether you’re making garlic butter shrimp or roasted vegetables, knowing the exact weight helps avoid over-seasoning or underwhelming results.</p>  

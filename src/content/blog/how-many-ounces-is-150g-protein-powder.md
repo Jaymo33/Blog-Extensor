@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder"
-        },
-        "headline": "Quick Guide: Convert 150g of Protein Powder to Ounces UK",
-        "description": "Learn how to convert 150g of protein powder to ounces with our easy guide. Perfect for meal prep and air fryer recipes. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder"
+    },
+    "headline": "Quick Guide: Convert 150g of Protein Powder to Ounces UK",
+    "description": "Learn how to convert 150g of protein powder to ounces with our easy guide. Perfect for meal prep and air fryer recipes. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-protein-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-150g-protein-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 150g of protein powder the same as 5.29 ounces in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 150g of protein powder is approximately 5.29 ounces in the UK. This conversion is based on the standard metric-to-imperial measurement, where 1 gram equals roughly 0.035 ounces. For precise baking or cooking in your air fryer, weighing is always best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 150g of protein powder is approximately 5.29 ounces in the UK. This conversion is based on the standard metric-to-imperial measurement, where 1 gram equals roughly 0.035 ounces. For precise baking or cooking in your air fryer, weighing is always best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups to measure 150g of protein powder instead of ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use cups, it’s less accurate since protein powder density varies. On average, 150g is about 1.5 cups, but weighing ensures consistency. For air fryer recipes, especially baked goods, sticking to grams or ounces is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use cups, it’s less accurate since protein powder density varies. On average, 150g is about 1.5 cups, but weighing ensures consistency. For air fryer recipes, especially baked goods, sticking to grams or ounces is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of protein powder affect the 150g to ounce conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most protein powders have similar densities, so 150g will still be close to 5.29 ounces. However, flavoured or blended powders might vary slightly. Always check the packaging for specific weight guidelines if precision is crucial."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most protein powders have similar densities, so 150g will still be close to 5.29 ounces. However, flavoured or blended powders might vary slightly. Always check the packaging for specific weight guidelines if precision is crucial."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I convert 150g of protein powder to ounces without a calculator?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A quick rule of thumb is to multiply grams by 0.035 to get ounces. For 150g, that’s 150 x 0.035 = 5.25 ounces (close enough to 5.29). For air fryer cooking, rounding slightly is usually fine, but scales are ideal for exact measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A quick rule of thumb is to multiply grams by 0.035 to get ounces. For 150g, that’s 150 x 0.035 = 5.25 ounces (close enough to 5.29). For air fryer cooking, rounding slightly is usually fine, but scales are ideal for exact measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 150g of protein powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of protein powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder",
     "description": "Learn how to convert 150g of protein powder to ounces with our easy guide. Perfect for meal prep and air fryer recipes. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 150g of protein powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-150g-protein-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150g of protein powder equals approximately 5.29 ounces. This conversion is essential for anyone using protein powder in recipes, especially when preparing meals for your air fryer. Whether you're baking protein-packed snacks or adding it to shakes, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of precise measurements for perfect results every time.</p>

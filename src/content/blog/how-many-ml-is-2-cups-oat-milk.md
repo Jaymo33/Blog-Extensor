@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk"
-        },
-        "headline": "Quick Guide: Convert 2.0 Cups of Oat Milk to ml Easily",
-        "description": "Learn how to convert 2.0 cups of oat milk to ml for perfect baking and cooking every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk"
+    },
+    "headline": "Quick Guide: Convert 2.0 Cups of Oat Milk to ml Easily",
+    "description": "Learn how to convert 2.0 cups of oat milk to ml for perfect baking and cooking every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T23:32:33.463Z",
-        "dateModified": "2025-07-28T23:32:33.463Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-oat-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T23:32:33.463Z",
+    "dateModified": "2025-07-28T23:32:33.463Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-oat-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.0 cups of oat milk the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2.0 cups of oat milk equals 473 ml in both the UK and US. The key difference is that UK recipes often use millilitres by default, while US recipes typically use cups. Always double-check the recipe’s origin to ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2.0 cups of oat milk equals 473 ml in both the UK and US. The key difference is that UK recipes often use millilitres by default, while US recipes typically use cups. Always double-check the recipe’s origin to ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 2.0 cups of oat milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Since 1 ml of oat milk weighs approximately 1 gram, you can measure 473 grams for 2.0 cups. This method is especially useful if you don’t have a liquid measuring jug handy. Just ensure your scale is set to grams for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Since 1 ml of oat milk weighs approximately 1 gram, you can measure 473 grams for 2.0 cups. This method is especially useful if you don’t have a liquid measuring jug handy. Just ensure your scale is set to grams for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does oat milk behave the same as dairy milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Oat milk works similarly to dairy milk in most air fryer recipes, though it may add a slightly sweeter flavour. For batters or coatings, 2.0 cups (473 ml) of oat milk will provide the same consistency as dairy milk. It’s a great plant-based alternative."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oat milk works similarly to dairy milk in most air fryer recipes, though it may add a slightly sweeter flavour. For batters or coatings, 2.0 cups (473 ml) of oat milk will provide the same consistency as dairy milk. It’s a great plant-based alternative."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert other cup measurements of oat milk to ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion is simple: 1 cup of oat milk equals 237 ml. So, for 1.5 cups, use 355 ml, and for 3 cups, use 711 ml. This rule applies to all oat milk measurements, making it easy to scale recipes up or down."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion is simple: 1 cup of oat milk equals 237 ml. So, for 1.5 cups, use 355 ml, and for 3 cups, use 711 ml. This rule applies to all oat milk measurements, making it easy to scale recipes up or down."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.0 Cups of Oat Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.0 Cups of Oat Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk",
     "description": "Learn how to convert 2.0 cups of oat milk to ml for perfect baking and cooking every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T23:32:33.463000+00:00",
     "dateModified": "2025-07-28T23:32:33.463000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.0 Cups of Oat Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-oat-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.0 cups of oat milk equals 473 ml, making it easy to measure for your recipes. Whether you're baking, cooking, or using your air fryer, precise measurements ensure perfect results every time. Oat milk has become a staple in many kitchens, especially for those who prefer plant-based alternatives. Understanding how to convert cups to millilitres is essential for following recipes accurately. This guide will help you master the conversion and offer tips for using oat milk in your air fryer.</p>

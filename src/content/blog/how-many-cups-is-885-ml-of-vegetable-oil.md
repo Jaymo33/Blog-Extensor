@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil"
-        },
-        "headline": "Quick Answer: How Many Cups Is 885 ml of Vegetable Oil?",
-        "description": "Discover how to convert 885 ml of vegetable oil to cups for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Answer: How Many Cups Is 885 ml of Vegetable Oil?",
+    "description": "Discover how to convert 885 ml of vegetable oil to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-885-ml-of-vegetable-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-885-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 885 ml of vegetable oil the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s a slight difference. In the UK, 1 cup is 250 ml, while in the US, it’s 240 ml. For 885 ml, this means roughly 3.54 UK cups or 3.69 US cups. We round it to 3.75 cups for simplicity in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s a slight difference. In the UK, 1 cup is 250 ml, while in the US, it’s 240 ml. For 885 ml, this means roughly 3.54 UK cups or 3.69 US cups. We round it to 3.75 cups for simplicity in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of cups for measuring 885 ml of vegetable oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Vegetable oil weighs about 0.92 grams per ml, so 885 ml equals roughly 814 grams. A kitchen scale can give you a precise measurement without needing cups. This method is especially handy for baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Vegetable oil weighs about 0.92 grams per ml, so 885 ml equals roughly 814 grams. A kitchen scale can give you a precise measurement without needing cups. This method is especially handy for baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 885 ml of vegetable oil affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Using 3.75 cups of oil won’t drastically change cooking times, but it ensures even crisping. Too little oil can dry out food, while too much may cause smoking. Always follow recipe guidelines for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Using 3.75 cups of oil won’t drastically change cooking times, but it ensures even crisping. Too little oil can dry out food, while too much may cause smoking. Always follow recipe guidelines for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes use exactly 885 ml (3.75 cups) of vegetable oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Large-batch recipes like fried chicken, tempura, or roasted vegetables often use this amount. It’s also common in baking recipes scaled for multiple servings. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a> for ideas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Large-batch recipes like fried chicken, tempura, or roasted vegetables often use this amount. It’s also common in baking recipes scaled for multiple servings. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a> for ideas."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 885 ml of Vegetable Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 885 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil",
     "description": "Discover how to convert 885 ml of vegetable oil to cups for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 885 ml of Vegetable Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-vegetable-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>885 ml of vegetable oil is approximately 3.75 cups. This conversion is essential for air fryer cooking and baking, ensuring your recipes turn out perfectly every time. Whether you're frying, roasting, or baking, accurate measurements make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions effortlessly. Let’s dive deeper into how this measurement works and why it matters.</p>

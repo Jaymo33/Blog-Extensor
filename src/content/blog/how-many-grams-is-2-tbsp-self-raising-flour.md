@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour"
-        },
-        "headline": "Quick Guide: 2 tbsp of self-raising flour to grams conversion",
-        "description": "Convert 2 tbsp of self-raising flour into grams easily with our accurate measurement guide. Perfect for air fryer baking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour"
+    },
+    "headline": "Quick Guide: 2 tbsp of self-raising flour to grams conversion",
+    "description": "Convert 2 tbsp of self-raising flour into grams easily with our accurate measurement guide. Perfect for air fryer baking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-self-raising-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-self-raising-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 2 tbsp of self-raising flour weigh the same as plain flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 2 tbsp of self-raising flour weighs slightly less than plain flour due to the added baking powder. While 2 tbsp of self-raising flour is about 18g, the same volume of plain flour would be approximately 20g. This small difference matters in precise air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 2 tbsp of self-raising flour weighs slightly less than plain flour due to the added baking powder. While 2 tbsp of self-raising flour is about 18g, the same volume of plain flour would be approximately 20g. This small difference matters in precise air fryer baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute plain flour for self-raising flour by adding baking powder. For every 150g of plain flour (about 10 tbsp), add 1 teaspoon of baking powder. When converting small amounts like 2 tbsp (18g), you'd need about 1/8 teaspoon of baking powder to match self-raising flour's properties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute plain flour for self-raising flour by adding baking powder. For every 150g of plain flour (about 10 tbsp), add 1 teaspoon of baking powder. When converting small amounts like 2 tbsp (18g), you'd need about 1/8 teaspoon of baking powder to match self-raising flour's properties."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer baking sometimes fail with tablespoon measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers require precise measurements because their rapid air circulation amplifies small imbalances. Tablespoon measurements can vary by how you scoop, while grams are exact. For consistent results, we recommend weighing flour when possible, especially for delicate bakes like soufflés or sponge cakes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers require precise measurements because their rapid air circulation amplifies small imbalances. Tablespoon measurements can vary by how you scoop, while grams are exact. For consistent results, we recommend weighing flour when possible, especially for delicate bakes like soufflés or sponge cakes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust air fryer recipes that use cups to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "One UK cup of self-raising flour equals about 150g or roughly 8 level tablespoons. So if a recipe calls for 1/4 cup, that's 2 tablespoons (18g). Always check whether the original recipe uses US or UK cup measurements, as they differ slightly. Our conversion charts account for these differences specifically for air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "One UK cup of self-raising flour equals about 150g or roughly 8 level tablespoons. So if a recipe calls for 1/4 cup, that's 2 tablespoons (18g). Always check whether the original recipe uses US or UK cup measurements, as they differ slightly. Our conversion charts account for these differences specifically for air fryer cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2 tbsp of self-raising flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of self-raising flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour",
     "description": "Convert 2 tbsp of self-raising flour into grams easily with our accurate measurement guide. Perfect for air fryer baking!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2 tbsp of self-raising flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 tablespoons (tbsp) of self-raising flour weigh approximately 18 grams in UK measurements. This conversion is essential for air fryer recipes where precise measurements can make or break your baking results. Whether you're whipping up cakes, muffins, or bread in your air fryer, knowing this conversion ensures perfect texture every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas"
-        },
-        "headline": "Quick Answer: 0.125 Cup Frozen Peas to Ounces Conversion",
-        "description": "Discover how many ounces are in 0.125 cup of frozen peas with our easy UK conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas"
+    },
+    "headline": "Quick Answer: 0.125 Cup Frozen Peas to Ounces Conversion",
+    "description": "Discover how many ounces are in 0.125 cup of frozen peas with our easy UK conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-frozen-peas.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-frozen-peas.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use fresh peas instead of frozen for the 0.125 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute fresh peas, but the weight may differ slightly. Fresh peas are typically lighter than frozen, so 0.125 cup of fresh peas weighs about 0.8 ounces. Adjust cooking times as fresh peas cook faster in an air fryer than frozen ones."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute fresh peas, but the weight may differ slightly. Fresh peas are typically lighter than frozen, so 0.125 cup of fresh peas weighs about 0.8 ounces. Adjust cooking times as fresh peas cook faster in an air fryer than frozen ones."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.125 cup without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a 1/8 cup measure, use 2 level tablespoons as an equivalent. For greater accuracy, use digital kitchen scales to measure out 1 ounce (28 grams) of frozen peas. This method often proves more precise than volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a 1/8 cup measure, use 2 level tablespoons as an equivalent. For greater accuracy, use digital kitchen scales to measure out 1 ounce (28 grams) of frozen peas. This method often proves more precise than volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do I need to thaw 0.125 cup of frozen peas before air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, you can cook frozen peas directly in the air fryer without thawing. In fact, cooking them from frozen helps maintain texture and prevents mushiness. Just add about 1-2 minutes to the cooking time compared to fresh peas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, you can cook frozen peas directly in the air fryer without thawing. In fact, cooking them from frozen helps maintain texture and prevents mushiness. Just add about 1-2 minutes to the cooking time compared to fresh peas."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 0.125 cup of frozen peas measurement vary sometimes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Variations can occur due to how tightly the peas are packed in the cup or differences in pea size. For absolute consistency, weighing your peas is best. Also, some brands may have slightly different freezing methods affecting density."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Variations can occur due to how tightly the peas are packed in the cup or differences in pea size. For absolute consistency, weighing your peas is best. Also, some brands may have slightly different freezing methods affecting density."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of frozen peas?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of frozen peas?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas",
     "description": "Discover how many ounces are in 0.125 cup of frozen peas with our easy UK conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of frozen peas?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-frozen-peas"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of frozen peas equals approximately 1 ounce (28 grams) in weight. This conversion is essential for precise measurements when preparing air fryer recipes, ensuring consistent results every time. Whether you're making a quick side dish or incorporating peas into a main meal, knowing this measurement helps with portion control and recipe accuracy.</p>

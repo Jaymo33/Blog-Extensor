@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 5g of Tomato Ketchup to Ounces",
-        "description": "Learn how to convert 5g of tomato ketchup to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 5g of Tomato Ketchup to Ounces",
+    "description": "Learn how to convert 5g of tomato ketchup to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5g-tomato-ketchup-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5g-tomato-ketchup-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 5g of tomato ketchup to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use a teaspoon to measure 5g of tomato ketchup, as one teaspoon is roughly 5g or 0.18 ounces. Alternatively, a tablespoon holds about 15g, so you'd need a third of a tablespoon. Visual cues, like comparing it to the size of a small grape, can also help."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use a teaspoon to measure 5g of tomato ketchup, as one teaspoon is roughly 5g or 0.18 ounces. Alternatively, a tablespoon holds about 15g, so you'd need a third of a tablespoon. Visual cues, like comparing it to the size of a small grape, can also help."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to measure 5g of tomato ketchup accurately in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Accurate measurements ensure your dishes have the right balance of flavours. Too much or too little ketchup can affect the taste and texture of your air fryer meals. Precise measurements are especially important in marinades and sauces, where small changes can make a big difference."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Accurate measurements ensure your dishes have the right balance of flavours. Too much or too little ketchup can affect the taste and texture of your air fryer meals. Precise measurements are especially important in marinades and sauces, where small changes can make a big difference."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 5g of tomato ketchup in sweet dishes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 5g of tomato ketchup can add a subtle sweetness and tang to sweet dishes like glazes for air-fried meats or even in some dessert sauces. Its versatility makes it a handy ingredient in both savoury and sweet recipes, as long as the amount is measured correctly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 5g of tomato ketchup can add a subtle sweetness and tang to sweet dishes like glazes for air-fried meats or even in some dessert sauces. Its versatility makes it a handy ingredient in both savoury and sweet recipes, as long as the amount is measured correctly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long can I store leftover tomato ketchup after measuring out 5g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Leftover tomato ketchup can be stored in an airtight container in the fridge for several months. Always check for signs of spoilage, like mould or off smells, before using. Proper storage ensures your ketchup stays fresh and ready for your next air fryer recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Leftover tomato ketchup can be stored in an airtight container in the fridge for several months. Always check for signs of spoilage, like mould or off smells, before using. Proper storage ensures your ketchup stays fresh and ready for your next air fryer recipe."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 5g of tomato ketchup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of tomato ketchup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces",
     "description": "Learn how to convert 5g of tomato ketchup to ounces with our easy guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 5g of tomato ketchup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/5g-tomato-ketchup-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 grams of tomato ketchup equals approximately 0.18 ounces. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a quick snack or a full meal, knowing how to convert grams to ounces ensures your dish turns out just right. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar"
-        },
-        "headline": "Quick & Easy 100g Icing Sugar to Ounces Conversion Guide",
-        "description": "Convert 100g of icing sugar to ounces in seconds with our simple guide. Perfect for baking and air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar"
+    },
+    "headline": "Quick & Easy 100g Icing Sugar to Ounces Conversion Guide",
+    "description": "Convert 100g of icing sugar to ounces in seconds with our simple guide. Perfect for baking and air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-icing-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-icing-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of ounces for 100g of icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but weighing is more accurate. 100g of icing sugar is roughly 0.8 US cups, but this can vary based on how tightly packed the sugar is. For precise air fryer baking, a digital scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but weighing is more accurate. 100g of icing sugar is roughly 0.8 US cups, but this can vary based on how tightly packed the sugar is. For precise air fryer baking, a digital scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK recipes use grams instead of ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The UK uses the metric system, so grams are standard for baking measurements. Ounces are more common in the US, which is why conversions like 100g icing sugar to ounces (3.53 oz) are helpful for international recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The UK uses the metric system, so grams are standard for baking measurements. Ounces are more common in the US, which is why conversions like 100g icing sugar to ounces (3.53 oz) are helpful for international recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does sifting affect the weight of icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sifting adds air, so 100g of sifted icing sugar may take up more volume but still weighs the same. For accurate conversions like 100g to ounces (3.53 oz), always measure after sifting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sifting adds air, so 100g of sifted icing sugar may take up more volume but still weighs the same. For accurate conversions like 100g to ounces (3.53 oz), always measure after sifting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other types of sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This conversion is specific to icing sugar due to its fine texture. Granulated or brown sugar has different densities, so check a dedicated conversion chart for other types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This conversion is specific to icing sugar due to its fine texture. Granulated or brown sugar has different densities, so check a dedicated conversion chart for other types."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 100g of icing sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of icing sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar",
     "description": "Convert 100g of icing sugar to ounces in seconds with our simple guide. Perfect for baking and air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 100g of icing sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-icing-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100g of icing sugar equals approximately 3.53 ounces. This conversion is essential for bakers who need precise measurements, especially when using air fryers for desserts. Whether you're making cakes, cookies, or frosting, knowing how to convert grams to ounces ensures your recipes turn out perfectly every time.</p>  

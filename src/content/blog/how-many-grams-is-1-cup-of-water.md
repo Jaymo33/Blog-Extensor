@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water"
-        },
-        "headline": "Quick Answer: How Many Grams Is 1.0 Cups of Water?",
-        "description": "Discover the exact gram measurement for 1.0 cups of water—perfect for air fryer recipes and precise cooking conversions.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water"
+    },
+    "headline": "Quick Answer: How Many Grams Is 1.0 Cups of Water?",
+    "description": "Discover the exact gram measurement for 1.0 cups of water—perfect for air fryer recipes and precise cooking conversions.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:37.491Z",
-        "dateModified": "2025-07-27T16:11:37.491Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:37.491Z",
+    "dateModified": "2025-07-27T16:11:37.491Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.0 cups of water the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.0 cups of water is standardized at 240 grams in both the UK and US. While some dry ingredients may vary slightly between measuring systems, liquid measurements for water remain consistent. This makes conversions easier for international recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.0 cups of water is standardized at 240 grams in both the UK and US. While some dry ingredients may vary slightly between measuring systems, liquid measurements for water remain consistent. This makes conversions easier for international recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! A digital kitchen scale is often more accurate than measuring cups. Simply place your container on the scale, tare it to zero, and pour water until it reaches 240 grams. This method eliminates errors from uneven pouring or meniscus misreading."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! A digital kitchen scale is often more accurate than measuring cups. Simply place your container on the scale, tare it to zero, and pour water until it reaches 240 grams. This method eliminates errors from uneven pouring or meniscus misreading."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cup (glass, plastic, etc.) affect the measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the material of the cup doesn’t change the weight of water. As long as you’re using a properly marked measuring cup or scale, 1.0 cups of water will always be 240 grams. Avoid using mugs or teacups, as their sizes aren’t standardized."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the material of the cup doesn’t change the weight of water. As long as you’re using a properly marked measuring cup or scale, 1.0 cups of water will always be 240 grams. Avoid using mugs or teacups, as their sizes aren’t standardized."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes sometimes use grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide precision, which is crucial for air fryer cooking where small batches are common. Volume measurements can vary based on how ingredients are packed, but weight ensures consistency. This is especially important for baking or making sauces in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide precision, which is crucial for air fryer cooking where small batches are common. Volume measurements can vary based on how ingredients are packed, but weight ensures consistency. This is especially important for baking or making sauces in the air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 1.0 Cups of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.0 Cups of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water",
     "description": "Discover the exact gram measurement for 1.0 cups of water—perfect for air fryer recipes and precise cooking conversions.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
     "dateModified": "2025-07-27T16:11:37.491000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 1.0 Cups of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.0 cups of water weighs exactly 240 grams. This measurement is standard for both UK and US cup measurements, making it easy to convert for recipes. Whether you’re using an air fryer or a conventional oven, knowing this conversion ensures precision in cooking and baking.</p>

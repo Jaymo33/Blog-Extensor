@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk"
-        },
-        "headline": "Quick Answer: How Many Cups Is 185 ml of Buttermilk?",
-        "description": "Discover the exact cup measurement for 185 ml of buttermilk with our simple conversion guide—perfect for baking and air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 185 ml of Buttermilk?",
+    "description": "Discover the exact cup measurement for 185 ml of buttermilk with our simple conversion guide—perfect for baking and air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-185-ml-of-buttermilk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-185-ml-of-buttermilk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 185 ml of buttermilk equal 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 185 ml of buttermilk is just under 0.8 cups—closer to ¾ cup plus 1 tablespoon. A full US cup measures 240 ml, so 185 ml falls short by about 55 ml. This small difference matters in baking, where precise ratios affect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 185 ml of buttermilk is just under 0.8 cups—closer to ¾ cup plus 1 tablespoon. A full US cup measures 240 ml, so 185 ml falls short by about 55 ml. This small difference matters in baking, where precise ratios affect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 185 ml of buttermilk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While a standard drinking cup holds roughly 240 ml (1 cup), it’s not accurate for measuring 185 ml of buttermilk. Use a liquid measuring cup with metric markings or convert using tablespoons (12 tbsp + 2 tsp ≈ 185 ml). Eyeballing it risks recipe inconsistencies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While a standard drinking cup holds roughly 240 ml (1 cup), it’s not accurate for measuring 185 ml of buttermilk. Use a liquid measuring cup with metric markings or convert using tablespoons (12 tbsp + 2 tsp ≈ 185 ml). Eyeballing it risks recipe inconsistencies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes often use buttermilk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Buttermilk’s acidity tenderises proteins and activates baking soda, creating lighter textures in air-fried foods. Its thickness also helps coatings adhere better to items like chicken or onion rings. At 185 ml (0.78 cups), it provides ideal moisture without sogginess."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buttermilk’s acidity tenderises proteins and activates baking soda, creating lighter textures in air-fried foods. Its thickness also helps coatings adhere better to items like chicken or onion rings. At 185 ml (0.78 cups), it provides ideal moisture without sogginess."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 185 ml of buttermilk compare to UK and US cup sizes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The UK metric cup is 250 ml, making 185 ml about 0.74 UK cups. The US cup is 240 ml, so 185 ml equals roughly 0.78 US cups. For air fryer recipes, this minor difference rarely impacts results—both measurements work near identically in practice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The UK metric cup is 250 ml, making 185 ml about 0.74 UK cups. The US cup is 240 ml, so 185 ml equals roughly 0.78 US cups. For air fryer recipes, this minor difference rarely impacts results—both measurements work near identically in practice."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 185 ml of Buttermilk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 185 ml of Buttermilk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk",
     "description": "Discover the exact cup measurement for 185 ml of buttermilk with our simple conversion guide—perfect for baking and air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 185 ml of Buttermilk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-buttermilk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>185 ml of buttermilk equals approximately 0.78 cups (just under ¾ cup plus 1 tablespoon). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up fluffy pancakes or tender fried chicken, knowing how many cups is 185 ml of buttermilk ensures consistent results every time.</p>

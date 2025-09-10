@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds"
-        },
-        "headline": "Easy 7.25 kg lamb leg to pounds conversion for perfect air fryer cooking",
-        "description": "Convert 7.25 kg lamb leg to pounds quickly and accurately for your air fryer. Get perfect cooking times and juicy results every time with our simple guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds"
+    },
+    "headline": "Easy 7.25 kg lamb leg to pounds conversion for perfect air fryer cooking",
+    "description": "Convert 7.25 kg lamb leg to pounds quickly and accurately for your air fryer. Get perfect cooking times and juicy results every time with our simple guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T23:44:08.419Z",
-        "dateModified": "2025-08-22T23:44:08.419Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-25-kg-lamb-leg-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T23:44:08.419Z",
+    "dateModified": "2025-08-22T23:44:08.419Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-25-kg-lamb-leg-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is a 7.25 kg lamb leg?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 7.25 kg lamb leg is approximately 16 pounds. This conversion is based on the standard rate where 1 kilogram equals 2.20462 pounds, and rounding to the nearest whole number makes it easier for practical cooking purposes. Knowing this weight helps you accurately follow air fryer recipes and ensure perfect cooking times for a juicy, tender result."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 7.25 kg lamb leg is approximately 16 pounds. This conversion is based on the standard rate where 1 kilogram equals 2.20462 pounds, and rounding to the nearest whole number makes it easier for practical cooking purposes. Knowing this weight helps you accurately follow air fryer recipes and ensure perfect cooking times for a juicy, tender result."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert 7.25 kg lamb leg to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 7.25 kg lamb leg to pounds is essential because most air fryer cooking guidelines and recipes use imperial measurements. Pounds help determine correct cooking times and temperatures, preventing undercooking or drying out your meat. Accurate conversions ensure consistent results and make it easier to use popular resources like cooking charts and timers."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 7.25 kg lamb leg to pounds is essential because most air fryer cooking guidelines and recipes use imperial measurements. Pounds help determine correct cooking times and temperatures, preventing undercooking or drying out your meat. Accurate conversions ensure consistent results and make it easier to use popular resources like cooking charts and timers."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook a 7.25 kg lamb leg in any air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooking a 7.25 kg lamb leg requires a large-capacity air fryer to accommodate the size comfortably. Check your appliance’s basket dimensions beforehand, as overcrowding can affect air circulation and cooking efficiency. If your air fryer is too small, consider trussing the meat or using a rotisserie attachment if available. Always preheat and monitor closely for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooking a 7.25 kg lamb leg requires a large-capacity air fryer to accommodate the size comfortably. Check your appliance’s basket dimensions beforehand, as overcrowding can affect air circulation and cooking efficiency. If your air fryer is too small, consider trussing the meat or using a rotisserie attachment if available. Always preheat and monitor closely for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find recipes for cooking a 7.25 kg lamb leg in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can find dedicated recipes and guides for cooking lamb leg in an air fryer on websites like airfryerrecipe.co.uk. Their lamb category includes detailed instructions, seasoning ideas, and timing charts tailored to different weights and preferences. These resources help you adapt traditional roasting methods for air frying, ensuring delicious and hassle-free meals every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can find dedicated recipes and guides for cooking lamb leg in an air fryer on websites like airfryerrecipe.co.uk. Their lamb category includes detailed instructions, seasoning ideas, and timing charts tailored to different weights and preferences. These resources help you adapt traditional roasting methods for air frying, ensuring delicious and hassle-free meals every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "7.25 kg lamb leg to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds",
+    "@type": "WebPage",
+    "name": "7.25 kg lamb leg to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds",
     "description": "Convert 7.25 kg lamb leg to pounds quickly and accurately for your air fryer. Get perfect cooking times and juicy results every time with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:44:08.419000+00:00",
     "dateModified": "2025-08-22T23:44:08.419000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "7.25 kg lamb leg to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/7-25-kg-lamb-leg-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>If you have a 7.25 kg lamb leg and need to know its weight in pounds, the answer is straightforward: 7.25 kilograms is equal to approximately 16 pounds. This conversion is essential for planning your air fryer cooking, as larger cuts like a lamb leg require precise timing and temperature control. Knowing the weight in pounds helps you follow recipes accurately, whether you’re roasting, searing, or slow-cooking. At airfryerrecipe.co.uk, we specialise in making these conversions simple so you can focus on creating delicious meals. Understanding your ingredient’s weight is the first step toward a perfectly cooked dish every time.</p>

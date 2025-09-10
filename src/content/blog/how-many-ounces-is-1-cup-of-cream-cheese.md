@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1 Cup of Cream Cheese?",
-        "description": "Discover how many ounces are in 1 cup of cream cheese for perfect recipes every time. Get accurate conversions and air fryer tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1 Cup of Cream Cheese?",
+    "description": "Discover how many ounces are in 1 cup of cream cheese for perfect recipes every time. Get accurate conversions and air fryer tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-cream-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-cream-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 1 cup of cream cheese equal 8 ounces in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1 cup of cream cheese is 8 ounces in the UK, just like in the US. The measurement by weight remains consistent, making it easy to follow recipes from any country. If you're using a kitchen scale, you'll get the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1 cup of cream cheese is 8 ounces in the UK, just like in the US. The measurement by weight remains consistent, making it easy to follow recipes from any country. If you're using a kitchen scale, you'll get the most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use whipped cream cheese instead of regular in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Whipped cream cheese can be used, but it has more air, so 1 cup may weigh slightly less. For best results, measure by weight (8 ounces per cup) rather than volume. This ensures your recipe turns out as intended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Whipped cream cheese can be used, but it has more air, so 1 cup may weigh slightly less. For best results, measure by weight (8 ounces per cup) rather than volume. This ensures your recipe turns out as intended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams to ounces for cream cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert grams to ounces, divide the grams by 28.35. For example, 225 grams of cream cheese is roughly 8 ounces (1 cup). A kitchen scale simplifies this process, especially for air fryer recipes requiring precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert grams to ounces, divide the grams by 28.35. For example, 225 grams of cream cheese is roughly 8 ounces (1 cup). A kitchen scale simplifies this process, especially for air fryer recipes requiring precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to soften cream cheese for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Leave cream cheese at room temperature for 30–60 minutes before using. For a quicker method, microwave it in 10-second bursts, stirring between each. Softened cream cheese blends better in dips and batters for air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Leave cream cheese at room temperature for 30–60 minutes before using. For a quicker method, microwave it in 10-second bursts, stirring between each. Softened cream cheese blends better in dips and batters for air fryer dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of cream cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of cream cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese",
     "description": "Discover how many ounces are in 1 cup of cream cheese for perfect recipes every time. Get accurate conversions and air fryer tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of cream cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-cream-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of cream cheese equals 8 ounces, making it easy to measure for recipes. Whether you're baking a cheesecake or whipping up a creamy dip for your air fryer, knowing this conversion ensures perfect results every time. Cream cheese is a staple in many dishes, from desserts to savoury meals, so getting the measurement right is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you nail every recipe with precision. Keep reading to learn more about measuring cream cheese and how it fits into your air fryer cooking.</p>  

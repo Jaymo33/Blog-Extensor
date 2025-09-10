@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt"
-        },
-        "headline": "Quick Answer: How Many Cups Is 500 Grams of Yogurt?",
-        "description": "Discover how to convert 500 grams of yogurt to cups for perfect recipes every time. Includes UK and US measurements for easy air fryer cooking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt"
+    },
+    "headline": "Quick Answer: How Many Cups Is 500 Grams of Yogurt?",
+    "description": "Discover how to convert 500 grams of yogurt to cups for perfect recipes every time. Includes UK and US measurements for easy air fryer cooking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T08:17:57.854Z",
-        "dateModified": "2025-07-27T08:17:57.854Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-yogurt.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T08:17:57.854Z",
+    "dateModified": "2025-07-27T08:17:57.854Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-yogurt.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 500 grams of yogurt the same as 500 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 500 grams of yogurt is not the same as 500 ml. Grams measure weight, while millilitres measure volume. The exact volume depends on the yogurt's density. For example, 500 grams of thick Greek yogurt may take up less space than 500 grams of runny natural yogurt."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 500 grams of yogurt is not the same as 500 ml. Grams measure weight, while millilitres measure volume. The exact volume depends on the yogurt's density. For example, 500 grams of thick Greek yogurt may take up less space than 500 grams of runny natural yogurt."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use Greek yogurt instead of natural yogurt in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute Greek yogurt for natural yogurt, but adjustments may be needed. Greek yogurt is thicker, so you might need to thin it with a little water or milk to match the consistency of natural yogurt. Always check the recipe for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute Greek yogurt for natural yogurt, but adjustments may be needed. Greek yogurt is thicker, so you might need to thin it with a little water or milk to match the consistency of natural yogurt. Always check the recipe for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 500 grams of yogurt last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An unopened 500-gram container of yogurt typically lasts 1-2 weeks in the fridge, depending on the expiry date. Once opened, consume it within 3-5 days for the best quality. Always check for off smells or mould before using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An unopened 500-gram container of yogurt typically lasts 1-2 weeks in the fridge, depending on the expiry date. Once opened, consume it within 3-5 days for the best quality. Always check for off smells or mould before using."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 500 grams of yogurt for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can freeze yogurt, but its texture may change slightly. Thaw it in the fridge and stir well before using. Frozen yogurt works best in cooked dishes like sauces or baked goods, rather than as a fresh topping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can freeze yogurt, but its texture may change slightly. Thaw it in the fridge and stir well before using. Frozen yogurt works best in cooked dishes like sauces or baked goods, rather than as a fresh topping."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 500 Grams of Yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 500 Grams of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt",
     "description": "Discover how to convert 500 grams of yogurt to cups for perfect recipes every time. Includes UK and US measurements for easy air fryer cooking.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T08:17:57.854000+00:00",
     "dateModified": "2025-07-27T08:17:57.854000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 500 Grams of Yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-yogurt"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500 grams of yogurt is roughly equivalent to 2.1 US cups or 1.75 UK cups. This conversion helps ensure accuracy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're making a creamy dip or a fluffy cake, knowing how to convert grams to cups ensures consistent results every time.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil"
-        },
-        "headline": "Quick Answer: How many grams is 3 tbsp of sunflower oil?",
-        "description": "Discover the exact weight of 3 tbsp sunflower oil in grams for precise air fryer cooking. Perfect measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil"
+    },
+    "headline": "Quick Answer: How many grams is 3 tbsp of sunflower oil?",
+    "description": "Discover the exact weight of 3 tbsp sunflower oil in grams for precise air fryer cooking. Perfect measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-sunflower-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-sunflower-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use other oils instead of sunflower oil in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use oils like olive, rapeseed, or avocado oil, but be mindful of their smoke points. Sunflower oil has a high smoke point (around 225°C), making it ideal for air frying. Always adjust quantities based on density differences."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use oils like olive, rapeseed, or avocado oil, but be mindful of their smoke points. Sunflower oil has a high smoke point (around 225°C), making it ideal for air frying. Always adjust quantities based on density differences."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify grams instead of tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide more accuracy, especially when scaling recipes. Tablespoons can vary slightly in volume, while weight measurements ensure consistency. This is crucial for air frying, where even cooking relies on precise ingredient ratios."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide more accuracy, especially when scaling recipes. Tablespoons can vary slightly in volume, while weight measurements ensure consistency. This is crucial for air frying, where even cooking relies on precise ingredient ratios."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams back to tablespoons if needed?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Divide the gram measurement by 13.6 (the weight of 1 tbsp of sunflower oil). For example, 41 grams ÷ 13.6 = roughly 3 tablespoons. Keep a conversion chart handy for quick reference."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Divide the gram measurement by 13.6 (the weight of 1 tbsp of sunflower oil). For example, 41 grams ÷ 13.6 = roughly 3 tablespoons. Keep a conversion chart handy for quick reference."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of sunflower oil affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Refined and unrefined sunflower oil have nearly identical densities, so the weight difference is negligible. However, cold-pressed oils may have slight variations due to processing methods. Stick to standard conversions for consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Refined and unrefined sunflower oil have nearly identical densities, so the weight difference is negligible. However, cold-pressed oils may have slight variations due to processing methods. Stick to standard conversions for consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 3 tbsp of sunflower oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil",
+    "@type": "WebPage",
+    "name": "How many grams is 3 tbsp of sunflower oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil",
     "description": "Discover the exact weight of 3 tbsp sunflower oil in grams for precise air fryer cooking. Perfect measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 3 tbsp of sunflower oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-sunflower-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 tablespoons of sunflower oil weigh approximately 41 grams. This conversion is essential for precise air fryer cooking, ensuring your recipes turn out perfectly every time. Whether you're frying, roasting, or baking, knowing the exact weight helps maintain consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

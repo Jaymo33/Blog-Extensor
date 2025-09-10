@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock"
-        },
-        "headline": "Quick Conversion: 2.0 Cups of Beef Stock to ml Explained",
-        "description": "Discover how to convert 2.0 cups of beef stock to ml effortlessly for precise cooking in your air fryer. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock"
+    },
+    "headline": "Quick Conversion: 2.0 Cups of Beef Stock to ml Explained",
+    "description": "Discover how to convert 2.0 cups of beef stock to ml effortlessly for precise cooking in your air fryer. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T23:32:33.463Z",
-        "dateModified": "2025-07-28T23:32:33.463Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-beef-stock.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T23:32:33.463Z",
+    "dateModified": "2025-07-28T23:32:33.463Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-cups-beef-stock.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.0 cups of beef stock the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2.0 cups of beef stock equals 473 ml in both UK and US measurements. The metric conversion remains consistent, making it easy to follow recipes regardless of origin."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2.0 cups of beef stock equals 473 ml in both UK and US measurements. The metric conversion remains consistent, making it easy to follow recipes regardless of origin."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use stock cubes instead of liquid beef stock for 2.0 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can dissolve one beef stock cube in 473 ml (2.0 cups) of boiling water as a substitute. Adjust the amount of water if the cube’s instructions differ slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can dissolve one beef stock cube in 473 ml (2.0 cups) of boiling water as a substitute. Adjust the amount of water if the cube’s instructions differ slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 2.0 cups of beef stock last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Once opened, 2.0 cups (473 ml) of beef stock will stay fresh for 3–4 days in the fridge. Store it in an airtight container to maintain quality."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Once opened, 2.0 cups (473 ml) of beef stock will stay fresh for 3–4 days in the fridge. Store it in an airtight container to maintain quality."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover 2.0 cups of beef stock?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Freeze 2.0 cups (473 ml) of beef stock in portions for up to 3 months. Ice cube trays work well for smaller amounts, while airtight containers suit larger quantities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Freeze 2.0 cups (473 ml) of beef stock in portions for up to 3 months. Ice cube trays work well for smaller amounts, while airtight containers suit larger quantities."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.0 Cups of Beef Stock?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.0 Cups of Beef Stock?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock",
     "description": "Discover how to convert 2.0 cups of beef stock to ml effortlessly for precise cooking in your air fryer. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T23:32:33.463000+00:00",
     "dateModified": "2025-07-28T23:32:33.463000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.0 Cups of Beef Stock?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-cups-beef-stock"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.0 cups of beef stock equals 473 ml, making it easy to measure for air fryer recipes. Whether you're preparing a hearty stew or a rich gravy, knowing this conversion ensures precision in your cooking. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with accurate measurements every time.</p>

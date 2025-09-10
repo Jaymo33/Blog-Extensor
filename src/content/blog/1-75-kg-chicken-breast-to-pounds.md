@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds"
-        },
-        "headline": "Easy 1.75 kg Chicken Breast to Pounds Conversion Guide",
-        "description": "Convert 1.75 kg chicken breast to pounds instantly with our simple guide. Perfect for air fryer recipes and meal prep planning. Get cooking now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds"
+    },
+    "headline": "Easy 1.75 kg Chicken Breast to Pounds Conversion Guide",
+    "description": "Convert 1.75 kg chicken breast to pounds instantly with our simple guide. Perfect for air fryer recipes and meal prep planning. Get cooking now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T00:37:28.394Z",
-        "dateModified": "2025-08-22T00:37:28.394Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-75-kg-chicken-breast-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T00:37:28.394Z",
+    "dateModified": "2025-08-22T00:37:28.394Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-75-kg-chicken-breast-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 1.75 kg of chicken breast exactly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1.75 kg of chicken breast is exactly 3.858085 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For practical cooking purposes, most people round this to 3.86 pounds, which is perfectly accurate enough for recipe measurements and grocery shopping. The slight difference won't affect your cooking results in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.75 kg of chicken breast is exactly 3.858085 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For practical cooking purposes, most people round this to 3.86 pounds, which is perfectly accurate enough for recipe measurements and grocery shopping. The slight difference won't affect your cooking results in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Should I convert 1.75 kg chicken breast to pounds before or after cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Always convert weights when the chicken is raw, as cooking causes moisture loss that reduces the weight significantly. Recipes specify raw weights because cooking times and temperatures are based on the starting weight. If you've already cooked your chicken breast and need to convert, remember that cooked chicken weighs about 25-30% less than raw, so 1.75 kg raw would be approximately 1.2-1.3 kg after cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Always convert weights when the chicken is raw, as cooking causes moisture loss that reduces the weight significantly. Recipes specify raw weights because cooking times and temperatures are based on the starting weight. If you've already cooked your chicken breast and need to convert, remember that cooked chicken weighs about 25-30% less than raw, so 1.75 kg raw would be approximately 1.2-1.3 kg after cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many chicken breasts are in 1.75 kg (3.86 pounds)?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The number of individual chicken breasts in 1.75 kg depends on their size. Typically, you'll get 4-6 chicken breasts totaling 1.75 kg, with each breast weighing between 290-440 grams (10-15 ounces). Larger supermarket chicken breasts tend to be at the heavier end of this range, while organic or free-range options might be smaller. For consistent cooking in your air fryer, try to select breasts of similar size or adjust cooking times accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The number of individual chicken breasts in 1.75 kg depends on their size. Typically, you'll get 4-6 chicken breasts totaling 1.75 kg, with each breast weighing between 290-440 grams (10-15 ounces). Larger supermarket chicken breasts tend to be at the heavier end of this range, while organic or free-range options might be smaller. For consistent cooking in your air fryer, try to select breasts of similar size or adjust cooking times accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this same conversion for other meats besides chicken breast?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion factor of 1 kilogram equals 2.20462 pounds applies to all types of meat and most other ingredients. Whether you're working with beef, pork, fish, or vegetables, the same conversion calculation works perfectly. This makes it easy to adapt any recipe between metric and imperial measurements. Just remember that different meats may have different cooking times and temperatures in your air fryer, even at the same weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion factor of 1 kilogram equals 2.20462 pounds applies to all types of meat and most other ingredients. Whether you're working with beef, pork, fish, or vegetables, the same conversion calculation works perfectly. This makes it easy to adapt any recipe between metric and imperial measurements. Just remember that different meats may have different cooking times and temperatures in your air fryer, even at the same weight."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "1.75 kg chicken breast to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds",
+    "@type": "WebPage",
+    "name": "1.75 kg chicken breast to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds",
     "description": "Convert 1.75 kg chicken breast to pounds instantly with our simple guide. Perfect for air fryer recipes and meal prep planning. Get cooking now!",
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "1.75 kg chicken breast to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/1-75-kg-chicken-breast-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 kg of chicken breast is equivalent to approximately 3.86 pounds. This conversion is essential for anyone using recipes with imperial measurements or shopping for ingredients in regions that use pounds rather than kilograms. Whether you're meal prepping for the week or planning a family dinner, knowing this conversion helps you buy the right amount of chicken breast. Many air fryer recipes, especially those from American sources, list ingredients in pounds, making this knowledge particularly useful. Getting the quantity right ensures your dishes turn out perfectly every time you use your air fryer.</p>

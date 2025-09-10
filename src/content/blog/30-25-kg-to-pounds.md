@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds"
-        },
-        "headline": "Quick 30.25 kg to Pounds Conversion for Air Fryer Cooking",
-        "description": "Convert 30.25 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe mishaps with our simple guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds"
+    },
+    "headline": "Quick 30.25 kg to Pounds Conversion for Air Fryer Cooking",
+    "description": "Convert 30.25 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe mishaps with our simple guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-21T22:25:08.238Z",
-        "dateModified": "2025-08-21T22:25:08.238Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30-25-kg-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-21T22:25:08.238Z",
+    "dateModified": "2025-08-21T22:25:08.238Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30-25-kg-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 30.25 kg exactly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "30.25 kilograms is exactly equal to 66.691275 pounds when using the precise conversion factor of 1 kg = 2.20462 pounds. For most practical cooking purposes, especially in the kitchen with an air fryer, this is typically rounded to 66.69 pounds. This level of precision ensures your recipes are followed accurately for perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "30.25 kilograms is exactly equal to 66.691275 pounds when using the precise conversion factor of 1 kg = 2.20462 pounds. For most practical cooking purposes, especially in the kitchen with an air fryer, this is typically rounded to 66.69 pounds. This level of precision ensures your recipes are followed accurately for perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why would I need to convert 30.25 kg to pounds for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You might need to convert 30.25 kg to pounds if you are using a recipe from a country that uses the metric system, or if you have purchased ingredients in bulk. Air fryers have limited basket capacity, and understanding the weight in pounds helps you avoid overfilling the basket, which is crucial for proper air circulation and even cooking. It also assists in portioning large quantities for meal prep or dividing recipes to fit your appliance's size."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You might need to convert 30.25 kg to pounds if you are using a recipe from a country that uses the metric system, or if you have purchased ingredients in bulk. Air fryers have limited basket capacity, and understanding the weight in pounds helps you avoid overfilling the basket, which is crucial for proper air circulation and even cooking. It also assists in portioning large quantities for meal prep or dividing recipes to fit your appliance's size."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I convert 30.25 kg to stones and pounds as well?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, absolutely. To convert 30.25 kg to stones and pounds, first convert to pounds (66.69 lbs). There are 14 pounds in one stone. So, 66.69 pounds divided by 14 equals approximately 4.76 stone. This means 4 whole stone, and the remainder is 0.76 stone multiplied by 14, which is about 10.64 pounds. Therefore, 30.25 kg is roughly 4 stone and 10.6 pounds."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, absolutely. To convert 30.25 kg to stones and pounds, first convert to pounds (66.69 lbs). There are 14 pounds in one stone. So, 66.69 pounds divided by 14 equals approximately 4.76 stone. This means 4 whole stone, and the remainder is 0.76 stone multiplied by 14, which is about 10.64 pounds. Therefore, 30.25 kg is roughly 4 stone and 10.6 pounds."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is there a quick way to convert kg to pounds without a calculator?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A quick and easy rule of thumb is to double the kilogram value and then add 10% of the original value to get an approximate pound figure. For 30.25 kg, double is 60.5, and 10% is 3.025. Adding them together gives you approximately 63.525 pounds, which is a rough estimate. For a more accurate conversion, especially for recipe use, it's always best to use the precise multiplier of 2.20462 or a trusted converter like the one on airfryerrecipe.co.uk."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A quick and easy rule of thumb is to double the kilogram value and then add 10% of the original value to get an approximate pound figure. For 30.25 kg, double is 60.5, and 10% is 3.025. Adding them together gives you approximately 63.525 pounds, which is a rough estimate. For a more accurate conversion, especially for recipe use, it's always best to use the precise multiplier of 2.20462 or a trusted converter like the one on airfryerrecipe.co.uk."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "30.25 kg to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds",
+    "@type": "WebPage",
+    "name": "30.25 kg to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds",
     "description": "Convert 30.25 kg to pounds instantly for perfect air fryer portions. Get easy charts, tips, and avoid recipe mishaps with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-08-21T22:25:08.238000+00:00",
     "dateModified": "2025-08-21T22:25:08.238000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "30.25 kg to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/30-25-kg-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>30.25 kilograms is equal to approximately 66.69 pounds. This conversion is essential for anyone using an air fryer, especially when dealing with larger cuts of meat or bulk ingredients. Many recipes, particularly those from international sources or professional kitchens, use metric measurements. Knowing how to quickly convert 30.25 kg to pounds ensures you use the correct amount of food for your appliance, preventing overcrowding and promoting even cooking. Getting your quantities right is the first step to a perfect air fryer meal every time.</p>

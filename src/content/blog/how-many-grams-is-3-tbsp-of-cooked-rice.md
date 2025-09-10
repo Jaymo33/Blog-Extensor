@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice"
-        },
-        "headline": "Quick Answer: How many grams is 3 tbsp of cooked rice?",
-        "description": "Find out exactly how many grams are in 3 tbsp of cooked rice for perfect air fryer meal prep every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice"
+    },
+    "headline": "Quick Answer: How many grams is 3 tbsp of cooked rice?",
+    "description": "Find out exactly how many grams are in 3 tbsp of cooked rice for perfect air fryer meal prep every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-cooked-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-cooked-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rice affect how many grams are in 3 tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different rice varieties can slightly change the weight. Fluffier rice like basmati may weigh about 42 grams for 3 tbsp, while stickier short-grain rice could be closer to 48 grams. However, 45 grams is a good average for most common types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different rice varieties can slightly change the weight. Fluffier rice like basmati may weigh about 42 grams for 3 tbsp, while stickier short-grain rice could be closer to 48 grams. However, 45 grams is a good average for most common types."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 3 tbsp of cooked rice without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard UK tablespoon (15ml) and lightly fill it without packing the rice down. Level off the top with a straight edge like a knife. For better accuracy, consider investing in cheap kitchen scales as they're more precise for recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard UK tablespoon (15ml) and lightly fill it without packing the rice down. Level off the top with a straight edge like a knife. For better accuracy, consider investing in cheap kitchen scales as they're more precise for recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing rice better than measuring by volume?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements are more consistent because they aren't affected by how tightly packed the rice is. This is especially important for air fryer recipes where precise portions affect cooking time and texture. Grams also make scaling recipes up or down much easier."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements are more consistent because they aren't affected by how tightly packed the rice is. This is especially important for air fryer recipes where precise portions affect cooking time and texture. Grams also make scaling recipes up or down much easier."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook rice directly in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Some air fryer models can cook rice using an oven-safe dish or silicone liner. You'll need to add slightly more water than usual due to the air circulation. Always check your manufacturer's guidelines and monitor the cooking process closely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Some air fryer models can cook rice using an oven-safe dish or silicone liner. You'll need to add slightly more water than usual due to the air circulation. Always check your manufacturer's guidelines and monitor the cooking process closely."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 3 tbsp of cooked rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice",
+    "@type": "WebPage",
+    "name": "How many grams is 3 tbsp of cooked rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice",
     "description": "Find out exactly how many grams are in 3 tbsp of cooked rice for perfect air fryer meal prep every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 3 tbsp of cooked rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-cooked-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 tablespoons of cooked rice weighs approximately 45 grams. This measurement is handy when portioning rice for air fryer recipes or meal prep. Whether you're making fried rice, stuffed peppers, or rice-based dishes, knowing the exact weight ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

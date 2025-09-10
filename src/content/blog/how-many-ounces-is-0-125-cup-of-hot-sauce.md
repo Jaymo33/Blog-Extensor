@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce"
-        },
-        "headline": "Quick Guide: Convert 0.125 Cup of Hot Sauce to Ounces Easily",
-        "description": "Learn how to convert 0.125 cup of hot sauce to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce"
+    },
+    "headline": "Quick Guide: Convert 0.125 Cup of Hot Sauce to Ounces Easily",
+    "description": "Learn how to convert 0.125 cup of hot sauce to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-hot-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-hot-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 0.125 cup of hot sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use a kitchen scale to measure 0.125 cup of hot sauce. Since 0.125 cup equals 1 fluid ounce, it weighs approximately 28 grams. This method is especially useful for thick hot sauces that don’t pour easily into measuring cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use a kitchen scale to measure 0.125 cup of hot sauce. Since 0.125 cup equals 1 fluid ounce, it weighs approximately 28 grams. This method is especially useful for thick hot sauces that don’t pour easily into measuring cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure small amounts like 0.125 cup of hot sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For small amounts like 0.125 cup of hot sauce (1 ounce), use a liquid measuring cup with clear markings or a tablespoon. Two tablespoons equal 0.125 cup, making it easy to measure without specialised tools. For precision, a mini measuring cup is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For small amounts like 0.125 cup of hot sauce (1 ounce), use a liquid measuring cup with clear markings or a tablespoon. Two tablespoons equal 0.125 cup, making it easy to measure without specialised tools. For precision, a mini measuring cup is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of hot sauce affect the 0.125 cup to ounce conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The type of hot sauce can slightly affect the conversion due to differences in density. However, for most standard hot sauces, 0.125 cup will still equal roughly 1 fluid ounce. Thicker sauces like sriracha may weigh slightly more per volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The type of hot sauce can slightly affect the conversion due to differences in density. However, for most standard hot sauces, 0.125 cup will still equal roughly 1 fluid ounce. Thicker sauces like sriracha may weigh slightly more per volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I adjust a recipe if I only have a larger bottle of hot sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your recipe calls for 0.125 cup of hot sauce (1 ounce) but you have a larger bottle, simply use a measuring cup or scale to portion out the correct amount. Remember, 0.125 cup is equivalent to 2 tablespoons, making it easy to measure even from a big bottle."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your recipe calls for 0.125 cup of hot sauce (1 ounce) but you have a larger bottle, simply use a measuring cup or scale to portion out the correct amount. Remember, 0.125 cup is equivalent to 2 tablespoons, making it easy to measure even from a big bottle."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of hot sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of hot sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce",
     "description": "Learn how to convert 0.125 cup of hot sauce to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of hot sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-hot-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of hot sauce equals exactly 1 fluid ounce. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up spicy wings or a zesty marinade, knowing how to convert 0.125 cup of hot sauce to ounces ensures consistency and flavour balance.</p>

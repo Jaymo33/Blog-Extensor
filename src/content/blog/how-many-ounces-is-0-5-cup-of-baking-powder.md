@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder"
-        },
-        "headline": "Quick Answer: How many ounces is 0.5 cup of baking powder?",
-        "description": "Discover how to convert 0.5 cup of baking powder to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder"
+    },
+    "headline": "Quick Answer: How many ounces is 0.5 cup of baking powder?",
+    "description": "Discover how to convert 0.5 cup of baking powder to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-baking-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-baking-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use grams instead of ounces for 0.5 cup of baking powder?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! 0.5 cup of baking powder is roughly 70 grams. Many kitchen scales toggle between ounces and grams, so choose whichever unit you prefer. Grams are often more precise for small measurements like baking powder."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! 0.5 cup of baking powder is roughly 70 grams. Many kitchen scales toggle between ounces and grams, so choose whichever unit you prefer. Grams are often more precise for small measurements like baking powder."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste bitter with 0.5 cup of baking powder?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Bitterness usually means too much baking powder was used. Double-check your measurements—0.5 cup should be 2.5 oz (or 70g). Over-measuring can overwhelm the recipe. Also, ensure your baking powder is fresh, as old stock loses potency and may require adjustment."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bitterness usually means too much baking powder was used. Double-check your measurements—0.5 cup should be 2.5 oz (or 70g). Over-measuring can overwhelm the recipe. Also, ensure your baking powder is fresh, as old stock loses potency and may require adjustment."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 cup of baking powder to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.5 cup equals 8 tablespoons of baking powder. However, for air fryer recipes, weighing in ounces (2.5 oz) is more reliable, as tablespoon measurements can vary based on how tightly the powder is packed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.5 cup equals 8 tablespoons of baking powder. However, for air fryer recipes, weighing in ounces (2.5 oz) is more reliable, as tablespoon measurements can vary based on how tightly the powder is packed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of baking powder affect the 0.5 cup to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most brands have similar densities, so 0.5 cup should still be around 2.5 oz. However, if using a specialty product (e.g., aluminum-free), check the label for weight per cup. When in doubt, weigh it for accuracy, especially in air fryer baking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most brands have similar densities, so 0.5 cup should still be around 2.5 oz. However, if using a specialty product (e.g., aluminum-free), check the label for weight per cup. When in doubt, weigh it for accuracy, especially in air fryer baking where precision matters."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.5 cup of baking powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of baking powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder",
     "description": "Discover how to convert 0.5 cup of baking powder to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.5 cup of baking powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-baking-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cup of baking powder equals approximately 2.5 ounces (oz). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up fluffy cakes or crispy batters, knowing the exact weight ensures consistency.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of crushed garlic?",
-        "description": "Find out exactly how many ounces are in 2 cups of crushed garlic for perfect air fryer recipes every time. No more guesswork!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of crushed garlic?",
+    "description": "Find out exactly how many ounces are in 2 cups of crushed garlic for perfect air fryer recipes every time. No more guesswork!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-crushed-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-crushed-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use minced garlic instead of crushed garlic for the same weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, minced garlic can be used as a substitute for crushed garlic, but keep in mind that minced garlic is often denser. If your recipe calls for 2 cups of crushed garlic (16 ounces), you may need slightly less minced garlic by volume. Always check the consistency and adjust as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, minced garlic can be used as a substitute for crushed garlic, but keep in mind that minced garlic is often denser. If your recipe calls for 2 cups of crushed garlic (16 ounces), you may need slightly less minced garlic by volume. Always check the consistency and adjust as needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of garlic affect the weight measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Freshly crushed garlic and pre-packaged crushed garlic may have slight weight differences due to moisture content. However, the variance is minimal, and 2 cups will still roughly equal 16 ounces. For the most accurate results, use freshly crushed garlic when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Freshly crushed garlic and pre-packaged crushed garlic may have slight weight differences due to moisture content. However, the variance is minimal, and 2 cups will still roughly equal 16 ounces. For the most accurate results, use freshly crushed garlic when possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2 cups of crushed garlic to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Since 16 ounces is equivalent to approximately 454 grams, 2 cups of crushed garlic would weigh around 454 grams. This conversion is handy for recipes using metric measurements, especially in baking or precise marinades."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since 16 ounces is equivalent to approximately 454 grams, 2 cups of crushed garlic would weigh around 454 grams. This conversion is handy for recipes using metric measurements, especially in baking or precise marinades."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reduce the amount of garlic in my air fryer recipe without affecting the dish?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can adjust the garlic to suit your taste, but keep in mind that garlic contributes both flavour and moisture. Reducing it significantly may alter the dish’s texture and taste. Start with small adjustments and taste as you go for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can adjust the garlic to suit your taste, but keep in mind that garlic contributes both flavour and moisture. Reducing it significantly may alter the dish’s texture and taste. Start with small adjustments and taste as you go for the best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of crushed garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of crushed garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic",
     "description": "Find out exactly how many ounces are in 2 cups of crushed garlic for perfect air fryer recipes every time. No more guesswork!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of crushed garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-crushed-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of crushed garlic equals approximately 16 ounces (or 1 pound). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re making garlic butter shrimp or roasted garlic potatoes, knowing the exact weight ensures consistent flavour and texture.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer"
-        },
-        "headline": "Reheat Stuffing in Air Fryer – Quick & Crispy Results",
-        "description": "Learn how to reheat stuffing in an air fryer for crispy perfection. Get the best temperature, timing, and tips for moist, delicious leftovers.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer"
+    },
+    "headline": "Reheat Stuffing in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat stuffing in an air fryer for crispy perfection. Get the best temperature, timing, and tips for moist, delicious leftovers.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-stuffing-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-stuffing-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat stuffing in an air fryer straight from the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but for best results, let refrigerated stuffing sit at room temperature for 10-15 minutes first. This helps it reheat more evenly without drying out the exterior before the centre warms through."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but for best results, let refrigerated stuffing sit at room temperature for 10-15 minutes first. This helps it reheat more evenly without drying out the exterior before the centre warms through."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best temperature to reheat stuffing in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "160°C (320°F) is ideal for reheating stuffing - hot enough to crisp the outside while gently warming the interior. Some models may vary, so start checking at 3 minutes and adjust as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "160°C (320°F) is ideal for reheating stuffing - hot enough to crisp the outside while gently warming the interior. Some models may vary, so start checking at 3 minutes and adjust as needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent my stuffing from drying out in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly mist with water or broth before reheating, use a lower temperature (150°C), and check frequently. Breaking it into smaller pieces and not overcrowding the basket also helps maintain moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly mist with water or broth before reheating, use a lower temperature (150°C), and check frequently. Breaking it into smaller pieces and not overcrowding the basket also helps maintain moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat frozen stuffing directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but add 2-3 minutes to the cooking time and consider lowering the temperature slightly (to 150°C). For best results, thaw overnight in the fridge first, then reheat as normal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but add 2-3 minutes to the cooking time and consider lowering the temperature slightly (to 150°C). For best results, thaw overnight in the fridge first, then reheat as normal."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Stuffing in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Stuffing in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer",
     "description": "Learn how to reheat stuffing in an air fryer for crispy perfection. Get the best temperature, timing, and tips for moist, delicious leftovers.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Stuffing in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-stuffing-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Reheating stuffing in an air fryer takes just 3-5 minutes at 160°C, giving you crispy edges while keeping the centre deliciously moist. This method beats microwaving hands-down, as it restores texture rather than making leftovers soggy. Whether you’ve got classic sage-and-onion stuffing or a fancy chestnut version, your air fryer can revive it beautifully.</p>

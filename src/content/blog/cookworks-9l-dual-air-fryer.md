@@ -9,138 +9,138 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer"
-        },
-        "headline": "Is the Cookworks 9L Dual Air Fryer Worth Buying?",
-        "description": "The Cookworks 9L Dual Air Fryer offers spacious cooking with twin baskets for simultaneous meals. We've tested its performance across various recipes from crispy chips to succulent chicken. Find out if this budget-friendly model lives up to expectations in our comprehensive review.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer"
+    },
+    "headline": "Is the Cookworks 9L Dual Air Fryer Worth Buying?",
+    "description": "The Cookworks 9L Dual Air Fryer offers spacious cooking with twin baskets for simultaneous meals. We've tested its performance across various recipes from crispy chips to succulent chicken. Find out if this budget-friendly model lives up to expectations in our comprehensive review.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T12:06:15.087Z",
-        "dateModified": "2025-07-20T12:06:15.087Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/cookworks-9l-dual-air-fryer.png"
-        },
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T12:06:15.087Z",
+    "dateModified": "2025-07-20T12:06:15.087Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/cookworks-9l-dual-air-fryer.png"
+    },
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Cookworks 9L Dual Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer",
+    "@type": "WebPage",
+    "name": "Cookworks 9L Dual Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer",
     "description": "The Cookworks 9L Dual Air Fryer offers spacious cooking with twin baskets for simultaneous meals. We've tested its performance across various recipes from crispy chips to succulent chicken. Find out if this budget-friendly model lives up to expectations in our comprehensive review.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T12:06:15.087000+00:00",
     "dateModified": "2025-07-20T12:06:15.087000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "Cookworks 9L Dual Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/cookworks-9l-dual-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <h2 id="">Introducing the Cookworks 9L Dual Air Fryer</h2><p id="">The Cookworks 9L Dual Air Fryer is a versatile kitchen appliance featuring two independent cooking baskets with a combined 9-litre capacity. This model stands out for allowing you to cook different foods simultaneously at separate temperatures and timings. Whether you're preparing family meals or entertaining guests, the dual basket design offers flexibility that single-basket air fryers can't match. Many home cooks find this feature invaluable when making complete meals with multiple components. You'll find plenty of inspiration for dual-basket cooking at <a href="https://www.airfryerrecipe.co.uk/recipes" id="">airfryerrecipe.co.uk/recipes</a>.</p><p id="">With 1800W of power, the Cookworks air fryer delivers rapid air circulation for evenly cooked results. The digital touch controls make operation straightforward, with preset programmes for common foods like chips, chicken, and fish. Each basket has its own temperature and timer settings, ranging from 80°C to 200°C with up to 60 minutes cooking time. The non-stick coating ensures easy cleaning - a bonus when preparing messy foods like sticky wings or saucy dishes. For stubborn residue, check out our guide to <a href="https://www.airfryerrecipe.co.uk/air-fryer-cleaner" id="">airfryer cleaning solutions</a>.</p><h3 id="">Key Features at a Glance</h3><p id="">The Cookworks dual air fryer boasts several features that make it stand out in the mid-range market. The 4.5L capacity per basket is generous enough for family-sized portions while remaining compact enough for most kitchens. The transparent viewing windows let you monitor cooking progress without opening the baskets, helping maintain consistent temperatures. Overheat protection and automatic shut-off provide peace of mind during extended cooking sessions. These safety features make it particularly suitable for busy households where the appliance might be left unattended occasionally.</p><h2 id="">Performance and Cooking Results</h2><p id="">In our tests, the Cookworks 9L Dual Air Fryer produced excellent results across various food types. The twin 360° air circulation systems ensured even cooking in both baskets simultaneously. Chips came out crisp and golden, while chicken retained moisture with a satisfyingly crispy skin. We particularly appreciated being able to cook proteins and sides together - for example, salmon fillets in one basket and roasted vegetables in the other. Discover perfect cooking times in our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart" id="">air fryer conversion chart</a>.</p><p id="">The temperature consistency impressed us, with minimal variation between the two baskets during simultaneous use. However, we recommend rotating baskets halfway through cooking when preparing large quantities for absolute uniformity. The rapid preheating (about 3 minutes to reach 200°C) saves valuable time compared to conventional ovens. Noise levels remain reasonable for an appliance of this power, quieter than many budget air fryers we've tested. For those new to air frying, the preset programmes take the guesswork out of cooking common items.</p><h3 id="">Comparing to Other Cookworks Air Fryer Models</h3><p id="">The 9L dual version builds upon the success of earlier Cookworks air fryer models with several improvements. The basket handles stay cooler during operation compared to previous generations, and the non-stick coating appears more durable. While single-basket Cookworks air fryers suit smaller households, the dual version offers clear advantages for families or those who entertain regularly. The separate controls for each basket provide flexibility that's hard to find in similarly priced competitors.</p><h2 id="">Cleaning and Maintenance</h2><p id="">Maintaining your Cookworks 9L Dual Air Fryer proves straightforward thanks to thoughtful design elements. Both baskets and crisper plates are dishwasher safe, though hand washing helps preserve the non-stick coating. The removable air filters (located at the back) should be cleaned monthly to maintain optimal airflow. Wipe down the exterior with a damp cloth, being careful around the digital display. For tough grease buildup, a paste of baking soda and water works wonders without damaging surfaces.</p><p id="">Between uses, ensure both baskets are completely dry before reassembling to prevent moisture buildup. Store with the baskets slightly ajar to allow air circulation and prevent odours. Regular maintenance not only extends your appliance's lifespan but ensures consistent cooking performance. The team at <a href="https://www.airfryerrecipe.co.uk" id="">airfryerrecipe.co.uk</a> recommends cleaning after each use for best results, especially when cooking fatty foods that can leave residue.</p><h3 id="">Recipe Inspiration for Your Dual Basket Air Fryer</h3><p id="">The Cookworks dual air fryer opens up exciting possibilities for creative cooking. Try preparing a complete breakfast with bacon in one basket and hash browns in the other. For dinner parties, serve crispy prawns alongside sweet potato fries - both ready simultaneously. Our <a href="https://www.airfryerrecipe.co.uk/recipe-category/chicken" id="">chicken recipe collection</a> includes several dishes perfectly suited for the dual basket system. The ability to cook at different temperatures means you can prepare delicate items like fish alongside heartier vegetables without compromise.</p><h2 id="">What Buyers Say in Cookworks Air Fryer Reviews</h2><p id="">Analysing numerous Cookworks air fryer reviews reveals consistent praise for the dual basket convenience and consistent cooking results. Many users highlight how the appliance has reduced their reliance on traditional ovens for everyday meals. The space-saving design receives frequent mentions, with several reviewers noting it fits well in smaller kitchens despite its generous capacity. Some mention the learning curve when first using two baskets simultaneously, but report quick adaptation after a few uses.</p><p id="">A few critical reviews mention the exterior getting warm during extended use, though this is common among air fryers in this power range. Some users would prefer slightly larger individual baskets, though most find the 4.5L capacity adequate for family cooking. The overall sentiment in Cookworks air fryer reviews suggests this model delivers excellent value for money, particularly for households that regularly prepare multi-component meals. The dual functionality appears to justify the slightly higher price point compared to single-basket alternatives.</p>

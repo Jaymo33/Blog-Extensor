@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven"
-        },
-        "headline": "324 F to Fan Oven Conversion Guide | UK Air Fryer Tips",
-        "description": "Convert 324 F to fan oven settings easily. Learn the exact temperature conversion and air fryer equivalents for perfect cooking every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven"
+    },
+    "headline": "324 F to Fan Oven Conversion Guide | UK Air Fryer Tips",
+    "description": "Convert 324 F to fan oven settings easily. Learn the exact temperature conversion and air fryer equivalents for perfect cooking every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T20:34:29.941Z",
-        "dateModified": "2025-07-21T20:34:29.941Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/324-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T20:34:29.941Z",
+    "dateModified": "2025-07-21T20:34:29.941Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/324-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How does 324 F compare to gas mark in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "324 F converts to approximately gas mark 3 in a conventional oven, but for fan ovens you'd typically use gas mark 2.5 or reduce the temperature slightly. Always check your specific oven's manual as gas mark conversions can vary between models."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "324 F converts to approximately gas mark 3 in a conventional oven, but for fan ovens you'd typically use gas mark 2.5 or reduce the temperature slightly. Always check your specific oven's manual as gas mark conversions can vary between models."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the 324 F conversion for all air fryer models?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most air fryers will work well with the 324 F to fan oven conversion, but some models may require slight adjustments. Compact air fryers might need 5-10 degrees less, while larger models with more powerful fans could match the conversion exactly. Always check your first batch when trying new temperatures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most air fryers will work well with the 324 F to fan oven conversion, but some models may require slight adjustments. Compact air fryers might need 5-10 degrees less, while larger models with more powerful fans could match the conversion exactly. Always check your first batch when trying new temperatures."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do fan ovens need lower temperatures than conventional ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air constantly, cooking food more efficiently from all sides. This means they can achieve the same results as conventional ovens at slightly lower temperatures. The 324 F conversion accounts for this efficiency, preventing over-cooking while ensuring thorough results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air constantly, cooking food more efficiently from all sides. This means they can achieve the same results as conventional ovens at slightly lower temperatures. The 324 F conversion accounts for this efficiency, preventing over-cooking while ensuring thorough results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 324 F in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "324 F (160 C fan) works beautifully for roasting vegetables, baking cookies, and preparing delicate fish dishes. It's also ideal for reheating leftovers without drying them out. This temperature provides gentle heat with enough intensity for browning, making it versatile for both sweet and savoury recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "324 F (160 C fan) works beautifully for roasting vegetables, baking cookies, and preparing delicate fish dishes. It's also ideal for reheating leftovers without drying them out. This temperature provides gentle heat with enough intensity for browning, making it versatile for both sweet and savoury recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "324 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "324 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven",
     "description": "Convert 324 F to fan oven settings easily. Learn the exact temperature conversion and air fryer equivalents for perfect cooking every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T20:34:29.941000+00:00",
     "dateModified": "2025-07-21T20:34:29.941000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "324 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/324-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>324 F converts to approximately 160 C in a fan oven. This is a common temperature for baking and roasting in both conventional ovens and air fryers. Understanding this conversion ensures your recipes turn out perfectly every time, whether you're using a traditional oven or an air fryer.</p>

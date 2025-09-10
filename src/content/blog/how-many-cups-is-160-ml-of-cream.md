@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream"
-        },
-        "headline": "Quick Guide: Convert 160 ml of Cream to Cups Easily",
-        "description": "Discover how to convert 160 ml of cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream"
+    },
+    "headline": "Quick Guide: Convert 160 ml of Cream to Cups Easily",
+    "description": "Discover how to convert 160 ml of cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 160 ml of cream the same as 160 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 160 ml of cream is roughly equivalent to 160 grams, as cream has a density close to water. However, this can vary slightly depending on the cream's fat content. For precise baking, using a kitchen scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 160 ml of cream is roughly equivalent to 160 grams, as cream has a density close to water. However, this can vary slightly depending on the cream's fat content. For precise baking, using a kitchen scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of 160 ml of cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute milk for cream, but the texture and richness will differ. For 160 ml of cream, use 120 ml of milk mixed with 40 ml of melted butter for a similar consistency. Note that this may alter cooking times slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute milk for cream, but the texture and richness will differ. For 160 ml of cream, use 120 ml of milk mixed with 40 ml of melted butter for a similar consistency. Note that this may alter cooking times slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 160 ml of cream without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoons—160 ml equals about 10.5 tablespoons. Alternatively, a standard US coffee mug holds roughly 240 ml, so fill it just over halfway for 160 ml. For accuracy, consider investing in measuring tools."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoons—160 ml equals about 10.5 tablespoons. Alternatively, a standard US coffee mug holds roughly 240 ml, so fill it just over halfway for 160 ml. For accuracy, consider investing in measuring tools."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes specify 160 ml of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "160 ml (0.68 cups) is a common measurement for achieving the perfect balance of richness without overwhelming other flavours. It's often used in sauces, soups, and desserts where cream is a key but not dominant ingredient."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "160 ml (0.68 cups) is a common measurement for achieving the perfect balance of richness without overwhelming other flavours. It's often used in sauces, soups, and desserts where cream is a key but not dominant ingredient."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 160 ml of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 160 ml of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream",
     "description": "Discover how to convert 160 ml of cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 160 ml of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>160 ml of cream is approximately 0.68 cups. This conversion is essential for anyone using an air fryer to create delicious recipes that require precise measurements. Whether you're whipping up a creamy sauce or baking a decadent dessert, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>

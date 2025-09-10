@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder"
-        },
-        "headline": "Quick Guide: Convert 25g of Protein Powder to Ounces",
-        "description": "Learn how to convert 25g of protein powder to ounces with our easy guide. Perfect for precise air fryer meal prep and portion control.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder"
+    },
+    "headline": "Quick Guide: Convert 25g of Protein Powder to Ounces",
+    "description": "Learn how to convert 25g of protein powder to ounces with our easy guide. Perfect for precise air fryer meal prep and portion control.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-protein-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-25g-protein-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 25g of protein powder the same as 25g of flour in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 25g of protein powder and 25g of flour both weigh 0.88 ounces, but their volumes differ due to density. Protein powder is often fluffier, so it may take up more space than flour when measured by volume. Always use a scale for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 25g of protein powder and 25g of flour both weigh 0.88 ounces, but their volumes differ due to density. Protein powder is often fluffier, so it may take up more space than flour when measured by volume. Always use a scale for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for 25g of protein powder?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, measuring cups are less precise. A standard tablespoon holds about 15g, so 1.5 tablespoons approximate 25g. For exact measurements, especially in baking, a digital scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, measuring cups are less precise. A standard tablespoon holds about 15g, so 1.5 tablespoons approximate 25g. For exact measurements, especially in baking, a digital scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some protein powders list servings in ounces and others in grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Brands may use ounces or grams based on their target market. US brands often use ounces, while UK and EU brands use grams. Always double-check conversions if following a recipe from a different region."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brands may use ounces or grams based on their target market. US brands often use ounces, while UK and EU brands use grams. Always double-check conversions if following a recipe from a different region."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 25g of protein powder compare to whole food protein sources?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Twenty-five grams of protein powder typically equals the protein content of 100g of chicken or 3 large eggs. However, whole foods provide additional nutrients, so balance both in your diet for optimal health."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Twenty-five grams of protein powder typically equals the protein content of 100g of chicken or 3 large eggs. However, whole foods provide additional nutrients, so balance both in your diet for optimal health."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of protein powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of protein powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder",
     "description": "Learn how to convert 25g of protein powder to ounces with our easy guide. Perfect for precise air fryer meal prep and portion control.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of protein powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-25g-protein-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of protein powder equals approximately 0.88 ounces. This conversion is essential for anyone using protein powder in recipes, especially when preparing meals in an air fryer. Whether you're tracking macros or following a precise recipe, knowing how to convert grams to ounces ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these measurements for hassle-free cooking.</p>  

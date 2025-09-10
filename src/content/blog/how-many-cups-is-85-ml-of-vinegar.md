@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar"
-        },
-        "headline": "Quick Answer: How Many Cups Is 85 ml of Vinegar?",
-        "description": "Find out how to convert 85 ml of vinegar to cups for precise cooking and baking. Includes UK and US measurements for air fryer recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar"
+    },
+    "headline": "Quick Answer: How Many Cups Is 85 ml of Vinegar?",
+    "description": "Find out how to convert 85 ml of vinegar to cups for precise cooking and baking. Includes UK and US measurements for air fryer recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 85 ml of vinegar the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s a slight difference. In the UK, 85 ml of vinegar equals roughly 0.36 cups (1 UK cup = 250 ml). In the US, it’s about 0.35 cups (1 US cup = 240 ml). Always check which measurement system your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s a slight difference. In the UK, 85 ml of vinegar equals roughly 0.36 cups (1 UK cup = 250 ml). In the US, it’s about 0.35 cups (1 US cup = 240 ml). Always check which measurement system your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 85 ml of vinegar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need about 5.6 UK tablespoons (15 ml each) or 5.7 US tablespoons (14.8 ml each) to reach 85 ml. For precision, a liquid measuring cup or digital scale is best, especially for air fryer recipes where balance matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need about 5.6 UK tablespoons (15 ml each) or 5.7 US tablespoons (14.8 ml each) to reach 85 ml. For precision, a liquid measuring cup or digital scale is best, especially for air fryer recipes where balance matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 85 ml of vinegar affect air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Vinegar adds tanginess, tenderises meats, and can even help reduce odours in your air fryer. Using 85 ml in a marinade or glaze ensures flavour without overpowering. Too much may make food overly acidic, so measure carefully."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vinegar adds tanginess, tenderises meats, and can even help reduce odours in your air fryer. Using 85 ml in a marinade or glaze ensures flavour without overpowering. Too much may make food overly acidic, so measure carefully."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to convert 85 ml of vinegar for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baking, stick to metric measurements if possible, as precision is key. If using cups, 85 ml is roughly 1/3 cup (UK or US). Remember, vinegar reacts with baking soda, so accurate measurements ensure proper rise in cakes or cookies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baking, stick to metric measurements if possible, as precision is key. If using cups, 85 ml is roughly 1/3 cup (UK or US). Remember, vinegar reacts with baking soda, so accurate measurements ensure proper rise in cakes or cookies."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 85 ml of Vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 85 ml of Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar",
     "description": "Find out how to convert 85 ml of vinegar to cups for precise cooking and baking. Includes UK and US measurements for air fryer recipes.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 85 ml of Vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>85 ml of vinegar is approximately 0.36 cups in the UK or 0.35 cups in the US. This small but crucial measurement is often needed for marinades, dressings, or pickling in air fryer recipes. Whether you're whipping up a tangy glaze for chicken or balancing flavours in a salad dressing, knowing this conversion ensures precision in your cooking.</p>  

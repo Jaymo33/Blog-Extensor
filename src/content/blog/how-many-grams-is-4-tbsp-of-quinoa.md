@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa"
-        },
-        "headline": "Quick Answer: How many grams is 4 tbsp of quinoa?",
-        "description": "Discover the exact weight of 4 tbsp of quinoa in grams for perfect air fryer recipes every time. Get accurate conversions now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa"
+    },
+    "headline": "Quick Answer: How many grams is 4 tbsp of quinoa?",
+    "description": "Discover the exact weight of 4 tbsp of quinoa in grams for perfect air fryer recipes every time. Get accurate conversions now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-quinoa.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-of-quinoa.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of quinoa affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While most quinoa varieties have similar weights, there can be slight differences. White quinoa typically weighs about 11g per tablespoon, while red or black quinoa might vary by 1-2 grams either way due to slight density differences. For absolute precision, especially in baking or exact portion control, weighing is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While most quinoa varieties have similar weights, there can be slight differences. White quinoa typically weighs about 11g per tablespoon, while red or black quinoa might vary by 1-2 grams either way due to slight density differences. For absolute precision, especially in baking or exact portion control, weighing is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How much cooked quinoa does 4 tablespoons (45g) of uncooked quinoa yield?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "4 tablespoons (45g) of uncooked quinoa expands to about 3/4 cup (approximately 135g) when cooked. This is because quinoa absorbs water during cooking, typically tripling in volume. This makes it perfect for single servings or as a base for air fryer recipes where precise portions matter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "4 tablespoons (45g) of uncooked quinoa expands to about 3/4 cup (approximately 135g) when cooked. This is because quinoa absorbs water during cooking, typically tripling in volume. This makes it perfect for single servings or as a base for air fryer recipes where precise portions matter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cup measurements instead of tablespoons for quinoa?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use cup measurements for quinoa. 4 tablespoons equals 1/4 cup, which is about 45g. However, for small quantities like those often used in air fryer cooking, tablespoons can provide more precise measurements. Our conversion chart at airfryerrecipe.co.uk includes both cup and tablespoon measurements for your convenience."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use cup measurements for quinoa. 4 tablespoons equals 1/4 cup, which is about 45g. However, for small quantities like those often used in air fryer cooking, tablespoons can provide more precise measurements. Our conversion chart at airfryerrecipe.co.uk includes both cup and tablespoon measurements for your convenience."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my quinoa sometimes turn out differently even when I measure 4 tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Several factors can affect quinoa results, including how packed the tablespoons are, the quinoa's age, and cooking method variations. For consistent results, we recommend weighing your quinoa (45g for 4 tbsp) and using the same liquid ratio each time. Also ensure your air fryer is properly cleaned between uses for even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Several factors can affect quinoa results, including how packed the tablespoons are, the quinoa's age, and cooking method variations. For consistent results, we recommend weighing your quinoa (45g for 4 tbsp) and using the same liquid ratio each time. Also ensure your air fryer is properly cleaned between uses for even cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 4 tbsp of quinoa?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of quinoa?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa",
     "description": "Discover the exact weight of 4 tbsp of quinoa in grams for perfect air fryer recipes every time. Get accurate conversions now!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 4 tbsp of quinoa?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-of-quinoa"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4 tablespoons (tbsp) of quinoa equals approximately 45 grams (g). This conversion is essential for air fryer recipes, ensuring precise measurements for perfectly cooked quinoa every time. Whether you're preparing a quinoa salad or using it as a base for a protein-packed meal, knowing the exact weight helps avoid under or overcooking.</p>

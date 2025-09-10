@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth"
-        },
-        "headline": "Quick Answer: How Many ml Is 0.5 Cups of Chicken Broth?",
-        "description": "Convert 0.5 cups of chicken broth to ml instantly with our easy guide—perfect for air fryer recipes and precise cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth"
+    },
+    "headline": "Quick Answer: How Many ml Is 0.5 Cups of Chicken Broth?",
+    "description": "Convert 0.5 cups of chicken broth to ml instantly with our easy guide—perfect for air fryer recipes and precise cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:11:40.852Z",
-        "dateModified": "2025-07-28T20:11:40.852Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-chicken-broth.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:11:40.852Z",
+    "dateModified": "2025-07-28T20:11:40.852Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-chicken-broth.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 cups of chicken broth the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.5 cups of chicken broth equals 118 ml in both the UK and USA. While cup sizes can vary slightly by country, the standard metric conversion remains consistent for liquids like broth."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.5 cups of chicken broth equals 118 ml in both the UK and USA. While cup sizes can vary slightly by country, the standard metric conversion remains consistent for liquids like broth."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 0.5 cups of chicken broth?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Since 0.5 cups of chicken broth weighs roughly 118 grams (ml), a kitchen scale works well. Just set it to grams and pour until you reach the correct weight for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Since 0.5 cups of chicken broth weighs roughly 118 grams (ml), a kitchen scale works well. Just set it to grams and pour until you reach the correct weight for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What if I need less than 0.5 cups of chicken broth for my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For smaller amounts, use tablespoons—1 tablespoon equals about 15 ml. So, 2 tablespoons would be 30 ml, and 4 tablespoons make up roughly 0.25 cups (59 ml). Adjust as needed for your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For smaller amounts, use tablespoons—1 tablespoon equals about 15 ml. So, 2 tablespoons would be 30 ml, and 4 tablespoons make up roughly 0.25 cups (59 ml). Adjust as needed for your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does homemade chicken broth measure the same as store-bought?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, as long as the broth has a similar consistency to water. If your homemade broth is thicker, you may need to adjust slightly. Strain it well before measuring for the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, as long as the broth has a similar consistency to water. If your homemade broth is thicker, you may need to adjust slightly. Strain it well before measuring for the most accurate results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 0.5 Cups of Chicken Broth?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth",
+    "@type": "WebPage",
+    "name": "How Many ml Is 0.5 Cups of Chicken Broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth",
     "description": "Convert 0.5 cups of chicken broth to ml instantly with our easy guide—perfect for air fryer recipes and precise cooking!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:11:40.852000+00:00",
     "dateModified": "2025-07-28T20:11:40.852000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 0.5 Cups of Chicken Broth?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-chicken-broth"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cups of chicken broth equals approximately 118 ml, making it easy to measure for air fryer recipes. Whether you’re preparing a savoury dish or a hearty soup, precise measurements ensure perfect results every time. Converting cups to millilitres is especially useful when following international recipes or adjusting portion sizes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on simplifying conversions so you can cook with confidence.</p>  

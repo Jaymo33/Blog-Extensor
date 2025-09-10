@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli"
-        },
-        "headline": "Quick Guide: Convert 1.0 Cups of Broccoli to Grams Easily",
-        "description": "Discover how many grams are in 1.0 cups of broccoli for perfect air fryer recipes. Get precise measurements for cooking and baking success!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli"
+    },
+    "headline": "Quick Guide: Convert 1.0 Cups of Broccoli to Grams Easily",
+    "description": "Discover how many grams are in 1.0 cups of broccoli for perfect air fryer recipes. Get precise measurements for cooking and baking success!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:37.491Z",
-        "dateModified": "2025-07-27T16:11:37.491Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-broccoli.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:37.491Z",
+    "dateModified": "2025-07-27T16:11:37.491Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-of-broccoli.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 1.0 cup of broccoli weigh the same whether it's chopped or whole?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the weight can vary slightly depending on how the broccoli is prepared. Chopped broccoli fits more densely into a measuring cup, so 1.0 cups of chopped broccoli weighs around 91 grams. Whole florets may take up more space, resulting in a slightly lower weight per cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the weight can vary slightly depending on how the broccoli is prepared. Chopped broccoli fits more densely into a measuring cup, so 1.0 cups of chopped broccoli weighs around 91 grams. Whole florets may take up more space, resulting in a slightly lower weight per cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen broccoli instead of fresh for the same gram measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Frozen broccoli may weigh slightly more due to ice crystals, but 1.0 cups should still be close to 91 grams. Thaw and drain excess water before measuring for the most accurate results. Frozen broccoli works well in air fryer recipes but may require slight adjustments to cooking time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Frozen broccoli may weigh slightly more due to ice crystals, but 1.0 cups should still be close to 91 grams. Thaw and drain excess water before measuring for the most accurate results. Frozen broccoli works well in air fryer recipes but may require slight adjustments to cooking time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does the gram measurement change if the broccoli is cooked?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooked broccoli shrinks and loses water, so 1.0 cups of cooked broccoli will weigh less than raw—around 70-80 grams. If a recipe specifies raw broccoli, stick to the 91-gram measurement for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooked broccoli shrinks and loses water, so 1.0 cups of cooked broccoli will weigh less than raw—around 70-80 grams. If a recipe specifies raw broccoli, stick to the 91-gram measurement for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use cups while others use grams for broccoli?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cups are common in volume-based recipes, while grams provide precise weight measurements. For air fryer cooking, grams are often more reliable since they account for ingredient density. Converting 1.0 cups of broccoli to grams (91g) ensures consistency across recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cups are common in volume-based recipes, while grams provide precise weight measurements. For air fryer cooking, grams are often more reliable since they account for ingredient density. Converting 1.0 cups of broccoli to grams (91g) ensures consistency across recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 1.0 Cups of Broccoli?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.0 Cups of Broccoli?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli",
     "description": "Discover how many grams are in 1.0 cups of broccoli for perfect air fryer recipes. Get precise measurements for cooking and baking success!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
     "dateModified": "2025-07-27T16:11:37.491000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 1.0 Cups of Broccoli?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-of-broccoli"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.0 cup of chopped broccoli weighs approximately 91 grams. This measurement is essential for air fryer recipes, ensuring accuracy whether you're roasting, baking, or meal prepping. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving perfectly cooked dishes.</p>

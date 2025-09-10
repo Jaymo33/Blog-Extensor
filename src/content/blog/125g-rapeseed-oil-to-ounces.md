@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 125g of Rapeseed Oil to Ounces Easily",
-        "description": "Learn how to convert 125g of rapeseed oil to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 125g of Rapeseed Oil to Ounces Easily",
+    "description": "Learn how to convert 125g of rapeseed oil to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-rapeseed-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-rapeseed-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is rapeseed oil a good choice for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Rapeseed oil has a high smoke point, making it ideal for air frying at high temperatures. Its neutral flavour also won’t overpower your dishes, letting ingredients shine. Plus, it’s widely available and affordable in the UK."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rapeseed oil has a high smoke point, making it ideal for air frying at high temperatures. Its neutral flavour also won’t overpower your dishes, letting ingredients shine. Plus, it’s widely available and affordable in the UK."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use other oils if I don’t have rapeseed oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute with sunflower or vegetable oil, but adjust quantities slightly as densities vary. Avoid olive oil for high-heat cooking, as it has a lower smoke point and can burn easily in air fryers."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute with sunflower or vegetable oil, but adjust quantities slightly as densities vary. Avoid olive oil for high-heat cooking, as it has a lower smoke point and can burn easily in air fryers."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 125g of rapeseed oil without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A tablespoon of rapeseed oil weighs about 14g, so 125g is roughly 9 tablespoons. For ounces, this equals 4.41 oz. Measuring cups can also help, but a scale is more accurate for precise recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A tablespoon of rapeseed oil weighs about 14g, so 125g is roughly 9 tablespoons. For ounces, this equals 4.41 oz. Measuring cups can also help, but a scale is more accurate for precise recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does rapeseed oil add calories to air fryer dishes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, like all oils, rapeseed oil adds calories (about 120 per tablespoon). However, air fryers use less oil than traditional frying, making dishes lighter. Measuring 125g (4.41 oz) helps control portions without sacrificing crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, like all oils, rapeseed oil adds calories (about 120 per tablespoon). However, air fryers use less oil than traditional frying, making dishes lighter. Measuring 125g (4.41 oz) helps control portions without sacrificing crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 125g of rapeseed oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of rapeseed oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces",
     "description": "Learn how to convert 125g of rapeseed oil to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 125g of rapeseed oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/125g-rapeseed-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>125g of rapeseed oil equals approximately 4.41 ounces. This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re whipping up crispy chips or a succulent roast, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about making cooking easier, and this guide will help you nail every measurement.</p>

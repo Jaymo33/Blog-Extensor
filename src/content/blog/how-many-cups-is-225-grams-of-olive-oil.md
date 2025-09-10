@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil"
-        },
-        "headline": "Quick Guide: Convert 225 Grams of Olive Oil to Cups Easily",
-        "description": "Learn how to convert 225 grams of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 225 Grams of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 225 grams of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:31:13.998Z",
-        "dateModified": "2025-07-26T21:31:13.998Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-olive-oil.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:31:13.998Z",
+    "dateModified": "2025-07-26T21:31:13.998Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-olive-oil.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 225 grams of olive oil exactly 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "225 grams of olive oil is approximately 1 cup, but slight variations can occur due to density and temperature. For precise air fryer recipes, it’s best to use a kitchen scale or a liquid measuring cup to ensure accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "225 grams of olive oil is approximately 1 cup, but slight variations can occur due to density and temperature. For precise air fryer recipes, it’s best to use a kitchen scale or a liquid measuring cup to ensure accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 225 grams of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, dry measuring cups aren’t designed for liquids like olive oil. Use a liquid measuring cup to accurately measure 225 grams of olive oil, as it accounts for the oil’s meniscus and prevents spills or over-pouring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, dry measuring cups aren’t designed for liquids like olive oil. Use a liquid measuring cup to accurately measure 225 grams of olive oil, as it accounts for the oil’s meniscus and prevents spills or over-pouring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many tablespoons are in 225 grams of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "225 grams of olive oil equals roughly 16 tablespoons, which is equivalent to 1 cup. This conversion is handy for smaller air fryer recipes or when scaling down ingredients."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "225 grams of olive oil equals roughly 16 tablespoons, which is equivalent to 1 cup. This conversion is handy for smaller air fryer recipes or when scaling down ingredients."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of olive oil affect the 225g-to-cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, extra virgin olive oil is slightly denser than refined olive oil, but the difference is minimal. For most recipes, 225 grams of any olive oil will still be close to 1 cup, but always measure for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, extra virgin olive oil is slightly denser than refined olive oil, but the difference is minimal. For most recipes, 225 grams of any olive oil will still be close to 1 cup, but always measure for precision."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 225 Grams of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 225 Grams of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil",
     "description": "Learn how to convert 225 grams of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:13.998000+00:00",
     "dateModified": "2025-07-26T21:31:13.998000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 225 Grams of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>225 grams of olive oil is approximately 1 cup, but exact measurements can vary slightly based on density and temperature. This conversion is essential for air fryer recipes, where precision ensures perfect cooking results. Whether you’re whipping up crispy chips or a moist cake, knowing how many cups is 225 grams of olive oil makes all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on creating delicious meals.</p>

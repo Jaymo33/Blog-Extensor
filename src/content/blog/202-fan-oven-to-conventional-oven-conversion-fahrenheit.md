@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        },
-        "headline": "Quick 202 Fan Oven to Fahrenheit Conversion for Perfect Baking",
-        "description": "Learn how to convert 202 fan oven to Fahrenheit for flawless results in your conventional oven or air fryer. Get the exact temperature now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit"
+    },
+    "headline": "Quick 202 Fan Oven to Fahrenheit Conversion for Perfect Baking",
+    "description": "Learn how to convert 202 fan oven to Fahrenheit for flawless results in your conventional oven or air fryer. Get the exact temperature now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-25T17:03:16.692Z",
-        "dateModified": "2025-07-25T17:03:16.692Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/202-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-25T17:03:16.692Z",
+    "dateModified": "2025-07-25T17:03:16.692Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/202-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "What is 202 fan oven in Fahrenheit for a conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "202°F in a fan oven converts to approximately 190°C (375°F) in a conventional oven. This adjustment ensures even cooking and prevents over- or undercooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "202°F in a fan oven converts to approximately 190°C (375°F) in a conventional oven. This adjustment ensures even cooking and prevents over- or undercooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same temperature in my air fryer for a 202 fan oven recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, air fryers work similarly to fan ovens, so you can often use the same temperature. However, cooking times may vary, so check your food periodically."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, air fryers work similarly to fan ovens, so you can often use the same temperature. However, cooking times may vary, so check your food periodically."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do fan ovens require lower temperatures than conventional ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air evenly, cooking food more efficiently. This means they can achieve the same results as conventional ovens at slightly lower temperatures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air evenly, cooking food more efficiently. This means they can achieve the same results as conventional ovens at slightly lower temperatures."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 202 fan oven to Fahrenheit for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baking, convert 202°F in a fan oven to 190°C (375°F) in a conventional oven. Always preheat your oven and check for doneness a few minutes early."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baking, convert 202°F in a fan oven to 190°C (375°F) in a conventional oven. Always preheat your oven and check for doneness a few minutes early."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "202 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-            "url": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "@type": "WebPage",
+    "name": "202 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+    "url": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit",
     "description": "Learn how to convert 202 fan oven to Fahrenheit for flawless results in your conventional oven or air fryer. Get the exact temperature now!",
     "inLanguage": "en",
     "datePublished": "2025-07-25T17:03:16.692000+00:00",
     "dateModified": "2025-07-25T17:03:16.692000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "202 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/202-fan-oven-to-conventional-oven-conversion-fahrenheit"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>202°F in a fan oven converts to approximately 190°C (375°F) in a conventional oven. This conversion ensures your recipes turn out just right, whether you're using a traditional oven or an air fryer. Understanding these temperature differences is crucial for perfect baking, roasting, and air frying results.</p>

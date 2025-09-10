@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven"
-        },
-        "headline": "193 C to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Learn how to convert 193 C to fan oven settings for perfect air frying. Includes temperature charts, baking tips, and UK-specific advice.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven"
+    },
+    "headline": "193 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 193 C to fan oven settings for perfect air frying. Includes temperature charts, baking tips, and UK-specific advice.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T17:06:33.012Z",
-        "dateModified": "2025-07-21T17:06:33.012Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/193-c-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T17:06:33.012Z",
+    "dateModified": "2025-07-21T17:06:33.012Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/193-c-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 193 C to fan oven for baking cakes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For baking cakes at 193 C, reduce to 170 C in a fan oven. This prevents the edges from overcooking before the centre sets. Check cakes 5 minutes early as fan ovens cook faster."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For baking cakes at 193 C, reduce to 170 C in a fan oven. This prevents the edges from overcooking before the centre sets. Check cakes 5 minutes early as fan ovens cook faster."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 193 C the same in an air fryer as a conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, you should reduce 193 C to about 170 C in an air fryer, similar to fan oven conversions. Air fryers circulate hot air like fan ovens, requiring lower temperatures for equivalent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, you should reduce 193 C to about 170 C in an air fryer, similar to fan oven conversions. Air fryers circulate hot air like fan ovens, requiring lower temperatures for equivalent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to adjust 193 C for a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air more efficiently, cooking food faster. The 193 C to 170 C adjustment prevents burning or drying out while ensuring thorough cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air more efficiently, cooking food faster. The 193 C to 170 C adjustment prevents burning or drying out while ensuring thorough cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 193 C in a fan oven if I reduce the time?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It's better to reduce both temperature and time. Using 170 C instead of 193 C in a fan oven gives more control over cooking, especially for delicate items like pastries or custards."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It's better to reduce both temperature and time. Using 170 C instead of 193 C in a fan oven gives more control over cooking, especially for delicate items like pastries or custards."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "193 C to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven",
+    "@type": "WebPage",
+    "name": "193 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven",
     "description": "Learn how to convert 193 C to fan oven settings for perfect air frying. Includes temperature charts, baking tips, and UK-specific advice.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T17:06:33.012000+00:00",
     "dateModified": "2025-07-21T17:06:33.012000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "193 C to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/193-c-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>193 C converts to approximately 170 C in a fan oven. This 20-25 degree reduction is standard when adapting conventional oven recipes for fan-assisted cooking. Whether you're using an air fryer or traditional fan oven, this conversion ensures your food cooks evenly without drying out.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk"
-        },
-        "headline": "Quick Answer: How Many ml Is 4.0 Cups of Buttermilk?",
-        "description": "Convert 4.0 cups of buttermilk to ml effortlessly for perfect baking and air frying every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk"
+    },
+    "headline": "Quick Answer: How Many ml Is 4.0 Cups of Buttermilk?",
+    "description": "Convert 4.0 cups of buttermilk to ml effortlessly for perfect baking and air frying every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-4-cups-of-buttermilk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-4-cups-of-buttermilk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 4.0 cups of buttermilk the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 4.0 cups of buttermilk equals 946 ml in both the UK and US. While cup sizes can vary slightly by country, the standard metric conversion remains consistent. Always use a liquid measuring cup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 4.0 cups of buttermilk equals 946 ml in both the UK and US. While cup sizes can vary slightly by country, the standard metric conversion remains consistent. Always use a liquid measuring cup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 4.0 cups of buttermilk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While scales are great for dry ingredients, buttermilk is best measured by volume. Since its density can vary slightly, 946 ml (4.0 cups) is more reliable than weight. Use a liquid measuring cup for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While scales are great for dry ingredients, buttermilk is best measured by volume. Since its density can vary slightly, 946 ml (4.0 cups) is more reliable than weight. Use a liquid measuring cup for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 4.0 cups of buttermilk last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An unopened carton of buttermilk lasts up to 2 weeks refrigerated. Once opened, use within 7 days. For longer storage, freeze buttermilk in 236 ml (1 cup) portions for up to 3 months."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An unopened carton of buttermilk lasts up to 2 weeks refrigerated. Once opened, use within 7 days. For longer storage, freeze buttermilk in 236 ml (1 cup) portions for up to 3 months."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What can I substitute for 4.0 cups of buttermilk in a recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For 946 ml of buttermilk, mix 4.0 cups of milk with 4 tablespoons of lemon juice or vinegar. Let it sit for 10 minutes to thicken. Greek yogurt thinned with milk also works well in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For 946 ml of buttermilk, mix 4.0 cups of milk with 4 tablespoons of lemon juice or vinegar. Let it sit for 10 minutes to thicken. Greek yogurt thinned with milk also works well in air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 4.0 Cups of Buttermilk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk",
+    "@type": "WebPage",
+    "name": "How Many ml Is 4.0 Cups of Buttermilk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk",
     "description": "Convert 4.0 cups of buttermilk to ml effortlessly for perfect baking and air frying every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 4.0 Cups of Buttermilk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-4-cups-of-buttermilk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4.0 cups of buttermilk equals approximately 946 millilitres (ml). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you're making fluffy pancakes, crispy fried chicken, or moist cakes, knowing how many ml is 4.0 cups of buttermilk guarantees consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you nail every recipe with accurate conversions.</p>

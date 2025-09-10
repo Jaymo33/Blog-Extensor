@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice"
-        },
-        "headline": "Quick Answer: How Many ml Is 2.75 Cups of Orange Juice?",
-        "description": "Convert 2.75 cups of orange juice to ml effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice"
+    },
+    "headline": "Quick Answer: How Many ml Is 2.75 Cups of Orange Juice?",
+    "description": "Convert 2.75 cups of orange juice to ml effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:42.604Z",
-        "dateModified": "2025-07-30T08:54:42.604Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-orange-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:42.604Z",
+    "dateModified": "2025-07-30T08:54:42.604Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-orange-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.75 cups of orange juice the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2.75 cups of orange juice is the same volume in both the UK and USA. However, cup sizes can vary slightly in other countries, so always double-check if using an international recipe. For air fryer cooking, sticking to millilitres (651 ml) ensures consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2.75 cups of orange juice is the same volume in both the UK and USA. However, cup sizes can vary slightly in other countries, so always double-check if using an international recipe. For air fryer cooking, sticking to millilitres (651 ml) ensures consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled orange juice instead of fresh for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Bottled orange juice works fine for most air fryer recipes, though fresh juice may offer a brighter flavour. Just ensure you measure 2.75 cups (651 ml) accurately, as bottled juice can sometimes be sweeter or more concentrated."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Bottled orange juice works fine for most air fryer recipes, though fresh juice may offer a brighter flavour. Just ensure you measure 2.75 cups (651 ml) accurately, as bottled juice can sometimes be sweeter or more concentrated."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust cooking time if I use less orange juice in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you reduce the orange juice, monitor your dish closely, as less liquid may cook faster. For example, halving the juice to 1.375 cups (325 ml) could shorten cooking time by a few minutes. Always check for doneness visually or with a thermometer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you reduce the orange juice, monitor your dish closely, as less liquid may cook faster. For example, halving the juice to 1.375 cups (325 ml) could shorten cooking time by a few minutes. Always check for doneness visually or with a thermometer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to clean my air fryer after using orange juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Orange juice can leave sticky residue, so wipe your air fryer basket with warm, soapy water immediately after use. For tough spots, our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> recommendations can help. Avoid harsh scrubbing to protect non-stick coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Orange juice can leave sticky residue, so wipe your air fryer basket with warm, soapy water immediately after use. For tough spots, our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> recommendations can help. Avoid harsh scrubbing to protect non-stick coatings."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.75 Cups of Orange Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.75 Cups of Orange Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice",
     "description": "Convert 2.75 cups of orange juice to ml effortlessly with our simple guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:42.604000+00:00",
     "dateModified": "2025-07-30T08:54:42.604000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.75 Cups of Orange Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-orange-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.75 cups of orange juice equals approximately 651 ml. This conversion is essential for air fryer recipes where precision matters. Whether you’re making a glaze, marinade, or sauce, knowing the exact millilitre measurement ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get the most out of your air fryer with accurate conversions.</p>

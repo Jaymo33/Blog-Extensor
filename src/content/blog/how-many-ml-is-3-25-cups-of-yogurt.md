@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt"
-        },
-        "headline": "Quick Conversion: How Many ml Is 3.25 Cups of Yogurt?",
-        "description": "Convert 3.25 cups of yogurt to ml effortlessly with our simple guide—perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt"
+    },
+    "headline": "Quick Conversion: How Many ml Is 3.25 Cups of Yogurt?",
+    "description": "Convert 3.25 cups of yogurt to ml effortlessly with our simple guide—perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-yogurt.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-25-cups-of-yogurt.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 3.25 cups of yogurt the same in US and UK measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 3.25 cups of yogurt equals 768 ml in both US and UK measurements. While cup sizes can vary in other countries, the standard US and UK cup measurements are the same for liquids like yogurt. This makes converting recipes between the two systems straightforward."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 3.25 cups of yogurt equals 768 ml in both US and UK measurements. While cup sizes can vary in other countries, the standard US and UK cup measurements are the same for liquids like yogurt. This makes converting recipes between the two systems straightforward."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for yogurt?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Since yogurt has a similar density to water, 3.25 cups (768 ml) of yogurt weighs approximately 768 grams. Using a kitchen scale can be more accurate, especially for thick yogurts that might trap air in measuring cups. This method is perfect for air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Since yogurt has a similar density to water, 3.25 cups (768 ml) of yogurt weighs approximately 768 grams. Using a kitchen scale can be more accurate, especially for thick yogurts that might trap air in measuring cups. This method is perfect for air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure thick Greek yogurt?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For thick Greek yogurt, spoon it into a dry measuring cup and level it off with a knife. Avoid packing it down, as this can lead to over-measuring. If possible, weigh it for the most accurate results—768 grams for 3.25 cups (768 ml). This ensures your air fryer recipes turn out perfectly every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For thick Greek yogurt, spoon it into a dry measuring cup and level it off with a knife. Avoid packing it down, as this can lead to over-measuring. If possible, weigh it for the most accurate results—768 grams for 3.25 cups (768 ml). This ensures your air fryer recipes turn out perfectly every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 3.25 cups of yogurt last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An unopened 3.25-cup (768 ml) portion of yogurt typically lasts 1-2 weeks in the fridge if stored properly. Once opened, use it within 5-7 days for best quality. Always check for signs of spoilage, like mould or an off smell, before using it in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An unopened 3.25-cup (768 ml) portion of yogurt typically lasts 1-2 weeks in the fridge if stored properly. Once opened, use it within 5-7 days for best quality. Always check for signs of spoilage, like mould or an off smell, before using it in your air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.25 Cups of Yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.25 Cups of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt",
     "description": "Convert 3.25 cups of yogurt to ml effortlessly with our simple guide—perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.25 Cups of Yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-25-cups-of-yogurt"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.25 cups of yogurt equals approximately 768 ml, making it easy to measure for air fryer recipes. Whether you're whipping up a creamy dessert or a savoury marinade, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accuracy is in cooking, especially when using an air fryer. This conversion is handy for both UK and US measurements, so you can follow any recipe with confidence. Let’s dive deeper into why this conversion matters and how to use it effectively.</p>

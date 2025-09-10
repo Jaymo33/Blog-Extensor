@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter"
-        },
-        "headline": "Quick Answer: How many ounces is 2.5 cups of butter?",
-        "description": "Discover how many ounces are in 2.5 cups of butter with our easy conversion guide—perfect for air fryer baking and cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter"
+    },
+    "headline": "Quick Answer: How many ounces is 2.5 cups of butter?",
+    "description": "Discover how many ounces are in 2.5 cups of butter with our easy conversion guide—perfect for air fryer baking and cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use margarine instead of butter for 2.5 cups in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute margarine, but the results may differ slightly. Margarine has a higher water content, which can affect texture and browning. For best results, use a high-fat margarine and adjust cooking times if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute margarine, but the results may differ slightly. Margarine has a higher water content, which can affect texture and browning. For best results, use a high-fat margarine and adjust cooking times if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 2.5 cups of butter if I don't have a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use the markings on butter packaging—most blocks show tablespoon and cup measurements. Alternatively, one standard stick of butter is ½ cup, so you'd need 5 sticks for 2.5 cups. A kitchen scale is the most accurate method if available."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use the markings on butter packaging—most blocks show tablespoon and cup measurements. Alternatively, one standard stick of butter is ½ cup, so you'd need 5 sticks for 2.5 cups. A kitchen scale is the most accurate method if available."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does salted vs. unsalted butter affect the ounce measurement for 2.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the ounce measurement remains the same, but salt content can impact flavour. Unsalted butter gives you control over seasoning, while salted butter adds a savoury note. Adjust added salt in your recipe accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the ounce measurement remains the same, but salt content can impact flavour. Unsalted butter gives you control over seasoning, while salted butter adds a savoury note. Adjust added salt in your recipe accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer smoke when using 2.5 cups of butter?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Butter has a low smoke point, and excess fat can drip onto heating elements. To prevent this, use parchment liners or reduce butter slightly. Always preheat your air fryer and avoid overcrowding the basket for better air circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Butter has a low smoke point, and excess fat can drip onto heating elements. To prevent this, use parchment liners or reduce butter slightly. Always preheat your air fryer and avoid overcrowding the basket for better air circulation."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter",
     "description": "Discover how many ounces are in 2.5 cups of butter with our easy conversion guide—perfect for air fryer baking and cooking!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of butter equals 20 ounces (or 566 grams). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're whipping up cookies, cakes, or savoury dishes, knowing how to convert cups to ounces ensures perfect results every time.</p>

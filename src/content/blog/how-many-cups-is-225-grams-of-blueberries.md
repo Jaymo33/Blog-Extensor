@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries"
-        },
-        "headline": "Quick Guide: Convert 225 Grams of Blueberries to Cups Easily",
-        "description": "Learn how to convert 225 grams of blueberries to cups for perfect baking and air frying every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries"
+    },
+    "headline": "Quick Guide: Convert 225 Grams of Blueberries to Cups Easily",
+    "description": "Learn how to convert 225 grams of blueberries to cups for perfect baking and air frying every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:31:12.926Z",
-        "dateModified": "2025-07-26T21:31:12.926Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-blueberries.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:31:12.926Z",
+    "dateModified": "2025-07-26T21:31:12.926Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-225-grams-of-blueberries.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 225 grams of frozen blueberries equal the same amount as fresh?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 225 grams is 225 grams regardless of state, frozen blueberries may appear slightly more compact in a measuring cup due to ice crystals. For most recipes, you can use them interchangeably, but if precision matters (like in baking), weighing is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 225 grams is 225 grams regardless of state, frozen blueberries may appear slightly more compact in a measuring cup due to ice crystals. For most recipes, you can use them interchangeably, but if precision matters (like in baking), weighing is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many blueberries are in 225 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The exact number varies by size, but on average, 225 grams of blueberries contains about 150-175 individual berries. Larger berries might be fewer in number, while smaller wild blueberries could be more numerous in the same weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The exact number varies by size, but on average, 225 grams of blueberries contains about 150-175 individual berries. Larger berries might be fewer in number, while smaller wild blueberries could be more numerous in the same weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 225 grams of blueberries in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 225 grams (about 1.5 cups) works well for air fryer recipes like crisps, muffins, or even roasted blueberries. Just ensure they're spread evenly in the basket for proper air circulation. Check our air fryer recipes for specific cooking times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 225 grams (about 1.5 cups) works well for air fryer recipes like crisps, muffins, or even roasted blueberries. Just ensure they're spread evenly in the basket for proper air circulation. Check our air fryer recipes for specific cooking times."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 225 grams of blueberries measure differently sometimes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Variations can occur due to berry size, how they're packed, or moisture content. Very juicy berries may settle differently in a cup. For consistency, always measure by weight when possible, especially for baking recipes where precision matters most."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Variations can occur due to berry size, how they're packed, or moisture content. Very juicy berries may settle differently in a cup. For consistency, always measure by weight when possible, especially for baking recipes where precision matters most."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 225 Grams of Blueberries?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 225 Grams of Blueberries?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries",
     "description": "Learn how to convert 225 grams of blueberries to cups for perfect baking and air frying every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:12.926000+00:00",
     "dateModified": "2025-07-26T21:31:12.926000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 225 Grams of Blueberries?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-225-grams-of-blueberries"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>225 grams of blueberries is roughly equivalent to 1.5 cups. This measurement is essential for baking, air frying, or any recipe requiring precise quantities. Whether you're whipping up a blueberry crumble in your air fryer or adding them to muffins, knowing this conversion ensures perfect results every time.</p>

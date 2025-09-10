@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream"
-        },
-        "headline": "Quick Guide: Convert 235 ml of Cream to Cups Easily",
-        "description": "Learn how to convert 235 ml of cream to cups for perfect baking and cooking every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream"
+    },
+    "headline": "Quick Guide: Convert 235 ml of Cream to Cups Easily",
+    "description": "Learn how to convert 235 ml of cream to cups for perfect baking and cooking every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 235 ml of cream the same as 1 cup in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 235 ml of cream is approximately 1 cup in both UK (250 ml per cup) and US (240 ml per cup) measurements. The slight difference (5-10 ml) is negligible for most recipes, including air fryer dishes. For precision baking, you might add a teaspoon to match a full US cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 235 ml of cream is approximately 1 cup in both UK (250 ml per cup) and US (240 ml per cup) measurements. The slight difference (5-10 ml) is negligible for most recipes, including air fryer dishes. For precision baking, you might add a teaspoon to match a full US cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 235 ml of double cream instead of single cream in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust other liquids slightly, as double cream has higher fat content and thicker consistency. In air fryer recipes, too much fat can lead to greasy results. For sauces, thin double cream with a splash of milk if needed. Always check the recipe’s flexibility."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust other liquids slightly, as double cream has higher fat content and thicker consistency. In air fryer recipes, too much fat can lead to greasy results. For sauces, thin double cream with a splash of milk if needed. Always check the recipe’s flexibility."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 235 ml of cream without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoons: 235 ml equals about 16 tablespoons. Alternatively, fill a standard teacup (about 240 ml) just below the rim. For sticky creams like clotted cream, spoon and level it off without packing. Avoid dry measuring cups, as they’re less accurate for liquids."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoons: 235 ml equals about 16 tablespoons. Alternatively, fill a standard teacup (about 240 ml) just below the rim. For sticky creams like clotted cream, spoon and level it off without packing. Avoid dry measuring cups, as they’re less accurate for liquids."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 235 ml of whipped cream equal 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, whipped cream doubles in volume, so 235 ml of liquid cream yields about 2 cups whipped. For air fryer desserts like mousses, measure the cream before whipping. Over-whipping can separate the cream, so stop at soft peaks for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, whipped cream doubles in volume, so 235 ml of liquid cream yields about 2 cups whipped. For air fryer desserts like mousses, measure the cream before whipping. Over-whipping can separate the cream, so stop at soft peaks for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 235 ml of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 235 ml of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream",
     "description": "Learn how to convert 235 ml of cream to cups for perfect baking and cooking every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 235 ml of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>235 ml of cream is roughly equivalent to 1 cup in both UK and US measurements. This conversion is handy for recipes, especially when using an air fryer for baking or cooking creamy dishes. Whether you're whipping up a dessert or adding richness to a sauce, knowing how to measure cream accurately ensures perfect results every time. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>

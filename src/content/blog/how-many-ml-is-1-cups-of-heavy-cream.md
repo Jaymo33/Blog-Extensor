@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream"
-        },
-        "headline": "Quick Answer: How Many ml Is 1.0 Cups of Heavy Cream?",
-        "description": "Convert 1.0 cups of heavy cream to ml in seconds with our easy guide. Perfect for air fryer recipes and baking conversions.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream"
+    },
+    "headline": "Quick Answer: How Many ml Is 1.0 Cups of Heavy Cream?",
+    "description": "Convert 1.0 cups of heavy cream to ml in seconds with our easy guide. Perfect for air fryer recipes and baking conversions.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:11:40.852Z",
-        "dateModified": "2025-07-28T20:11:40.852Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-cups-of-heavy-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:11:40.852Z",
+    "dateModified": "2025-07-28T20:11:40.852Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-cups-of-heavy-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 1.0 cups of heavy cream equal 250ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 1.0 US cups of heavy cream equals 240ml (not 250ml). The 250ml mark is a common metric measurement, but for precise baking or air fryer recipes, use 240ml when your recipe specifies 1.0 cups. UK cups measure 284ml, but most modern recipes use US standards."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 1.0 US cups of heavy cream equals 240ml (not 250ml). The 250ml mark is a common metric measurement, but for precise baking or air fryer recipes, use 240ml when your recipe specifies 1.0 cups. UK cups measure 284ml, but most modern recipes use US standards."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use whipped cream instead of heavy cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Whipped cream isn’t a direct substitute for heavy cream in air fryer cooking. Heavy cream (240ml per 1.0 cups) contains 36-40% fat, while whipped cream has added sugar and air. For sauces or baking, always use liquid heavy cream to prevent separation under high heat."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Whipped cream isn’t a direct substitute for heavy cream in air fryer cooking. Heavy cream (240ml per 1.0 cups) contains 36-40% fat, while whipped cream has added sugar and air. For sauces or baking, always use liquid heavy cream to prevent separation under high heat."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.0 cups of heavy cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a metric jug: 240ml reaches just below the 250ml line. Alternatively, 16 tablespoons equal 1.0 cups (240ml). For utmost accuracy in air fryer recipes, weigh 240 grams on a kitchen scale. Avoid estimating, as heavy cream’s thickness makes visual guesses unreliable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a metric jug: 240ml reaches just below the 250ml line. Alternatively, 16 tablespoons equal 1.0 cups (240ml). For utmost accuracy in air fryer recipes, weigh 240 grams on a kitchen scale. Avoid estimating, as heavy cream’s thickness makes visual guesses unreliable."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe fail when using 1.0 cups of heavy cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate intense heat, so heavy cream (240ml per 1.0 cups) may split if heated too quickly. Always mix it with other ingredients first, like eggs or flour, to stabilise it. Check your air fryer’s temperature – most creamy recipes cook best at 160°C to 180°C."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate intense heat, so heavy cream (240ml per 1.0 cups) may split if heated too quickly. Always mix it with other ingredients first, like eggs or flour, to stabilise it. Check your air fryer’s temperature – most creamy recipes cook best at 160°C to 180°C."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 1.0 Cups of Heavy Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream",
+    "@type": "WebPage",
+    "name": "How Many ml Is 1.0 Cups of Heavy Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream",
     "description": "Convert 1.0 cups of heavy cream to ml in seconds with our easy guide. Perfect for air fryer recipes and baking conversions.",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:11:40.852000+00:00",
     "dateModified": "2025-07-28T20:11:40.852000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 1.0 Cups of Heavy Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cups-of-heavy-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.0 cups of heavy cream equals approximately 240 millilitres (ml). This conversion is essential for precise baking, cooking, or air fryer recipes where accurate measurements matter.</p>

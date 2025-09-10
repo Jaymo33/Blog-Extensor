@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice"
-        },
-        "headline": "Quick Guide: Convert 1.66 Cups of Cooked Rice to Ounces Easily",
-        "description": "Learn how to convert 1.66 cups of cooked rice to ounces in seconds. Perfect for air fryer meal prep and precise portioning.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice"
+    },
+    "headline": "Quick Guide: Convert 1.66 Cups of Cooked Rice to Ounces Easily",
+    "description": "Learn how to convert 1.66 cups of cooked rice to ounces in seconds. Perfect for air fryer meal prep and precise portioning.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-cooked-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-cooked-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rice affect the ounce conversion for 1.66 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, rice varieties differ slightly in density. Long-grain white rice weighs about 8 oz per cup cooked, while brown rice may be closer to 8.5 oz. For 1.66 cups, this means a variance of 13.28-14.11 oz. Always check your specific rice type for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, rice varieties differ slightly in density. Long-grain white rice weighs about 8 oz per cup cooked, while brown rice may be closer to 8.5 oz. For 1.66 cups, this means a variance of 13.28-14.11 oz. Always check your specific rice type for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for uncooked rice in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, uncooked rice requires different measurements and cooking methods. 1.66 cups of uncooked rice yields about 5 cups cooked (40 oz), far exceeding most air fryer capacities. Stick to pre-cooked rice quantities like 13.28 oz (1.66 cups) for safe air frying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, uncooked rice requires different measurements and cooking methods. 1.66 cups of uncooked rice yields about 5 cups cooked (40 oz), far exceeding most air fryer capacities. Stick to pre-cooked rice quantities like 13.28 oz (1.66 cups) for safe air frying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.66 cups of cooked rice to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Multiply ounces by 28.35: 13.28 oz equals approximately 376 grams. This metric conversion helps international users follow air fryer recipes accurately. Most kitchen scales toggle between units for convenience."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiply ounces by 28.35: 13.28 oz equals approximately 376 grams. This metric conversion helps international users follow air fryer recipes accurately. Most kitchen scales toggle between units for convenience."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer rice come out dry when using 1.66 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "At 13.28 ounces, rice can dry out if cooked too long or at high heat. Try reducing temperature by 10°C and spraying lightly with oil. Covering the basket with foil (vented) for the first half of cooking also retains moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "At 13.28 ounces, rice can dry out if cooked too long or at high heat. Try reducing temperature by 10°C and spraying lightly with oil. Covering the basket with foil (vented) for the first half of cooking also retains moisture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of cooked rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of cooked rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice",
     "description": "Learn how to convert 1.66 cups of cooked rice to ounces in seconds. Perfect for air fryer meal prep and precise portioning.",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of cooked rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-cooked-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.66 cups of cooked rice equals approximately 13.28 ounces. This conversion is essential for air fryer users who need precise measurements for meal prep or recipe scaling. Whether you’re making fried rice or a rice-based casserole, knowing the weight ensures consistent results. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements.</p>

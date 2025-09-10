@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion"
-        },
-        "headline": "Quick Guide: Convert 1.5 Cups of Minced Onion to Ounces",
-        "description": "Learn how to convert 1.5 cups of minced onion to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion"
+    },
+    "headline": "Quick Guide: Convert 1.5 Cups of Minced Onion to Ounces",
+    "description": "Learn how to convert 1.5 cups of minced onion to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-minced-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-minced-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of onion affect the weight of 1.5 cups minced?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, slightly. Sweet onions are denser than white or red varieties, so 1.5 cups may weigh closer to 6.5 ounces. For most recipes, the standard 6-ounce conversion works, but for precision, weigh your minced onion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, slightly. Sweet onions are denser than white or red varieties, so 1.5 cups may weigh closer to 6.5 ounces. For most recipes, the standard 6-ounce conversion works, but for precision, weigh your minced onion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen minced onion instead of fresh?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Thaw and drain frozen minced onion first to remove excess moisture. Use the same 1.5-cup (6-ounce) measurement, but pat it dry with a paper towel to prevent sogginess in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Thaw and drain frozen minced onion first to remove excess moisture. Use the same 1.5-cup (6-ounce) measurement, but pat it dry with a paper towel to prevent sogginess in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 1.5 cups of minced onion take to cook in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "At 180°C, minced onion cooks in 5–7 minutes. Spread it evenly in the basket for crispiness. For caramelised results, toss with oil and cook for 10 minutes, stirring halfway."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "At 180°C, minced onion cooks in 5–7 minutes. Spread it evenly in the basket for crispiness. For caramelised results, toss with oil and cook for 10 minutes, stirring halfway."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to store leftover minced onion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Refrigerate unused minced onion in an airtight container for up to 3 days. For longer storage, freeze it in 1.5-cup portions (6 ounces each) and thaw as needed for future air fryer meals."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Refrigerate unused minced onion in an airtight container for up to 3 days. For longer storage, freeze it in 1.5-cup portions (6 ounces each) and thaw as needed for future air fryer meals."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.5 cups of minced onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of minced onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion",
     "description": "Learn how to convert 1.5 cups of minced onion to ounces for precise air fryer cooking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.5 cups of minced onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-minced-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of minced onion equals approximately 6 ounces (170 grams). This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect results. Whether you're prepping a stir-fry, casserole, or seasoning blend, knowing the exact weight saves time and avoids guesswork.</p>  

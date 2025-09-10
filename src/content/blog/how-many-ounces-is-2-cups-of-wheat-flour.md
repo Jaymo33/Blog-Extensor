@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of wheat flour?",
-        "description": "Discover how many ounces are in 2 cups of wheat flour for perfect baking results every time. Includes UK conversions and air fryer tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of wheat flour?",
+    "description": "Discover how many ounces are in 2 cups of wheat flour for perfect baking results every time. Includes UK conversions and air fryer tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-wheat-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-wheat-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of wheat flour affect the weight of 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different types of wheat flour have varying densities. All-purpose flour weighs about 4.5 oz per cup, while whole wheat flour is slightly heavier at around 5 oz per cup due to its higher fibre content. Always check your specific flour type for the most accurate conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different types of wheat flour have varying densities. All-purpose flour weighs about 4.5 oz per cup, while whole wheat flour is slightly heavier at around 5 oz per cup due to its higher fibre content. Always check your specific flour type for the most accurate conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for gluten-free flour blends?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gluten-free flour blends often have different weights compared to wheat flour. Some are lighter, while others may be denser. It's best to check the packaging or weigh your gluten-free flour separately. Many brands provide cup-to-ounce conversions on their packaging for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gluten-free flour blends often have different weights compared to wheat flour. Some are lighter, while others may be denser. It's best to check the packaging or weigh your gluten-free flour separately. Many brands provide cup-to-ounce conversions on their packaging for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 2 cups of wheat flour without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To measure 2 cups of wheat flour without a scale, fluff the flour first with a spoon to aerate it. Gently spoon it into your measuring cup without packing it down, then level off the top with a straight edge. This method helps prevent over-measuring, which can lead to dense baked goods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To measure 2 cups of wheat flour without a scale, fluff the flour first with a spoon to aerate it. Gently spoon it into your measuring cup without packing it down, then level off the top with a straight edge. This method helps prevent over-measuring, which can lead to dense baked goods."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use weight instead of volume for flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements are more precise because flour can settle or become compacted in storage, making volume measurements inconsistent. Professional bakers prefer weighing ingredients for reliable results. This is especially important for air fryer baking, where even small measurement differences can affect cooking times and textures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements are more precise because flour can settle or become compacted in storage, making volume measurements inconsistent. Professional bakers prefer weighing ingredients for reliable results. This is especially important for air fryer baking, where even small measurement differences can affect cooking times and textures."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of wheat flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of wheat flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour",
     "description": "Discover how many ounces are in 2 cups of wheat flour for perfect baking results every time. Includes UK conversions and air fryer tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of wheat flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-wheat-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of wheat flour equals approximately 9 ounces (oz) in weight. This conversion is essential for bakers who rely on precise measurements to achieve perfect textures in cakes, bread, and air fryer recipes. Whether you're using a kitchen scale or measuring cups, knowing this conversion ensures consistency in your baking.</p>  

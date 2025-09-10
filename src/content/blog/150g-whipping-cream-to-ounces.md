@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces"
-        },
-        "headline": "Quick Convert: 150g of Whipping Cream to Ounces UK",
-        "description": "Discover how to convert 150g of whipping cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces"
+    },
+    "headline": "Quick Convert: 150g of Whipping Cream to Ounces UK",
+    "description": "Discover how to convert 150g of whipping cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-whipping-cream-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/150g-whipping-cream-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 150g of whipping cream in US recipes that call for ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 150g of whipping cream equals approximately 5.29 ounces, which you can use directly in US recipes. Just remember that UK and US fluid ounces differ slightly, but for whipping cream, the weight measurement (5.29 oz) remains consistent regardless of location."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 150g of whipping cream equals approximately 5.29 ounces, which you can use directly in US recipes. Just remember that UK and US fluid ounces differ slightly, but for whipping cream, the weight measurement (5.29 oz) remains consistent regardless of location."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 150g of whipping cream compare to double cream in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "150g of whipping cream and 150g of double cream both weigh 5.29 ounces, but they have different fat contents. Whipping cream typically has about 35% fat, while double cream has 48%. This affects how they whip and perform in recipes, even though their weight conversion to ounces is identical."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "150g of whipping cream and 150g of double cream both weigh 5.29 ounces, but they have different fat contents. Whipping cream typically has about 35% fat, while double cream has 48%. This affects how they whip and perform in recipes, even though their weight conversion to ounces is identical."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 150g of whipping cream the same as 150ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 150g of whipping cream isn't exactly the same as 150ml. While they're close (150ml is roughly 153g), weight measurements are more accurate for baking and air fryer cooking. For precise results, always weigh your whipping cream rather than relying on volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 150g of whipping cream isn't exactly the same as 150ml. While they're close (150ml is roughly 153g), weight measurements are more accurate for baking and air fryer cooking. For precise results, always weigh your whipping cream rather than relying on volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute 150g of whipping cream with another ingredient in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For some air fryer recipes, you can substitute 150g (5.29 oz) of whipping cream with coconut cream or full-fat Greek yogurt, adjusting for texture differences. However, substitutions may affect the final result, especially in desserts where whipping cream's properties are crucial to the recipe's success."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For some air fryer recipes, you can substitute 150g (5.29 oz) of whipping cream with coconut cream or full-fat Greek yogurt, adjusting for texture differences. However, substitutions may affect the final result, especially in desserts where whipping cream's properties are crucial to the recipe's success."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 150g of whipping cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 150g of whipping cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces",
     "description": "Discover how to convert 150g of whipping cream to ounces in seconds. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 150g of whipping cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/150g-whipping-cream-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150g of whipping cream is approximately 5.29 ounces. This conversion is essential for anyone using UK recipes or working with air fryers, where precise measurements can make all the difference. Whether you're making a creamy dessert or a rich sauce, knowing how to convert grams to ounces ensures your dish turns out perfectly every time.</p>

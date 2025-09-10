@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock"
-        },
-        "headline": "Quick Guide: Convert 360 ml of Beef Stock to Cups Easily",
-        "description": "Learn how to convert 360 ml of beef stock to cups in seconds for perfect air fryer recipes. Get precise measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock"
+    },
+    "headline": "Quick Guide: Convert 360 ml of Beef Stock to Cups Easily",
+    "description": "Learn how to convert 360 ml of beef stock to cups in seconds for perfect air fryer recipes. Get precise measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-beef-stock.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-beef-stock.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 360 ml of beef stock the same as 1.5 cups in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 360 ml of beef stock is roughly 1.5 cups in both the UK and US. While cup sizes can vary slightly (a UK cup is 284 ml vs. 240 ml in the US), the difference is minimal for most recipes. For precise air fryer cooking, stick to millilitres or use a kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 360 ml of beef stock is roughly 1.5 cups in both the UK and US. While cup sizes can vary slightly (a UK cup is 284 ml vs. 240 ml in the US), the difference is minimal for most recipes. For precise air fryer cooking, stick to millilitres or use a kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use water instead of beef stock in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can, but the flavour will be less rich. Beef stock adds depth to dishes like stews and gravies. If substituting, consider adding herbs or bouillon to mimic the taste. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for stock-free alternatives."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can, but the flavour will be less rich. Beef stock adds depth to dishes like stews and gravies. If substituting, consider adding herbs or bouillon to mimic the taste. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for stock-free alternatives."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover beef stock after measuring 360 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Pour unused stock into an airtight container and refrigerate for up to 3 days. For longer storage, freeze it in ice cube trays—each cube is about 30 ml, making it easy to measure 360 ml (12 cubes) next time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pour unused stock into an airtight container and refrigerate for up to 3 days. For longer storage, freeze it in ice cube trays—each cube is about 30 ml, making it easy to measure 360 ml (12 cubes) next time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste too salty with 360 ml of beef stock?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Some store-bought stocks are high in sodium. If your dish tastes too salty, dilute the stock with water or use a low-sodium version. For more tips, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/beef>beef recipe category</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Some store-bought stocks are high in sodium. If your dish tastes too salty, dilute the stock with water or use a low-sodium version. For more tips, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/beef>beef recipe category</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 360 ml of Beef Stock?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 360 ml of Beef Stock?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock",
     "description": "Learn how to convert 360 ml of beef stock to cups in seconds for perfect air fryer recipes. Get precise measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 360 ml of Beef Stock?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-beef-stock"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>360 ml of beef stock equals approximately 1.5 cups. This conversion is essential for air fryer recipes, ensuring your dishes have the perfect consistency and flavour. Whether you're making a rich gravy or a hearty stew, knowing how to measure beef stock accurately can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail these measurements every time.</p>  

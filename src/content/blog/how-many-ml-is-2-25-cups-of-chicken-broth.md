@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth"
-        },
-        "headline": "Quick Answer: How Many ml Is 2.25 Cups of Chicken Broth?",
-        "description": "Discover the exact ml measurement for 2.25 cups of chicken broth and simplify your cooking conversions with this easy guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth"
+    },
+    "headline": "Quick Answer: How Many ml Is 2.25 Cups of Chicken Broth?",
+    "description": "Discover the exact ml measurement for 2.25 cups of chicken broth and simplify your cooking conversions with this easy guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:42.177Z",
-        "dateModified": "2025-07-30T08:54:42.177Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-chicken-broth.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:42.177Z",
+    "dateModified": "2025-07-30T08:54:42.177Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-25-cups-of-chicken-broth.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.25 cups of chicken broth the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2.25 cups of chicken broth equals 532.5 ml in both the UK and US. While cup sizes can vary slightly by country, the standard metric conversion remains consistent for liquid measurements like broth."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2.25 cups of chicken broth equals 532.5 ml in both the UK and US. While cup sizes can vary slightly by country, the standard metric conversion remains consistent for liquid measurements like broth."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use stock instead of broth for the same measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Chicken stock and broth can be used interchangeably in most recipes, including air fryer dishes. Just ensure you measure 2.25 cups (532.5 ml) of either for accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Chicken stock and broth can be used interchangeably in most recipes, including air fryer dishes. Just ensure you measure 2.25 cups (532.5 ml) of either for accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust cooking time when using 2.25 cups of broth in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook faster than ovens, so reduce cooking time by 20-25% when using liquids like broth. Keep an eye on dishes to prevent over-reducing or splattering."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook faster than ovens, so reduce cooking time by 20-25% when using liquids like broth. Keep an eye on dishes to prevent over-reducing or splattering."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What if I don’t have a measuring jug for 2.25 cups of broth?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you lack a jug, use a standard cup measure: fill it twice to 1 cup, then once to ¼ cup. For ml accuracy, a kitchen scale set to grams (1 ml ≈ 1 g for broth) can also work."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you lack a jug, use a standard cup measure: fill it twice to 1 cup, then once to ¼ cup. For ml accuracy, a kitchen scale set to grams (1 ml ≈ 1 g for broth) can also work."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.25 Cups of Chicken Broth?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.25 Cups of Chicken Broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth",
     "description": "Discover the exact ml measurement for 2.25 cups of chicken broth and simplify your cooking conversions with this easy guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:42.177000+00:00",
     "dateModified": "2025-07-30T08:54:42.177000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.25 Cups of Chicken Broth?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-25-cups-of-chicken-broth"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.25 cups of chicken broth equals approximately 532.5 ml. This conversion is essential for precise cooking, especially when using an air fryer for recipes like soups, stews, or sauces. Whether you’re following a British or American recipe, knowing the exact ml measurement ensures your dish turns out perfectly.</p>  

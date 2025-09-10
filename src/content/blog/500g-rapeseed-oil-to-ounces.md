@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces"
-        },
-        "headline": "Quick 500g rapeseed oil to ounces conversion for UK cooks",
-        "description": "Convert 500g of rapeseed oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces"
+    },
+    "headline": "Quick 500g rapeseed oil to ounces conversion for UK cooks",
+    "description": "Convert 500g of rapeseed oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/500g-rapeseed-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/500g-rapeseed-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it better to measure rapeseed oil by weight rather than volume?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Measuring rapeseed oil by weight (grams or ounces) is more accurate than volume measurements because it isn't affected by temperature or container shape. Oil expands when warm and contracts when cool, meaning a cup of oil could weigh differently depending on conditions. Weight measurements give consistent results every time, which is especially important for air fryer cooking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Measuring rapeseed oil by weight (grams or ounces) is more accurate than volume measurements because it isn't affected by temperature or container shape. Oil expands when warm and contracts when cool, meaning a cup of oil could weigh differently depending on conditions. Weight measurements give consistent results every time, which is especially important for air fryer cooking where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for other types of cooking oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the conversion from grams to ounces stays the same (1g = 0.035274oz), different oils have slightly different densities. Rapeseed oil has a density of about 0.92g/ml, while olive oil is around 0.91g/ml. For most practical purposes in air fryer cooking, you can use the same conversion, but for absolute precision, it's best to check the specific density of your chosen oil."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the conversion from grams to ounces stays the same (1g = 0.035274oz), different oils have slightly different densities. Rapeseed oil has a density of about 0.92g/ml, while olive oil is around 0.91g/ml. For most practical purposes in air fryer cooking, you can use the same conversion, but for absolute precision, it's best to check the specific density of your chosen oil."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long will 500g of rapeseed oil last for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "500g (17.64 ounces) of rapeseed oil can last quite a while for air fryer cooking since air fryers use significantly less oil than traditional frying methods. Depending on how often you use your air fryer, 500g could last for 15-20 cooking sessions. Proper storage in a cool, dark place helps maintain the oil's quality between uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "500g (17.64 ounces) of rapeseed oil can last quite a while for air fryer cooking since air fryers use significantly less oil than traditional frying methods. Depending on how often you use your air fryer, 500g could last for 15-20 cooking sessions. Proper storage in a cool, dark place helps maintain the oil's quality between uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to measure small amounts of rapeseed oil for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For small amounts of rapeseed oil in air fryer recipes, a kitchen scale that measures in grams is ideal. For quantities less than 500g, simply weigh out what you need. Alternatively, use a spray bottle to lightly mist food with oil - this gives even coverage while using minimal oil. Remember, air fryers need much less oil than traditional frying methods to achieve crispy results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For small amounts of rapeseed oil in air fryer recipes, a kitchen scale that measures in grams is ideal. For quantities less than 500g, simply weigh out what you need. Alternatively, use a spray bottle to lightly mist food with oil - this gives even coverage while using minimal oil. Remember, air fryers need much less oil than traditional frying methods to achieve crispy results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 500g of rapeseed oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 500g of rapeseed oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces",
     "description": "Convert 500g of rapeseed oil to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 500g of rapeseed oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/500g-rapeseed-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500g of rapeseed oil equals approximately 17.64 ounces. This conversion is essential for UK cooks using air fryers, where precise measurements can make all the difference in recipe success. Whether you're adapting a family favourite or trying a new dish from <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>, knowing your conversions ensures perfect results every time.</p>

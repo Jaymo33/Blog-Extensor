@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth"
-        },
-        "headline": "Quick Guide: Convert 685 ml of Chicken Broth to Cups Easily",
-        "description": "Learn how to convert 685 ml of chicken broth to cups for perfect recipes every time. Includes UK & US measurements for air fryer cooking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth"
+    },
+    "headline": "Quick Guide: Convert 685 ml of Chicken Broth to Cups Easily",
+    "description": "Learn how to convert 685 ml of chicken broth to cups for perfect recipes every time. Includes UK & US measurements for air fryer cooking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-of-chicken-broth.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-of-chicken-broth.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 685 ml of chicken broth the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, UK and US cup sizes differ slightly. 685 ml equals about 2.9 UK cups or 2.75 US cups. Always check which measurement system your recipe uses for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, UK and US cup sizes differ slightly. 685 ml equals about 2.9 UK cups or 2.75 US cups. Always check which measurement system your recipe uses for the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use stock cubes instead of 685 ml of liquid chicken broth?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but dissolve the stock cube in 685 ml of water first. This ensures the correct concentration and avoids over-seasoning. Adjust the salt content if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but dissolve the stock cube in 685 ml of water first. This ensures the correct concentration and avoids over-seasoning. Adjust the salt content if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 685 ml of chicken broth without a jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard 240 ml US cup or 284 ml UK cup and measure accordingly. For 685 ml, you’d need roughly 2.75 US cups or 2.4 UK cups, topping up slightly for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard 240 ml US cup or 284 ml UK cup and measure accordingly. For 685 ml, you’d need roughly 2.75 US cups or 2.4 UK cups, topping up slightly for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe need exact broth measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers rely on even heat distribution, so too much liquid can steam food instead of crisping it. Precise amounts (like 685 ml) ensure ideal texture and flavour in dishes like soups or braises."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers rely on even heat distribution, so too much liquid can steam food instead of crisping it. Precise amounts (like 685 ml) ensure ideal texture and flavour in dishes like soups or braises."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 685 ml of Chicken Broth?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 685 ml of Chicken Broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth",
     "description": "Learn how to convert 685 ml of chicken broth to cups for perfect recipes every time. Includes UK & US measurements for air fryer cooking.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 685 ml of Chicken Broth?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-chicken-broth"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>685 ml of chicken broth is roughly 2.9 cups in the UK or 2.75 cups in the US. This conversion is handy for air fryer recipes where precise liquid measurements matter. Whether you're making a stew, gravy, or marinade, knowing how to switch between millilitres and cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking conversions effortless for home chefs. Let’s break down the details so you can measure with confidence.</p>  

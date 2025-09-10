@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic"
-        },
-        "headline": "Quick Guide: 1.66 Cups Chopped Garlic to Ounces Conversion",
-        "description": "Convert 1.66 cups of chopped garlic to ounces effortlessly with our simple guide—perfect for air fryer recipes and precise cooking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic"
+    },
+    "headline": "Quick Guide: 1.66 Cups Chopped Garlic to Ounces Conversion",
+    "description": "Convert 1.66 cups of chopped garlic to ounces effortlessly with our simple guide—perfect for air fryer recipes and precise cooking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-166-cups-chopped-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-166-cups-chopped-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use minced garlic instead of chopped for the 1.66 cups measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, minced garlic can be used interchangeably with chopped garlic in most recipes. However, minced garlic is slightly denser, so you might need a tiny bit less by volume. For accuracy, weigh it—1.66 cups of minced garlic is still roughly 13.28 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, minced garlic can be used interchangeably with chopped garlic in most recipes. However, minced garlic is slightly denser, so you might need a tiny bit less by volume. For accuracy, weigh it—1.66 cups of minced garlic is still roughly 13.28 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 1.66 cups of chopped garlic last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fresh chopped garlic stored in an airtight container will last about 1 week in the fridge. For longer storage, freeze it in portions. Just note that frozen garlic may lose some pungency, so adjust quantities in your air fryer recipes accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fresh chopped garlic stored in an airtight container will last about 1 week in the fridge. For longer storage, freeze it in portions. Just note that frozen garlic may lose some pungency, so adjust quantities in your air fryer recipes accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of garlic affect the weight conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most common garlic varieties, like softneck or hardneck, have similar densities when chopped. However, elephant garlic (milder and larger) will yield slightly different weights. Stick to standard garlic for the 1.66 cups = 13.28 ounces conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most common garlic varieties, like softneck or hardneck, have similar densities when chopped. However, elephant garlic (milder and larger) will yield slightly different weights. Stick to standard garlic for the 1.66 cups = 13.28 ounces conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute garlic powder for 1.66 cups of chopped garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Garlic powder is more concentrated. For 1.66 cups (13.28 ounces) of chopped garlic, use about 5 tablespoons of powder. Rehydrate it with a bit of water to mimic fresh garlic’s texture in air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Garlic powder is more concentrated. For 1.66 cups (13.28 ounces) of chopped garlic, use about 5 tablespoons of powder. Rehydrate it with a bit of water to mimic fresh garlic’s texture in air fryer dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of chopped garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of chopped garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic",
     "description": "Convert 1.66 cups of chopped garlic to ounces effortlessly with our simple guide—perfect for air fryer recipes and precise cooking.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of chopped garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-166-cups-chopped-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.66 cups of chopped garlic equals approximately 13.28 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're whipping up garlic-infused chicken or a savoury vegetable stir-fry, knowing the exact weight ensures consistent flavour and texture. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

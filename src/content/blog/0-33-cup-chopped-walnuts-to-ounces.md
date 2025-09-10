@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 0.33 Cup Chopped Walnuts to Ounces",
-        "description": "Learn how to convert 0.33 cup of chopped walnuts to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 0.33 Cup Chopped Walnuts to Ounces",
+    "description": "Learn how to convert 0.33 cup of chopped walnuts to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-chopped-walnuts-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-33-cup-chopped-walnuts-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use whole walnuts instead of chopped for the 0.33 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but whole walnuts will take up more space in the cup, so the weight may differ slightly. For accuracy, chop them first or weigh 1.4 oz (40g) of whole walnuts, then chop. This ensures consistency in recipes like coatings or baked goods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but whole walnuts will take up more space in the cup, so the weight may differ slightly. For accuracy, chop them first or weigh 1.4 oz (40g) of whole walnuts, then chop. This ensures consistency in recipes like coatings or baked goods."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.33 cup of chopped walnuts to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.33 cup of chopped walnuts is roughly 40 grams. If your recipe uses metric measurements, a kitchen scale is the easiest way to confirm this. Grams are more precise than cups, especially for ingredients like nuts that can settle or vary in chop size."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.33 cup of chopped walnuts is roughly 40 grams. If your recipe uses metric measurements, a kitchen scale is the easiest way to confirm this. Grams are more precise than cups, especially for ingredients like nuts that can settle or vary in chop size."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 0.33 cup of walnuts instead of a round number?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes often use 0.33 cup (1/3 cup) to balance flavours without overwhelming other ingredients. In air fryers, this amount ensures even cooking and prevents overcrowding. It’s also a common portion for adding texture to dishes like stuffings or granola."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes often use 0.33 cup (1/3 cup) to balance flavours without overwhelming other ingredients. In air fryers, this amount ensures even cooking and prevents overcrowding. It’s also a common portion for adding texture to dishes like stuffings or granola."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute other nuts for chopped walnuts in a 0.33 cup measure?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust for density. Almonds or pecans may weigh slightly more or less per 0.33 cup. Always check weight equivalents if precision is crucial, like in baking. Toasting substitutes similarly will yield the best flavour in air-fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust for density. Almonds or pecans may weigh slightly more or less per 0.33 cup. Always check weight equivalents if precision is crucial, like in baking. Toasting substitutes similarly will yield the best flavour in air-fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of chopped walnuts",
-            "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of chopped walnuts",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces",
     "description": "Learn how to convert 0.33 cup of chopped walnuts to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of chopped walnuts",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/0-33-cup-chopped-walnuts-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of chopped walnuts equals approximately 1.4 ounces (40 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you're baking walnut cookies or adding crunch to a salad, knowing the exact weight helps avoid over or under-measuring. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we recommend using a kitchen scale for accuracy, especially when working with nuts that can vary in density.</p>  

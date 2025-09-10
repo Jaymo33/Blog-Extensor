@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste"
-        },
-        "headline": "Quick Guide: Convert 1 tbsp garlic paste to grams",
-        "description": "Discover how many grams are in 1 tbsp of garlic paste for perfect air fryer recipes. Get accurate conversions and cooking tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste"
+    },
+    "headline": "Quick Guide: Convert 1 tbsp garlic paste to grams",
+    "description": "Discover how many grams are in 1 tbsp of garlic paste for perfect air fryer recipes. Get accurate conversions and cooking tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-garlic-paste.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-garlic-paste.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1 tbsp of garlic paste the same as minced garlic in grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, minced garlic is less dense than garlic paste. While 1 tbsp of garlic paste weighs around 15 grams, minced garlic typically weighs about 10 grams per tablespoon due to its looser texture. Always adjust measurements based on the recipe's requirements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, minced garlic is less dense than garlic paste. While 1 tbsp of garlic paste weighs around 15 grams, minced garlic typically weighs about 10 grams per tablespoon due to its looser texture. Always adjust measurements based on the recipe's requirements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use garlic powder instead of garlic paste in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the conversion differs. Use 1/4 teaspoon of garlic powder for every 1 tbsp (15g) of garlic paste. Garlic powder is more concentrated, so using too much can overpower the dish. Adjust to taste and mix with a bit of water to mimic paste consistency if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the conversion differs. Use 1/4 teaspoon of garlic powder for every 1 tbsp (15g) of garlic paste. Garlic powder is more concentrated, so using too much can overpower the dish. Adjust to taste and mix with a bit of water to mimic paste consistency if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does homemade garlic paste last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Homemade garlic paste lasts about 1-2 weeks in the fridge if stored in an airtight container. For longer storage, freeze it in ice cube trays—each cube (about 1 tbsp) will stay fresh for up to 3 months. Always check for mould or off smells before use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Homemade garlic paste lasts about 1-2 weeks in the fridge if stored in an airtight container. For longer storage, freeze it in ice cube trays—each cube (about 1 tbsp) will stay fresh for up to 3 months. Always check for mould or off smells before use."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste too garlicky even with 1 tbsp of paste?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This could be due to the garlic paste's potency. Some brands or homemade versions are stronger than others. Try reducing the amount to 10 grams (about 2/3 tbsp) next time. Also, ensure the paste is evenly distributed to avoid concentrated pockets of flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This could be due to the garlic paste's potency. Some brands or homemade versions are stronger than others. Try reducing the amount to 10 grams (about 2/3 tbsp) next time. Also, ensure the paste is evenly distributed to avoid concentrated pockets of flavour."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of garlic paste?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of garlic paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste",
     "description": "Discover how many grams are in 1 tbsp of garlic paste for perfect air fryer recipes. Get accurate conversions and cooking tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of garlic paste?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-garlic-paste"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 tablespoon (tbsp) of garlic paste weighs approximately 15 grams. This measurement is essential for air fryer recipes where precise ingredient quantities can make or break a dish. Whether you're marinating chicken or seasoning vegetables, knowing the exact weight ensures consistent results every time.</p>  

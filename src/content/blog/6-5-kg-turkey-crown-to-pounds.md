@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds"
-        },
-        "headline": "Easy 6.5 kg Turkey Crown to Pounds Conversion Guide",
-        "description": "Convert 6.5 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your Christmas centrepiece.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds"
+    },
+    "headline": "Easy 6.5 kg Turkey Crown to Pounds Conversion Guide",
+    "description": "Convert 6.5 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your Christmas centrepiece.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T23:04:43.655Z",
-        "dateModified": "2025-08-22T23:04:43.655Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-5-kg-turkey-crown-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T23:04:43.655Z",
+    "dateModified": "2025-08-22T23:04:43.655Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-5-kg-turkey-crown-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is a 6.5 kg turkey crown exactly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 6.5 kg turkey crown is exactly 14.33005 pounds. For practical cooking purposes, this is almost always rounded to 14.33 pounds or simply 14 and a third pounds. This precise conversion is vital for calculating accurate air fryer cooking times to ensure your turkey is cooked through perfectly and safely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 6.5 kg turkey crown is exactly 14.33005 pounds. For practical cooking purposes, this is almost always rounded to 14.33 pounds or simply 14 and a third pounds. This precise conversion is vital for calculating accurate air fryer cooking times to ensure your turkey is cooked through perfectly and safely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many air fryer recipes and cooking guidelines, especially those from American sources or older cookbooks, use pounds rather than kilograms. Converting your turkey crown's weight from kg to pounds allows you to use these resources accurately. This ensures you apply the correct cooking time and temperature for a safe and delicious result in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many air fryer recipes and cooking guidelines, especially those from American sources or older cookbooks, use pounds rather than kilograms. Converting your turkey crown's weight from kg to pounds allows you to use these resources accurately. This ensures you apply the correct cooking time and temperature for a safe and delicious result in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is a 6.5 kg turkey crown too big for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It depends entirely on the size and capacity of your specific air fryer model. Many large family-sized air fryers can accommodate a turkey crown of this size, but you must always check the manufacturer's guidelines for maximum weight and basket dimensions. The crown must fit comfortably without touching the heating element or sides for air to circulate properly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends entirely on the size and capacity of your specific air fryer model. Many large family-sized air fryers can accommodate a turkey crown of this size, but you must always check the manufacturer's guidelines for maximum weight and basket dimensions. The crown must fit comfortably without touching the heating element or sides for air to circulate properly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long do I cook a 14.33 pound turkey crown in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "As a general rule, cook a turkey crown in an air fryer for approximately 25-30 minutes per pound. For a 14.33-pound crown, this translates to a total cooking time of roughly 6 to 7.25 hours. However, you must always use a meat thermometer to check the internal temperature has reached 75°C in the thickest part, as this is the only reliable way to confirm it is cooked."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "As a general rule, cook a turkey crown in an air fryer for approximately 25-30 minutes per pound. For a 14.33-pound crown, this translates to a total cooking time of roughly 6 to 7.25 hours. However, you must always use a meat thermometer to check the internal temperature has reached 75°C in the thickest part, as this is the only reliable way to confirm it is cooked."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "6.5 kg turkey crown to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds",
+    "@type": "WebPage",
+    "name": "6.5 kg turkey crown to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds",
     "description": "Convert 6.5 kg turkey crown to pounds instantly. Get perfect air fryer cooking times and temperatures for your Christmas centrepiece.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "6.5 kg turkey crown to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/6-5-kg-turkey-crown-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>A 6.5 kg turkey crown converts to approximately 14.33 pounds. Knowing this weight is essential for planning your cooking times, especially if you're using an air fryer to achieve that perfect crispy skin and moist meat. Whether you're preparing for a Christmas feast or a special Sunday roast, getting the weight right ensures your bird cooks evenly and safely. This conversion helps you follow recipes accurately and avoid under or overcooking. For more handy conversion tools, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

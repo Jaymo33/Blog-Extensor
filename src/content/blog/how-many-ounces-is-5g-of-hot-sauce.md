@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce"
-        },
-        "headline": "Quick Answer: How many ounces is 5g of hot sauce?",
-        "description": "Find out exactly how many ounces 5g of hot sauce is with our simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce"
+    },
+    "headline": "Quick Answer: How many ounces is 5g of hot sauce?",
+    "description": "Find out exactly how many ounces 5g of hot sauce is with our simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-hot-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-hot-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 5g of hot sauce in any air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 5g of hot sauce (0.18 oz) can be used in most air fryer recipes, but adjust based on your heat preference. For milder dishes, start with less and add more to taste. It works well in marinades, glazes, and dips."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 5g of hot sauce (0.18 oz) can be used in most air fryer recipes, but adjust based on your heat preference. For milder dishes, start with less and add more to taste. It works well in marinades, glazes, and dips."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 5g of hot sauce to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "5g of hot sauce is roughly one level teaspoon, which is about 1/3 of a tablespoon. For thicker sauces, it might be slightly less, so adjust accordingly. Always taste as you go to avoid over-spicing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5g of hot sauce is roughly one level teaspoon, which is about 1/3 of a tablespoon. For thicker sauces, it might be slightly less, so adjust accordingly. Always taste as you go to avoid over-spicing."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of hot sauce affect the conversion from grams to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The density of the hot sauce can slightly affect the conversion. Thicker sauces like sriracha may weigh more per volume, while runnier sauces like Tabasco may weigh less. However, 5g is generally close to 0.18 oz for most types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The density of the hot sauce can slightly affect the conversion. Thicker sauces like sriracha may weigh more per volume, while runnier sauces like Tabasco may weigh less. However, 5g is generally close to 0.18 oz for most types."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 5g of hot sauce without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A level teaspoon is a good approximation for 5g of hot sauce. For more accuracy, use a measuring spoon set or a small liquid measuring cup. If the recipe allows, you can also adjust by taste after adding a small amount."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A level teaspoon is a good approximation for 5g of hot sauce. For more accuracy, use a measuring spoon set or a small liquid measuring cup. If the recipe allows, you can also adjust by taste after adding a small amount."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 5g of hot sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of hot sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce",
     "description": "Find out exactly how many ounces 5g of hot sauce is with our simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 5g of hot sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-hot-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 grams of hot sauce equals approximately 0.18 ounces. This conversion is handy when following air fryer recipes that require precise measurements for the perfect balance of flavour. Whether you’re whipping up spicy wings or a zesty marinade, knowing how to convert grams to ounces ensures your dish turns out just right.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice"
-        },
-        "headline": "Quick Conversion: 85 ml of Orange Juice to Cups",
-        "description": "Convert 85 ml of orange juice to cups in seconds with our easy guide. Perfect for air fryer recipes and baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice"
+    },
+    "headline": "Quick Conversion: 85 ml of Orange Juice to Cups",
+    "description": "Convert 85 ml of orange juice to cups in seconds with our easy guide. Perfect for air fryer recipes and baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-orange-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-orange-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 85 ml of orange juice the same as 85 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, ml measures volume, while grams measure weight. For orange juice, 85 ml is roughly 85 grams due to its similar density to water, but this can vary slightly with pulp content. Always check if your recipe specifies weight or volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, ml measures volume, while grams measure weight. For orange juice, 85 ml is roughly 85 grams due to its similar density to water, but this can vary slightly with pulp content. Always check if your recipe specifies weight or volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled orange juice instead of fresh for 85 ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled orange juice works fine for most recipes, though fresh juice may offer a brighter flavour. Just ensure it’s unsweetened if your recipe calls for pure orange juice. The 85 ml measurement remains the same either way."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled orange juice works fine for most recipes, though fresh juice may offer a brighter flavour. Just ensure it’s unsweetened if your recipe calls for pure orange juice. The 85 ml measurement remains the same either way."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 85 ml of orange juice to fluid ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "85 ml equals about 2.87 US fluid ounces or 2.99 UK fluid ounces. This conversion is useful for recipes using imperial measurements. Double-check your recipe’s origin to pick the right standard."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "85 ml equals about 2.87 US fluid ounces or 2.99 UK fluid ounces. This conversion is useful for recipes using imperial measurements. Double-check your recipe’s origin to pick the right standard."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes sometimes use ml instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many air fryer recipes originate from countries using metric measurements, like the UK or Europe. Ml offers precision, especially for liquids like orange juice. If your air fryer manual uses metric, sticking to ml ensures better results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many air fryer recipes originate from countries using metric measurements, like the UK or Europe. Ml offers precision, especially for liquids like orange juice. If your air fryer manual uses metric, sticking to ml ensures better results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 85 ml of Orange Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 85 ml of Orange Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice",
     "description": "Convert 85 ml of orange juice to cups in seconds with our easy guide. Perfect for air fryer recipes and baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 85 ml of Orange Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-orange-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>85 ml of orange juice is roughly 0.36 cups (US) or 0.3 cups (UK). This conversion is handy for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you’re whipping up a citrus glaze or marinating chicken, knowing how to convert ml to cups ensures accuracy.</p>  

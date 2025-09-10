@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese"
-        },
-        "headline": "Quick Answer: How Many Grams in 1.0 Cups of Grated Cheese?",
-        "description": "Discover the exact gram measurement for 1.0 cups of grated cheese and simplify your air fryer cooking with precise conversions.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese"
+    },
+    "headline": "Quick Answer: How Many Grams in 1.0 Cups of Grated Cheese?",
+    "description": "Discover the exact gram measurement for 1.0 cups of grated cheese and simplify your air fryer cooking with precise conversions.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:37.491Z",
-        "dateModified": "2025-07-27T16:11:37.491Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-grated-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:37.491Z",
+    "dateModified": "2025-07-27T16:11:37.491Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-cup-grated-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cheese affect the gram measurement for 1.0 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, slightly. Hard cheeses like cheddar and mozzarella weigh around 113 grams per 1.0 cups when grated. Softer cheeses, such as goat cheese or feta, may weigh less due to higher moisture content. Always check specific cheese types for precise conversions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, slightly. Hard cheeses like cheddar and mozzarella weigh around 113 grams per 1.0 cups when grated. Softer cheeses, such as goat cheese or feta, may weigh less due to higher moisture content. Always check specific cheese types for precise conversions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use shredded cheese instead of grated cheese in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, shredded cheese works similarly to grated cheese in air fryer recipes. However, shredded cheese may have more air gaps, so you might need a tiny bit more by volume. Weighing ensures accuracy regardless of the cut."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, shredded cheese works similarly to grated cheese in air fryer recipes. However, shredded cheese may have more air gaps, so you might need a tiny bit more by volume. Weighing ensures accuracy regardless of the cut."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert block cheese to grated cheese measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 4-ounce (113-gram) block of cheese yields roughly 1.0 cups when grated. If your recipe calls for grated cheese by weight, measure before grating for the most accurate result."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 4-ounce (113-gram) block of cheese yields roughly 1.0 cups when grated. If your recipe calls for grated cheese by weight, measure before grating for the most accurate result."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my grated cheese measurement sometimes seem off?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Over-packing the measuring cup or using pre-grated cheese (which may contain additives) can affect volume. For consistency, fluff the cheese with a fork before measuring or use a kitchen scale for exact grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Over-packing the measuring cup or using pre-grated cheese (which may contain additives) can affect volume. For consistency, fluff the cheese with a fork before measuring or use a kitchen scale for exact grams."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 1.0 Cups of Grated Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.0 Cups of Grated Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese",
     "description": "Discover the exact gram measurement for 1.0 cups of grated cheese and simplify your air fryer cooking with precise conversions.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
     "dateModified": "2025-07-27T16:11:37.491000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 1.0 Cups of Grated Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-cup-grated-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.0 cups of grated cheese equals approximately 113 grams. This measurement is essential for air fryer recipes, where precise ingredient quantities can make or break your dish. Whether you're making cheesy air-fried nachos or a gooey cheese toastie, knowing the exact conversion ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you cook with confidence.</p>

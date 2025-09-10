@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta"
-        },
-        "headline": "Quick Answer: How Many Cups Is 300 Grams of Pasta?",
-        "description": "Find out exactly how many cups 300 grams of pasta equals and master your air fryer cooking with this simple conversion guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta"
+    },
+    "headline": "Quick Answer: How Many Cups Is 300 Grams of Pasta?",
+    "description": "Find out exactly how many cups 300 grams of pasta equals and master your air fryer cooking with this simple conversion guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-pasta.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-pasta.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of pasta affect how many cups 300 grams equals?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, pasta shape impacts cup measurements. For example, 300 grams of spaghetti fills about 3 cups, while smaller shapes like macaroni may measure closer to 3.5 cups due to tighter packing. Always check specific types for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, pasta shape impacts cup measurements. For example, 300 grams of spaghetti fills about 3 cups, while smaller shapes like macaroni may measure closer to 3.5 cups due to tighter packing. Always check specific types for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook 300 grams of pasta directly in the air fryer without boiling?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, pasta needs to be boiled first as air fryers don’t hold enough water to cook it properly. After boiling, you can air fry pasta with sauce or toppings for a crispy texture. This method works great for baked pasta dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, pasta needs to be boiled first as air fryers don’t hold enough water to cook it properly. After boiling, you can air fry pasta with sauce or toppings for a crispy texture. This method works great for baked pasta dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 300 grams of pasta make?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "300 grams of dry pasta serves about 3–4 people, depending on portion size. Once cooked, it yields roughly 600 grams, which is ideal for family meals. Pair it with proteins or veggies for a balanced dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "300 grams of dry pasta serves about 3–4 people, depending on portion size. Once cooked, it yields roughly 600 grams, which is ideal for family meals. Pair it with proteins or veggies for a balanced dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is measuring by weight or cups better for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight (grams) is more precise because cup measurements vary with ingredient density. For consistent air fryer results, use a kitchen scale. If using cups, fluff the pasta lightly to avoid overpacking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight (grams) is more precise because cup measurements vary with ingredient density. For consistent air fryer results, use a kitchen scale. If using cups, fluff the pasta lightly to avoid overpacking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 300 Grams of Pasta?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 300 Grams of Pasta?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta",
     "description": "Find out exactly how many cups 300 grams of pasta equals and master your air fryer cooking with this simple conversion guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 300 Grams of Pasta?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-pasta"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>300 grams of pasta is approximately 3 cups, though this can vary slightly depending on the pasta shape. Whether you're cooking spaghetti, penne, or fusilli, knowing this conversion ensures perfect portions for your air fryer recipes. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail these measurements for flawless meals every time.</p>

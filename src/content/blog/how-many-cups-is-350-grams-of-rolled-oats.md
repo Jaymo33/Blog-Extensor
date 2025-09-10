@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats"
-        },
-        "headline": "Quick Guide: Convert 350 Grams of Rolled Oats to Cups Easily",
-        "description": "Learn how to convert 350 grams of rolled oats to cups for perfect air fryer recipes every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats"
+    },
+    "headline": "Quick Guide: Convert 350 Grams of Rolled Oats to Cups Easily",
+    "description": "Learn how to convert 350 grams of rolled oats to cups for perfect air fryer recipes every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-rolled-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-rolled-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 350 grams of rolled oats equal the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 350 grams of rolled oats equals roughly 3.5 cups in both US and UK measurements. However, slight variations can occur due to packing density. Always fluff the oats before measuring for the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 350 grams of rolled oats equals roughly 3.5 cups in both US and UK measurements. However, slight variations can occur due to packing density. Always fluff the oats before measuring for the most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use quick oats instead of rolled oats for 350 grams in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Quick oats are more finely cut, so 350 grams may take up slightly less volume than rolled oats. If substituting, use the same weight but expect a texture difference in recipes like granola or cookies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Quick oats are more finely cut, so 350 grams may take up slightly less volume than rolled oats. If substituting, use the same weight but expect a texture difference in recipes like granola or cookies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store 350 grams of rolled oats after measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store rolled oats in an airtight container in a cool, dry place to maintain freshness. If you’ve pre-measured 350 grams for recipes, label the container to avoid confusion later."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store rolled oats in an airtight container in a cool, dry place to maintain freshness. If you’ve pre-measured 350 grams for recipes, label the container to avoid confusion later."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe with 350 grams of oats turn out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dryness can happen if the oats aren’t mixed with enough binding ingredients like honey or oil. For air fryer recipes, ensure proper ratios and check cooking times to prevent over-drying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dryness can happen if the oats aren’t mixed with enough binding ingredients like honey or oil. For air fryer recipes, ensure proper ratios and check cooking times to prevent over-drying."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 350 Grams of Rolled Oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 350 Grams of Rolled Oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats",
     "description": "Learn how to convert 350 grams of rolled oats to cups for perfect air fryer recipes every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 350 Grams of Rolled Oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-rolled-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>350 grams of rolled oats equals approximately 3.5 cups, but this can vary slightly depending on how tightly packed the oats are. If you're using an air fryer for baking or meal prep, getting the measurement right ensures perfect texture and consistency. Whether you're making granola, oatmeal cookies, or a hearty breakfast, accurate conversions are key. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

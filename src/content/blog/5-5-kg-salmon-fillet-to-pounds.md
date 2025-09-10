@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds"
-        },
-        "headline": "Easy 5.5 kg Salmon Fillet to Pounds Conversion Guide",
-        "description": "Convert 5.5 kg salmon fillet to pounds instantly. Get accurate weights for perfect air fryer cooking and portioning every single time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds"
+    },
+    "headline": "Easy 5.5 kg Salmon Fillet to Pounds Conversion Guide",
+    "description": "Convert 5.5 kg salmon fillet to pounds instantly. Get accurate weights for perfect air fryer cooking and portioning every single time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T19:48:49.567Z",
-        "dateModified": "2025-08-23T19:48:49.567Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-salmon-fillet-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T19:48:49.567Z",
+    "dateModified": "2025-08-23T19:48:49.567Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/5-5-kg-salmon-fillet-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert 5.5 kg salmon fillet to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 5.5 kg salmon fillet to pounds is crucial for air frying because most air fryer recipes and manufacturer guidelines use pounds to specify cooking times and temperatures. Air fryers cook food rapidly, and even a small miscalculation in weight can lead to over or undercooking. Knowing that 5.5 kg is approximately 12.125 pounds helps you follow recipes accurately and achieve perfectly cooked, flaky salmon every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 5.5 kg salmon fillet to pounds is crucial for air frying because most air fryer recipes and manufacturer guidelines use pounds to specify cooking times and temperatures. Air fryers cook food rapidly, and even a small miscalculation in weight can lead to over or undercooking. Knowing that 5.5 kg is approximately 12.125 pounds helps you follow recipes accurately and achieve perfectly cooked, flaky salmon every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook a whole 5.5 kg salmon fillet in my air fryer at once?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It depends on the size of your air fryer basket. A 5.5 kg salmon fillet is quite large, weighing about 12.125 pounds, and may not fit in most standard air fryers in one piece. For best results, cut the fillet into smaller portions that fit comfortably in the basket without overlapping. This ensures proper air circulation and even cooking. Cooking in batches is recommended for consistent results and to avoid steaming instead of air frying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the size of your air fryer basket. A 5.5 kg salmon fillet is quite large, weighing about 12.125 pounds, and may not fit in most standard air fryers in one piece. For best results, cut the fillet into smaller portions that fit comfortably in the basket without overlapping. This ensures proper air circulation and even cooking. Cooking in batches is recommended for consistent results and to avoid steaming instead of air frying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 5.5 kg salmon fillet to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 5.5 kg salmon fillet to pounds and ounces, first multiply 5.5 by 2.20462 to get pounds (12.125). The decimal part (0.125) represents fractions of a pound. Since there are 16 ounces in a pound, multiply 0.125 by 16 to get 2 ounces. So, 5.5 kg is approximately 12 pounds and 2 ounces. This level of precision is useful for recipes that require exact measurements for seasoning or cooking time calculations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 5.5 kg salmon fillet to pounds and ounces, first multiply 5.5 by 2.20462 to get pounds (12.125). The decimal part (0.125) represents fractions of a pound. Since there are 16 ounces in a pound, multiply 0.125 by 16 to get 2 ounces. So, 5.5 kg is approximately 12 pounds and 2 ounces. This level of precision is useful for recipes that require exact measurements for seasoning or cooking time calculations."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is there a difference between US pounds and imperial pounds for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there is no difference between US pounds and imperial pounds when converting 5.5 kg salmon fillet to pounds. Both systems use the same definition of a pound as exactly 0.45359237 kilograms, so the conversion is identical worldwide. Whether you're in the UK, US, or elsewhere, 5.5 kg always equals approximately 12.125 pounds. This consistency makes it easy to use international recipes or scales without confusion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there is no difference between US pounds and imperial pounds when converting 5.5 kg salmon fillet to pounds. Both systems use the same definition of a pound as exactly 0.45359237 kilograms, so the conversion is identical worldwide. Whether you're in the UK, US, or elsewhere, 5.5 kg always equals approximately 12.125 pounds. This consistency makes it easy to use international recipes or scales without confusion."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "5.5 kg salmon fillet to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds",
+    "@type": "WebPage",
+    "name": "5.5 kg salmon fillet to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds",
     "description": "Convert 5.5 kg salmon fillet to pounds instantly. Get accurate weights for perfect air fryer cooking and portioning every single time.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T19:48:49.567000+00:00",
     "dateModified": "2025-08-23T19:48:49.567000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "5.5 kg salmon fillet to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/5-5-kg-salmon-fillet-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>A 5.5 kg salmon fillet is equal to approximately 12.125 pounds. This conversion is essential for anyone cooking a large piece of fish, especially when using an air fryer where precise weight impacts cooking time and temperature. Whether you're hosting a dinner party or preparing meals for the week, understanding this measurement ensures your salmon turns out perfectly flaky and moist. Many recipes, especially those from American sources, use pounds, so converting from kilograms is a handy skill. For more handy conversion tips, check out the full <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

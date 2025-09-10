@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey"
-        },
-        "headline": "Quick Answer: How Many Grams in 1.5 Tbsp of Honey?",
-        "description": "Discover the exact grams in 1.5 tbsp of honey for perfect air fryer recipes. Convert measurements effortlessly with our guide!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey"
+    },
+    "headline": "Quick Answer: How Many Grams in 1.5 Tbsp of Honey?",
+    "description": "Discover the exact grams in 1.5 tbsp of honey for perfect air fryer recipes. Convert measurements effortlessly with our guide!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 1.5 tbsp of honey instead of 31.5 grams in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.5 tbsp of honey is equivalent to 31.5 grams, so you can use them interchangeably. However, for baking or precise air fryer recipes, weighing honey ensures consistency, especially since its viscosity can vary."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.5 tbsp of honey is equivalent to 31.5 grams, so you can use them interchangeably. However, for baking or precise air fryer recipes, weighing honey ensures consistency, especially since its viscosity can vary."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert other honey amounts from tablespoons to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Multiply the number of tablespoons by 21 (since 1 tbsp ≈ 21g). For example, 2 tbsp honey ≈ 42g. Keep in mind that UK and US tablespoon sizes differ slightly, so stick to one measurement system for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiply the number of tablespoons by 21 (since 1 tbsp ≈ 21g). For example, 2 tbsp honey ≈ 42g. Keep in mind that UK and US tablespoon sizes differ slightly, so stick to one measurement system for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste too sweet with 1.5 tbsp of honey?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Honey’s sweetness can vary by type (e.g., manuka vs. clover). If your dish is overly sweet, reduce the honey by 1 tsp or balance it with acidic ingredients like lemon juice. Always taste-test glazes before applying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Honey’s sweetness can vary by type (e.g., manuka vs. clover). If your dish is overly sweet, reduce the honey by 1 tsp or balance it with acidic ingredients like lemon juice. Always taste-test glazes before applying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute sugar for 1.5 tbsp of honey in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust the recipe: use 1 tbsp sugar + ½ tbsp liquid (like water) to replace 1.5 tbsp honey. Note that honey adds moisture and browning, so cooking times may vary. Check our dessert recipes for sugar-free alternatives."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust the recipe: use 1 tbsp sugar + ½ tbsp liquid (like water) to replace 1.5 tbsp honey. Note that honey adds moisture and browning, so cooking times may vary. Check our dessert recipes for sugar-free alternatives."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1.5 tbsp of honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey",
     "description": "Discover the exact grams in 1.5 tbsp of honey for perfect air fryer recipes. Convert measurements effortlessly with our guide!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1.5 tbsp of honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 tablespoons (tbsp) of honey equals approximately 31.5 grams (g). This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re drizzling honey over roasted vegetables or using it in a marinade, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we understand the importance of accurate conversions for perfect results every time.</p>  

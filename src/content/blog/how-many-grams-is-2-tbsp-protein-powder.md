@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder"
-        },
-        "headline": "Quick Guide: Convert 2 tbsp protein powder to grams easily",
-        "description": "Learn how to convert 2 tbsp of protein powder into grams for precise cooking and baking. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder"
+    },
+    "headline": "Quick Guide: Convert 2 tbsp protein powder to grams easily",
+    "description": "Learn how to convert 2 tbsp of protein powder into grams for precise cooking and baking. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-protein-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-tbsp-protein-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of protein powder affect the weight of 2 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different types of protein powder have varying densities. Whey protein is usually lighter (around 15g per 2 tbsp), while plant-based options like pea protein can be denser (up to 20g per 2 tbsp). Always check the label for precise measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different types of protein powder have varying densities. Whey protein is usually lighter (around 15g per 2 tbsp), while plant-based options like pea protein can be denser (up to 20g per 2 tbsp). Always check the label for precise measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular spoon instead of a tablespoon for measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For accuracy, it’s best to use a proper measuring spoon. A regular eating spoon can vary in size, leading to inconsistent measurements. If you don’t have one, level off the powder with a knife for a closer estimate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For accuracy, it’s best to use a proper measuring spoon. A regular eating spoon can vary in size, leading to inconsistent measurements. If you don’t have one, level off the powder with a knife for a closer estimate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my protein powder recipe turn out dry in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Protein powder absorbs moisture, so using too much can dry out baked goods. Stick to the recommended grams (15–20g per 2 tbsp) and consider adding a bit more liquid or fat (like yogurt or oil) to balance the texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Protein powder absorbs moisture, so using too much can dry out baked goods. Stick to the recommended grams (15–20g per 2 tbsp) and consider adding a bit more liquid or fat (like yogurt or oil) to balance the texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams back to tablespoons if my recipe uses weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your recipe lists grams, divide by the average weight per tablespoon (7.5–10g per tbsp). For example, 20g would be roughly 2 tbsp. Keep in mind that scoop sizes and powder density can slightly alter this ratio."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your recipe lists grams, divide by the average weight per tablespoon (7.5–10g per tbsp). For example, 20g would be roughly 2 tbsp. Keep in mind that scoop sizes and powder density can slightly alter this ratio."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2 tbsp of protein powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder",
+    "@type": "WebPage",
+    "name": "How many grams is 2 tbsp of protein powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder",
     "description": "Learn how to convert 2 tbsp of protein powder into grams for precise cooking and baking. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2 tbsp of protein powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-tbsp-protein-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 tablespoons (tbsp) of protein powder typically weigh around 15–20 grams, depending on the brand and density. This conversion is essential for precise cooking, baking, or meal prep, especially when using an air fryer. Whether you're making protein-packed snacks or adding a boost to your meals, knowing the exact weight ensures consistency.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce"
-        },
-        "headline": "Quick Conversion: 1000g of BBQ Sauce to Ounces (UK Guide)",
-        "description": "Convert 1000g of BBQ sauce to ounces effortlessly with our simple guide. Perfect for air fryer recipes and meal prep. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce"
+    },
+    "headline": "Quick Conversion: 1000g of BBQ Sauce to Ounces (UK Guide)",
+    "description": "Convert 1000g of BBQ sauce to ounces effortlessly with our simple guide. Perfect for air fryer recipes and meal prep. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-bbq-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-bbq-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1000g of BBQ sauce to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, you can use volume measurements as a rough guide. 1000g of BBQ sauce is roughly equivalent to 4 cups, which translates to approximately 35.27 ounces. However, for precise results, a kitchen scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, you can use volume measurements as a rough guide. 1000g of BBQ sauce is roughly equivalent to 4 cups, which translates to approximately 35.27 ounces. However, for precise results, a kitchen scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other sauces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, this conversion works for any sauce with a similar density to BBQ sauce. However, thicker sauces like ketchup or thinner ones like soy sauce may vary slightly. Always check the specific density if precision is crucial for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, this conversion works for any sauce with a similar density to BBQ sauce. However, thicker sauces like ketchup or thinner ones like soy sauce may vary slightly. Always check the specific density if precision is crucial for your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to measure BBQ sauce accurately in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Too much BBQ sauce can cause excess moisture, leading to soggy food, while too little might not provide enough flavour. Accurate measurements ensure even cooking and perfect results, especially in the high-heat environment of an air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Too much BBQ sauce can cause excess moisture, leading to soggy food, while too little might not provide enough flavour. Accurate measurements ensure even cooking and perfect results, especially in the high-heat environment of an air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find air fryer recipes using 1000g of BBQ sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can explore a variety of recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, including dishes like BBQ chicken wings, glazed ribs, and more. Our recipes section offers plenty of inspiration for using your converted BBQ sauce."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can explore a variety of recipes on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, including dishes like BBQ chicken wings, glazed ribs, and more. Our recipes section offers plenty of inspiration for using your converted BBQ sauce."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of bbq sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of bbq sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce",
     "description": "Convert 1000g of BBQ sauce to ounces effortlessly with our simple guide. Perfect for air fryer recipes and meal prep. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of bbq sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-bbq-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of BBQ sauce equals approximately 35.27 ounces. This conversion is essential for air fryer recipes, ensuring you get the perfect balance of flavours. Whether you're marinating chicken or glazing ribs, knowing the exact measurement helps achieve consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking delicious meals.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces"
-        },
-        "headline": "Quickly Convert 75g of Coconut Oil to Ounces (UK Guide)",
-        "description": "Learn how to convert 75g of coconut oil to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces"
+    },
+    "headline": "Quickly Convert 75g of Coconut Oil to Ounces (UK Guide)",
+    "description": "Learn how to convert 75g of coconut oil to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-coconut-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-coconut-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 75g of coconut oil instead of butter in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute 75g of coconut oil for butter in most air fryer recipes. Coconut oil has a similar fat content and works well for baking, frying, and greasing. Just note that it may add a subtle coconut flavour, which pairs beautifully with desserts or tropical-inspired dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute 75g of coconut oil for butter in most air fryer recipes. Coconut oil has a similar fat content and works well for baking, frying, and greasing. Just note that it may add a subtle coconut flavour, which pairs beautifully with desserts or tropical-inspired dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store coconut oil after measuring 75g for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store coconut oil in a cool, dark place away from direct sunlight. If you’ve melted 75g for a recipe, let it resolidify before sealing the container. Proper storage keeps coconut oil fresh for up to 2 years, ready for your next air fryer adventure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store coconut oil in a cool, dark place away from direct sunlight. If you’ve melted 75g for a recipe, let it resolidify before sealing the container. Proper storage keeps coconut oil fresh for up to 2 years, ready for your next air fryer adventure."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer smoke when using 75g of coconut oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Smoking usually occurs if the oil exceeds its smoke point (around 175°C for coconut oil) or if the air fryer basket is overcrowded. Use 75g of coconut oil sparingly, and preheat your air fryer to distribute heat evenly. Regular cleaning also prevents smoke from leftover residue."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Smoking usually occurs if the oil exceeds its smoke point (around 175°C for coconut oil) or if the air fryer basket is overcrowded. Use 75g of coconut oil sparingly, and preheat your air fryer to distribute heat evenly. Regular cleaning also prevents smoke from leftover residue."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 75g of coconut oil healthier than other oils for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Coconut oil contains medium-chain triglycerides (MCTs), which some studies suggest may offer health benefits. However, like all oils, it’s high in calories—so moderation is key. For lighter options, try using half the amount (about 37g or 1.3 oz) mixed with a spray bottle for even coating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Coconut oil contains medium-chain triglycerides (MCTs), which some studies suggest may offer health benefits. However, like all oils, it’s high in calories—so moderation is key. For lighter options, try using half the amount (about 37g or 1.3 oz) mixed with a spray bottle for even coating."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of coconut oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of coconut oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces",
     "description": "Learn how to convert 75g of coconut oil to ounces for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of coconut oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/75g-coconut-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of coconut oil equals approximately 2.65 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you’re baking, frying, or roasting, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about helping you master your air fryer with accurate measurements and delicious recipes.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil"
-        },
-        "headline": "Quick Answer: How Many Grams Is 0.5 Cups of Olive Oil?",
-        "description": "Discover the exact gram measurement for 0.5 cups of olive oil with our simple conversion guide—perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil"
+    },
+    "headline": "Quick Answer: How Many Grams Is 0.5 Cups of Olive Oil?",
+    "description": "Discover the exact gram measurement for 0.5 cups of olive oil with our simple conversion guide—perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:25.182Z",
-        "dateModified": "2025-07-27T16:11:25.182Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:25.182Z",
+    "dateModified": "2025-07-27T16:11:25.182Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 cups of olive oil the same in grams for all brands?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.5 cups of olive oil will always be approximately 112 grams, regardless of the brand. Olive oil’s density is consistent, so the conversion remains the same. However, always check labels for any additives that might slightly alter weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.5 cups of olive oil will always be approximately 112 grams, regardless of the brand. Olive oil’s density is consistent, so the conversion remains the same. However, always check labels for any additives that might slightly alter weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a different oil if I don’t have olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute olive oil with other oils like sunflower or rapeseed oil, but the gram measurement may vary slightly. For 0.5 cups, most vegetable oils weigh around 110-115 grams. Adjust based on the oil’s density for best results in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute olive oil with other oils like sunflower or rapeseed oil, but the gram measurement may vary slightly. For 0.5 cups, most vegetable oils weigh around 110-115 grams. Adjust based on the oil’s density for best results in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.5 cups of olive oil without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a liquid measuring cup filled to the 0.5-cup mark, ensuring the oil is level. Avoid dry measuring cups, as they aren’t designed for liquids. For accuracy, consider investing in a kitchen scale, especially for air fryer recipes where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a liquid measuring cup filled to the 0.5-cup mark, ensuring the oil is level. Avoid dry measuring cups, as they aren’t designed for liquids. For accuracy, consider investing in a kitchen scale, especially for air fryer recipes where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide a more accurate measurement than cups, which can vary based on how ingredients are packed. Air fryer recipes often use grams to ensure consistent cooking times and textures. Converting 0.5 cups to grams (112g) helps achieve reliable results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide a more accurate measurement than cups, which can vary based on how ingredients are packed. Air fryer recipes often use grams to ensure consistent cooking times and textures. Converting 0.5 cups to grams (112g) helps achieve reliable results every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 0.5 Cups of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.5 Cups of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil",
     "description": "Discover the exact gram measurement for 0.5 cups of olive oil with our simple conversion guide—perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:25.182000+00:00",
     "dateModified": "2025-07-27T16:11:25.182000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 0.5 Cups of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cups of olive oil equals approximately 112 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up crispy chips or a moist cake, knowing the exact gram equivalent ensures consistent results every time.</p>

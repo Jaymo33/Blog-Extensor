@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice"
-        },
-        "headline": "Quick Guide: Convert 0.66 Cup of Rice to Ounces Easily",
-        "description": "Discover the exact weight of 0.66 cup of rice in ounces for perfect air fryer meals. Get accurate conversions and cooking tips now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice"
+    },
+    "headline": "Quick Guide: Convert 0.66 Cup of Rice to Ounces Easily",
+    "description": "Discover the exact weight of 0.66 cup of rice in ounces for perfect air fryer meals. Get accurate conversions and cooking tips now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-20T00:27:11.141Z",
-        "dateModified": "2025-08-20T00:27:11.141Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-20T00:27:11.141Z",
+    "dateModified": "2025-08-20T00:27:11.141Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rice affect how many ounces are in 0.66 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of rice does make a small difference. The standard conversion of 5.3 ounces for 0.66 cup is based on standard long-grain white rice. Brown rice is slightly denser and may weigh closer to 5.6 ounces for the same volume, while short-grain or sushi rice can also be heavier. For most practical purposes in air frying, using the 5.3-ounce figure for white rice will yield excellent results, but for absolute precision with specialty rices, checking the package or using a scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of rice does make a small difference. The standard conversion of 5.3 ounces for 0.66 cup is based on standard long-grain white rice. Brown rice is slightly denser and may weigh closer to 5.6 ounces for the same volume, while short-grain or sushi rice can also be heavier. For most practical purposes in air frying, using the 5.3-ounce figure for white rice will yield excellent results, but for absolute precision with specialty rices, checking the package or using a scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why should I weigh my rice instead of just using a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing rice with a digital scale is far more accurate than using measuring cups because it eliminates variables like how tightly the rice is packed into the cup. A tightly packed cup can contain significantly more rice than a lightly spooned one, throwing off your recipe ratios. In an air fryer, where cooking is rapid and precise, an accurate weight ensures even cooking and perfect texture. A scale also makes it faster to measure odd amounts like 0.66 cup directly in ounces without needing to calculate or use multiple cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing rice with a digital scale is far more accurate than using measuring cups because it eliminates variables like how tightly the rice is packed into the cup. A tightly packed cup can contain significantly more rice than a lightly spooned one, throwing off your recipe ratios. In an air fryer, where cooking is rapid and precise, an accurate weight ensures even cooking and perfect texture. A scale also makes it faster to measure odd amounts like 0.66 cup directly in ounces without needing to calculate or use multiple cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "I'm in the UK; are US and UK ounces the same for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, for weight measurements of dry goods like rice, a US fluid ounce and a UK imperial ounce are virtually identical. Both are defined as 1/16 of a pound, so you do not need to make any adjustment for this specific conversion. When you convert 0.66 cup of rice to oz UK, you are still aiming for approximately 5.3 ounces. The important thing to remember is that a US cup and a UK cup are also the same volume measurement (240ml), so the calculation remains consistent for rice."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for weight measurements of dry goods like rice, a US fluid ounce and a UK imperial ounce are virtually identical. Both are defined as 1/16 of a pound, so you do not need to make any adjustment for this specific conversion. When you convert 0.66 cup of rice to oz UK, you are still aiming for approximately 5.3 ounces. The important thing to remember is that a US cup and a UK cup are also the same volume measurement (240ml), so the calculation remains consistent for rice."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook raw rice directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can absolutely cook raw rice directly in the air fryer, and it's a great method for perfect, fluffy results. The key is to use an oven-safe dish that fits inside your air fryer basket. Combine your measured rice with the appropriate amount of water or broth (usually a 1:1.5 ratio for white rice), cover the dish tightly with foil, and air fry at around 180°C for 20-25 minutes. Let it rest for 5 minutes before fluffing. Knowing the exact weight of your rice, like 5.3 ounces for 0.66 cup, helps you get the liquid ratio perfect for this cooking method."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can absolutely cook raw rice directly in the air fryer, and it's a great method for perfect, fluffy results. The key is to use an oven-safe dish that fits inside your air fryer basket. Combine your measured rice with the appropriate amount of water or broth (usually a 1:1.5 ratio for white rice), cover the dish tightly with foil, and air fry at around 180°C for 20-25 minutes. Let it rest for 5 minutes before fluffing. Knowing the exact weight of your rice, like 5.3 ounces for 0.66 cup, helps you get the liquid ratio perfect for this cooking method."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.66 cup of rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.66 cup of rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice",
     "description": "Discover the exact weight of 0.66 cup of rice in ounces for perfect air fryer meals. Get accurate conversions and cooking tips now!",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.66 cup of rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.66 cup of rice weighs approximately 5.3 ounces, which is a common measurement for single servings or specific recipes. Getting this conversion right is essential for anyone using an air fryer, as precise measurements lead to perfectly cooked meals. Whether you are meal prepping or following a new recipe, knowing the exact weight saves time and reduces waste. This guide will help you understand not just the conversion, but how to use it effectively in your kitchen. For more handy measurement tips, check out the comprehensive resources at <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

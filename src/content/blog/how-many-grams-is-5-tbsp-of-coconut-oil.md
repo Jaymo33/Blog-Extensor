@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil"
-        },
-        "headline": "Quick Guide: Convert 5 Tbsp of Coconut Oil to Grams",
-        "description": "Easily convert 5 tbsp of coconut oil into grams for precise air fryer cooking. Get accurate measurements for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil"
+    },
+    "headline": "Quick Guide: Convert 5 Tbsp of Coconut Oil to Grams",
+    "description": "Easily convert 5 tbsp of coconut oil into grams for precise air fryer cooking. Get accurate measurements for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-coconut-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-coconut-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use melted coconut oil instead of solid for measuring 5 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use melted coconut oil, but it’s best to measure it in its liquid state for accuracy. Pour it into a tablespoon measure until you reach 5 tbsp, which will still equal roughly 68 grams. Solid coconut oil can be packed into the spoon and levelled off."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use melted coconut oil, but it’s best to measure it in its liquid state for accuracy. Pour it into a tablespoon measure until you reach 5 tbsp, which will still equal roughly 68 grams. Solid coconut oil can be packed into the spoon and levelled off."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of coconut oil (refined vs. unrefined) affect the weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, both refined and unrefined coconut oil weigh the same per tablespoon. However, refined coconut oil has a neutral flavour, while unrefined retains a coconut taste, which may influence your recipe’s outcome."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, both refined and unrefined coconut oil weigh the same per tablespoon. However, refined coconut oil has a neutral flavour, while unrefined retains a coconut taste, which may influence your recipe’s outcome."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 5 tbsp of coconut oil to grams if my recipe uses metric measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "5 tbsp of coconut oil is approximately 68 grams. If your recipe requires metric measurements, use a kitchen scale for the most precise results, especially for baking in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5 tbsp of coconut oil is approximately 68 grams. If your recipe requires metric measurements, use a kitchen scale for the most precise results, especially for baking in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute butter for coconut oil in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but butter burns at lower temperatures than coconut oil. If substituting, reduce the amount slightly (about 1 tbsp less) and monitor cooking time closely to avoid smoking or uneven browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but butter burns at lower temperatures than coconut oil. If substituting, reduce the amount slightly (about 1 tbsp less) and monitor cooking time closely to avoid smoking or uneven browning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 5 tbsp of coconut oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of coconut oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil",
     "description": "Easily convert 5 tbsp of coconut oil into grams for precise air fryer cooking. Get accurate measurements for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 5 tbsp of coconut oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-coconut-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 tablespoons (tbsp) of coconut oil equals approximately 68 grams (g). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes cook evenly and taste perfect every time. Whether you’re making crispy roasted vegetables or a decadent air-fried dessert, knowing the exact weight of coconut oil helps avoid guesswork.</p>  

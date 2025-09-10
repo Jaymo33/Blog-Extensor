@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa"
-        },
-        "headline": "Quick Answer: How many ounces is 40g of quinoa?",
-        "description": "Find out exactly how many ounces 40g of quinoa equals, plus handy air fryer conversion tips for perfect cooking every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa"
+    },
+    "headline": "Quick Answer: How many ounces is 40g of quinoa?",
+    "description": "Find out exactly how many ounces 40g of quinoa equals, plus handy air fryer conversion tips for perfect cooking every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-quinoa.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-quinoa.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 40g of quinoa to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, 40g of quinoa is roughly 3 tablespoons. However, this can vary slightly depending on the quinoa’s density. For air fryer recipes, weighing is more reliable to ensure even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, 40g of quinoa is roughly 3 tablespoons. However, this can vary slightly depending on the quinoa’s density. For air fryer recipes, weighing is more reliable to ensure even cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook 40g of quinoa directly in the air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to cook quinoa in a heatproof dish or silicone container inside the air fryer. The grains are too small and could fall through the basket. Plus, you’ll need to add liquid (like water or broth) for proper cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to cook quinoa in a heatproof dish or silicone container inside the air fryer. The grains are too small and could fall through the basket. Plus, you’ll need to add liquid (like water or broth) for proper cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 40g of dry quinoa make?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "40g of dry quinoa yields about one generous serving once cooked (around 120g). It’s perfect for a single meal or as a side dish. Double the amount if you’re meal prepping or cooking for two."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40g of dry quinoa yields about one generous serving once cooked (around 120g). It’s perfect for a single meal or as a side dish. Double the amount if you’re meal prepping or cooking for two."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does quinoa cook faster in an air fryer than on the stove?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, cooking quinoa in an air fryer can be quicker—around 15–20 minutes at 180°C compared to 20–25 minutes on the stove. The air fryer’s circulating heat ensures even cooking, but always check for doneness by tasting a few grains."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, cooking quinoa in an air fryer can be quicker—around 15–20 minutes at 180°C compared to 20–25 minutes on the stove. The air fryer’s circulating heat ensures even cooking, but always check for doneness by tasting a few grains."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 40g of quinoa?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of quinoa?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa",
     "description": "Find out exactly how many ounces 40g of quinoa equals, plus handy air fryer conversion tips for perfect cooking every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 40g of quinoa?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-quinoa"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>40 grams of quinoa is approximately 1.41 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you’re meal prepping or cooking a quick side dish, knowing how to convert 40g of quinoa to ounces ensures accuracy.</p>

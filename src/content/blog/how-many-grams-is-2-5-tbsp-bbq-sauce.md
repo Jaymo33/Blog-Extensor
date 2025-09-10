@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce"
-        },
-        "headline": "Quick Answer: 2.5 tbsp of bbq sauce to grams UK",
-        "description": "Convert 2.5 tbsp of bbq sauce into grams easily for precise air fryer recipes. Perfect for UK measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce"
+    },
+    "headline": "Quick Answer: 2.5 tbsp of bbq sauce to grams UK",
+    "description": "Convert 2.5 tbsp of bbq sauce into grams easily for precise air fryer recipes. Perfect for UK measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-bbq-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-5-tbsp-bbq-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of bbq sauce affect the gram weight for 2.5 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker, sugar-rich bbq sauces weigh more per tablespoon than thinner varieties. A smoky molasses-based sauce might weigh 40 grams for 2.5 tbsp, while a vinegar Carolina-style sauce could be closer to 35 grams. Always check your specific brand’s nutrition label for the most accurate conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker, sugar-rich bbq sauces weigh more per tablespoon than thinner varieties. A smoky molasses-based sauce might weigh 40 grams for 2.5 tbsp, while a vinegar Carolina-style sauce could be closer to 35 grams. Always check your specific brand’s nutrition label for the most accurate conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this 2.5 tbsp to gram conversion for other sauces in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 1 tbsp generally equals 15ml, weights vary by sauce density. Ketchup is similar to bbq sauce at ~15g/tbsp, but lighter sauces like hot sauce are ~10g/tbsp. For sticky sauces like hoisin, expect ~20g/tbsp. Our air fryer conversion chart covers all common sauces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 1 tbsp generally equals 15ml, weights vary by sauce density. Ketchup is similar to bbq sauce at ~15g/tbsp, but lighter sauces like hot sauce are ~10g/tbsp. For sticky sauces like hoisin, expect ~20g/tbsp. Our air fryer conversion chart covers all common sauces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK air fryer recipes sometimes use grams instead of tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide universal accuracy since UK and US tablespoon sizes differ slightly (15ml vs 14.8ml). Air fryers’ precise cooking benefits from weight measurements, especially for sticky ingredients like bbq sauce where packing affects volume measures. Digital scales eliminate these variables."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide universal accuracy since UK and US tablespoon sizes differ slightly (15ml vs 14.8ml). Air fryers’ precise cooking benefits from weight measurements, especially for sticky ingredients like bbq sauce where packing affects volume measures. Digital scales eliminate these variables."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover bbq sauce after measuring out 2.5 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Transfer unused sauce to an airtight container and refrigerate for up to 4 weeks. For smaller quantities like the remaining 37.5 grams from a 50g portion, use it within 2 weeks. Never return used sauce to the original bottle to prevent contamination."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Transfer unused sauce to an airtight container and refrigerate for up to 4 weeks. For smaller quantities like the remaining 37.5 grams from a 50g portion, use it within 2 weeks. Never return used sauce to the original bottle to prevent contamination."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 2.5 tbsp of bbq sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce",
+    "@type": "WebPage",
+    "name": "How many grams is 2.5 tbsp of bbq sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce",
     "description": "Convert 2.5 tbsp of bbq sauce into grams easily for precise air fryer recipes. Perfect for UK measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 2.5 tbsp of bbq sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-5-tbsp-bbq-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 tablespoons of bbq sauce is approximately 37.5 grams. This conversion is essential for air fryer recipes where precise measurements ensure even cooking and perfect flavour balance. Whether you’re glazing chicken wings or marinating tofu, knowing the exact weight helps avoid soggy or overly dry results. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

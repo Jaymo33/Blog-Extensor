@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 75g of Chopped Onion to Ounces Easily",
-        "description": "Learn how to convert 75g of chopped onion to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 75g of Chopped Onion to Ounces Easily",
+    "description": "Learn how to convert 75g of chopped onion to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-chopped-onion-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-chopped-onion-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 75g of chopped onion interchangeably with 2.65 ounces in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 75g of chopped onion is equivalent to 2.65 ounces, so you can use them interchangeably in recipes. However, for baking or precise dishes, weighing the onion is recommended for accuracy. In air fryer cooking, small variations may not matter as much for savoury dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 75g of chopped onion is equivalent to 2.65 ounces, so you can use them interchangeably in recipes. However, for baking or precise dishes, weighing the onion is recommended for accuracy. In air fryer cooking, small variations may not matter as much for savoury dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many cups is 75g of chopped onion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "75g of chopped onion is roughly ½ cup when lightly packed. This can vary slightly based on how finely the onion is diced. For the most accurate results, especially in air fryer recipes, use a kitchen scale to measure 75g (2.65 ounces) directly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "75g of chopped onion is roughly ½ cup when lightly packed. This can vary slightly based on how finely the onion is diced. For the most accurate results, especially in air fryer recipes, use a kitchen scale to measure 75g (2.65 ounces) directly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of onion affect the weight-to-ounce conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion from grams to ounces (75g = 2.65 oz) remains the same regardless of onion type—red, white, or yellow. However, sweeter onions like shallots may have slightly different densities, so weighing is always best for precision in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion from grams to ounces (75g = 2.65 oz) remains the same regardless of onion type—red, white, or yellow. However, sweeter onions like shallots may have slightly different densities, so weighing is always best for precision in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute dried onion for 75g of fresh chopped onion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the conversion differs: 75g of fresh chopped onion equals about 2 tablespoons of dried onion flakes. Rehydrate the flakes in water before using them in air fryer recipes. Note that dried onion has a more concentrated flavour, so adjust to taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the conversion differs: 75g of fresh chopped onion equals about 2 tablespoons of dried onion flakes. Rehydrate the flakes in water before using them in air fryer recipes. Note that dried onion has a more concentrated flavour, so adjust to taste."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of chopped onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of chopped onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces",
     "description": "Learn how to convert 75g of chopped onion to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of chopped onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/75g-chopped-onion-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of chopped onion equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're following a British recipe or adjusting quantities, knowing how to convert grams to ounces ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accuracy, especially when working with ingredients like onions, which can vary in density.</p>

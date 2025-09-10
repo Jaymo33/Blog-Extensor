@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese"
-        },
-        "headline": "How many cups is 150 grams of grated cheese – Quick conversion guide | AirFryerRecipe.co.uk",
-        "description": "Find out exactly how many cups 150 grams of grated cheese equals for perfect air fryer recipes. Includes UK/US conversions and handy measurement tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese"
+    },
+    "headline": "How many cups is 150 grams of grated cheese – Quick conversion guide | AirFryerRecipe.co.uk",
+    "description": "Find out exactly how many cups 150 grams of grated cheese equals for perfect air fryer recipes. Includes UK/US conversions and handy measurement tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:12:00.810Z",
-        "dateModified": "2025-07-22T16:12:00.810Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-grated-cheese.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:12:00.810Z",
+    "dateModified": "2025-07-22T16:12:00.810Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-grated-cheese.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cheese affect how many cups are in 150 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different cheeses have varying densities. Hard cheeses like parmesan will yield more cups per 150 grams than softer cheeses like mozzarella because they're less compact when grated."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different cheeses have varying densities. Hard cheeses like parmesan will yield more cups per 150 grams than softer cheeses like mozzarella because they're less compact when grated."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I measure 150 grams of grated cheese without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For medium-hard cheeses like cheddar, lightly fill your measuring cup until it mounds slightly above the rim without packing it down. This method typically gives you close to 150 grams of grated cheese."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For medium-hard cheeses like cheddar, lightly fill your measuring cup until it mounds slightly above the rim without packing it down. This method typically gives you close to 150 grams of grated cheese."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK and US cup measurements differ for 150 grams of grated cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The UK uses a 250ml metric cup while the US uses a 240ml customary cup. This small volume difference means 150 grams of grated cheese equals about 1.56 UK cups versus 1.5 US cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The UK uses a 250ml metric cup while the US uses a 240ml customary cup. This small volume difference means 150 grams of grated cheese equals about 1.56 UK cups versus 1.5 US cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese instead of grating my own for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use pre-shredded cheese, but it often contains anti-caking agents that may affect melting. For best results in air fryer recipes, freshly grate your 150 grams of cheese when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use pre-shredded cheese, but it often contains anti-caking agents that may affect melting. For best results in air fryer recipes, freshly grate your 150 grams of cheese when possible."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 150 Grams of Grated Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 150 Grams of Grated Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese",
     "description": "Find out exactly how many cups 150 grams of grated cheese equals for perfect air fryer recipes. Includes UK/US conversions and handy measurement tips.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:12:00.810000+00:00",
     "dateModified": "2025-07-22T16:12:00.810000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 150 Grams of Grated Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-grated-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150 grams of grated cheese equals approximately 1.5 cups when lightly packed. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how frustrating inaccurate measurements can be when you're mid-recipe.</p>

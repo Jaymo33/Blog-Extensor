@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta"
-        },
-        "headline": "Quick Guide: Convert 3.0 Cups of Pasta to Grams Easily",
-        "description": "Discover how to convert 3.0 cups of pasta to grams for perfect air fryer meals every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta"
+    },
+    "headline": "Quick Guide: Convert 3.0 Cups of Pasta to Grams Easily",
+    "description": "Discover how to convert 3.0 cups of pasta to grams for perfect air fryer meals every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:10:54.890Z",
-        "dateModified": "2025-07-28T20:10:54.890Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-cups-of-pasta.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:10:54.890Z",
+    "dateModified": "2025-07-28T20:10:54.890Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-cups-of-pasta.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of pasta affect how many grams are in 3.0 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different pasta shapes have varying densities which affects their weight. For example, 3.0 cups of small pasta like macaroni will weigh slightly less than the same volume of larger shapes like penne. That's why weighing in grams gives more consistent results, especially important for air fryer cooking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different pasta shapes have varying densities which affects their weight. For example, 3.0 cups of small pasta like macaroni will weigh slightly less than the same volume of larger shapes like penne. That's why weighing in grams gives more consistent results, especially important for air fryer cooking where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 3.0 cups of pasta in any size air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "340g (3.0 cups) of pasta works well in most standard 4-5 litre air fryers. For smaller models, you may need to reduce the quantity to avoid overcrowding. Always leave enough space for air circulation - a good rule is to fill the basket no more than two-thirds full for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "340g (3.0 cups) of pasta works well in most standard 4-5 litre air fryers. For smaller models, you may need to reduce the quantity to avoid overcrowding. Always leave enough space for air circulation - a good rule is to fill the basket no more than two-thirds full for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 3.0 cups of cooked pasta to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooked pasta weighs about twice as much as dry pasta due to water absorption. So 3.0 cups of dry pasta (340g) becomes approximately 680g when cooked. However, for air fryer recipes, we nearly always recommend starting with dry pasta measurements for better texture control."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooked pasta weighs about twice as much as dry pasta due to water absorption. So 3.0 cups of dry pasta (340g) becomes approximately 680g when cooked. However, for air fryer recipes, we nearly always recommend starting with dry pasta measurements for better texture control."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air fryer pasta recipes specify grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (grams) are more accurate than volume (cups) because they account for differences in pasta shape and packing density. Air fryers are particularly sensitive to precise quantities for even cooking, which is why most professional recipes, including ours, use gram measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (grams) are more accurate than volume (cups) because they account for differences in pasta shape and packing density. Air fryers are particularly sensitive to precise quantities for even cooking, which is why most professional recipes, including ours, use gram measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 3.0 Cups of Pasta?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 3.0 Cups of Pasta?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta",
     "description": "Discover how to convert 3.0 cups of pasta to grams for perfect air fryer meals every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:10:54.890000+00:00",
     "dateModified": "2025-07-28T20:10:54.890000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 3.0 Cups of Pasta?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-of-pasta"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.0 cups of dry pasta typically equals approximately 340 grams, though this can vary slightly depending on pasta shape and density. Getting this measurement right is especially important for air fryer cooking, where precise quantities ensure even crisping and perfect results every time. Whether you're making a family-sized portion or meal prepping for the week, knowing how to convert cups to grams takes the guesswork out of cooking.</p>

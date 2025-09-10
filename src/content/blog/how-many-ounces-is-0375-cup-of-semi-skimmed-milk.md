@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk"
-        },
-        "headline": "Quick Guide: Convert 0.375 Cup Semi Skimmed Milk to Ounces",
-        "description": "Learn how to convert 0.375 cup of semi skimmed milk to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk"
+    },
+    "headline": "Quick Guide: Convert 0.375 Cup Semi Skimmed Milk to Ounces",
+    "description": "Learn how to convert 0.375 cup of semi skimmed milk to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0375-cup-of-semi-skimmed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0375-cup-of-semi-skimmed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use whole milk instead of semi skimmed milk for 0.375 cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute whole milk for semi skimmed milk in the same quantity (0.375 cup or 3 oz). However, whole milk has a slightly higher fat content, which may affect the texture of your dish. For air fryer recipes, this could mean a richer flavour but potentially softer browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute whole milk for semi skimmed milk in the same quantity (0.375 cup or 3 oz). However, whole milk has a slightly higher fat content, which may affect the texture of your dish. For air fryer recipes, this could mean a richer flavour but potentially softer browning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.375 cup of semi skimmed milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 3 ounces of semi skimmed milk. Alternatively, 0.375 cup is equivalent to 6 tablespoons, which you can measure using a standard tablespoon. This method works well for small quantities in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 3 ounces of semi skimmed milk. Alternatively, 0.375 cup is equivalent to 6 tablespoons, which you can measure using a standard tablespoon. This method works well for small quantities in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 0.375 cup of semi skimmed milk weigh the same in grams as ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 0.375 cup of semi skimmed milk weighs approximately 85 grams, whereas it’s 3 ounces. Grams and ounces are different units, so always check your recipe’s requirements. For UK air fryer recipes, grams are often the preferred measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 0.375 cup of semi skimmed milk weighs approximately 85 grams, whereas it’s 3 ounces. Grams and ounces are different units, so always check your recipe’s requirements. For UK air fryer recipes, grams are often the preferred measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes use ounces instead of cups for milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ounces provide a more accurate measurement than cups, especially for liquids like semi skimmed milk. Air fryer cooking often requires precision to ensure even cooking and perfect texture. Using weight measurements (ounces or grams) eliminates inconsistencies caused by how the milk is poured or settled in the cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ounces provide a more accurate measurement than cups, especially for liquids like semi skimmed milk. Air fryer cooking often requires precision to ensure even cooking and perfect texture. Using weight measurements (ounces or grams) eliminates inconsistencies caused by how the milk is poured or settled in the cup."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.375 cup of semi skimmed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.375 cup of semi skimmed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk",
     "description": "Learn how to convert 0.375 cup of semi skimmed milk to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.375 cup of semi skimmed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0375-cup-of-semi-skimmed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.375 cup of semi skimmed milk equals approximately 3 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're whipping up a cake or a creamy sauce, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking easier with accurate conversions and delicious recipes.</p>

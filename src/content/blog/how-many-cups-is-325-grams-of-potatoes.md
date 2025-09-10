@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes"
-        },
-        "headline": "Quick Guide: Converting 325 Grams of Potatoes to Cups Easily",
-        "description": "Discover how to convert 325 grams of potatoes to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes"
+    },
+    "headline": "Quick Guide: Converting 325 Grams of Potatoes to Cups Easily",
+    "description": "Discover how to convert 325 grams of potatoes to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-potatoes.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-325-grams-of-potatoes.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of potato affect how many cups 325 grams equals?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, potato type can slightly impact the cup measurement. Denser varieties like russets may yield slightly fewer cups than lighter potatoes like red or sweet potatoes. For precise recipes, weighing is best, but 325 grams generally equals 2.5 cups diced."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, potato type can slightly impact the cup measurement. Denser varieties like russets may yield slightly fewer cups than lighter potatoes like red or sweet potatoes. For precise recipes, weighing is best, but 325 grams generally equals 2.5 cups diced."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 325 grams of frozen potatoes in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Frozen potatoes work well in air fryers, but you may need to adjust cooking time. For 325 grams, add 3–5 extra minutes and shake the basket midway. No need to thaw—just spread them evenly for crispier results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Frozen potatoes work well in air fryers, but you may need to adjust cooking time. For 325 grams, add 3–5 extra minutes and shake the basket midway. No need to thaw—just spread them evenly for crispier results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 325 grams of potatoes make?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "325 grams (about 2.5 cups diced) typically serves 2 as a side dish or 1 for a hearty main. For larger portions, double the amount and adjust air fryer time accordingly. Check our recipes for portion guidance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "325 grams (about 2.5 cups diced) typically serves 2 as a side dish or 1 for a hearty main. For larger portions, double the amount and adjust air fryer time accordingly. Check our recipes for portion guidance."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 325 grams of potatoes cook unevenly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Uneven cooking often stems from overcrowding or inconsistent cut sizes. For 325 grams, ensure pieces are uniform and the basket isn’t packed too tightly. Shake the basket halfway through cooking for even crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uneven cooking often stems from overcrowding or inconsistent cut sizes. For 325 grams, ensure pieces are uniform and the basket isn’t packed too tightly. Shake the basket halfway through cooking for even crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 325 Grams of Potatoes?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 325 Grams of Potatoes?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes",
     "description": "Discover how to convert 325 grams of potatoes to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 325 Grams of Potatoes?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-325-grams-of-potatoes"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>325 grams of potatoes is roughly equivalent to 2.5 cups when diced or sliced, though this can vary slightly based on the potato type and cut size. Whether you're prepping for an air fryer recipe or need precise measurements, understanding this conversion ensures your dishes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how crucial accurate measurements are for air fryer cooking, where consistency is key.</p>

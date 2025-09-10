@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce"
-        },
-        "headline": "Quick Conversion: How Many Cups Is 935 ml of Tomato Sauce?",
-        "description": "Discover how to convert 935 ml of tomato sauce to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce"
+    },
+    "headline": "Quick Conversion: How Many Cups Is 935 ml of Tomato Sauce?",
+    "description": "Discover how to convert 935 ml of tomato sauce to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-935-ml-tomato-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-935-ml-tomato-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 935 ml of tomato sauce the same as 4 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Almost! 935 ml of tomato sauce equals roughly 3.95 cups, just shy of 4 cups. For most recipes, this small difference won’t matter, but for baking or reductions, it’s best to measure precisely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Almost! 935 ml of tomato sauce equals roughly 3.95 cups, just shy of 4 cups. For most recipes, this small difference won’t matter, but for baking or reductions, it’s best to measure precisely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 935 ml of tomato sauce without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale: 935 ml of tomato sauce weighs about 950 grams. Alternatively, a standard UK mug holds roughly 300 ml, so three mugs plus a splash will get you close."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale: 935 ml of tomato sauce weighs about 950 grams. Alternatively, a standard UK mug holds roughly 300 ml, so three mugs plus a splash will get you close."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of tomato sauce affect the cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker sauces (like passata) may pack more densely into a cup than thinner ones (like crushed tomatoes). Stir the sauce first for an even consistency, then measure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker sauces (like passata) may pack more densely into a cup than thinner ones (like crushed tomatoes). Stir the sauce first for an even consistency, then measure."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 935 ml of tomato sauce in an air fryer without making a mess?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! For saucy dishes, line the basket with parchment or a silicone liner (find options <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>here</a>). Layer ingredients to prevent dripping, and avoid overfilling."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! For saucy dishes, line the basket with parchment or a silicone liner (find options <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>here</a>). Layer ingredients to prevent dripping, and avoid overfilling."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 935 ml of Tomato Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 935 ml of Tomato Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce",
     "description": "Discover how to convert 935 ml of tomato sauce to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 935 ml of Tomato Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-935-ml-tomato-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>935 ml of tomato sauce equals approximately 3.95 cups (just under 4 cups). Whether you're cooking a hearty bolognese or a rich marinara in your air fryer, getting the right measurement ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in air fryer cooking. Let’s dive into how to measure 935 ml of tomato sauce accurately and why it matters for your recipes.</p>  

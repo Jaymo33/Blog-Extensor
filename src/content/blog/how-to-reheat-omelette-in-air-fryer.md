@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer"
-        },
-        "headline": "Reheat Omelette in Air Fryer – Quick & Crispy Results",
-        "description": "Learn how to reheat omelette in an air fryer without drying it out. Get perfect texture & temperature with our easy guide. Works for leftovers too!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer"
+    },
+    "headline": "Reheat Omelette in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat omelette in an air fryer without drying it out. Get perfect texture & temperature with our easy guide. Works for leftovers too!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-omelette-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-omelette-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat an omelette in an air fryer without it drying out?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! The key is using moderate heat (160°C) and checking frequently. Lightly misting with water or oil before reheating helps maintain moisture. The air fryer actually prevents drying better than microwaves when used correctly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! The key is using moderate heat (160°C) and checking frequently. Lightly misting with water or oil before reheating helps maintain moisture. The air fryer actually prevents drying better than microwaves when used correctly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best temperature to reheat an omelette in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "160°C (320°F) is ideal for most omelettes. This gently reheats without overcooking. For very thick or stuffed omelettes, you might increase to 170°C, but monitor closely to prevent drying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "160°C (320°F) is ideal for most omelettes. This gently reheats without overcooking. For very thick or stuffed omelettes, you might increase to 170°C, but monitor closely to prevent drying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long should I reheat a refrigerated omelette in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For omelettes straight from the fridge, start with 3 minutes at 160°C, then check. Add 30-second increments if needed. The chill means they take slightly longer than room temperature portions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For omelettes straight from the fridge, start with 3 minutes at 160°C, then check. Add 30-second increments if needed. The chill means they take slightly longer than room temperature portions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat a frozen omelette directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but add 1-2 minutes to the usual time. Cook at 160°C for 4-5 minutes, flipping halfway if possible. Ensure the internal temperature reaches at least 74°C for food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but add 1-2 minutes to the usual time. Cook at 160°C for 4-5 minutes, flipping halfway if possible. Ensure the internal temperature reaches at least 74°C for food safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Omelette in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Omelette in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer",
     "description": "Learn how to reheat omelette in an air fryer without drying it out. Get perfect texture & temperature with our easy guide. Works for leftovers too!",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Omelette in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-omelette-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>To reheat an omelette in an air fryer, set it to 160°C (320°F) for 2-3 minutes. This gentle heat revives the texture without overcooking, making it taste freshly made. Whether you have a cheesy mushroom omelette or a simple herb one, your air fryer can bring it back to life better than a microwave.</p>

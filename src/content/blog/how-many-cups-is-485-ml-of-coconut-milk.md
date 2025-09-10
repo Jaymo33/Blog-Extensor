@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk"
-        },
-        "headline": "Quick Guide: Convert 485 ml of Coconut Milk to Cups Easily",
-        "description": "Learn how to convert 485 ml of coconut milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk"
+    },
+    "headline": "Quick Guide: Convert 485 ml of Coconut Milk to Cups Easily",
+    "description": "Learn how to convert 485 ml of coconut milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-485-ml-of-coconut-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-485-ml-of-coconut-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 485 ml of coconut milk the same as 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 485 ml of coconut milk is approximately 2.05 cups, which is slightly more than 2 cups. For precise recipes, especially in baking, this small difference can matter. Always measure carefully for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 485 ml of coconut milk is approximately 2.05 cups, which is slightly more than 2 cups. For precise recipes, especially in baking, this small difference can matter. Always measure carefully for the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use canned coconut milk for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, canned coconut milk works well in air fryer recipes. Just ensure you stir it thoroughly before measuring, as it often separates. Full-fat coconut milk is ideal for creamy textures, while light versions work for less rich dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, canned coconut milk works well in air fryer recipes. Just ensure you stir it thoroughly before measuring, as it often separates. Full-fat coconut milk is ideal for creamy textures, while light versions work for less rich dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover coconut milk after opening?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Transfer leftover coconut milk to an airtight container and refrigerate for up to 4 days. You can also freeze it in ice cube trays for easy portioning. Always shake or stir before using again, as separation is natural."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Transfer leftover coconut milk to an airtight container and refrigerate for up to 4 days. You can also freeze it in ice cube trays for easy portioning. Always shake or stir before using again, as separation is natural."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of coconut milk affect the conversion to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion remains the same (485 ml ≈ 2.05 cups), but consistency may vary. Full-fat coconut milk is thicker, while light versions are more watery. Adjust recipes slightly if needed, especially for air fryer cooking where moisture levels matter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion remains the same (485 ml ≈ 2.05 cups), but consistency may vary. Full-fat coconut milk is thicker, while light versions are more watery. Adjust recipes slightly if needed, especially for air fryer cooking where moisture levels matter."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 485 ml of Coconut Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 485 ml of Coconut Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk",
     "description": "Learn how to convert 485 ml of coconut milk to cups for perfect baking and cooking every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 485 ml of Coconut Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-485-ml-of-coconut-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>485 ml of coconut milk is approximately 2.05 cups. This conversion is essential for recipes, especially when using an air fryer, where precise measurements can make or break a dish. Whether you're whipping up a curry or baking a cake, knowing how to convert millilitres to cups ensures consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

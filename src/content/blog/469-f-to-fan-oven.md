@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven"
-        },
-        "headline": "469 F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 469 F to fan oven settings for perfect air fryer cooking. Learn the exact temperature and get expert tips for flawless results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven"
+    },
+    "headline": "469 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 469 F to fan oven settings for perfect air fryer cooking. Learn the exact temperature and get expert tips for flawless results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-23T16:34:53.565Z",
-        "dateModified": "2025-07-23T16:34:53.565Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/469-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-23T16:34:53.565Z",
+    "dateModified": "2025-07-23T16:34:53.565Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/469-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How does 469 F compare to gas mark in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "469 F equates to gas mark 7 in a fan oven, which is 220 C. This is a common setting for roasting and baking in both conventional and convection ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "469 F equates to gas mark 7 in a fan oven, which is 220 C. This is a common setting for roasting and baking in both conventional and convection ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 469 F for baking cakes in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, 469 F (220 C) is generally too high for most cakes. Reduce to 160-180 C for better results, as air fryers cook faster than traditional ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, 469 F (220 C) is generally too high for most cakes. Reduce to 160-180 C for better results, as air fryers cook faster than traditional ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food cook faster at 469 F in an air fryer than a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers have more intense, direct heat circulation in a smaller space. This means they cook about 20% faster than fan ovens at the same temperature setting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers have more intense, direct heat circulation in a smaller space. This means they cook about 20% faster than fan ovens at the same temperature setting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to convert 469 F for a non-fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For conventional ovens without a fan, increase 469 F by 10-20 C to 230-240 C. This compensates for the lack of air circulation and ensures similar cooking results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For conventional ovens without a fan, increase 469 F by 10-20 C to 230-240 C. This compensates for the lack of air circulation and ensures similar cooking results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "469 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "469 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven",
     "description": "Convert 469 F to fan oven settings for perfect air fryer cooking. Learn the exact temperature and get expert tips for flawless results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-23T16:34:53.565000+00:00",
     "dateModified": "2025-07-23T16:34:53.565000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "469 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/469-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>469 F converts to approximately 220 C in a fan oven, making it ideal for air fryer cooking. This temperature is perfect for achieving crispy textures while ensuring even heat distribution. Whether you're roasting vegetables or baking chicken, knowing this conversion ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you master these conversions for effortless cooking.</p>

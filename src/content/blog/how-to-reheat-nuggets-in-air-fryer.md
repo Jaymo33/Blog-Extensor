@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer"
-        },
-        "headline": "Reheat Nuggets in Air Fryer – Crispy & Quick Guide",
-        "description": "Learn how to reheat nuggets in an air fryer perfectly every time. Get the right temperature, timing, and tips for crispy results without drying them out.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer"
+    },
+    "headline": "Reheat Nuggets in Air Fryer – Crispy & Quick Guide",
+    "description": "Learn how to reheat nuggets in an air fryer perfectly every time. Get the right temperature, timing, and tips for crispy results without drying them out.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-nuggets-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-nuggets-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat nuggets in an air fryer from frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Frozen nuggets reheat beautifully in an air fryer. Just add 2-3 minutes to the normal reheating time and shake the basket halfway through cooking. No need to thaw first – the air fryer will crisp them perfectly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Frozen nuggets reheat beautifully in an air fryer. Just add 2-3 minutes to the normal reheating time and shake the basket halfway through cooking. No need to thaw first – the air fryer will crisp them perfectly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best temperature to reheat nuggets in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "180°C (350°F) is ideal for reheating nuggets in an air fryer. This temperature crisps the coating without drying out the meat. Some air fryers have a reheat preset – if yours does, use that for foolproof results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "180°C (350°F) is ideal for reheating nuggets in an air fryer. This temperature crisps the coating without drying out the meat. Some air fryers have a reheat preset – if yours does, use that for foolproof results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I stop nuggets from drying out when reheating?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To prevent drying, don’t exceed 5 minutes reheating time at 180°C. For extra protection, lightly spray the nuggets with oil before reheating. If they’re particularly dry, place a small dish of water in the air fryer to add moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To prevent drying, don’t exceed 5 minutes reheating time at 180°C. For extra protection, lightly spray the nuggets with oil before reheating. If they’re particularly dry, place a small dish of water in the air fryer to add moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat saucy nuggets in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to reheat saucy nuggets without the sauce to maintain crispiness. Reheat the nuggets first, then add warmed sauce afterwards. If you must reheat them together, reduce the temperature to 160°C and check frequently."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to reheat saucy nuggets without the sauce to maintain crispiness. Reheat the nuggets first, then add warmed sauce afterwards. If you must reheat them together, reduce the temperature to 160°C and check frequently."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Nuggets in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Nuggets in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer",
     "description": "Learn how to reheat nuggets in an air fryer perfectly every time. Get the right temperature, timing, and tips for crispy results without drying them out.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Nuggets in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-nuggets-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Reheating nuggets in an air fryer at 180°C for 3-5 minutes restores their crispiness better than a microwave. The hot circulating air revives the coating while keeping the inside tender, making it the best way to reheat nuggets in an air fryer. Whether you’ve got leftover takeaway nuggets or homemade batches from the fridge, this method beats soggy microwave results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream"
-        },
-        "headline": "Quick Guide: Convert 1.0 Cups of Cream to ml Easily",
-        "description": "Discover how to convert 1.0 cups of cream to ml for perfect baking and cooking every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream"
+    },
+    "headline": "Quick Guide: Convert 1.0 Cups of Cream to ml Easily",
+    "description": "Discover how to convert 1.0 cups of cream to ml for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:11:40.852Z",
-        "dateModified": "2025-07-28T20:11:40.852Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-cup-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:11:40.852Z",
+    "dateModified": "2025-07-28T20:11:40.852Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-cup-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.0 cups of cream the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s a slight difference. In the UK, 1.0 cups of cream is 250 ml, while in the US, it’s 237 ml. Always check the recipe’s origin to ensure accuracy, especially for air fryer cooking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s a slight difference. In the UK, 1.0 cups of cream is 250 ml, while in the US, it’s 237 ml. Always check the recipe’s origin to ensure accuracy, especially for air fryer cooking where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure cream instead of cups or ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but cream’s density means weight isn’t always precise for volume measurements. For 1.0 cups (237 ml), cream weighs roughly 240 grams. However, using ml or cups is more reliable for liquid ingredients like cream."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but cream’s density means weight isn’t always precise for volume measurements. For 1.0 cups (237 ml), cream weighs roughly 240 grams. However, using ml or cups is more reliable for liquid ingredients like cream."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.0 cups of cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a standard mug (about 240 ml) as a rough guide. Alternatively, a tablespoon holds 15 ml, so 16 tablespoons equal 237 ml. For best results, invest in a proper measuring jug."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a standard mug (about 240 ml) as a rough guide. Alternatively, a tablespoon holds 15 ml, so 16 tablespoons equal 237 ml. For best results, invest in a proper measuring jug."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cream affect the ml measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the ml measurement for 1.0 cups remains the same whether it’s single, double, or whipping cream. However, thicker creams may be harder to pour, so measure carefully to avoid inaccuracies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the ml measurement for 1.0 cups remains the same whether it’s single, double, or whipping cream. However, thicker creams may be harder to pour, so measure carefully to avoid inaccuracies."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 1.0 Cups of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream",
+    "@type": "WebPage",
+    "name": "How Many ml Is 1.0 Cups of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream",
     "description": "Discover how to convert 1.0 cups of cream to ml for perfect baking and cooking every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:11:40.852000+00:00",
     "dateModified": "2025-07-28T20:11:40.852000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 1.0 Cups of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-cup-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.0 cups of cream is equivalent to approximately 237 ml. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a creamy dessert or a savoury sauce, knowing the exact ml equivalent ensures your dish turns out perfectly every time.</p>

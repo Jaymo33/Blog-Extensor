@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar"
-        },
-        "headline": "Quick Guide: Convert 285 ml of Apple Cider Vinegar to Cups",
-        "description": "Learn how to convert 285 ml of apple cider vinegar to cups for precise cooking and baking. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar"
+    },
+    "headline": "Quick Guide: Convert 285 ml of Apple Cider Vinegar to Cups",
+    "description": "Learn how to convert 285 ml of apple cider vinegar to cups for precise cooking and baking. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-apple-cider-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-apple-cider-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 285 ml of apple cider vinegar interchangeably with 1.2 cups in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 285 ml of apple cider vinegar is equivalent to 1.2 cups, so you can use them interchangeably in recipes. However, for baking or precise marinades, measuring with a jug or scale ensures accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 285 ml of apple cider vinegar is equivalent to 1.2 cups, so you can use them interchangeably in recipes. However, for baking or precise marinades, measuring with a jug or scale ensures accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does apple cider vinegar affect air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Apple cider vinegar adds tang and helps tenderise meats in the air fryer. Its acidity also aids in crisping, making it great for glazes or marinades. Just avoid excessive amounts to prevent overpowering flavours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Apple cider vinegar adds tang and helps tenderise meats in the air fryer. Its acidity also aids in crisping, making it great for glazes or marinades. Just avoid excessive amounts to prevent overpowering flavours."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 285 ml of apple cider vinegar the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 285 ml is a universal measurement, but cup sizes differ slightly. In the US, 1.2 cups equals 285 ml, while UK cups are similar. Always double-check if using a recipe from another country."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 285 ml is a universal measurement, but cup sizes differ slightly. In the US, 1.2 cups equals 285 ml, while UK cups are similar. Always double-check if using a recipe from another country."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 285 ml without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard cup (240 ml) plus 1.5 tablespoons (45 ml) to reach 285 ml. Alternatively, 19 tablespoons (15 ml each) will also give you the correct amount. Pour slowly for the most accurate measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard cup (240 ml) plus 1.5 tablespoons (45 ml) to reach 285 ml. Alternatively, 19 tablespoons (15 ml each) will also give you the correct amount. Pour slowly for the most accurate measurement."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 285 ml of Apple Cider Vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 285 ml of Apple Cider Vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar",
     "description": "Learn how to convert 285 ml of apple cider vinegar to cups for precise cooking and baking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 285 ml of Apple Cider Vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-apple-cider-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>285 ml of apple cider vinegar equals approximately 1.2 cups. This conversion is essential for precise cooking, especially when using an air fryer where exact measurements can impact texture and flavour. Whether you’re marinating chicken, baking, or making dressings, knowing how to convert millilitres to cups ensures consistent results. For more air fryer-friendly conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn"
-        },
-        "headline": "Quick Answer: 1.66 cups of frozen corn to ounces UK",
-        "description": "Convert 1.66 cups of frozen corn to ounces with our easy guide. Perfect for air fryer recipes and meal prep in minutes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn"
+    },
+    "headline": "Quick Answer: 1.66 cups of frozen corn to ounces UK",
+    "description": "Convert 1.66 cups of frozen corn to ounces with our easy guide. Perfect for air fryer recipes and meal prep in minutes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-frozen-corn.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-frozen-corn.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use fresh corn instead of frozen in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use fresh corn, but adjust cooking times slightly. Fresh corn may take a bit longer to cook than frozen. For best results, brush with oil and season before air frying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use fresh corn, but adjust cooking times slightly. Fresh corn may take a bit longer to cook than frozen. For best results, brush with oil and season before air frying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent frozen corn from sticking in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly spray the basket with oil or use parchment liners to prevent sticking. Toss the corn halfway through cooking for even results. Avoid overcrowding the basket for better airflow."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly spray the basket with oil or use parchment liners to prevent sticking. Toss the corn halfway through cooking for even results. Avoid overcrowding the basket for better airflow."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best temperature to cook frozen corn in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "375°F (190°C) works well for most air fryers. Cook for 8-10 minutes, shaking the basket halfway. Adjust time based on your air fryer model and desired crispness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "375°F (190°C) works well for most air fryers. Cook for 8-10 minutes, shaking the basket halfway. Adjust time based on your air fryer model and desired crispness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook other frozen vegetables with corn in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Mix frozen corn with peas, carrots, or green beans for a quick veggie medley. Just ensure pieces are similar in size for even cooking. Adjust time as needed for different veggies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Mix frozen corn with peas, carrots, or green beans for a quick veggie medley. Just ensure pieces are similar in size for even cooking. Adjust time as needed for different veggies."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of frozen corn?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of frozen corn?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn",
     "description": "Convert 1.66 cups of frozen corn to ounces with our easy guide. Perfect for air fryer recipes and meal prep in minutes!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of frozen corn?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-frozen-corn"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.66 cups of frozen corn equals approximately 9.3 ounces. This conversion is essential for air fryer recipes where precise measurements matter. Whether you’re prepping a quick side dish or a hearty meal, knowing the weight ensures consistent results. Frozen corn is a versatile ingredient, and getting the measurements right can make all the difference. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

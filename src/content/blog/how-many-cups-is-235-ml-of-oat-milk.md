@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk"
-        },
-        "headline": "Quick Guide: Convert 235 ml of Oat Milk to Cups Easily",
-        "description": "Learn how to convert 235 ml of oat milk to cups for baking and cooking. Perfect for air fryer recipes and precise measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk"
+    },
+    "headline": "Quick Guide: Convert 235 ml of Oat Milk to Cups Easily",
+    "description": "Learn how to convert 235 ml of oat milk to cups for baking and cooking. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-oat-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-oat-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 235 ml of oat milk the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "235 ml of oat milk is just under 1 UK cup (250 ml) and roughly 0.98 US cups (240 ml). For most recipes, this small difference won’t matter, but for precision, it’s best to measure carefully."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "235 ml of oat milk is just under 1 UK cup (250 ml) and roughly 0.98 US cups (240 ml). For most recipes, this small difference won’t matter, but for precision, it’s best to measure carefully."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular mug to measure 235 ml of oat milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a standard mug holds about 250 ml, so filling it just below the rim will give you roughly 235 ml of oat milk. For accuracy, though, a measuring jug is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a standard mug holds about 250 ml, so filling it just below the rim will give you roughly 235 ml of oat milk. For accuracy, though, a measuring jug is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does oat milk behave the same as dairy milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Oat milk works well as a dairy substitute but has a slightly thicker consistency. When using 235 ml of oat milk in air fryer recipes, you may need minor adjustments to cooking times or temperatures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oat milk works well as a dairy substitute but has a slightly thicker consistency. When using 235 ml of oat milk in air fryer recipes, you may need minor adjustments to cooking times or temperatures."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find air fryer recipes using oat milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You’ll find plenty of oat milk-based recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, from cakes to savoury dishes. Check our dessert and breakfast categories for inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You’ll find plenty of oat milk-based recipes on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, from cakes to savoury dishes. Check our dessert and breakfast categories for inspiration."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 235 ml of Oat Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 235 ml of Oat Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk",
     "description": "Learn how to convert 235 ml of oat milk to cups for baking and cooking. Perfect for air fryer recipes and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 235 ml of Oat Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-oat-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>235 ml of oat milk is approximately 1 cup. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert millilitres to cups ensures your dish turns out perfectly.</p>  

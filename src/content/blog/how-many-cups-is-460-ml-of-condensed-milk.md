@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk"
-        },
-        "headline": "Quick Guide: Convert 460 ml of Condensed Milk to Cups Easily",
-        "description": "Learn how to convert 460 ml of condensed milk to cups for perfect baking results every time. Includes tips for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk"
+    },
+    "headline": "Quick Guide: Convert 460 ml of Condensed Milk to Cups Easily",
+    "description": "Learn how to convert 460 ml of condensed milk to cups for perfect baking results every time. Includes tips for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-460-ml-of-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-460-ml-of-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 460 ml of condensed milk the same as 2 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 460 ml of condensed milk is approximately 1.94 cups, just slightly less than 2 cups. For precise baking, especially in air fryer recipes, it's best to measure accurately."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 460 ml of condensed milk is approximately 1.94 cups, just slightly less than 2 cups. For precise baking, especially in air fryer recipes, it's best to measure accurately."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 460 ml of condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 460 ml of condensed milk weighs about 520 grams. Using a kitchen scale ensures the most accurate measurement, which is crucial for air fryer desserts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 460 ml of condensed milk weighs about 520 grams. Using a kitchen scale ensures the most accurate measurement, which is crucial for air fryer desserts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 460 ml of condensed milk for a US recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Since US recipes often use cups, 460 ml converts to roughly 1.94 cups. This small adjustment ensures your air fryer bakes turn out as intended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since US recipes often use cups, 460 ml converts to roughly 1.94 cups. This small adjustment ensures your air fryer bakes turn out as intended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes work well with condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Condensed milk is perfect for air fryer desserts like banoffee pie, sticky toffee pudding, or no-churn ice cream. Check our dessert category for more ideas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Condensed milk is perfect for air fryer desserts like banoffee pie, sticky toffee pudding, or no-churn ice cream. Check our dessert category for more ideas."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 460 ml of Condensed Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 460 ml of Condensed Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk",
     "description": "Learn how to convert 460 ml of condensed milk to cups for perfect baking results every time. Includes tips for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 460 ml of Condensed Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-460-ml-of-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>460 ml of condensed milk is approximately 1.94 cups (just under 2 cups). This conversion is essential for baking and cooking, especially when using an air fryer for recipes that call for precise measurements. Whether you're making fudge, cakes, or no-churn ice cream, knowing how to convert 460 ml of condensed milk to cups ensures your desserts turn out perfectly every time.</p>  

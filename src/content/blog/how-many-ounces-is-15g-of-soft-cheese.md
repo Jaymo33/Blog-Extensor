@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese"
-        },
-        "headline": "Quick Answer: How many ounces is 15g of soft cheese?",
-        "description": "Find out exactly how many ounces 15g of soft cheese equals with our easy UK conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese"
+    },
+    "headline": "Quick Answer: How many ounces is 15g of soft cheese?",
+    "description": "Find out exactly how many ounces 15g of soft cheese equals with our easy UK conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-soft-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-soft-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 15g of soft cheese in any air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 15g (0.53 oz) of soft cheese works in most air fryer recipes, from savoury dips to stuffed meats. Just ensure it’s evenly distributed to avoid clumping. For best results, mix it with other ingredients before cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 15g (0.53 oz) of soft cheese works in most air fryer recipes, from savoury dips to stuffed meats. Just ensure it’s evenly distributed to avoid clumping. For best results, mix it with other ingredients before cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 15g of soft cheese to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "15g of soft cheese is roughly two tablespoons, which equals 1/8 cup. However, cup measurements can vary based on cheese density. For accuracy, especially in air fryer recipes, weighing with scales is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "15g of soft cheese is roughly two tablespoons, which equals 1/8 cup. However, cup measurements can vary based on cheese density. For accuracy, especially in air fryer recipes, weighing with scales is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of soft cheese affect the 15g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same (15g = 0.53 oz) regardless of soft cheese type. However, denser cheeses like ricotta may pack differently in measuring spoons, so scales are ideal for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same (15g = 0.53 oz) regardless of soft cheese type. However, denser cheeses like ricotta may pack differently in measuring spoons, so scales are ideal for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 15g portions of soft cheese for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Freezing 15g portions in airtight containers preserves soft cheese for up to two months. Thaw in the fridge before using in air fryer recipes, though the texture may be slightly grainier after freezing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Freezing 15g portions in airtight containers preserves soft cheese for up to two months. Thaw in the fridge before using in air fryer recipes, though the texture may be slightly grainier after freezing."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 15g of soft cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of soft cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese",
     "description": "Find out exactly how many ounces 15g of soft cheese equals with our easy UK conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 15g of soft cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-soft-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>15g of soft cheese equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're making a creamy dip or a cheesy topping, knowing the exact weight ensures perfect results every time.</p>

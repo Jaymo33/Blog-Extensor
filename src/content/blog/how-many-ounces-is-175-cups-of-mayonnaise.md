@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise"
-        },
-        "headline": "Quick Guide: Convert 1.75 Cups of Mayonnaise to Ounces Easily",
-        "description": "Learn how to convert 1.75 cups of mayonnaise to ounces with our simple guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise"
+    },
+    "headline": "Quick Guide: Convert 1.75 Cups of Mayonnaise to Ounces Easily",
+    "description": "Learn how to convert 1.75 cups of mayonnaise to ounces with our simple guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-175-cups-of-mayonnaise.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-175-cups-of-mayonnaise.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.75 cups of mayonnaise without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring cup, you can use a kitchen scale to weigh 14 ounces of mayonnaise. Alternatively, you can eyeball it by dividing a standard 16-ounce jar of mayonnaise into roughly seven equal parts, using one part as a guide."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring cup, you can use a kitchen scale to weigh 14 ounces of mayonnaise. Alternatively, you can eyeball it by dividing a standard 16-ounce jar of mayonnaise into roughly seven equal parts, using one part as a guide."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use grams instead of ounces for 1.75 cups of mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use grams for more precise measurements. 1.75 cups of mayonnaise is approximately 396 grams. This conversion is useful if your recipe uses metric measurements or if you prefer weighing ingredients for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use grams for more precise measurements. 1.75 cups of mayonnaise is approximately 396 grams. This conversion is useful if your recipe uses metric measurements or if you prefer weighing ingredients for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does the weight of mayonnaise vary slightly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The weight of mayonnaise can vary due to its density and brand differences. Some mayonnaises are thicker or have added ingredients, which can affect the weight. Always check the label for specific weight information if precision is crucial."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The weight of mayonnaise can vary due to its density and brand differences. Some mayonnaises are thicker or have added ingredients, which can affect the weight. Always check the label for specific weight information if precision is crucial."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes commonly use 1.75 cups of mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes like large batches of coleslaw, creamy pasta salads, or party dips often use 1.75 cups of mayonnaise. It's also a common amount for marinades or coatings for air-fried chicken or fish. Always adjust quantities based on your serving size."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes like large batches of coleslaw, creamy pasta salads, or party dips often use 1.75 cups of mayonnaise. It's also a common amount for marinades or coatings for air-fried chicken or fish. Always adjust quantities based on your serving size."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of mayonnaise?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of mayonnaise?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise",
     "description": "Learn how to convert 1.75 cups of mayonnaise to ounces with our simple guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of mayonnaise?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-175-cups-of-mayonnaise"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of mayonnaise equals approximately 14 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making a creamy dip or a rich sauce, knowing how many ounces are in 1.75 cups of mayonnaise can make all the difference.</p>

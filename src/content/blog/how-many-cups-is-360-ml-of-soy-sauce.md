@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce"
-        },
-        "headline": "Quick Answer: How Many Cups Is 360 ml of Soy Sauce?",
-        "description": "Discover how to convert 360 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements for UK and US cups.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce"
+    },
+    "headline": "Quick Answer: How Many Cups Is 360 ml of Soy Sauce?",
+    "description": "Discover how to convert 360 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements for UK and US cups.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-soy-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-360-ml-of-soy-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 360 ml of soy sauce the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 360 ml of soy sauce equals 1.5 US cups but only 1.27 UK cups. The difference arises because a US cup is 240 ml, while a UK cup is 284 ml. Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 360 ml of soy sauce equals 1.5 US cups but only 1.27 UK cups. The difference arises because a US cup is 240 ml, while a UK cup is 284 ml. Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 360 ml of soy sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It's not recommended. Dry measuring cups aren't designed for liquids and can lead to inaccuracies. For precise results, use a liquid measuring jug when converting 360 ml of soy sauce to cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It's not recommended. Dry measuring cups aren't designed for liquids and can lead to inaccuracies. For precise results, use a liquid measuring jug when converting 360 ml of soy sauce to cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust a recipe if I only have 360 ml of soy sauce but need less?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Simply scale down the measurement. For example, if you need half the amount, use 180 ml (0.75 US cups or 0.63 UK cups). Use ratios to maintain the recipe's balance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Simply scale down the measurement. For example, if you need half the amount, use 180 ml (0.75 US cups or 0.63 UK cups). Use ratios to maintain the recipe's balance."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of soy sauce affect the conversion from ml to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same regardless of whether it's light, dark, or tamari soy sauce. However, the flavour intensity may vary, so adjust other seasonings accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same regardless of whether it's light, dark, or tamari soy sauce. However, the flavour intensity may vary, so adjust other seasonings accordingly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 360 ml of Soy Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 360 ml of Soy Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce",
     "description": "Discover how to convert 360 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements for UK and US cups.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 360 ml of Soy Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-360-ml-of-soy-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>360 ml of soy sauce equals approximately 1.5 cups in the US measurement system and 1.27 cups in the UK system. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're marinating chicken, preparing a stir-fry, or experimenting with new flavours, knowing how to convert 360 ml of soy sauce to cups ensures consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>  

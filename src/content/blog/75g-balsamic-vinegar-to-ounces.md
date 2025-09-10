@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces"
-        },
-        "headline": "Quick 75g balsamic vinegar to ounces conversion guide",
-        "description": "Learn how to convert 75g of balsamic vinegar to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces"
+    },
+    "headline": "Quick 75g balsamic vinegar to ounces conversion guide",
+    "description": "Learn how to convert 75g of balsamic vinegar to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T23:46:47.435Z",
-        "dateModified": "2025-08-08T23:46:47.435Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-balsamic-vinegar-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T23:46:47.435Z",
+    "dateModified": "2025-08-08T23:46:47.435Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-balsamic-vinegar-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 75g of balsamic vinegar the same as 75ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 75g of balsamic vinegar is approximately equal to 75ml, this isn't always exact. Balsamic vinegar's density can vary slightly depending on its age and quality. For most cooking purposes, especially in air fryer recipes, the difference is negligible. However, for precise measurements, weighing 75g is more accurate than measuring 75ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 75g of balsamic vinegar is approximately equal to 75ml, this isn't always exact. Balsamic vinegar's density can vary slightly depending on its age and quality. For most cooking purposes, especially in air fryer recipes, the difference is negligible. However, for precise measurements, weighing 75g is more accurate than measuring 75ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a different vinegar if I don't have balsamic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute other vinegars, but the flavour will differ. For 75g of balsamic vinegar (2.65 oz), try using 50g red wine vinegar plus 25g honey to approximate the sweetness. In air fryer recipes, this substitution works well for marinades but might not caramelise as effectively for glazes. Always adjust quantities based on your taste preferences."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute other vinegars, but the flavour will differ. For 75g of balsamic vinegar (2.65 oz), try using 50g red wine vinegar plus 25g honey to approximate the sweetness. In air fryer recipes, this substitution works well for marinades but might not caramelise as effectively for glazes. Always adjust quantities based on your taste preferences."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 75g of balsamic vinegar last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An opened bottle of balsamic vinegar lasts about 3-5 years if stored properly. The 75g amount you measure out for air fryer recipes is just a small portion of a standard bottle. Keep it in a cool, dark place away from heat sources to maintain quality. Unlike wine, vinegar doesn't improve with age once opened - it just slowly loses acidity."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An opened bottle of balsamic vinegar lasts about 3-5 years if stored properly. The 75g amount you measure out for air fryer recipes is just a small portion of a standard bottle. Keep it in a cool, dark place away from heat sources to maintain quality. Unlike wine, vinegar doesn't improve with age once opened - it just slowly loses acidity."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes specify weight instead of volume for vinegar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements (like 75g) are more precise than volume measurements because they account for density variations. In air fryer cooking, where small quantities can make big differences, weighing ingredients leads to more consistent results. This is especially true for sticky ingredients like balsamic vinegar that can coat measuring spoons unevenly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements (like 75g) are more precise than volume measurements because they account for density variations. In air fryer cooking, where small quantities can make big differences, weighing ingredients leads to more consistent results. This is especially true for sticky ingredients like balsamic vinegar that can coat measuring spoons unevenly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of balsamic vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of balsamic vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces",
     "description": "Learn how to convert 75g of balsamic vinegar to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T23:46:47.435000+00:00",
     "dateModified": "2025-08-08T23:46:47.435000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of balsamic vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/75g-balsamic-vinegar-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of balsamic vinegar equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference to your cooking results. Whether you're marinating chicken or creating a glaze for vegetables, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds"
-        },
-        "headline": "Easy 2.5 kg Chicken Breast to Pounds Conversion Guide",
-        "description": "Convert 2.5 kg chicken breast to pounds quickly with our simple guide. Perfect for air fryer recipes and meal prep. Get cooking now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds"
+    },
+    "headline": "Easy 2.5 kg Chicken Breast to Pounds Conversion Guide",
+    "description": "Convert 2.5 kg chicken breast to pounds quickly with our simple guide. Perfect for air fryer recipes and meal prep. Get cooking now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T00:37:28.394Z",
-        "dateModified": "2025-08-22T00:37:28.394Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-5-kg-chicken-breast-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T00:37:28.394Z",
+    "dateModified": "2025-08-22T00:37:28.394Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-5-kg-chicken-breast-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 2.5 kg of chicken breast?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "2.5 kg of chicken breast is approximately 5.51 pounds. This conversion uses the standard factor where 1 kilogram equals about 2.20462 pounds. It's a handy measurement to know for recipes, especially when using an air fryer, as accurate weights ensure even cooking and perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2.5 kg of chicken breast is approximately 5.51 pounds. This conversion uses the standard factor where 1 kilogram equals about 2.20462 pounds. It's a handy measurement to know for recipes, especially when using an air fryer, as accurate weights ensure even cooking and perfect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 2.5 kg of chicken breast in a recipe that calls for 5 pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use 2.5 kg of chicken breast in a recipe that calls for 5 pounds, as they are very close in weight (2.5 kg ≈ 5.51 pounds). The slight difference is negligible for most recipes, including air fryer dishes. Just ensure you adjust cooking times if needed and avoid overcrowding the basket for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use 2.5 kg of chicken breast in a recipe that calls for 5 pounds, as they are very close in weight (2.5 kg ≈ 5.51 pounds). The slight difference is negligible for most recipes, including air fryer dishes. Just ensure you adjust cooking times if needed and avoid overcrowding the basket for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2.5 kg chicken breast to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 2.5 kg chicken breast to pounds and ounces, first convert to pounds (5.51 pounds). Then, multiply the decimal part (0.51) by 16 to get ounces—approximately 8.16 ounces. So, 2.5 kg is roughly 5 pounds and 8 ounces. This is useful for precise portioning in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 2.5 kg chicken breast to pounds and ounces, first convert to pounds (5.51 pounds). Then, multiply the decimal part (0.51) by 16 to get ounces—approximately 8.16 ounces. So, 2.5 kg is roughly 5 pounds and 8 ounces. This is useful for precise portioning in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 2.5 kg chicken breast to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 2.5 kg chicken breast to pounds is important for air frying because accurate measurements ensure proper cooking times and prevent overcrowding. Air fryers rely on hot air circulation, so correct portion sizes help achieve crispy, evenly cooked chicken. It also makes following recipes easier, especially those using imperial units."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 2.5 kg chicken breast to pounds is important for air frying because accurate measurements ensure proper cooking times and prevent overcrowding. Air fryers rely on hot air circulation, so correct portion sizes help achieve crispy, evenly cooked chicken. It also makes following recipes easier, especially those using imperial units."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "2.5 kg chicken breast to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds",
+    "@type": "WebPage",
+    "name": "2.5 kg chicken breast to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds",
     "description": "Convert 2.5 kg chicken breast to pounds quickly with our simple guide. Perfect for air fryer recipes and meal prep. Get cooking now!",
     "inLanguage": "en",
     "datePublished": "2025-08-22T00:37:28.394000+00:00",
     "dateModified": "2025-08-22T00:37:28.394000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "2.5 kg chicken breast to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-chicken-breast-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 kg of chicken breast is equivalent to approximately 5.51 pounds. This conversion is essential for anyone using recipes that specify weights in pounds, especially when preparing meals for the air fryer. Accurate measurements ensure your chicken cooks evenly and reaches the perfect level of juiciness. Whether you're batch cooking or trying a new dish, knowing how to convert 2.5 kg chicken breast to pounds makes meal planning straightforward. For more handy conversion tips, check out our comprehensive <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli"
-        },
-        "headline": "Quick Guide: Convert 275 Grams of Broccoli to Cups Easily",
-        "description": "Learn how to convert 275 grams of broccoli to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli"
+    },
+    "headline": "Quick Guide: Convert 275 Grams of Broccoli to Cups Easily",
+    "description": "Learn how to convert 275 grams of broccoli to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:31:12.930Z",
-        "dateModified": "2025-07-26T21:31:12.930Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-broccoli.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:31:12.930Z",
+    "dateModified": "2025-07-26T21:31:12.930Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-broccoli.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 275 grams of broccoli to cups if I don’t have a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, a medium head of broccoli typically weighs around 275 grams, yielding about 2.5 to 3 cups when chopped. Lightly pack the florets into a measuring cup for accuracy. Visual estimates work well, but for best results, consider investing in a kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, a medium head of broccoli typically weighs around 275 grams, yielding about 2.5 to 3 cups when chopped. Lightly pack the florets into a measuring cup for accuracy. Visual estimates work well, but for best results, consider investing in a kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the cup measurement change if the broccoli is frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, frozen broccoli may yield slightly more volume due to ice crystals. Thaw and drain it before measuring to avoid excess moisture. For precise conversions, weigh the broccoli first, then chop or floret as needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, frozen broccoli may yield slightly more volume due to ice crystals. Thaw and drain it before measuring to avoid excess moisture. For precise conversions, weigh the broccoli first, then chop or floret as needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 275 grams of broccoli in cups for meal prep?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Measuring 275 grams of broccoli in cups is ideal for meal prep. Portion it into airtight containers or freezer bags for easy use. Pre-chopped broccoli saves time and ensures consistent cooking in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Measuring 275 grams of broccoli in cups is ideal for meal prep. Portion it into airtight containers or freezer bags for easy use. Pre-chopped broccoli saves time and ensures consistent cooking in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 275 grams of broccoli compare to other vegetables in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Vegetables vary in density, so 275 grams of broccoli (2.5-3 cups) differs from, say, carrots or cauliflower. Always weigh dense veggies for accuracy, especially in air fryer recipes where space and cooking times matter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vegetables vary in density, so 275 grams of broccoli (2.5-3 cups) differs from, say, carrots or cauliflower. Always weigh dense veggies for accuracy, especially in air fryer recipes where space and cooking times matter."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 275 Grams of Broccoli?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 275 Grams of Broccoli?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli",
     "description": "Learn how to convert 275 grams of broccoli to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:12.930000+00:00",
     "dateModified": "2025-07-26T21:31:12.930000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 275 Grams of Broccoli?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-broccoli"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>275 grams of broccoli is roughly equivalent to 2.5 to 3 cups when chopped, depending on the size of the florets. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you’re meal prepping or whipping up a quick side dish, knowing how many cups is 275 grams of broccoli ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

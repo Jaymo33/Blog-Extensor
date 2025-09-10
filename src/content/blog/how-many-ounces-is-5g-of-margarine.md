@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine"
-        },
-        "headline": "Quick Answer: How many ounces is 5g of margarine?",
-        "description": "Discover how to convert 5g of margarine to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine"
+    },
+    "headline": "Quick Answer: How many ounces is 5g of margarine?",
+    "description": "Discover how to convert 5g of margarine to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-margarine.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-5g-of-margarine.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use butter instead of margarine for 5g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, butter can be substituted for margarine in equal weights (5g butter = 5g margarine). However, butter has a slightly higher fat content, which may affect browning. Adjust cooking times slightly if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, butter can be substituted for margarine in equal weights (5g butter = 5g margarine). However, butter has a slightly higher fat content, which may affect browning. Adjust cooking times slightly if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 5g of margarine if I don’t have a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A level teaspoon of margarine is roughly 5g. For sticky margarine, lightly grease the spoon first. Alternatively, check pre-packaged margarine tubs, which often have markings for small amounts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A level teaspoon of margarine is roughly 5g. For sticky margarine, lightly grease the spoon first. Alternatively, check pre-packaged margarine tubs, which often have markings for small amounts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is 5g of margarine commonly used in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Small amounts like 5g are ideal for greasing baskets or adding minimal fat for crispiness without excess oil. Air fryers need less fat than traditional frying, so precise measurements matter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Small amounts like 5g are ideal for greasing baskets or adding minimal fat for crispiness without excess oil. Air fryers need less fat than traditional frying, so precise measurements matter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 5g of margarine equal 5ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, grams measure weight, while millilitres measure volume. Margarine’s density means 5g is roughly 5.4ml, but for accuracy, always weigh it. Use our conversion chart for other amounts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, grams measure weight, while millilitres measure volume. Margarine’s density means 5g is roughly 5.4ml, but for accuracy, always weigh it. Use our conversion chart for other amounts."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 5g of margarine?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine",
+    "@type": "WebPage",
+    "name": "How many ounces is 5g of margarine?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine",
     "description": "Discover how to convert 5g of margarine to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 5g of margarine?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-5g-of-margarine"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5g of margarine equals approximately 0.18 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up crispy potatoes or a buttery cake, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for perfect results.</p>  

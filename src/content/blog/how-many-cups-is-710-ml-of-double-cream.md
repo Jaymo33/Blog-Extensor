@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream"
-        },
-        "headline": "Quick Guide: Convert 710 ml of Double Cream to Cups Easily",
-        "description": "Learn how to convert 710 ml of double cream to cups for perfect baking and cooking every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream"
+    },
+    "headline": "Quick Guide: Convert 710 ml of Double Cream to Cups Easily",
+    "description": "Learn how to convert 710 ml of double cream to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-double-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-double-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 710 ml of double cream the same in the UK and the US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 710 ml of double cream is the same volume in both the UK and the US. However, double cream in the UK has a higher fat content (around 48%) compared to heavy cream in the US (36-40%). The cup measurement remains roughly 3 cups for 710 ml in both regions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 710 ml of double cream is the same volume in both the UK and the US. However, double cream in the UK has a higher fat content (around 48%) compared to heavy cream in the US (36-40%). The cup measurement remains roughly 3 cups for 710 ml in both regions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 710 ml of double cream in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Double cream works well in air fryer recipes, from creamy pasta bakes to desserts. Just ensure you measure accurately—710 ml equals about 3 cups—to avoid overly rich or thin results. Adjust other liquids if needed for balance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Double cream works well in air fryer recipes, from creamy pasta bakes to desserts. Just ensure you measure accurately—710 ml equals about 3 cups—to avoid overly rich or thin results. Adjust other liquids if needed for balance."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover double cream after measuring 710 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store unused double cream in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in portions. Thawed cream may separate slightly, but it’s still fine for cooking or whipping after a good stir."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store unused double cream in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in portions. Thawed cream may separate slightly, but it’s still fine for cooking or whipping after a good stir."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What can I make with 710 ml of double cream in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can prepare creamy sauces, desserts like cheesecake or custard, or even rich casseroles. Try a <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>decadent chocolate mousse</a> or a savoury mushroom stroganoff. The possibilities are endless with 3 cups of double cream!"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can prepare creamy sauces, desserts like cheesecake or custard, or even rich casseroles. Try a <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>decadent chocolate mousse</a> or a savoury mushroom stroganoff. The possibilities are endless with 3 cups of double cream!"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 710 ml of Double Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 710 ml of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream",
     "description": "Learn how to convert 710 ml of double cream to cups for perfect baking and cooking every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 710 ml of Double Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-double-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>710 ml of double cream is approximately 3 cups. This conversion is essential for baking, cooking, and especially when using an air fryer for creamy dishes. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing the exact measurement ensures perfect results every time.</p>  

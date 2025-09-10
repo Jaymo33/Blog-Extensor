@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter"
-        },
-        "headline": "Quick Answer: 1.66 Cups of Peanut Butter to Ounces UK",
-        "description": "Discover how to convert 1.66 cups of peanut butter to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter"
+    },
+    "headline": "Quick Answer: 1.66 Cups of Peanut Butter to Ounces UK",
+    "description": "Discover how to convert 1.66 cups of peanut butter to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-peanut-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-peanut-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.66 cups of peanut butter the same as 13.28 ounces in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.66 cups of peanut butter equals approximately 13.28 ounces in the UK. This conversion is based on the standard measurement where 1 cup of peanut butter is roughly 8 ounces. Always use a kitchen scale for the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.66 cups of peanut butter equals approximately 13.28 ounces in the UK. This conversion is based on the standard measurement where 1 cup of peanut butter is roughly 8 ounces. Always use a kitchen scale for the most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use crunchy peanut butter for the same measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, crunchy peanut butter measures the same as smooth in cups and ounces. However, the texture may affect the final dish, so choose based on your recipe’s requirements. For air fryer recipes, smooth peanut butter often blends better."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, crunchy peanut butter measures the same as smooth in cups and ounces. However, the texture may affect the final dish, so choose based on your recipe’s requirements. For air fryer recipes, smooth peanut butter often blends better."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure peanut butter without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly grease your measuring cup or use the spoon-and-level method for sticky ingredients like peanut butter. For 1.66 cups, fill the cup just below the rim and level it off with a straight edge."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly grease your measuring cup or use the spoon-and-level method for sticky ingredients like peanut butter. For 1.66 cups, fill the cup just below the rim and level it off with a straight edge."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does peanut butter weight vary by brand?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different brands may have varying oil content or additives, affecting density. Natural peanut butter tends to be thicker, while commercial brands might be creamier. Always check consistency and adjust measurements if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different brands may have varying oil content or additives, affecting density. Natural peanut butter tends to be thicker, while commercial brands might be creamier. Always check consistency and adjust measurements if needed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of peanut butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of peanut butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter",
     "description": "Discover how to convert 1.66 cups of peanut butter to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of peanut butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-peanut-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.66 cups of peanut butter equals approximately 13.28 ounces. This conversion is essential for precise measurements in baking or air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making peanut butter cookies or a savoury satay sauce, knowing the exact weight helps avoid kitchen mishaps.</p>  

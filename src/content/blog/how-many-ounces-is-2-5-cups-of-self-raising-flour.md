@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour"
-        },
-        "headline": "Quick Guide: Convert 2.5 Cups of Self-Raising Flour to Ounces",
-        "description": "Learn how to convert 2.5 cups of self-raising flour to ounces for perfect baking every time. Get accurate measurements for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour"
+    },
+    "headline": "Quick Guide: Convert 2.5 Cups of Self-Raising Flour to Ounces",
+    "description": "Learn how to convert 2.5 cups of self-raising flour to ounces for perfect baking every time. Get accurate measurements for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-self-raising-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-self-raising-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you'll need to add baking powder. For every cup of plain flour, mix in 2 teaspoons of baking powder to mimic self-raising flour. This adjustment ensures your air fryer bakes rise properly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you'll need to add baking powder. For every cup of plain flour, mix in 2 teaspoons of baking powder to mimic self-raising flour. This adjustment ensures your air fryer bakes rise properly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer bake come out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dry results often stem from over-measuring flour or overcooking. Always weigh your flour for accuracy and reduce cooking time by a few minutes in the air fryer, checking frequently for doneness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dry results often stem from over-measuring flour or overcooking. Always weigh your flour for accuracy and reduce cooking time by a few minutes in the air fryer, checking frequently for doneness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store self-raising flour to keep it fresh?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store self-raising flour in an airtight container in a cool, dry place. The baking powder in it can lose potency over time, so use it within 6 months for best results in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store self-raising flour in an airtight container in a cool, dry place. The baking powder in it can lose potency over time, so use it within 6 months for best results in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I double an air fryer recipe that uses 2.5 cups of self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but air fryer capacity may limit batch size. Double the ingredients carefully, ensuring even mixing, and cook in batches if needed. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe section</a> for scalable ideas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but air fryer capacity may limit batch size. Double the ingredients carefully, ensuring even mixing, and cook in batches if needed. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe section</a> for scalable ideas."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of self-raising flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of self-raising flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour",
     "description": "Learn how to convert 2.5 cups of self-raising flour to ounces for perfect baking every time. Get accurate measurements for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of self-raising flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of self-raising flour equals approximately 10.6 ounces (oz). This conversion is essential for bakers using air fryers, where precise measurements can make or break a recipe. Whether you're making cakes, bread, or other treats, knowing how many ounces are in 2.5 cups of self-raising flour ensures consistency. For more air fryer baking tips, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

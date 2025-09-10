@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese"
-        },
-        "headline": "Quick Answer: How many ounces is 200g of cottage cheese?",
-        "description": "Find out exactly how many ounces 200g of cottage cheese equals and get handy air fryer conversion tips for perfect recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese"
+    },
+    "headline": "Quick Answer: How many ounces is 200g of cottage cheese?",
+    "description": "Find out exactly how many ounces 200g of cottage cheese equals and get handy air fryer conversion tips for perfect recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-cottage-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-cottage-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 200g of cottage cheese in any air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 200g of cottage cheese (7.05 ounces) can be used in most air fryer recipes that call for dairy. It works well in stuffed dishes, dips, and even baked goods. Just ensure the recipe accounts for its moisture content to avoid soggy results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 200g of cottage cheese (7.05 ounces) can be used in most air fryer recipes that call for dairy. It works well in stuffed dishes, dips, and even baked goods. Just ensure the recipe accounts for its moisture content to avoid soggy results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 200g of cottage cheese to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "200g of cottage cheese is roughly 0.9 cups, or just under a full cup. Since cottage cheese can vary in density, it’s best to use a scale for accuracy. If you don’t have one, lightly pack the cottage cheese into a measuring cup for the closest estimate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "200g of cottage cheese is roughly 0.9 cups, or just under a full cup. Since cottage cheese can vary in density, it’s best to use a scale for accuracy. If you don’t have one, lightly pack the cottage cheese into a measuring cup for the closest estimate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cottage cheese affect the weight conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, low-fat and full-fat cottage cheese have slightly different densities, but the difference in weight is minimal. For most recipes, 200g (7.05 ounces) will be consistent regardless of fat content. Always check the recipe for specific recommendations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, low-fat and full-fat cottage cheese have slightly different densities, but the difference in weight is minimal. For most recipes, 200g (7.05 ounces) will be consistent regardless of fat content. Always check the recipe for specific recommendations."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 200g of cottage cheese for later use in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Freezing cottage cheese isn’t recommended, as it can become watery and grainy when thawed. If you’ve measured 200g (7.05 ounces) but don’t need it all, store it in the fridge and use within a few days for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Freezing cottage cheese isn’t recommended, as it can become watery and grainy when thawed. If you’ve measured 200g (7.05 ounces) but don’t need it all, store it in the fridge and use within a few days for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of cottage cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of cottage cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese",
     "description": "Find out exactly how many ounces 200g of cottage cheese equals and get handy air fryer conversion tips for perfect recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of cottage cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-cottage-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200g of cottage cheese equals approximately 7.05 ounces. This conversion is handy when following recipes, especially for air fryer dishes where precise measurements matter. Whether you're meal prepping or whipping up a quick snack, knowing this conversion ensures your dishes turn out just right.</p>

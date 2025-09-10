@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut"
-        },
-        "headline": "Quick Answer: 1.33 Cups Desiccated Coconut to Ounces (UK)",
-        "description": "Discover how to convert 1.33 cups of desiccated coconut to ounces for perfect baking. Includes UK measurements and air fryer tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut"
+    },
+    "headline": "Quick Answer: 1.33 Cups Desiccated Coconut to Ounces (UK)",
+    "description": "Discover how to convert 1.33 cups of desiccated coconut to ounces for perfect baking. Includes UK measurements and air fryer tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-desiccated-coconut.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-desiccated-coconut.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use shredded coconut instead of desiccated coconut in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the texture will be different. Shredded coconut has more moisture and longer strands, which may affect cooking times. For coatings or toppings, you might need to adjust quantities slightly as shredded coconut is less dense than desiccated."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the texture will be different. Shredded coconut has more moisture and longer strands, which may affect cooking times. For coatings or toppings, you might need to adjust quantities slightly as shredded coconut is less dense than desiccated."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I toast desiccated coconut in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Spread 1.33 cups (3.5 oz) of desiccated coconut in an even layer in the air fryer basket. Cook at 160°C for 2-3 minutes, shaking every minute until golden brown. Watch closely as it can burn quickly due to the high sugar content."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Spread 1.33 cups (3.5 oz) of desiccated coconut in an even layer in the air fryer basket. Cook at 160°C for 2-3 minutes, shaking every minute until golden brown. Watch closely as it can burn quickly due to the high sugar content."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my coconut coating fall off in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This usually happens if the food isn’t properly dredged. Always follow the standard breading procedure: flour first, then egg wash, then desiccated coconut. Chilling coated items for 15 minutes before air frying helps the coating adhere better."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This usually happens if the food isn’t properly dredged. Always follow the standard breading procedure: flour first, then egg wash, then desiccated coconut. Chilling coated items for 15 minutes before air frying helps the coating adhere better."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze dishes made with desiccated coconut?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, most coconut-coated air fryer dishes freeze well. Let them cool completely, then store in airtight containers with parchment between layers. Reheat in the air fryer at 180°C for 3-5 minutes to restore crispiness. Avoid freezing for more than a month for best quality."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, most coconut-coated air fryer dishes freeze well. Let them cool completely, then store in airtight containers with parchment between layers. Reheat in the air fryer at 180°C for 3-5 minutes to restore crispiness. Avoid freezing for more than a month for best quality."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of desiccated coconut?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of desiccated coconut?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut",
     "description": "Discover how to convert 1.33 cups of desiccated coconut to ounces for perfect baking. Includes UK measurements and air fryer tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of desiccated coconut?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-desiccated-coconut"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of desiccated coconut equals approximately 3.5 ounces (or 100 grams) in UK measurements. This conversion is essential for baking and air fryer recipes where precision matters. Whether you’re making coconut macaroons or adding texture to a curry, knowing the exact weight ensures consistent results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream"
-        },
-        "headline": "Quick Answer: How many ounces is 250g of cream?",
-        "description": "Find out exactly how many ounces 250g of cream equals with our simple conversion guide. Perfect for air fryer recipes and baking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream"
+    },
+    "headline": "Quick Answer: How many ounces is 250g of cream?",
+    "description": "Find out exactly how many ounces 250g of cream equals with our simple conversion guide. Perfect for air fryer recipes and baking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 250g of cream interchangeably with 8.82 ounces in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 250g of cream is equivalent to 8.82 ounces, so you can use them interchangeably in recipes. However, for baking or air fryer dishes where precision matters, weighing ingredients is always best. Small variations can affect texture, so if a recipe specifies grams, stick to that for the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 250g of cream is equivalent to 8.82 ounces, so you can use them interchangeably in recipes. However, for baking or air fryer dishes where precision matters, weighing ingredients is always best. Small variations can affect texture, so if a recipe specifies grams, stick to that for the most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 250g of cream to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "250g of cream is roughly 1 cup plus 1 tablespoon when measured by volume. This can vary slightly depending on the cream’s thickness, so for exact measurements, use a kitchen scale. If you’re adapting an air fryer recipe, weighing ingredients ensures consistency and perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "250g of cream is roughly 1 cup plus 1 tablespoon when measured by volume. This can vary slightly depending on the cream’s thickness, so for exact measurements, use a kitchen scale. If you’re adapting an air fryer recipe, weighing ingredients ensures consistency and perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cream affect the conversion from grams to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The type of cream can slightly affect the conversion, as thicker creams like double cream are denser than single cream. However, the difference is minimal, and 250g of any standard cream will still be close to 8.82 ounces. For precise air fryer recipes, always check the packaging or use a scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The type of cream can slightly affect the conversion, as thicker creams like double cream are denser than single cream. However, the difference is minimal, and 250g of any standard cream will still be close to 8.82 ounces. For precise air fryer recipes, always check the packaging or use a scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze 250g of cream if I don’t use it all?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can freeze 250g of cream for up to 2 months. Thaw it in the fridge overnight, and stir well before using, as it may separate slightly. Frozen cream works best in cooked dishes like soups or sauces, rather than whipped desserts. For more storage tips, visit our air fryer recipe guides."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can freeze 250g of cream for up to 2 months. Thaw it in the fridge overnight, and stir well before using, as it may separate slightly. Frozen cream works best in cooked dishes like soups or sauces, rather than whipped desserts. For more storage tips, visit our air fryer recipe guides."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 250g of cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 250g of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream",
     "description": "Find out exactly how many ounces 250g of cream equals with our simple conversion guide. Perfect for air fryer recipes and baking!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 250g of cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250g of cream is approximately 8.82 ounces. This conversion is essential for anyone using an air fryer, as precise measurements can make or break a recipe. Whether you’re whipping up a creamy dessert or adding richness to a savoury dish, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making cooking simpler, especially when it comes to conversions like 250g cream to ounces.</p>  

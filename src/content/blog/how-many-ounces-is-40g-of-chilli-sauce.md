@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce"
-        },
-        "headline": "Quick Answer: How many ounces is 40g of chilli sauce?",
-        "description": "Discover how to convert 40g of chilli sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce"
+    },
+    "headline": "Quick Answer: How many ounces is 40g of chilli sauce?",
+    "description": "Discover how to convert 40g of chilli sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-chilli-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-chilli-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 40g of chilli sauce the same as 40ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 40g and 40ml are not the same for chilli sauce. Grams measure weight while millilitres measure volume. The exact conversion depends on the sauce's density, but generally 40g of chilli sauce equals about 38-40ml. For air fryer recipes, weight measurements (grams or ounces) are more accurate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 40g and 40ml are not the same for chilli sauce. Grams measure weight while millilitres measure volume. The exact conversion depends on the sauce's density, but generally 40g of chilli sauce equals about 38-40ml. For air fryer recipes, weight measurements (grams or ounces) are more accurate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use tablespoons to measure 40g of chilli sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can approximate 40g of chilli sauce using tablespoons, though it's less precise. About 2.5 tablespoons equals 40g (1.41 oz) of typical chilli sauce. For best results in air fryer cooking, especially with strong flavours like chilli, we recommend using digital kitchen scales."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can approximate 40g of chilli sauce using tablespoons, though it's less precise. About 2.5 tablespoons equals 40g (1.41 oz) of typical chilli sauce. For best results in air fryer cooking, especially with strong flavours like chilli, we recommend using digital kitchen scales."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 40g of chilli sauce affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "40g of chilli sauce (1.41 oz) won't significantly change air fryer cooking times, but it may affect browning. Sugary sauces can caramelise faster, so watch your food closely. The sauce's moisture content might add 1-2 minutes to cooking time for some recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40g of chilli sauce (1.41 oz) won't significantly change air fryer cooking times, but it may affect browning. Sugary sauces can caramelise faster, so watch your food closely. The sauce's moisture content might add 1-2 minutes to cooking time for some recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 40g of chilli sauce very spicy for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "40g (1.41 oz) of chilli sauce provides moderate heat for most people, but spiciness varies by brand. For milder results, reduce to 30g or mix with other ingredients. Remember that air frying concentrates flavours, so the heat might seem stronger than in oven-cooked dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40g (1.41 oz) of chilli sauce provides moderate heat for most people, but spiciness varies by brand. For milder results, reduce to 30g or mix with other ingredients. Remember that air frying concentrates flavours, so the heat might seem stronger than in oven-cooked dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 40g of chilli sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of chilli sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce",
     "description": "Discover how to convert 40g of chilli sauce to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 40g of chilli sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-chilli-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>40g of chilli sauce equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a spicy marinade or adding a kick to your favourite air-fried snacks, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>

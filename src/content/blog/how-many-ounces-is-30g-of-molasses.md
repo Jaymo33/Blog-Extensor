@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses"
-        },
-        "headline": "Quick Answer: How many ounces is 30g of molasses?",
-        "description": "Discover how to convert 30g of molasses to ounces for precise air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses"
+    },
+    "headline": "Quick Answer: How many ounces is 30g of molasses?",
+    "description": "Discover how to convert 30g of molasses to ounces for precise air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-molasses.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-molasses.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute honey for molasses in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but honey is sweeter and thinner, so use 25% less and adjust cooking times. Molasses adds a deeper, richer flavour, so the result will differ slightly. For best results, stick to recipes designed for honey if you’re swapping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but honey is sweeter and thinner, so use 25% less and adjust cooking times. Molasses adds a deeper, richer flavour, so the result will differ slightly. For best results, stick to recipes designed for honey if you’re swapping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean molasses residue from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Soak the basket in warm, soapy water to loosen the sticky residue. A soft brush or sponge helps remove stubborn bits. For tougher stains, a paste of baking soda and water works wonders. Always dry thoroughly before reuse."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Soak the basket in warm, soapy water to loosen the sticky residue. A soft brush or sponge helps remove stubborn bits. For tougher stains, a paste of baking soda and water works wonders. Always dry thoroughly before reuse."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air-fried molasses glaze burning too quickly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Molasses has a high sugar content, which caramelises fast. Lower the temperature by 10°C and reduce cooking time by a few minutes. Covering the dish with foil for the first half of cooking can also prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Molasses has a high sugar content, which caramelises fast. Lower the temperature by 10°C and reduce cooking time by a few minutes. Covering the dish with foil for the first half of cooking can also prevent burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use blackstrap molasses in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Blackstrap molasses is more bitter and less sweet than regular molasses. It works in savoury dishes but may overpower desserts. If substituting, reduce the quantity by half and balance with a touch of sugar or syrup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Blackstrap molasses is more bitter and less sweet than regular molasses. It works in savoury dishes but may overpower desserts. If substituting, reduce the quantity by half and balance with a touch of sugar or syrup."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 30g of molasses?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of molasses?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses",
     "description": "Discover how to convert 30g of molasses to ounces for precise air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 30g of molasses?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-molasses"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>30g of molasses equals approximately 1.06 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up a sticky glaze or baking a moist cake, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to help you achieve perfect results every time.</p>  

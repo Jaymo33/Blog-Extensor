@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer"
-        },
-        "headline": "Reheat Scampi in Air Fryer – Quick & Crispy Results",
-        "description": "Learn how to reheat scampi in an air fryer to restore crispiness without drying it out. Perfect temps, timings & tips for leftovers.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer"
+    },
+    "headline": "Reheat Scampi in Air Fryer – Quick & Crispy Results",
+    "description": "Learn how to reheat scampi in an air fryer to restore crispiness without drying it out. Perfect temps, timings & tips for leftovers.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T19:59:55.735Z",
-        "dateModified": "2025-07-22T19:59:55.735Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-scampi-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T19:59:55.735Z",
+    "dateModified": "2025-07-22T19:59:55.735Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-scampi-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat scampi in an air fryer from frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Frozen scampi reheats beautifully in an air fryer at 160°C for 5-7 minutes—no thawing needed. Just add 1-2 minutes to the usual time and check that the centre is piping hot before serving."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Frozen scampi reheats beautifully in an air fryer at 160°C for 5-7 minutes—no thawing needed. Just add 1-2 minutes to the usual time and check that the centre is piping hot before serving."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to keep reheated scampi crispy?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For maximum crispiness, arrange scampi in a single layer with space between pieces, spritz lightly with oil, and avoid overcrowding the basket. A quick shake halfway through cooking ensures even crisping on all sides."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For maximum crispiness, arrange scampi in a single layer with space between pieces, spritz lightly with oil, and avoid overcrowding the basket. A quick shake halfway through cooking ensures even crisping on all sides."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does it take to reheat scampi in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Typically 3-5 minutes at 160°C, depending on thickness. Thicker pub-style scampi may need up to 5 minutes, while lighter tempura versions often crisp up in just 3 minutes. Always check that the centre reaches 75°C."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Typically 3-5 minutes at 160°C, depending on thickness. Thicker pub-style scampi may need up to 5 minutes, while lighter tempura versions often crisp up in just 3 minutes. Always check that the centre reaches 75°C."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat scampi in an air fryer without drying it out?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes—the key is using moderate heat (160°C) and not overcooking. For extra insurance against dryness, add a teaspoon of water to the air fryer drawer to create gentle steam, or cover loosely with foil for the first half of cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes—the key is using moderate heat (160°C) and not overcooking. For extra insurance against dryness, add a teaspoon of water to the air fryer drawer to create gentle steam, or cover loosely with foil for the first half of cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Scampi in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Scampi in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer",
     "description": "Learn how to reheat scampi in an air fryer to restore crispiness without drying it out. Perfect temps, timings & tips for leftovers.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T19:59:55.735000+00:00",
     "dateModified": "2025-07-22T19:59:55.735000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Scampi in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-scampi-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>To reheat scampi in an air fryer, preheat to 160°C and cook for 3-5 minutes until piping hot and crispy. This method beats microwaving hands down, as it restores texture without drying out your seafood. Whether you’ve got leftover pub-style scampi or homemade breaded prawns, your air fryer’s rapid hot air circulation works wonders.</p>

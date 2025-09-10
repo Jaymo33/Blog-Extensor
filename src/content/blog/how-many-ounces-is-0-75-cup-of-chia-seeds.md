@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds"
-        },
-        "headline": "Quick Answer: 0.75 Cup of Chia Seeds to Ounces UK",
-        "description": "Discover how many ounces are in 0.75 cup of chia seeds for perfect air fryer recipes. Get accurate UK conversions and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds"
+    },
+    "headline": "Quick Answer: 0.75 Cup of Chia Seeds to Ounces UK",
+    "description": "Discover how many ounces are in 0.75 cup of chia seeds for perfect air fryer recipes. Get accurate UK conversions and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-chia-seeds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-of-chia-seeds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use volume measurements instead of weighing 0.75 cup of chia seeds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use volume measurements, weighing chia seeds is more accurate for air fryer recipes. A 0.75 cup measure can vary slightly depending on how the seeds settle. For consistent results, especially in baking, converting to ounces (3.5 oz) ensures precision every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use volume measurements, weighing chia seeds is more accurate for air fryer recipes. A 0.75 cup measure can vary slightly depending on how the seeds settle. For consistent results, especially in baking, converting to ounces (3.5 oz) ensures precision every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 0.75 cup of chia seeds affect cooking times in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Chia seeds absorb moisture, so using 0.75 cup (3.5 oz) may require slight adjustments to cooking times. In baked goods, they can make batters thicker, potentially needing a few extra minutes. For coatings or crusts, they add crispness without significantly altering timing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chia seeds absorb moisture, so using 0.75 cup (3.5 oz) may require slight adjustments to cooking times. In baked goods, they can make batters thicker, potentially needing a few extra minutes. For coatings or crusts, they add crispness without significantly altering timing."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are UK and US ounces the same for measuring 0.75 cup of chia seeds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, for chia seed measurements, UK and US ounces are identical. A 0.75 cup portion equals 3.5 ounces in both systems. The main difference comes in cup sizes, but the weight conversion remains consistent for this ingredient."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, for chia seed measurements, UK and US ounces are identical. A 0.75 cup portion equals 3.5 ounces in both systems. The main difference comes in cup sizes, but the weight conversion remains consistent for this ingredient."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute flax seeds for 0.75 cup of chia seeds in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute flax seeds, but the conversion differs. For 0.75 cup (3.5 oz) chia seeds, use about 0.875 cup flax seeds by volume or 3 oz by weight. Flax doesn't absorb as much liquid, so you may need to adjust other wet ingredients in your air fryer recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute flax seeds, but the conversion differs. For 0.75 cup (3.5 oz) chia seeds, use about 0.875 cup flax seeds by volume or 3 oz by weight. Flax doesn't absorb as much liquid, so you may need to adjust other wet ingredients in your air fryer recipe."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.75 cup of chia seeds?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.75 cup of chia seeds?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds",
     "description": "Discover how many ounces are in 0.75 cup of chia seeds for perfect air fryer recipes. Get accurate UK conversions and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.75 cup of chia seeds?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-of-chia-seeds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cup of chia seeds equals approximately 3.5 ounces (99.22 grams) in UK measurements. This conversion is essential for air fryer recipes, ensuring precise ingredient ratios for perfect results every time. Whether you're baking, making puddings, or adding chia seeds to smoothies, knowing the exact weight helps maintain consistency. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

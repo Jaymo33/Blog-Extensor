@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of baking soda?",
-        "description": "Find out exactly how many ounces are in 2 cups of baking soda with this simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of baking soda?",
+    "description": "Find out exactly how many ounces are in 2 cups of baking soda with this simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-baking-soda.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-baking-soda.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of baking soda affect the weight measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most standard baking sodas have similar densities, so the weight difference between brands is minimal. However, some specialty baking sodas (like aluminium-free varieties) might have slightly different weights. For precise baking, especially in air fryer recipes, it's always best to weigh your ingredients."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most standard baking sodas have similar densities, so the weight difference between brands is minimal. However, some specialty baking sodas (like aluminium-free varieties) might have slightly different weights. For precise baking, especially in air fryer recipes, it's always best to weigh your ingredients."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for baking powder as well?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, baking powder has a different density than baking soda. While 2 cups of baking soda equals 16 ounces, 2 cups of baking powder would weigh slightly less (about 14 ounces). Always check specific conversions for each ingredient when preparing air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, baking powder has a different density than baking soda. While 2 cups of baking soda equals 16 ounces, 2 cups of baking powder would weigh slightly less (about 14 ounces). Always check specific conversions for each ingredient when preparing air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 2 cups (16 ounces) of baking soda last?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An unopened box of baking soda can last 2-3 years, while an opened container stays effective for about 6 months to a year. For cleaning purposes, it remains useful even longer. Store it properly to maintain freshness for all your air fryer cooking and cleaning needs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An unopened box of baking soda can last 2-3 years, while an opened container stays effective for about 6 months to a year. For cleaning purposes, it remains useful even longer. Store it properly to maintain freshness for all your air fryer cooking and cleaning needs."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is there a difference between US and UK ounces for baking soda?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, when measuring baking soda by weight, both US and UK use the same ounce measurement (avoirdupois ounce). The only difference might be in cup sizes - US cups are 240ml while UK cups are 250ml, but this small variation won't significantly affect your 2 cups to ounces conversion for baking soda."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, when measuring baking soda by weight, both US and UK use the same ounce measurement (avoirdupois ounce). The only difference might be in cup sizes - US cups are 240ml while UK cups are 250ml, but this small variation won't significantly affect your 2 cups to ounces conversion for baking soda."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of baking soda?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of baking soda?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda",
     "description": "Find out exactly how many ounces are in 2 cups of baking soda with this simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of baking soda?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-baking-soda"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of baking soda equals approximately 16 ounces. This conversion is essential for precise measurements in baking, cooking, or even cleaning your air fryer. Whether you're following a recipe or tackling kitchen tasks, knowing how many ounces are in 2 cups of baking soda ensures consistency and success.</p>

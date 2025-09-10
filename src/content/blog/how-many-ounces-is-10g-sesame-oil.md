@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil"
-        },
-        "headline": "Quick Answer: How many ounces is 10g of sesame oil?",
-        "description": "Find out exactly how many ounces 10g of sesame oil is with our simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil"
+    },
+    "headline": "Quick Answer: How many ounces is 10g of sesame oil?",
+    "description": "Find out exactly how many ounces 10g of sesame oil is with our simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-10g-sesame-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-10g-sesame-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 10g of sesame oil to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10g of sesame oil is approximately 0.35 ounces. This conversion is useful for air fryer recipes where precise measurements matter. You can use a kitchen scale or household spoons to measure it accurately."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10g of sesame oil is approximately 0.35 ounces. This conversion is useful for air fryer recipes where precise measurements matter. You can use a kitchen scale or household spoons to measure it accurately."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use tablespoons to measure 10g of sesame oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, one tablespoon of sesame oil is about 14g, so you’ll need slightly less than a tablespoon to get 10g. Alternatively, two teaspoons (4.5g each) plus a small amount will get you close to 10g."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, one tablespoon of sesame oil is about 14g, so you’ll need slightly less than a tablespoon to get 10g. Alternatively, two teaspoons (4.5g each) plus a small amount will get you close to 10g."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is sesame oil often measured in grams in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many recipes, especially those from the UK or Europe, use grams for precision. Since sesame oil is often used in small quantities, grams provide a more accurate measurement than ounces or cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many recipes, especially those from the UK or Europe, use grams for precision. Since sesame oil is often used in small quantities, grams provide a more accurate measurement than ounces or cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does sesame oil affect air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sesame oil adds a rich, nutty flavour and helps create a crispy texture in the air fryer. Using the right amount, like 10g (0.35 ounces), ensures your food isn’t greasy. It’s perfect for marinades and coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sesame oil adds a rich, nutty flavour and helps create a crispy texture in the air fryer. Using the right amount, like 10g (0.35 ounces), ensures your food isn’t greasy. It’s perfect for marinades and coatings."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 10g of sesame oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil",
+    "@type": "WebPage",
+    "name": "How many ounces is 10g of sesame oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil",
     "description": "Find out exactly how many ounces 10g of sesame oil is with our simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 10g of sesame oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-10g-sesame-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>10g of sesame oil equals approximately 0.35 ounces. This conversion is essential for precise measurements in air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making stir-fries, marinades, or dressings, knowing how to convert grams to ounces can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we provide handy conversion charts to simplify your cooking process. Keep reading to learn more about measuring sesame oil and other useful tips.</p>

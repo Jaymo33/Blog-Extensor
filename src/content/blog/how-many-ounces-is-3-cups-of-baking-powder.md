@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder"
-        },
-        "headline": "Quick Guide: 3 Cups of Baking Powder to Ounces Conversion",
-        "description": "Learn how to convert 3 cups of baking powder to ounces with our easy guide—perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder"
+    },
+    "headline": "Quick Guide: 3 Cups of Baking Powder to Ounces Conversion",
+    "description": "Learn how to convert 3 cups of baking powder to ounces with our easy guide—perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-baking-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-baking-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 3 cups of baking powder to ounces without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use a standard measuring cup and the conversion rate of 1 cup of baking powder equaling 8 ounces. For 3 cups, simply multiply by 8 to get 24 ounces. Level off the cups with a straight edge for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use a standard measuring cup and the conversion rate of 1 cup of baking powder equaling 8 ounces. For 3 cups, simply multiply by 8 to get 24 ounces. Level off the cups with a straight edge for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of baking powder affect the ounce measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, most baking powders have similar densities, so the conversion remains consistent. Whether single-acting or double-acting, 3 cups of baking powder will still equal approximately 24 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, most baking powders have similar densities, so the conversion remains consistent. Whether single-acting or double-acting, 3 cups of baking powder will still equal approximately 24 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other dry ingredients in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This conversion applies specifically to baking powder. Other dry ingredients like flour or sugar have different densities, so their ounce measurements will vary. Always check a reliable conversion chart for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This conversion applies specifically to baking powder. Other dry ingredients like flour or sugar have different densities, so their ounce measurements will vary. Always check a reliable conversion chart for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air fryer recipe turning out dense even with the correct measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dense results could be due to expired baking powder or improper mixing. Ensure your baking powder is fresh and evenly incorporated into the batter. For more troubleshooting tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dense results could be due to expired baking powder or improper mixing. Ensure your baking powder is fresh and evenly incorporated into the batter. For more troubleshooting tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of baking powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of baking powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder",
     "description": "Learn how to convert 3 cups of baking powder to ounces with our easy guide—perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of baking powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-baking-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of baking powder equals approximately 24 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best results. Whether you're whipping up cakes or savoury dishes, knowing how to convert cups to ounces can make your cooking experience smoother. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurement tips.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes"
-        },
-        "headline": "Quick Answer: How Many Grams Is 2.0 Cups of Potatoes?",
-        "description": "Convert 2.0 cups of potatoes to grams easily for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes"
+    },
+    "headline": "Quick Answer: How Many Grams Is 2.0 Cups of Potatoes?",
+    "description": "Convert 2.0 cups of potatoes to grams easily for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T23:31:17.199Z",
-        "dateModified": "2025-07-27T23:31:17.199Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-cups-of-potatoes.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T23:31:17.199Z",
+    "dateModified": "2025-07-27T23:31:17.199Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-cups-of-potatoes.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of potato affect how many grams are in 2.0 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, potato type matters. Denser varieties like russets weigh more per cup (around 320 grams for 2.0 cups) compared to waxy potatoes like red or Yukon Gold (about 280 grams). Always adjust measurements based on the potato you’re using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, potato type matters. Denser varieties like russets weigh more per cup (around 320 grams for 2.0 cups) compared to waxy potatoes like red or Yukon Gold (about 280 grams). Always adjust measurements based on the potato you’re using."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen potatoes instead of fresh for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Frozen potatoes weigh slightly more due to ice content. Thaw and pat them dry before measuring to get the most accurate gram equivalent for 2.0 cups. This ensures your air fryer recipes cook evenly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Frozen potatoes weigh slightly more due to ice content. Thaw and pat them dry before measuring to get the most accurate gram equivalent for 2.0 cups. This ensures your air fryer recipes cook evenly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 2.0 cups of potatoes without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly pack diced potatoes into a measuring cup without crushing them, then level off the top. Avoid heaping the cup, as this leads to inconsistent weights. For precision, a kitchen scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly pack diced potatoes into a measuring cup without crushing them, then level off the top. Avoid heaping the cup, as this leads to inconsistent weights. For precision, a kitchen scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does 2.0 cups of potatoes sometimes weigh differently in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Factors like dice size, packing density, and potato variety can cause variations. For air fryer recipes, sticking to weight (grams) ensures consistency, as volume measurements (cups) can be less reliable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Factors like dice size, packing density, and potato variety can cause variations. For air fryer recipes, sticking to weight (grams) ensures consistency, as volume measurements (cups) can be less reliable."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 2.0 Cups of Potatoes?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 2.0 Cups of Potatoes?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes",
     "description": "Convert 2.0 cups of potatoes to grams easily for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T23:31:17.199000+00:00",
     "dateModified": "2025-07-27T23:31:17.199000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 2.0 Cups of Potatoes?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-potatoes"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.0 cups of diced or chopped potatoes weigh approximately 300 grams, though this can vary slightly based on potato type and how finely they’re cut. Whether you’re preparing crispy air fryer potatoes or a hearty potato bake, accurate measurements ensure consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in cooking.</p>

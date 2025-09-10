@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces"
-        },
-        "headline": "Quick 30g golden syrup to ounces conversion for UK cooks",
-        "description": "Convert 30g of golden syrup to ounces in seconds with our easy guide. Perfect for air fryer recipes and baking accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces"
+    },
+    "headline": "Quick 30g golden syrup to ounces conversion for UK cooks",
+    "description": "Convert 30g of golden syrup to ounces in seconds with our easy guide. Perfect for air fryer recipes and baking accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-golden-syrup-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/30g-golden-syrup-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 30g of golden syrup the same as 30ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 30g of golden syrup isn’t the same as 30ml. Due to its dense consistency, 30g equals roughly 22ml in volume. Weight (grams) measures mass, while millilitres measure volume. For air fryer recipes, always weigh golden syrup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 30g of golden syrup isn’t the same as 30ml. Due to its dense consistency, 30g equals roughly 22ml in volume. Weight (grams) measures mass, while millilitres measure volume. For air fryer recipes, always weigh golden syrup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use honey instead of 30g golden syrup in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute honey for golden syrup, but adjust the quantity. Honey is slightly thinner, so use 28g (1 oz) instead of 30g. Note that flavour profiles differ—golden syrup has a buttery taste, while honey is floral."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute honey for golden syrup, but adjust the quantity. Honey is slightly thinner, so use 28g (1 oz) instead of 30g. Note that flavour profiles differ—golden syrup has a buttery taste, while honey is floral."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 30g golden syrup without sticky mess?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly oil your measuring spoon or cup before pouring golden syrup. The syrup will slide off easily, giving you an accurate 30g (1.06 oz) portion. Alternatively, use a silicone spatula to scrape it cleanly into your mixing bowl."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly oil your measuring spoon or cup before pouring golden syrup. The syrup will slide off easily, giving you an accurate 30g (1.06 oz) portion. Alternatively, use a silicone spatula to scrape it cleanly into your mixing bowl."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe need exact golden syrup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook faster than conventional ovens, so ingredient ratios are critical. Too much syrup (over 1.06 oz) can cause burning, while too little may dry out baked goods. Precise 30g measurements ensure perfect texture and caramelisation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook faster than conventional ovens, so ingredient ratios are critical. Too much syrup (over 1.06 oz) can cause burning, while too little may dry out baked goods. Precise 30g measurements ensure perfect texture and caramelisation."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 30g of golden syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of golden syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces",
     "description": "Convert 30g of golden syrup to ounces in seconds with our easy guide. Perfect for air fryer recipes and baking accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 30g of golden syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/30g-golden-syrup-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>30 grams of golden syrup equals approximately 1.06 ounces. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're baking a sticky pudding or glazing meats, knowing how to convert 30g golden syrup to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every measurement for flawless cooking.</p>  

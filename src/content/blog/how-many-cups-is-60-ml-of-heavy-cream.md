@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream"
-        },
-        "headline": "Quick Guide: Convert 60 ml of Heavy Cream to Cups Easily",
-        "description": "Learn how to convert 60 ml of heavy cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream"
+    },
+    "headline": "Quick Guide: Convert 60 ml of Heavy Cream to Cups Easily",
+    "description": "Learn how to convert 60 ml of heavy cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:31:14.188Z",
-        "dateModified": "2025-07-30T23:31:14.188Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-heavy-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:31:14.188Z",
+    "dateModified": "2025-07-30T23:31:14.188Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-heavy-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 60 ml of heavy cream the same as 60 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 60 ml of heavy cream is not the same as 60 grams. Millilitres measure volume, while grams measure weight. The weight of heavy cream can vary slightly depending on its fat content, but generally, 60 ml of heavy cream weighs around 58-62 grams. For precise baking, it’s best to measure by volume (ml or cups) unless the recipe specifies weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 60 ml of heavy cream is not the same as 60 grams. Millilitres measure volume, while grams measure weight. The weight of heavy cream can vary slightly depending on its fat content, but generally, 60 ml of heavy cream weighs around 58-62 grams. For precise baking, it’s best to measure by volume (ml or cups) unless the recipe specifies weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of heavy cream in a recipe calling for 60 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute milk for heavy cream, but the results will differ. Heavy cream has a higher fat content, which adds richness and thickness. For 60 ml of heavy cream, you could use 60 ml of whole milk mixed with 1-2 tablespoons of melted butter to mimic the fat content. However, for air fryer recipes like sauces or custards, heavy cream is often preferred for its texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute milk for heavy cream, but the results will differ. Heavy cream has a higher fat content, which adds richness and thickness. For 60 ml of heavy cream, you could use 60 ml of whole milk mixed with 1-2 tablespoons of melted butter to mimic the fat content. However, for air fryer recipes like sauces or custards, heavy cream is often preferred for its texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 60 ml of heavy cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, you can use a tablespoon to measure 60 ml of heavy cream. There are roughly 15 ml in one tablespoon, so 60 ml equals 4 tablespoons. Alternatively, a standard shot glass often holds around 30-50 ml, so you could estimate using that. For air fryer recipes, accuracy is key, so investing in a simple measuring cup is worthwhile."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, you can use a tablespoon to measure 60 ml of heavy cream. There are roughly 15 ml in one tablespoon, so 60 ml equals 4 tablespoons. Alternatively, a standard shot glass often holds around 30-50 ml, so you could estimate using that. For air fryer recipes, accuracy is key, so investing in a simple measuring cup is worthwhile."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does heavy cream measurement differ between the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The measurement of 60 ml of heavy cream is the same in both the UK and USA, as millilitres are a standard metric unit. However, cup sizes can vary slightly between countries. In the UK, 1 cup is 250 ml, while in the USA, it’s 240 ml. For 60 ml (0.25 cups), the difference is negligible, so you can use the same conversion in both regions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The measurement of 60 ml of heavy cream is the same in both the UK and USA, as millilitres are a standard metric unit. However, cup sizes can vary slightly between countries. In the UK, 1 cup is 250 ml, while in the USA, it’s 240 ml. For 60 ml (0.25 cups), the difference is negligible, so you can use the same conversion in both regions."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 60 ml of Heavy Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Heavy Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream",
     "description": "Learn how to convert 60 ml of heavy cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:14.188000+00:00",
     "dateModified": "2025-07-30T23:31:14.188000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 60 ml of Heavy Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-heavy-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>60 ml of heavy cream is approximately 0.25 cups (or 1/4 cup). This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>  

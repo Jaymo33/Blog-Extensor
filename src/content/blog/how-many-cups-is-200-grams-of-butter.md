@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter"
-        },
-        "headline": "Quick Guide: Convert 200 Grams of Butter to Cups Easily",
-        "description": "Learn how to convert 200 grams of butter to cups for perfect baking every time. Get accurate measurements and handy tips for your air fryer recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter"
+    },
+    "headline": "Quick Guide: Convert 200 Grams of Butter to Cups Easily",
+    "description": "Learn how to convert 200 grams of butter to cups for perfect baking every time. Get accurate measurements and handy tips for your air fryer recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-25T23:55:27.950Z",
-        "dateModified": "2025-07-25T23:55:27.950Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-butter.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-25T23:55:27.950Z",
+    "dateModified": "2025-07-25T23:55:27.950Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-200-grams-of-butter.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 200 grams of butter equal to 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 200 grams of butter is slightly less than 1 cup. In US measurements, 1 cup of butter equals about 227 grams, so 200 grams is approximately 0.88 cups. For UK measurements, it's even less at about 0.85 cups due to the slightly larger UK cup size."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 200 grams of butter is slightly less than 1 cup. In US measurements, 1 cup of butter equals about 227 grams, so 200 grams is approximately 0.88 cups. For UK measurements, it's even less at about 0.85 cups due to the slightly larger UK cup size."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 200 grams of butter without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use the markings on butter packaging (200g is about 14 tablespoons) or try the water displacement method. Fill a measuring cup with 200ml water, then add butter until the water level reaches 400ml - this will give you roughly 200 grams of butter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use the markings on butter packaging (200g is about 14 tablespoons) or try the water displacement method. Fill a measuring cup with 200ml water, then add butter until the water level reaches 400ml - this will give you roughly 200 grams of butter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of butter affect the cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, slightly. European-style butters with higher fat content are more dense, while spreadable butters with added oils are less dense. For most standard UK butters, the 200g to 0.88 cup conversion works well, but for precision baking, weighing is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, slightly. European-style butters with higher fat content are more dense, while spreadable butters with added oils are less dense. For most standard UK butters, the 200g to 0.88 cup conversion works well, but for precision baking, weighing is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air fryer recipes sometimes fail when using cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cup measurements can be inconsistent due to packing density and ingredient variations. Butter especially can vary in density based on temperature and brand. For reliable air fryer results, we recommend using weight measurements (grams) whenever possible for better consistency in your cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cup measurements can be inconsistent due to packing density and ingredient variations. Butter especially can vary in density based on temperature and brand. For reliable air fryer results, we recommend using weight measurements (grams) whenever possible for better consistency in your cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 200 Grams of Butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 200 Grams of Butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter",
     "description": "Learn how to convert 200 grams of butter to cups for perfect baking every time. Get accurate measurements and handy tips for your air fryer recipes.",
     "inLanguage": "en",
     "datePublished": "2025-07-25T23:55:27.950000+00:00",
     "dateModified": "2025-07-25T23:55:27.950000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 200 Grams of Butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-200-grams-of-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200 grams of butter is roughly equivalent to 0.88 cups (just under 1 cup) in standard US measurements. If you're using UK measurements, it's closer to 0.85 cups due to slight differences in cup sizes. Getting this conversion right is especially important for air fryer recipes, where precise measurements can make or break your dish.</p>

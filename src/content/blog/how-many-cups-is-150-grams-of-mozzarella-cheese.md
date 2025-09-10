@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese"
-        },
-        "headline": "150 grams of mozzarella cheese in cups – Quick conversion guide | AirFryerRecipe.co.uk",
-        "description": "Find out how many cups 150 grams of mozzarella cheese equals, with easy conversions for UK and US measurements. Perfect for air fryer recipes and meal prep.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese"
+    },
+    "headline": "150 grams of mozzarella cheese in cups – Quick conversion guide | AirFryerRecipe.co.uk",
+    "description": "Find out how many cups 150 grams of mozzarella cheese equals, with easy conversions for UK and US measurements. Perfect for air fryer recipes and meal prep.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:57:37.476Z",
-        "dateModified": "2025-07-22T16:57:37.476Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-mozzarella-cheese.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:57:37.476Z",
+    "dateModified": "2025-07-22T16:57:37.476Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-mozzarella-cheese.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of mozzarella affect how many cups 150 grams equals?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, fresh mozzarella in water will measure differently than dry, pre-shredded varieties. Fresh mozzarella is more dense, so 150 grams might equal slightly fewer cups compared to shredded."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, fresh mozzarella in water will measure differently than dry, pre-shredded varieties. Fresh mozzarella is more dense, so 150 grams might equal slightly fewer cups compared to shredded."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cup measurements for all air fryer recipes with mozzarella?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While cup measurements work, weighing 150 grams of mozzarella cheese is more accurate for air fryer recipes where precise amounts affect cooking time and texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While cup measurements work, weighing 150 grams of mozzarella cheese is more accurate for air fryer recipes where precise amounts affect cooking time and texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 150 grams of mozzarella cheese convert to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "150 grams of mozzarella cheese equals approximately 5.3 ounces. This conversion is useful when following American recipes that use imperial measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "150 grams of mozzarella cheese equals approximately 5.3 ounces. This conversion is useful when following American recipes that use imperial measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe with 150 grams of mozzarella sometimes smoke?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Smoking can occur if the cheese drips onto the heating element. Use parchment liners or foil to catch drips, and ensure your air fryer is clean before cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Smoking can occur if the cheese drips onto the heating element. Use parchment liners or foil to catch drips, and ensure your air fryer is clean before cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 150 Grams of Mozzarella Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 150 Grams of Mozzarella Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese",
     "description": "Find out how many cups 150 grams of mozzarella cheese equals, with easy conversions for UK and US measurements. Perfect for air fryer recipes and meal prep.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:57:37.476000+00:00",
     "dateModified": "2025-07-22T16:57:37.476000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 150 Grams of Mozzarella Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-mozzarella-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150 grams of mozzarella cheese equals approximately 1.5 cups when loosely packed. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're making cheesy garlic bread, stuffed mushrooms, or a quick pizza, knowing how to convert grams to cups ensures consistent results every time.</p>

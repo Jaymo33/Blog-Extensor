@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon"
-        },
-        "headline": "Quick Answer: How many ounces is 0.33 cup of ground cinnamon?",
-        "description": "Find out exactly how many ounces are in 0.33 cup of ground cinnamon for perfect air fryer recipes every time. No more guesswork!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon"
+    },
+    "headline": "Quick Answer: How many ounces is 0.33 cup of ground cinnamon?",
+    "description": "Find out exactly how many ounces are in 0.33 cup of ground cinnamon for perfect air fryer recipes every time. No more guesswork!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-ground-cinnamon.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-ground-cinnamon.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.33 cup of ground cinnamon without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a 1/3 cup measure, you can use tablespoons instead. 0.33 cup equals about 5 tablespoons plus 1 teaspoon of ground cinnamon. For even more precision, use a kitchen scale to measure out 1.41 ounces directly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a 1/3 cup measure, you can use tablespoons instead. 0.33 cup equals about 5 tablespoons plus 1 teaspoon of ground cinnamon. For even more precision, use a kitchen scale to measure out 1.41 ounces directly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cinnamon affect the weight measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different cinnamon varieties can have slightly different densities. Ceylon cinnamon is typically lighter than Cassia cinnamon. However, for most recipes, the difference is minimal - 0.33 cup will still be approximately 1.41 ounces regardless of variety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different cinnamon varieties can have slightly different densities. Ceylon cinnamon is typically lighter than Cassia cinnamon. However, for most recipes, the difference is minimal - 0.33 cup will still be approximately 1.41 ounces regardless of variety."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this same conversion for other ground spices in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the 0.33 cup to 1.41 ounces conversion works for ground cinnamon, other spices may have different densities. It's best to check specific conversions for each spice. Our air fryer conversion chart has measurements for many common spices used in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the 0.33 cup to 1.41 ounces conversion works for ground cinnamon, other spices may have different densities. It's best to check specific conversions for each spice. Our air fryer conversion chart has measurements for many common spices used in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste different when I use 0.33 cup of cinnamon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers can intensify flavours due to their concentrated heat and air circulation. If 1.41 ounces (0.33 cup) of cinnamon seems too strong, try reducing it slightly. Also ensure your cinnamon is fresh, as older spices can taste dull yet still overwhelm a dish in large quantities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers can intensify flavours due to their concentrated heat and air circulation. If 1.41 ounces (0.33 cup) of cinnamon seems too strong, try reducing it slightly. Also ensure your cinnamon is fresh, as older spices can taste dull yet still overwhelm a dish in large quantities."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of ground cinnamon?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of ground cinnamon?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon",
     "description": "Find out exactly how many ounces are in 0.33 cup of ground cinnamon for perfect air fryer recipes every time. No more guesswork!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of ground cinnamon?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-ground-cinnamon"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of ground cinnamon equals approximately 1.41 ounces. This precise measurement is essential for air fryer recipes where accuracy can make or break your dish. Whether you're whipping up cinnamon-spiced desserts or savoury dishes, knowing this conversion ensures consistent results every time.</p>

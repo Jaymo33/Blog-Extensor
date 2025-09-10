@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream"
-        },
-        "headline": "Quick Guide: Convert 910 ml of Single Cream to Cups Easily",
-        "description": "Learn how to convert 910 ml of single cream to cups for baking and cooking. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream"
+    },
+    "headline": "Quick Guide: Convert 910 ml of Single Cream to Cups Easily",
+    "description": "Learn how to convert 910 ml of single cream to cups for baking and cooking. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-910-ml-single-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-910-ml-single-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 910 ml of single cream the same as 910 ml of double cream in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, while the volume in cups (3.84) remains the same, double cream has a higher fat content (48%), which affects texture and cooking behaviour. Single cream (18-20% fat) is lighter and better for sauces, while double cream is richer and ideal for whipping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, while the volume in cups (3.84) remains the same, double cream has a higher fat content (48%), which affects texture and cooking behaviour. Single cream (18-20% fat) is lighter and better for sauces, while double cream is richer and ideal for whipping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 910 ml of single cream in an air fryer for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Single cream works well in air fryer cakes, custards, and sauces. Just remember to adjust cooking times slightly, as cream-based recipes may cook faster due to the air fryer’s rapid circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Single cream works well in air fryer cakes, custards, and sauces. Just remember to adjust cooking times slightly, as cream-based recipes may cook faster due to the air fryer’s rapid circulation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover single cream after measuring 910 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store unused single cream in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in portioned cubes, though note that thawed cream may separate slightly and is best used in cooked dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store unused single cream in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in portioned cubes, though note that thawed cream may separate slightly and is best used in cooked dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 910 ml of single cream without a jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard metric cup (250 ml) and measure 3 full cups plus 3 tablespoons for 910 ml. For US cups (240 ml), it’s about 3 cups and ¾ of a cup. Always level off the top for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard metric cup (250 ml) and measure 3 full cups plus 3 tablespoons for 910 ml. For US cups (240 ml), it’s about 3 cups and ¾ of a cup. Always level off the top for accuracy."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 910 ml of Single Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 910 ml of Single Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream",
     "description": "Learn how to convert 910 ml of single cream to cups for baking and cooking. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 910 ml of Single Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-single-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>910 ml of single cream is approximately 3.84 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up a creamy dessert or a savoury sauce, knowing the exact cup equivalent ensures perfect results every time.</p>

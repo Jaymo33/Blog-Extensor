@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        },
-        "headline": "Quick & Easy 359 Fan Oven to Conventional Oven Conversion Guide",
-        "description": "Convert 359 fan oven to conventional oven in Fahrenheit with our simple guide. Perfect for air fryer recipes and hassle-free baking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit"
+    },
+    "headline": "Quick & Easy 359 Fan Oven to Conventional Oven Conversion Guide",
+    "description": "Convert 359 fan oven to conventional oven in Fahrenheit with our simple guide. Perfect for air fryer recipes and hassle-free baking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-25T21:47:49.919Z",
-        "dateModified": "2025-07-25T21:47:49.919Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/359-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-25T21:47:49.919Z",
+    "dateModified": "2025-07-25T21:47:49.919Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/359-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same temperature for my air fryer as a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can often use the same temperature, as air fryers work similarly to fan ovens. However, because air fryers are more compact and efficient, you might need to reduce the temperature by 10-20°F or shorten the cooking time. Always check your food halfway through to avoid overcooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can often use the same temperature, as air fryers work similarly to fan ovens. However, because air fryers are more compact and efficient, you might need to reduce the temperature by 10-20°F or shorten the cooking time. Always check your food halfway through to avoid overcooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do fan ovens cook faster than conventional ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air around the food, ensuring even and faster cooking. Conventional ovens rely on static heat, which can create hot and cold spots. This means fan ovens often require lower temperatures or shorter cooking times to achieve the same results as conventional ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air around the food, ensuring even and faster cooking. Conventional ovens rely on static heat, which can create hot and cold spots. This means fan ovens often require lower temperatures or shorter cooking times to achieve the same results as conventional ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 359°F fan oven to gas mark?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "359°F in a fan oven is roughly equivalent to gas mark 4 in a conventional oven. However, gas ovens can vary, so it's best to use an oven thermometer for accuracy. If your recipe calls for 359°F in a fan oven, gas mark 4 should give you similar results in a conventional gas oven."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "359°F in a fan oven is roughly equivalent to gas mark 4 in a conventional oven. However, gas ovens can vary, so it's best to use an oven thermometer for accuracy. If your recipe calls for 359°F in a fan oven, gas mark 4 should give you similar results in a conventional gas oven."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to check if my oven temperature is accurate?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use an oven thermometer to verify the temperature, as oven dials aren't always precise. Place the thermometer in the center of the oven and preheat to the desired temperature. If there's a discrepancy, adjust the dial accordingly or note the difference for future cooking. This ensures consistent results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use an oven thermometer to verify the temperature, as oven dials aren't always precise. Place the thermometer in the center of the oven and preheat to the desired temperature. If there's a discrepancy, adjust the dial accordingly or note the difference for future cooking. This ensures consistent results every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "359 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-            "url": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "@type": "WebPage",
+    "name": "359 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+    "url": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit",
     "description": "Convert 359 fan oven to conventional oven in Fahrenheit with our simple guide. Perfect for air fryer recipes and hassle-free baking!",
     "inLanguage": "en",
     "datePublished": "2025-07-25T21:47:49.919000+00:00",
     "dateModified": "2025-07-25T21:47:49.919000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "359 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/359-fan-oven-to-conventional-oven-conversion-fahrenheit"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>359°F in a fan oven converts to approximately 325°F in a conventional oven. This adjustment accounts for the efficient heat distribution of fan-assisted ovens, which cook food faster and more evenly. If you're using an air fryer, you might need to tweak the temperature further, as air fryers work similarly to fan ovens. For precise conversions, refer to our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

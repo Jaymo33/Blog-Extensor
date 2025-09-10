@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer"
-        },
-        "headline": "Reheat Falafel in Air Fryer – Crispy & Quick Guide",
-        "description": "Learn how to reheat falafel in an air fryer to keep it crispy and delicious. Perfect temperature, timing, and tips for best results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer"
+    },
+    "headline": "Reheat Falafel in Air Fryer – Crispy & Quick Guide",
+    "description": "Learn how to reheat falafel in an air fryer to keep it crispy and delicious. Perfect temperature, timing, and tips for best results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T18:06:35.548Z",
-        "dateModified": "2025-07-22T18:06:35.548Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-falafel-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T18:06:35.548Z",
+    "dateModified": "2025-07-22T18:06:35.548Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-falafel-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat falafel in an air fryer from frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can reheat frozen falafel directly in the air fryer at 180°C (350°F) for 5-7 minutes. No thawing is needed—just shake the basket halfway for even heating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can reheat frozen falafel directly in the air fryer at 180°C (350°F) for 5-7 minutes. No thawing is needed—just shake the basket halfway for even heating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to keep reheated falafel crispy?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Space falafel evenly in the air fryer basket, avoid overcrowding, and cook at 180°C (350°F) for 3-4 minutes. A light oil spray can enhance crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Space falafel evenly in the air fryer basket, avoid overcrowding, and cook at 180°C (350°F) for 3-4 minutes. A light oil spray can enhance crispiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does it take to reheat falafel in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Refrigerated falafel takes 3-4 minutes at 180°C (350°F), while frozen falafel needs 5-7 minutes. Adjust time based on size and thickness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Refrigerated falafel takes 3-4 minutes at 180°C (350°F), while frozen falafel needs 5-7 minutes. Adjust time based on size and thickness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I reheat falafel without it drying out?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Stick to the recommended time and temperature. For frozen falafel, a quick water spritz or wrapping in foil with oil helps retain moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Stick to the recommended time and temperature. For frozen falafel, a quick water spritz or wrapping in foil with oil helps retain moisture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Falafel in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Falafel in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer",
     "description": "Learn how to reheat falafel in an air fryer to keep it crispy and delicious. Perfect temperature, timing, and tips for best results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:06:35.548000+00:00",
     "dateModified": "2025-07-22T18:06:35.548000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Falafel in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-falafel-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Reheating falafel in an air fryer is simple: preheat to 180°C (350°F), cook for 3-4 minutes, and enjoy crispy results. This method beats microwaving, as it revives the texture without making the falafel soggy or dry. Whether you have leftover homemade falafel or store-bought, your air fryer can bring it back to life effortlessly.</p>

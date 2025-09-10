@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs"
-        },
-        "headline": "Quick Guide: Convert 30g of Breadcrumbs to Ounces Easily",
-        "description": "Learn how to convert 30g of breadcrumbs to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs"
+    },
+    "headline": "Quick Guide: Convert 30g of Breadcrumbs to Ounces Easily",
+    "description": "Learn how to convert 30g of breadcrumbs to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-breadcrumbs.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-breadcrumbs.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use grams and others use ounces for breadcrumbs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes use different measurement systems based on their origin. UK and European recipes typically use grams (metric system), while older UK recipes or American ones might use ounces (imperial system). For air fryer cooking, grams are often more precise for small quantities like 30g of breadcrumbs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes use different measurement systems based on their origin. UK and European recipes typically use grams (metric system), while older UK recipes or American ones might use ounces (imperial system). For air fryer cooking, grams are often more precise for small quantities like 30g of breadcrumbs."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of weighing 30g of breadcrumbs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, cups aren’t ideal for breadcrumbs because how you fill them affects the actual weight. 30g of fine breadcrumbs is about ½ cup, but panko might need ¾ cup for the same weight. For consistent results in air frying, weighing is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, cups aren’t ideal for breadcrumbs because how you fill them affects the actual weight. 30g of fine breadcrumbs is about ½ cup, but panko might need ¾ cup for the same weight. For consistent results in air frying, weighing is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 30g of breadcrumbs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Approximately 110-130 calories, depending on the bread type. Wholemeal breadcrumbs pack more nutrients, while panko tends to be lighter. Remember, in air frying you use less oil than deep frying, keeping the overall calorie count lower."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Approximately 110-130 calories, depending on the bread type. Wholemeal breadcrumbs pack more nutrients, while panko tends to be lighter. Remember, in air frying you use less oil than deep frying, keeping the overall calorie count lower."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute 30g of breadcrumbs with crushed crackers in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust the quantity as crackers are denser. Start with about 25g (0.88oz) of crushed crackers for similar coverage. Test a small batch first, as crackers can brown faster in the air fryer than breadcrumbs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust the quantity as crackers are denser. Start with about 25g (0.88oz) of crushed crackers for similar coverage. Test a small batch first, as crackers can brown faster in the air fryer than breadcrumbs."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 30g of breadcrumbs?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of breadcrumbs?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs",
     "description": "Learn how to convert 30g of breadcrumbs to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 30g of breadcrumbs?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-breadcrumbs"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>30 grams of breadcrumbs equals approximately 1.06 ounces. This conversion is handy when following air fryer recipes that use imperial or metric measurements. Whether you're coating chicken or making crispy toppings, getting the measurement right ensures perfect results every time.</p>

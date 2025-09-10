@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream"
-        },
-        "headline": "Quick Guide: Convert 0.25 tbsp of Cream to Grams Easily",
-        "description": "Learn how to convert 0.25 tbsp of cream to grams with our simple guide. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream"
+    },
+    "headline": "Quick Guide: Convert 0.25 tbsp of Cream to Grams Easily",
+    "description": "Learn how to convert 0.25 tbsp of cream to grams with our simple guide. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of cream for 0.25 tbsp measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can substitute milk for cream in some recipes, keep in mind that milk has a lower fat content and thinner consistency. For 0.25 tbsp measurements, the difference may be negligible in some dishes but noticeable in others like sauces or desserts. Adjust other ingredients if needed to compensate for the texture change."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can substitute milk for cream in some recipes, keep in mind that milk has a lower fat content and thinner consistency. For 0.25 tbsp measurements, the difference may be negligible in some dishes but noticeable in others like sauces or desserts. Adjust other ingredients if needed to compensate for the texture change."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.25 tbsp of cream without special tools?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have measuring spoons or a scale, you can estimate 0.25 tbsp by dividing a standard tablespoon visually into four equal parts. Alternatively, use a teaspoon (1 tsp equals about 0.33 tbsp) and use slightly less than a full teaspoon. For best results in air fryer cooking, we recommend investing in basic measuring tools."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have measuring spoons or a scale, you can estimate 0.25 tbsp by dividing a standard tablespoon visually into four equal parts. Alternatively, use a teaspoon (1 tsp equals about 0.33 tbsp) and use slightly less than a full teaspoon. For best results in air fryer cooking, we recommend investing in basic measuring tools."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cream affect the conversion from tablespoons to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different creams have slightly different densities. Double cream is thicker and heavier than single cream, so 0.25 tbsp of double cream will weigh more than 0.25 tbsp of single cream. The 3.75 gram conversion is an average for standard pouring cream - adjust slightly for thicker or thinner varieties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different creams have slightly different densities. Double cream is thicker and heavier than single cream, so 0.25 tbsp of double cream will weigh more than 0.25 tbsp of single cream. The 3.75 gram conversion is an average for standard pouring cream - adjust slightly for thicker or thinner varieties."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why would an air fryer recipe call for such a small amount of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryer recipes often use small quantities of ingredients because the cooking chamber is compact and efficient. Just 0.25 tbsp of cream can add richness without making food soggy. Small amounts are also common in recipes where cream is used as a glaze, binder, or flavour enhancer rather than a main ingredient."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryer recipes often use small quantities of ingredients because the cooking chamber is compact and efficient. Just 0.25 tbsp of cream can add richness without making food soggy. Small amounts are also common in recipes where cream is used as a glaze, binder, or flavour enhancer rather than a main ingredient."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.25 tbsp of cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream",
+    "@type": "WebPage",
+    "name": "How many grams is 0.25 tbsp of cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream",
     "description": "Learn how to convert 0.25 tbsp of cream to grams with our simple guide. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.25 tbsp of cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 tbsp of cream equals approximately 3.75 grams. This conversion is essential for precise measurements in air fryer recipes, where accuracy can make or break your dish. Whether you're baking a cake or preparing a creamy sauce, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise the importance of accurate conversions for perfect results every time.</p>

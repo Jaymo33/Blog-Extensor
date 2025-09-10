@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste"
-        },
-        "headline": "Quick Answer: 0.25 tbsp ginger paste to grams UK",
-        "description": "Find out exactly how many grams are in 0.25 tbsp of ginger paste for perfect air fryer recipes. Convert with ease today!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste"
+    },
+    "headline": "Quick Answer: 0.25 tbsp ginger paste to grams UK",
+    "description": "Find out exactly how many grams are in 0.25 tbsp of ginger paste for perfect air fryer recipes. Convert with ease today!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-025-tbsp-ginger-paste.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-025-tbsp-ginger-paste.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use fresh ginger instead of 0.25 tbsp ginger paste?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute fresh ginger for ginger paste. About 1 teaspoon of freshly grated ginger equals 0.25 tbsp of ginger paste. However, fresh ginger may have a slightly stronger flavour, so adjust to taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute fresh ginger for ginger paste. About 1 teaspoon of freshly grated ginger equals 0.25 tbsp of ginger paste. However, fresh ginger may have a slightly stronger flavour, so adjust to taste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does ginger paste last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store-bought ginger paste typically lasts 2-3 weeks in the fridge once opened. Homemade ginger paste may last up to a month if stored in an airtight container. Always check for signs of spoilage before use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store-bought ginger paste typically lasts 2-3 weeks in the fridge once opened. Homemade ginger paste may last up to a month if stored in an airtight container. Always check for signs of spoilage before use."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 0.25 tbsp of ginger paste the same as ground ginger?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, ginger paste and ground ginger have different intensities. Use about 1/4 teaspoon of ground ginger to replace 0.25 tbsp of ginger paste. The flavour profile will be slightly different, so adjust accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, ginger paste and ground ginger have different intensities. Use about 1/4 teaspoon of ground ginger to replace 0.25 tbsp of ginger paste. The flavour profile will be slightly different, so adjust accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze ginger paste for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Freeze ginger paste in ice cube trays for easy portioning. Each cube (about 1 tbsp) can be thawed as needed. This method works perfectly for air fryer recipes where small amounts like 0.25 tbsp are often required."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Freeze ginger paste in ice cube trays for easy portioning. Each cube (about 1 tbsp) can be thawed as needed. This method works perfectly for air fryer recipes where small amounts like 0.25 tbsp are often required."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.25 tbsp of ginger paste",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste",
+    "@type": "WebPage",
+    "name": "How many grams is 0.25 tbsp of ginger paste",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste",
     "description": "Find out exactly how many grams are in 0.25 tbsp of ginger paste for perfect air fryer recipes. Convert with ease today!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.25 tbsp of ginger paste",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-025-tbsp-ginger-paste"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 tbsp of ginger paste equals approximately 3.75 grams. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re whipping up a marinade or adding a punch of flavour to your dish, knowing the exact weight ensures consistency. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli"
-        },
-        "headline": "Quick Answer: How Many Cups Is 50 Grams of Broccoli?",
-        "description": "Find out exactly how many cups 50 grams of broccoli equals for perfect air fryer recipes every time. Includes UK and US conversions!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli"
+    },
+    "headline": "Quick Answer: How Many Cups Is 50 Grams of Broccoli?",
+    "description": "Find out exactly how many cups 50 grams of broccoli equals for perfect air fryer recipes every time. Includes UK and US conversions!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T19:05:43.270Z",
-        "dateModified": "2025-07-27T19:05:43.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-broccoli.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T19:05:43.270Z",
+    "dateModified": "2025-07-27T19:05:43.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-50-grams-of-broccoli.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 50 grams of broccoli the same as 50ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, grams measure weight, while millilitres (ml) measure volume. For broccoli, 50 grams equals roughly 0.5 cups (120ml), but this can vary based on how it’s chopped. Always use a scale for accuracy in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, grams measure weight, while millilitres (ml) measure volume. For broccoli, 50 grams equals roughly 0.5 cups (120ml), but this can vary based on how it’s chopped. Always use a scale for accuracy in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many florets are in 50 grams of broccoli?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Approximately 5–6 medium florets make up 50 grams of broccoli. For precise measurements, especially in recipes like air-fried broccoli bites, weighing is best. Floret size can vary, so cup measurements are more consistent."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Approximately 5–6 medium florets make up 50 grams of broccoli. For precise measurements, especially in recipes like air-fried broccoli bites, weighing is best. Floret size can vary, so cup measurements are more consistent."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen broccoli instead of fresh for 50 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but frozen broccoli may need patting dry to prevent sogginess. The cup measurement stays roughly the same, but cooking times might adjust slightly. For crisper results, fresh broccoli is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but frozen broccoli may need patting dry to prevent sogginess. The cup measurement stays roughly the same, but cooking times might adjust slightly. For crisper results, fresh broccoli is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 50 grams of broccoli to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "50 grams of broccoli equals about 1.76 ounces. This conversion is useful for recipes using imperial measurements. For air fryer cooking, stick to grams or cups for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50 grams of broccoli equals about 1.76 ounces. This conversion is useful for recipes using imperial measurements. For air fryer cooking, stick to grams or cups for consistent results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 50 Grams of Broccoli?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 50 Grams of Broccoli?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli",
     "description": "Find out exactly how many cups 50 grams of broccoli equals for perfect air fryer recipes every time. Includes UK and US conversions!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 50 Grams of Broccoli?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-50-grams-of-broccoli"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50 grams of broccoli is roughly equivalent to 0.5 cups when chopped. This measurement can vary slightly depending on how finely the broccoli is cut, but it’s a reliable starting point for air fryer recipes. Whether you’re making roasted broccoli or adding it to a stir-fry, knowing this conversion ensures consistent results every time.</p>  

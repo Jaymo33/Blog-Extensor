@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats"
-        },
-        "headline": "Quick Guide: How Many Ounces in 1 Cup of Rolled Oats?",
-        "description": "Discover how many ounces are in 1 cup of rolled oats for perfect air fryer recipes every time. Get precise measurements and cooking tips now.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats"
+    },
+    "headline": "Quick Guide: How Many Ounces in 1 Cup of Rolled Oats?",
+    "description": "Discover how many ounces are in 1 cup of rolled oats for perfect air fryer recipes every time. Get precise measurements and cooking tips now.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-rolled-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-rolled-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 1 cup of rolled oats weigh the same as instant oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 1 cup of instant oats typically weighs slightly less than rolled oats due to finer processing. Rolled oats are flatter and more compact, giving them a higher weight per cup. Always check your recipe for the specific oat type required."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 1 cup of instant oats typically weighs slightly less than rolled oats due to finer processing. Rolled oats are flatter and more compact, giving them a higher weight per cup. Always check your recipe for the specific oat type required."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same ounce measurement for steel-cut oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Steel-cut oats are denser than rolled oats, so 1 cup weighs more (about 4.5 ounces). If substituting steel-cut for rolled oats in an air fryer recipe, adjust the quantity or cooking time accordingly for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Steel-cut oats are denser than rolled oats, so 1 cup weighs more (about 4.5 ounces). If substituting steel-cut for rolled oats in an air fryer recipe, adjust the quantity or cooking time accordingly for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer oat recipe turn out differently each time?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Inconsistent measurements are likely the culprit. Using weight (ounces) instead of volume (cups) ensures accuracy. Also, check your air fryer's temperature calibration and avoid overcrowding the basket for even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Inconsistent measurements are likely the culprit. Using weight (ounces) instead of volume (cups) ensures accuracy. Also, check your air fryer's temperature calibration and avoid overcrowding the basket for even cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store rolled oats for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep rolled oats in an airtight container in a cool, dark place to maintain freshness. Proper storage prevents moisture absorption which can affect weight measurements and recipe outcomes in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep rolled oats in an airtight container in a cool, dark place to maintain freshness. Proper storage prevents moisture absorption which can affect weight measurements and recipe outcomes in your air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of rolled oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of rolled oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats",
     "description": "Discover how many ounces are in 1 cup of rolled oats for perfect air fryer recipes every time. Get precise measurements and cooking tips now.",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of rolled oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-rolled-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of rolled oats equals approximately 3.5 ounces (or 100 grams). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making granola, oat bars, or breakfast bakes, knowing this conversion helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we emphasise precise measurements for the best results. Rolled oats are a staple in many air fryer recipes, so getting the weight right matters.</p>

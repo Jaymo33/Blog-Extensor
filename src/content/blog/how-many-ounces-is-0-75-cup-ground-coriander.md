@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander"
-        },
-        "headline": "Quick Guide: 0.75 Cup Ground Coriander to Ounces Conversion",
-        "description": "Discover how many ounces are in 0.75 cup of ground coriander for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander"
+    },
+    "headline": "Quick Guide: 0.75 Cup Ground Coriander to Ounces Conversion",
+    "description": "Discover how many ounces are in 0.75 cup of ground coriander for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-ground-coriander.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-75-cup-ground-coriander.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use whole coriander seeds instead of ground coriander in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to adjust the quantity. Whole coriander seeds have a more concentrated flavour, so use about half the amount (e.g., 0.375 cup or 1.2 oz for 0.75 cup ground coriander). Crush them lightly before adding to your dish for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to adjust the quantity. Whole coriander seeds have a more concentrated flavour, so use about half the amount (e.g., 0.375 cup or 1.2 oz for 0.75 cup ground coriander). Crush them lightly before adding to your dish for the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste too strong when I use 0.75 cup of ground coriander?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This could be due to packing the measuring cup too tightly, resulting in more than 2.4 oz. Always spoon and level ground coriander for accuracy. Also, check if your recipe requires less—some dishes need just a tablespoon for subtle flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This could be due to packing the measuring cup too tightly, resulting in more than 2.4 oz. Always spoon and level ground coriander for accuracy. Also, check if your recipe requires less—some dishes need just a tablespoon for subtle flavour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.75 cup of ground coriander to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.75 cup of ground coriander (2.4 oz) is roughly 68 grams. If your air fryer recipe uses metric measurements, a kitchen scale ensures precision. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> has more details."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.75 cup of ground coriander (2.4 oz) is roughly 68 grams. If your air fryer recipe uses metric measurements, a kitchen scale ensures precision. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> has more details."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute ground cumin for ground coriander in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While both spices add warmth, cumin has a smokier flavour. Use the same 0.75 cup (2.4 oz) quantity, but expect a different taste profile. For balanced results, try a 50-50 mix of both spices."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While both spices add warmth, cumin has a smokier flavour. Use the same 0.75 cup (2.4 oz) quantity, but expect a different taste profile. For balanced results, try a 50-50 mix of both spices."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.75 cup of ground coriander?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.75 cup of ground coriander?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander",
     "description": "Discover how many ounces are in 0.75 cup of ground coriander for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.75 cup of ground coriander?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-75-cup-ground-coriander"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 cup of ground coriander equals approximately 2.4 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you’re making a spice rub or adding depth to a dish, knowing how many ounces are in 0.75 cup of ground coriander helps you cook with confidence.</p>  

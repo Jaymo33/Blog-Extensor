@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour"
-        },
-        "headline": "Quick Guide: Convert 1 Cup Self-Raising Flour to Ounces Easily",
-        "description": "Learn how to convert 1 cup of self-raising flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour"
+    },
+    "headline": "Quick Guide: Convert 1 Cup Self-Raising Flour to Ounces Easily",
+    "description": "Learn how to convert 1 cup of self-raising flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-self-raising-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-self-raising-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 1 cup of self-raising flour weigh the same as plain flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, self-raising flour is slightly lighter due to the added baking powder. While 1 cup of plain flour weighs about 4.8 oz, self-raising flour comes in at 4.5 oz per cup. Always check your recipe requirements, especially for air fryer baking where precision matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, self-raising flour is slightly lighter due to the added baking powder. While 1 cup of plain flour weighs about 4.8 oz, self-raising flour comes in at 4.5 oz per cup. Always check your recipe requirements, especially for air fryer baking where precision matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute plain flour by adding 2 teaspoons of baking powder per 150g (about 1 cup) of flour. However, for best results in air fryer recipes, stick to self-raising flour when specified. The even distribution of leavening agents ensures consistent rise under rapid air circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute plain flour by adding 2 teaspoons of baking powder per 150g (about 1 cup) of flour. However, for best results in air fryer recipes, stick to self-raising flour when specified. The even distribution of leavening agents ensures consistent rise under rapid air circulation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cake sink after using self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sinking often occurs from underbaking or opening the air fryer too early. Ensure you’ve measured your 1 cup (4.5 oz) of flour accurately and cook until a skewer comes out clean. Overmixing can also deflate the batter – fold gently until just combined."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sinking often occurs from underbaking or opening the air fryer too early. Ensure you’ve measured your 1 cup (4.5 oz) of flour accurately and cook until a skewer comes out clean. Overmixing can also deflate the batter – fold gently until just combined."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert grams to ounces for self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For self-raising flour, 125g equals approximately 4.5 oz (1 cup). Use this ratio to scale recipes up or down. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> includes both metric and imperial measurements for all common baking ingredients used in air fryers."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For self-raising flour, 125g equals approximately 4.5 oz (1 cup). Use this ratio to scale recipes up or down. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> includes both metric and imperial measurements for all common baking ingredients used in air fryers."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of self-raising flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of self-raising flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour",
     "description": "Learn how to convert 1 cup of self-raising flour to ounces with our simple guide. Perfect for air fryer baking and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of self-raising flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of self-raising flour equals approximately 4.5 ounces (or 4.41 oz to be precise). This measurement is essential for air fryer baking, where precision can make or break your recipe. Whether you're making cakes, scones, or even savoury dishes, knowing the exact weight ensures consistent results every time.</p>

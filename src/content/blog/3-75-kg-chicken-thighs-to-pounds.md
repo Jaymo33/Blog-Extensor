@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds"
-        },
-        "headline": "Easy 3.75 kg chicken thighs to pounds conversion guide",
-        "description": "Convert 3.75 kg chicken thighs to pounds quickly and accurately with our simple guide. Perfect for air fryer meal prep and recipe scaling.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds"
+    },
+    "headline": "Easy 3.75 kg chicken thighs to pounds conversion guide",
+    "description": "Convert 3.75 kg chicken thighs to pounds quickly and accurately with our simple guide. Perfect for air fryer meal prep and recipe scaling.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T17:40:31.379Z",
-        "dateModified": "2025-08-22T17:40:31.379Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-75-kg-chicken-thighs-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T17:40:31.379Z",
+    "dateModified": "2025-08-22T17:40:31.379Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-75-kg-chicken-thighs-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 3.75 kg of chicken thighs exactly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "3.75 kg of chicken thighs converts to approximately 8.267 pounds. The exact conversion uses the standard rate where 1 kilogram equals 2.20462 pounds. This precise measurement helps when following air fryer recipes that specify weights in pounds, ensuring perfect cooking results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "3.75 kg of chicken thighs converts to approximately 8.267 pounds. The exact conversion uses the standard rate where 1 kilogram equals 2.20462 pounds. This precise measurement helps when following air fryer recipes that specify weights in pounds, ensuring perfect cooking results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many air fryer recipes, particularly those from American sources, use pounds rather than kilograms. Converting measurements ensures you use the correct quantity of ingredients for proper cooking times and results. Overcrowding or underfilling your air fryer basket due to incorrect conversions can lead to uneven cooking and disappointing outcomes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many air fryer recipes, particularly those from American sources, use pounds rather than kilograms. Converting measurements ensures you use the correct quantity of ingredients for proper cooking times and results. Overcrowding or underfilling your air fryer basket due to incorrect conversions can lead to uneven cooking and disappointing outcomes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other cuts of chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion rate of 1 kg to 2.20462 pounds applies to all chicken cuts, including breasts, wings, and drumsticks. The weight conversion remains consistent regardless of the cut. However, cooking times may vary between different cuts even at the same weight, so always adjust your air fryer settings accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion rate of 1 kg to 2.20462 pounds applies to all chicken cuts, including breasts, wings, and drumsticks. The weight conversion remains consistent regardless of the cut. However, cooking times may vary between different cuts even at the same weight, so always adjust your air fryer settings accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I adjust air fryer cooking time for 3.75 kg of chicken thighs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For 3.75 kg (approximately 8.27 pounds) of chicken thighs, you'll likely need to cook in batches to avoid overcrowding. Each batch typically takes 20-25 minutes at 200°C, flipping halfway through. Always check that the internal temperature reaches 75°C using a meat thermometer for food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For 3.75 kg (approximately 8.27 pounds) of chicken thighs, you'll likely need to cook in batches to avoid overcrowding. Each batch typically takes 20-25 minutes at 200°C, flipping halfway through. Always check that the internal temperature reaches 75°C using a meat thermometer for food safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "3.75 kg chicken thighs to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds",
+    "@type": "WebPage",
+    "name": "3.75 kg chicken thighs to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds",
     "description": "Convert 3.75 kg chicken thighs to pounds quickly and accurately with our simple guide. Perfect for air fryer meal prep and recipe scaling.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "3.75 kg chicken thighs to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/3-75-kg-chicken-thighs-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.75 kg of chicken thighs is equivalent to approximately 8.267 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging instructions use imperial measurements. Getting the weight right ensures your chicken thighs cook evenly and achieve that perfect crispy skin we all love. Whether you're meal prepping or cooking for a crowd, accurate conversions make all the difference. You can find more handy conversion tips at <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>airfryerrecipe.co.uk/air-fryer-conversion-chart</a>.</p>

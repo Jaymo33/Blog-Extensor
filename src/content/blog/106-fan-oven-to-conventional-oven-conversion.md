@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion"
-        },
-        "headline": "Quick 106 Fan Oven to Conventional Oven Conversion Guide",
-        "description": "Convert 106 fan oven to conventional oven temps easily with our simple guide. Perfect for air fryer recipes and traditional baking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion"
+    },
+    "headline": "Quick 106 Fan Oven to Conventional Oven Conversion Guide",
+    "description": "Convert 106 fan oven to conventional oven temps easily with our simple guide. Perfect for air fryer recipes and traditional baking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-23T18:19:54.581Z",
-        "dateModified": "2025-07-23T18:19:54.581Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/106-fan-oven-to-conventional-oven-conversion.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-23T18:19:54.581Z",
+    "dateModified": "2025-07-23T18:19:54.581Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/106-fan-oven-to-conventional-oven-conversion.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 106 fan oven to celsius for a conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 106°C fan oven to conventional oven celsius, add 15-20°C. This means 106°C fan equals approximately 121°C in a conventional oven. The exact conversion may vary slightly depending on your specific oven."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 106°C fan oven to conventional oven celsius, add 15-20°C. This means 106°C fan equals approximately 121°C in a conventional oven. The exact conversion may vary slightly depending on your specific oven."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers typically cook faster than even fan ovens, so you might need to reduce the temperature further. For 106°C fan oven recipes, try 95-100°C in your air fryer and check food frequently to prevent overcooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers typically cook faster than even fan ovens, so you might need to reduce the temperature further. For 106°C fan oven recipes, try 95-100°C in your air fryer and check food frequently to prevent overcooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do fan ovens cook at lower temperatures than conventional ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures. The moving air transfers heat more effectively to the food's surface, reducing the need for higher temperatures used in conventional ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures. The moving air transfers heat more effectively to the food's surface, reducing the need for higher temperatures used in conventional ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How important is temperature accuracy when converting oven settings?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Temperature accuracy is crucial, especially for baking. Even small differences can affect results. Always use an oven thermometer to verify temperatures, and consider that cooking times may need adjustment when converting between oven types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Temperature accuracy is crucial, especially for baking. Even small differences can affect results. Always use an oven thermometer to verify temperatures, and consider that cooking times may need adjustment when converting between oven types."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "106 Fan Oven to Conventional Oven Conversion",
-            "url": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion",
+    "@type": "WebPage",
+    "name": "106 Fan Oven to Conventional Oven Conversion",
+    "url": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion",
     "description": "Convert 106 fan oven to conventional oven temps easily with our simple guide. Perfect for air fryer recipes and traditional baking.",
     "inLanguage": "en",
     "datePublished": "2025-07-23T18:19:54.581000+00:00",
     "dateModified": "2025-07-23T18:19:54.581000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "106 Fan Oven to Conventional Oven Conversion",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/106-fan-oven-to-conventional-oven-conversion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>106°C in a fan oven equals approximately 121°C in a conventional oven. This conversion is essential for adapting recipes between different oven types, especially when using an air fryer. Fan ovens circulate hot air, cooking food faster and at lower temperatures than conventional ovens. Understanding this difference helps prevent overcooking and ensures perfect results every time.</p>

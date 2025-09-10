@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter"
-        },
-        "headline": "Quick Guide: Convert 0.5 Cups of Butter to Grams Easily",
-        "description": "Discover how to convert 0.5 cups of butter to grams for perfect baking every time. Get precise measurements and air fryer-friendly tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter"
+    },
+    "headline": "Quick Guide: Convert 0.5 Cups of Butter to Grams Easily",
+    "description": "Discover how to convert 0.5 cups of butter to grams for perfect baking every time. Get precise measurements and air fryer-friendly tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:23.479Z",
-        "dateModified": "2025-07-27T16:11:23.479Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:23.479Z",
+    "dateModified": "2025-07-27T16:11:23.479Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-cups-of-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 cups of butter the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.5 cups of butter is the same measurement in both the UK and USA, equating to approximately 113 grams. However, butter packaging and block sizes may differ slightly between regions, so weighing it is the most accurate method."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.5 cups of butter is the same measurement in both the UK and USA, equating to approximately 113 grams. However, butter packaging and block sizes may differ slightly between regions, so weighing it is the most accurate method."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use melted butter instead of solid for the 0.5 cups measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use melted butter, but measure it in its solid state first for accuracy. Melted butter fills the cup differently, so weighing 113 grams ensures you’re using the correct amount regardless of its form."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use melted butter, but measure it in its solid state first for accuracy. Melted butter fills the cup differently, so weighing 113 grams ensures you’re using the correct amount regardless of its form."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.5 cups of butter without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, use the markings on the butter wrapper. A standard stick of butter is often 113 grams (0.5 cups). Alternatively, fill a measuring cup halfway with butter, ensuring it’s level for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, use the markings on the butter wrapper. A standard stick of butter is often 113 grams (0.5 cups). Alternatively, fill a measuring cup halfway with butter, ensuring it’s level for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of butter affect the gram measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The gram measurement for 0.5 cups of butter remains consistent (113 grams) regardless of type (salted, unsalted, or cultured). However, flavoured or whipped butter may vary slightly in density, so weighing is best for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The gram measurement for 0.5 cups of butter remains consistent (113 grams) regardless of type (salted, unsalted, or cultured). However, flavoured or whipped butter may vary slightly in density, so weighing is best for precision."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 0.5 Cups of Butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.5 Cups of Butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter",
     "description": "Discover how to convert 0.5 cups of butter to grams for perfect baking every time. Get precise measurements and air fryer-friendly tips!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:23.479000+00:00",
     "dateModified": "2025-07-27T16:11:23.479000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 0.5 Cups of Butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-cups-of-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cups of butter equals approximately 113 grams. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can make or break a recipe. Whether you’re whipping up cookies or preparing a savoury dish, knowing how many grams 0.5 cups of butter translates to ensures consistency and delicious results.</p>

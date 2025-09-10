@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini"
-        },
-        "headline": "Quick & Easy 100g tahini to ounces conversion guide",
-        "description": "Convert 100g of tahini to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini"
+    },
+    "headline": "Quick & Easy 100g tahini to ounces conversion guide",
+    "description": "Convert 100g of tahini to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-tahini.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-tahini.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use volume measurements instead of weight for tahini?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use tablespoons or cups, weight measurements (like grams or ounces) are far more accurate for tahini due to its thick, sticky consistency. 100g of tahini equals roughly 6 tablespoons, but this can vary based on how it’s packed. For air fryer recipes, a kitchen scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use tablespoons or cups, weight measurements (like grams or ounces) are far more accurate for tahini due to its thick, sticky consistency. 100g of tahini equals roughly 6 tablespoons, but this can vary based on how it’s packed. For air fryer recipes, a kitchen scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of tahini affect the 100g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion from 100g to ounces (3.53 oz) remains the same regardless of the tahini brand. However, thicker or oilier tahini may measure slightly differently by volume, so weight is always the most reliable method."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion from 100g to ounces (3.53 oz) remains the same regardless of the tahini brand. However, thicker or oilier tahini may measure slightly differently by volume, so weight is always the most reliable method."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 100g of tahini last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An opened jar of tahini stays fresh for about 3–6 months in the fridge. Stir well before using, as separation is normal. If your 100g portion smells rancid or has mould, discard it immediately."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An opened jar of tahini stays fresh for about 3–6 months in the fridge. Stir well before using, as separation is normal. If your 100g portion smells rancid or has mould, discard it immediately."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze tahini in 100g portions?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, tahini freezes well for up to 6 months. Portion it into 100g (3.53 oz) amounts in airtight containers or ice cube trays for easy use in future air fryer recipes. Thaw in the fridge overnight before stirring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, tahini freezes well for up to 6 months. Portion it into 100g (3.53 oz) amounts in airtight containers or ice cube trays for easy use in future air fryer recipes. Thaw in the fridge overnight before stirring."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 100g of tahini?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of tahini?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini",
     "description": "Convert 100g of tahini to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 100g of tahini?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-tahini"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100g of tahini equals approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference in texture and flavour. Whether you’re making dips, dressings, or marinades, knowing how to convert 100g tahini to ounces ensures your dishes turn out perfectly every time.</p>

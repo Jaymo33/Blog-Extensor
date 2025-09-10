@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar"
-        },
-        "headline": "Quick Guide: Convert 1.75 Cups of Balsamic Vinegar to Ounces",
-        "description": "Learn how to convert 1.75 cups of balsamic vinegar to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar"
+    },
+    "headline": "Quick Guide: Convert 1.75 Cups of Balsamic Vinegar to Ounces",
+    "description": "Learn how to convert 1.75 cups of balsamic vinegar to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-balsamic-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-75-cups-of-balsamic-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.75 cups of balsamic vinegar the same as 14 ounces by weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there's a slight difference. While 1.75 cups equals 14 fluid ounces by volume, the weight is approximately 14.8 ounces due to balsamic vinegar's density. For most air fryer recipes, the 14 fluid ounce measurement works fine, but for precision baking or reductions, use weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there's a slight difference. While 1.75 cups equals 14 fluid ounces by volume, the weight is approximately 14.8 ounces due to balsamic vinegar's density. For most air fryer recipes, the 14 fluid ounce measurement works fine, but for precision baking or reductions, use weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.75 cups of balsamic vinegar without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have measuring cups, you can use a standard drinking glass (usually 8 oz) to approximate. 1.75 cups would be just under 2 glasses (16 oz total), so pour until about 1/8 of the second glass remains. Alternatively, use a kitchen scale - 14.8 oz equals 1.75 cups by weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have measuring cups, you can use a standard drinking glass (usually 8 oz) to approximate. 1.75 cups would be just under 2 glasses (16 oz total), so pour until about 1/8 of the second glass remains. Alternatively, use a kitchen scale - 14.8 oz equals 1.75 cups by weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other types of vinegar in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The volume conversion (1.75 cups = 14 fl oz) applies to all liquids, but weight varies. Thinner vinegars like white vinegar weigh slightly less - about 14 oz for 1.75 cups. Always check specific gravity if precision matters, especially for air fryer marinades where balance is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The volume conversion (1.75 cups = 14 fl oz) applies to all liquids, but weight varies. Thinner vinegars like white vinegar weigh slightly less - about 14 oz for 1.75 cups. Always check specific gravity if precision matters, especially for air fryer marinades where balance is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some UK recipes show different ounce measurements for 1.75 cups balsamic vinegar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "UK fluid ounces are about 4% larger than US fluid ounces. So 1.75 US cups (14 US fl oz) equals about 13.5 UK fluid ounces. Most modern UK recipes use metric measurements, but if working with older recipes, check which ounce standard they're using for accurate air fryer results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "UK fluid ounces are about 4% larger than US fluid ounces. So 1.75 US cups (14 US fl oz) equals about 13.5 UK fluid ounces. Most modern UK recipes use metric measurements, but if working with older recipes, check which ounce standard they're using for accurate air fryer results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.75 cups of balsamic vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.75 cups of balsamic vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar",
     "description": "Learn how to convert 1.75 cups of balsamic vinegar to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.75 cups of balsamic vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-75-cups-of-balsamic-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of balsamic vinegar equals approximately 14 fluid ounces (or 14.8 oz if measuring by weight). This conversion is essential for air fryer recipes, ensuring precise measurements for marinades, glazes, or dressings. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing this conversion helps maintain consistency.</p>

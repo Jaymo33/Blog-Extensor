@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds"
-        },
-        "headline": "Quick 4 kg Chicken Thighs to Pounds Conversion Guide",
-        "description": "Convert 4 kg chicken thighs to pounds instantly for perfect air fryer cooking. Get accurate measurements and cooking tips for delicious results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds"
+    },
+    "headline": "Quick 4 kg Chicken Thighs to Pounds Conversion Guide",
+    "description": "Convert 4 kg chicken thighs to pounds instantly for perfect air fryer cooking. Get accurate measurements and cooking tips for delicious results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T17:40:31.379Z",
-        "dateModified": "2025-08-22T17:40:31.379Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-chicken-thighs-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T17:40:31.379Z",
+    "dateModified": "2025-08-22T17:40:31.379Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-kg-chicken-thighs-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is exactly 4 kg of chicken thighs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "4 kg of chicken thighs equals exactly 8.81848 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For practical cooking purposes, most people round this to 8.82 pounds, which is perfectly accurate enough for recipe measurements and portioning. This conversion remains consistent regardless of whether you're working with chicken thighs, breasts, or any other cut of meat."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "4 kg of chicken thighs equals exactly 8.81848 pounds when using the precise conversion factor of 1 kilogram equals 2.20462 pounds. For practical cooking purposes, most people round this to 8.82 pounds, which is perfectly accurate enough for recipe measurements and portioning. This conversion remains consistent regardless of whether you're working with chicken thighs, breasts, or any other cut of meat."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Should I convert 4 kg chicken thighs to pounds before or after removing the bone?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You should always convert 4 kg chicken thighs to pounds based on the weight as you intend to cook them. If your chicken thighs are bone-in, convert the total weight including bones. If you've removed the bones first, use the deboned weight for your conversion. Most recipes specify whether they mean bone-in or boneless chicken, so follow their guidance for the most accurate results in your air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You should always convert 4 kg chicken thighs to pounds based on the weight as you intend to cook them. If your chicken thighs are bone-in, convert the total weight including bones. If you've removed the bones first, use the deboned weight for your conversion. Most recipes specify whether they mean bone-in or boneless chicken, so follow their guidance for the most accurate results in your air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does it take to air fry 4 kg of chicken thighs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooking 4 kg of chicken thighs in an air fryer typically takes 20-25 minutes at 200°C (400°F), but you'll need to cook in batches to avoid overcrowding. Since 4 kg is quite a large quantity, you might need 3-4 batches depending on your air fryer size. Always check that the internal temperature reaches 75°C (165°F) using a meat thermometer to ensure doneness and food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooking 4 kg of chicken thighs in an air fryer typically takes 20-25 minutes at 200°C (400°F), but you'll need to cook in batches to avoid overcrowding. Since 4 kg is quite a large quantity, you might need 3-4 batches depending on your air fryer size. Always check that the internal temperature reaches 75°C (165°F) using a meat thermometer to ensure doneness and food safety."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same 4 kg to pounds conversion for other types of chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion of 4 kg to pounds works exactly the same for all types of chicken including breasts, wings, drumsticks, or whole chickens. The conversion factor between kilograms and pounds remains constant regardless of what you're weighing. So whether you're converting 4 kg chicken thighs to pounds or 4 kg of chicken breasts, the result will always be approximately 8.82 pounds."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion of 4 kg to pounds works exactly the same for all types of chicken including breasts, wings, drumsticks, or whole chickens. The conversion factor between kilograms and pounds remains constant regardless of what you're weighing. So whether you're converting 4 kg chicken thighs to pounds or 4 kg of chicken breasts, the result will always be approximately 8.82 pounds."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "4 kg chicken thighs to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds",
+    "@type": "WebPage",
+    "name": "4 kg chicken thighs to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds",
     "description": "Convert 4 kg chicken thighs to pounds instantly for perfect air fryer cooking. Get accurate measurements and cooking tips for delicious results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T17:40:31.379000+00:00",
     "dateModified": "2025-08-22T17:40:31.379000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "4 kg chicken thighs to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/4-kg-chicken-thighs-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4 kg of chicken thighs equals approximately 8.82 pounds, making it essential knowledge for anyone cooking with an air fryer. Whether you're following a British recipe using metric measurements or an American one using imperial, getting this conversion right ensures your cooking times and temperatures work perfectly. This is particularly important for air fryer cooking, where precise quantities affect how evenly your food cooks. Understanding how to convert 4 kg chicken thighs to pounds means you can confidently tackle any recipe. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> at airfryerrecipe.co.uk.</p>

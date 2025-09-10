@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs"
-        },
-        "headline": "Quick Guide: Convert 3 tbsp of Breadcrumbs to Grams Easily",
-        "description": "Discover how to convert 3 tbsp of breadcrumbs to grams for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs"
+    },
+    "headline": "Quick Guide: Convert 3 tbsp of Breadcrumbs to Grams Easily",
+    "description": "Discover how to convert 3 tbsp of breadcrumbs to grams for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-breadcrumbs.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-breadcrumbs.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use panko instead of regular breadcrumbs for 3 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute panko for regular breadcrumbs, but note that panko is lighter. Three tablespoons of panko weigh around 15 grams, compared to 21 grams for standard breadcrumbs. Adjust accordingly for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute panko for regular breadcrumbs, but note that panko is lighter. Three tablespoons of panko weigh around 15 grams, compared to 21 grams for standard breadcrumbs. Adjust accordingly for your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 3 tbsp of breadcrumbs without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard tablespoon and lightly spoon the breadcrumbs in without packing them down. Level off the top with a knife for an accurate 3 tbsp measurement. This method should give you roughly 21 grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard tablespoon and lightly spoon the breadcrumbs in without packing them down. Level off the top with a knife for an accurate 3 tbsp measurement. This method should give you roughly 21 grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do fresh breadcrumbs weigh the same as dried ones?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fresh breadcrumbs are slightly heavier due to moisture content. Three tablespoons of fresh breadcrumbs may weigh closer to 25 grams. For precise results, it's best to weigh them or use dried breadcrumbs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fresh breadcrumbs are slightly heavier due to moisture content. Three tablespoons of fresh breadcrumbs may weigh closer to 25 grams. For precise results, it's best to weigh them or use dried breadcrumbs."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover breadcrumbs after measuring 3 tbsp?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Store leftover breadcrumbs in an airtight container or freezer bag. They’ll keep for up to 3 months. Just weigh them again after thawing, as moisture can affect the weight slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Store leftover breadcrumbs in an airtight container or freezer bag. They’ll keep for up to 3 months. Just weigh them again after thawing, as moisture can affect the weight slightly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 3 tbsp of breadcrumbs?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs",
+    "@type": "WebPage",
+    "name": "How many grams is 3 tbsp of breadcrumbs?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs",
     "description": "Discover how to convert 3 tbsp of breadcrumbs to grams for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 3 tbsp of breadcrumbs?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-breadcrumbs"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 tablespoons of breadcrumbs weigh approximately 21 grams. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're coating chicken, fish, or vegetables, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve crispy, golden perfection every time.</p>  

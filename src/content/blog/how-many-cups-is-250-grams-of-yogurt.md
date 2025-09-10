@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt"
-        },
-        "headline": "Quick Answer: How Many Cups Is 250 Grams of Yogurt?",
-        "description": "Discover how to convert 250 grams of yogurt to cups for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt"
+    },
+    "headline": "Quick Answer: How Many Cups Is 250 Grams of Yogurt?",
+    "description": "Discover how to convert 250 grams of yogurt to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:31:12.642Z",
-        "dateModified": "2025-07-26T21:31:12.642Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-yogurt.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:31:12.642Z",
+    "dateModified": "2025-07-26T21:31:12.642Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-250-grams-of-yogurt.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of yogurt affect how many cups 250 grams equals?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker yogurts like Greek or strained varieties are denser, so 250 grams may fill slightly less than a standard cup. For precise baking or marinades, weigh your yogurt instead of relying solely on cup measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker yogurts like Greek or strained varieties are denser, so 250 grams may fill slightly less than a standard cup. For precise baking or marinades, weigh your yogurt instead of relying solely on cup measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 250 grams of yogurt interchangeably with 1 cup in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In most cases, yes—250 grams of yogurt roughly equals 1 cup. However, for recipes requiring exact moisture balance (like cakes), weigh it for accuracy. Always check if the recipe specifies a yogurt type, as thickness varies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In most cases, yes—250 grams of yogurt roughly equals 1 cup. However, for recipes requiring exact moisture balance (like cakes), weigh it for accuracy. Always check if the recipe specifies a yogurt type, as thickness varies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 250 grams of yogurt to cups if I don’t have a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use the spoon-and-level method: lightly spoon yogurt into a measuring cup without packing it, then level off the top with a knife. This approximates 250 grams as 1 cup, though a scale is more reliable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use the spoon-and-level method: lightly spoon yogurt into a measuring cup without packing it, then level off the top with a knife. This approximates 250 grams as 1 cup, though a scale is more reliable."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes list yogurt in grams instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide precision, especially in baking, where ingredient ratios are critical. Cups can vary based on how ingredients are packed. For consistent air fryer results, weighing yogurt (and other ingredients) is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide precision, especially in baking, where ingredient ratios are critical. Cups can vary based on how ingredients are packed. For consistent air fryer results, weighing yogurt (and other ingredients) is recommended."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 250 Grams of Yogurt?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 250 Grams of Yogurt?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt",
     "description": "Discover how to convert 250 grams of yogurt to cups for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:12.642000+00:00",
     "dateModified": "2025-07-26T21:31:12.642000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 250 Grams of Yogurt?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-250-grams-of-yogurt"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250 grams of yogurt is approximately 1 cup in both UK and US measurements, though slight variations can occur based on yogurt thickness. If you're using an air fryer for recipes like cakes or marinades, precise measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we simplify conversions so you can focus on cooking. Whether you're whipping up a dessert or prepping a savoury dish, knowing how many cups 250 grams of yogurt equals is essential.</p>  

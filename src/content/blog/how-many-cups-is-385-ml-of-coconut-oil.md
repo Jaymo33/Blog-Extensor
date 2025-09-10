@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil"
-        },
-        "headline": "Quick Answer: How Many Cups Is 385 ml of Coconut Oil?",
-        "description": "Convert 385 ml of coconut oil to cups easily for baking and air frying. Get precise measurements for perfect recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil"
+    },
+    "headline": "Quick Answer: How Many Cups Is 385 ml of Coconut Oil?",
+    "description": "Convert 385 ml of coconut oil to cups easily for baking and air frying. Get precise measurements for perfect recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-coconut-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-coconut-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 385 ml of coconut oil the same as 1.63 cups in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 385 ml of coconut oil equals approximately 1.63 cups in both the UK and USA. While cup sizes can vary slightly between manufacturers, the difference is minimal for most cooking purposes. Always use standard measuring tools for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 385 ml of coconut oil equals approximately 1.63 cups in both the UK and USA. While cup sizes can vary slightly between manufacturers, the difference is minimal for most cooking purposes. Always use standard measuring tools for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 385 ml of coconut oil for deep frying in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers don't require large amounts of oil like traditional deep frying. 385 ml (1.63 cups) would be far too much for most air fryer recipes. Typically, you only need 1-2 tablespoons of coconut oil for air frying to achieve crispy results without excess grease."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers don't require large amounts of oil like traditional deep frying. 385 ml (1.63 cups) would be far too much for most air fryer recipes. Typically, you only need 1-2 tablespoons of coconut oil for air frying to achieve crispy results without excess grease."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover coconut oil after measuring out 385 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store unused coconut oil in an airtight container in a cool, dark place. If you've melted the entire 385 ml but only used part of it, you can let it solidify again before storing. Proper storage maintains quality for future use in baking or air frying."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store unused coconut oil in an airtight container in a cool, dark place. If you've melted the entire 385 ml but only used part of it, you can let it solidify again before storing. Proper storage maintains quality for future use in baking or air frying."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of coconut oil affect the 385 ml to cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same whether you're using refined or unrefined coconut oil. However, the oil's temperature (solid or liquid) might affect how it fills the measuring cup. For most accurate results, measure 385 ml by weight if possible - coconut oil weighs about 0.92g per ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same whether you're using refined or unrefined coconut oil. However, the oil's temperature (solid or liquid) might affect how it fills the measuring cup. For most accurate results, measure 385 ml by weight if possible - coconut oil weighs about 0.92g per ml."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 385 ml of Coconut Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 385 ml of Coconut Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil",
     "description": "Convert 385 ml of coconut oil to cups easily for baking and air frying. Get precise measurements for perfect recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 385 ml of Coconut Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-coconut-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>385 ml of coconut oil is approximately 1.63 cups. This conversion is essential for baking and air frying, where precise measurements can make or break your recipe. Whether you're whipping up a cake or crisping some veggies, knowing how to convert 385 ml of coconut oil to cups ensures consistent results every time.</p>

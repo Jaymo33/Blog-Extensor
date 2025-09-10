@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water"
-        },
-        "headline": "Quick Answer: How Many Ounces is 75g of Water?",
-        "description": "Discover how to convert 75g of water to ounces for precise air fryer cooking. Get accurate measurements and handy tips for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water"
+    },
+    "headline": "Quick Answer: How Many Ounces is 75g of Water?",
+    "description": "Discover how to convert 75g of water to ounces for precise air fryer cooking. Get accurate measurements and handy tips for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-75g-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to convert 75g of water to ounces for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 75g of water to ounces (2.65 oz) ensures precision in air fryer recipes. Since air fryers cook quickly and evenly, even small measurement errors can affect texture and consistency. Accurate liquid measurements help prevent soggy or overly dry results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 75g of water to ounces (2.65 oz) ensures precision in air fryer recipes. Since air fryers cook quickly and evenly, even small measurement errors can affect texture and consistency. Accurate liquid measurements help prevent soggy or overly dry results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for 75g of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Since 75g of water equals 75ml, you can use a measuring jug or even tablespoons. Five level tablespoons (15ml each) will give you roughly 75g. Just ensure your measurements are level for accuracy, especially in recipes like batters or marinades."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Since 75g of water equals 75ml, you can use a measuring jug or even tablespoons. Five level tablespoons (15ml each) will give you roughly 75g. Just ensure your measurements are level for accuracy, especially in recipes like batters or marinades."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 75g of water affect air fryer recipes like marinades?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In marinades, 75g of water (2.65 oz) helps distribute flavours evenly without making the mixture too watery. It’s enough to keep meats juicy while allowing spices and herbs to penetrate. Too much water can dilute flavours, so precise measurement is key."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In marinades, 75g of water (2.65 oz) helps distribute flavours evenly without making the mixture too watery. It’s enough to keep meats juicy while allowing spices and herbs to penetrate. Too much water can dilute flavours, so precise measurement is key."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are there any air fryer recipes where 75g of water is commonly used?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Recipes like light batters for crispy chicken or fish often use around 75g of water. It’s also handy for thinning sauces or creating steam for dishes like dumplings. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes page</a> for ideas tailored to your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Recipes like light batters for crispy chicken or fish often use around 75g of water. It’s also handy for thinning sauces or creating steam for dishes like dumplings. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes page</a> for ideas tailored to your air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water",
     "description": "Discover how to convert 75g of water to ounces for precise air fryer cooking. Get accurate measurements and handy tips for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-75g-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75 grams of water equals approximately 2.65 ounces. This conversion is essential for air fryer recipes that require precise liquid measurements, ensuring your dishes turn out perfectly every time. Whether you're making sauces, marinades, or even baking in your air fryer, knowing how to convert grams to ounces can make all the difference.</p>

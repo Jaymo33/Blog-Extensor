@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice"
-        },
-        "headline": "Quick Guide: Convert 60 ml of Orange Juice to Cups Easily",
-        "description": "Learn how to convert 60 ml of orange juice to cups for baking or cooking with this simple guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice"
+    },
+    "headline": "Quick Guide: Convert 60 ml of Orange Juice to Cups Easily",
+    "description": "Learn how to convert 60 ml of orange juice to cups for baking or cooking with this simple guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:31:16.570Z",
-        "dateModified": "2025-07-30T23:31:16.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-orange-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:31:16.570Z",
+    "dateModified": "2025-07-30T23:31:16.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-orange-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 60 ml of orange juice the same as 60 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 60 ml of orange juice is not the same as 60 grams. Milliliters measure volume, while grams measure weight. The weight of 60 ml of orange juice can vary slightly depending on its density (usually around 61–63 grams), but for most recipes, the difference is minimal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 60 ml of orange juice is not the same as 60 grams. Milliliters measure volume, while grams measure weight. The weight of 60 ml of orange juice can vary slightly depending on its density (usually around 61–63 grams), but for most recipes, the difference is minimal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled orange juice instead of fresh for 60 ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled orange juice works fine for measuring 60 ml (0.25 cups). However, fresh juice often has a brighter flavour. If using concentrated juice, dilute it as directed before measuring. For recipes like marinades, either option works—just adjust sugar or acidity if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled orange juice works fine for measuring 60 ml (0.25 cups). However, fresh juice often has a brighter flavour. If using concentrated juice, dilute it as directed before measuring. For recipes like marinades, either option works—just adjust sugar or acidity if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 60 ml of orange juice to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "60 ml of orange juice equals 4 tablespoons. This is handy if you don’t have a measuring cup. For accuracy, use a standard tablespoon (15 ml per tablespoon) and level off the juice for precise amounts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60 ml of orange juice equals 4 tablespoons. This is handy if you don’t have a measuring cup. For accuracy, use a standard tablespoon (15 ml per tablespoon) and level off the juice for precise amounts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes list orange juice in ml instead of cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes often use ml for precision, especially in baking or air fryer cooking, where small measurements matter. Cups can vary by region, but 60 ml (0.25 cups) is a universal standard. Always check the recipe’s origin to confirm which measuring system it uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes often use ml for precision, especially in baking or air fryer cooking, where small measurements matter. Cups can vary by region, but 60 ml (0.25 cups) is a universal standard. Always check the recipe’s origin to confirm which measuring system it uses."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 60 ml of Orange Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Orange Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice",
     "description": "Learn how to convert 60 ml of orange juice to cups for baking or cooking with this simple guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:16.570000+00:00",
     "dateModified": "2025-07-30T23:31:16.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 60 ml of Orange Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-orange-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>60 ml of orange juice equals approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise measurements in recipes, especially when using an air fryer where ingredient ratios matter. Whether you're baking a citrus-infused cake or marinating chicken, knowing how to convert 60 ml of orange juice to cups ensures consistency and great results.</p>

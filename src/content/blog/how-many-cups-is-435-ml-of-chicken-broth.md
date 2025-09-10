@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth"
-        },
-        "headline": "Quick Answer: How Many Cups Is 435 ml of Chicken Broth?",
-        "description": "Find out exactly how many cups 435 ml of chicken broth equals for perfect air fryer recipes every time. No more guesswork!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth"
+    },
+    "headline": "Quick Answer: How Many Cups Is 435 ml of Chicken Broth?",
+    "description": "Find out exactly how many cups 435 ml of chicken broth equals for perfect air fryer recipes every time. No more guesswork!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-chicken-broth.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-435-ml-of-chicken-broth.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 435 ml of chicken broth the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 435 ml of chicken broth is the same volume in both the UK and USA. However, cup sizes differ slightly: the UK uses 250 ml per cup, while the USA uses 236.59 ml. For 435 ml, this means roughly 1.74 UK cups or 1.84 US cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 435 ml of chicken broth is the same volume in both the UK and USA. However, cup sizes differ slightly: the UK uses 250 ml per cup, while the USA uses 236.59 ml. For 435 ml, this means roughly 1.74 UK cups or 1.84 US cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use vegetable broth instead of chicken broth in the same amount?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! You can substitute vegetable broth for chicken broth in equal amounts, including 435 ml (1.84 cups). The flavour profile will change slightly, but the liquid measurement remains the same. This swap works well in most air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! You can substitute vegetable broth for chicken broth in equal amounts, including 435 ml (1.84 cups). The flavour profile will change slightly, but the liquid measurement remains the same. This swap works well in most air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 435 ml of chicken broth without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring jug, use a kitchen scale. Since chicken broth has a similar density to water, 435 ml weighs about 435 grams. Alternatively, use a standard tablespoon (15 ml) and measure out 29 tablespoons to reach 435 ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring jug, use a kitchen scale. Since chicken broth has a similar density to water, 435 ml weighs about 435 grams. Alternatively, use a standard tablespoon (15 ml) and measure out 29 tablespoons to reach 435 ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to reduce 435 ml of chicken broth for a thicker sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To reduce 435 ml of chicken broth, simmer it in a pan over low heat until it reaches your desired consistency. This can take 15-30 minutes, depending on how thick you want it. Stir occasionally to prevent sticking or burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To reduce 435 ml of chicken broth, simmer it in a pan over low heat until it reaches your desired consistency. This can take 15-30 minutes, depending on how thick you want it. Stir occasionally to prevent sticking or burning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 435 ml of Chicken Broth?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 435 ml of Chicken Broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth",
     "description": "Find out exactly how many cups 435 ml of chicken broth equals for perfect air fryer recipes every time. No more guesswork!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 435 ml of Chicken Broth?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-435-ml-of-chicken-broth"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>435 ml of chicken broth equals approximately 1.84 cups. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're making soups, stews, or marinades, knowing how to convert 435 ml of chicken broth to cups ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you get the measurements right for flawless cooking every time.</p>

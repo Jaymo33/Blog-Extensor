@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 50g of Caster Sugar to Ounces Easily",
-        "description": "Learn how to convert 50g of caster sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 50g of Caster Sugar to Ounces Easily",
+    "description": "Learn how to convert 50g of caster sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-caster-sugar-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-caster-sugar-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 50g of caster sugar the same as 50g of granulated sugar in weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 50g of caster sugar and 50g of granulated sugar weigh the same (1.76 oz). However, caster sugar is finer, so it occupies slightly less volume. For air fryer recipes, caster sugar blends better, ensuring even sweetness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 50g of caster sugar and 50g of granulated sugar weigh the same (1.76 oz). However, caster sugar is finer, so it occupies slightly less volume. For air fryer recipes, caster sugar blends better, ensuring even sweetness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store caster sugar to keep it fresh for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store caster sugar in an airtight container in a cool, dry place. Moisture can cause clumping, which affects measurements. For long-term freshness, avoid storing it near the stove or in humid areas."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store caster sugar in an airtight container in a cool, dry place. Moisture can cause clumping, which affects measurements. For long-term freshness, avoid storing it near the stove or in humid areas."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 50g of caster sugar in savoury air fryer dishes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While uncommon, a small amount (like 50g) can balance acidity in glazes or marinades. For example, a honey-soy glaze might include caster sugar for caramelisation. Use sparingly to avoid overpowering flavours."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While uncommon, a small amount (like 50g) can balance acidity in glazes or marinades. For example, a honey-soy glaze might include caster sugar for caramelisation. Use sparingly to avoid overpowering flavours."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify caster sugar instead of granulated?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Caster sugar dissolves faster, creating smoother batters and even browning. In air fryers, where cooking is rapid, this ensures consistent texture. Granulated sugar can leave a grittier finish in delicate bakes like sponges."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Caster sugar dissolves faster, creating smoother batters and even browning. In air fryers, where cooking is rapid, this ensures consistent texture. Granulated sugar can leave a grittier finish in delicate bakes like sponges."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 50g of caster sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 50g of caster sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces",
     "description": "Learn how to convert 50g of caster sugar to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 50g of caster sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/50g-caster-sugar-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50g of caster sugar equals approximately 1.76 ounces. This conversion is essential for anyone using an air fryer, especially when following British recipes that require precise measurements. Whether you're baking cakes or whipping up desserts, knowing how to convert grams to ounces ensures your dishes turn out perfectly every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk"
-        },
-        "headline": "Quick Answer: How Many Cups Is 585 ml of Almond Milk?",
-        "description": "Discover how to convert 585 ml of almond milk to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 585 ml of Almond Milk?",
+    "description": "Discover how to convert 585 ml of almond milk to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-585-ml-of-almond-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-585-ml-of-almond-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 585 ml of almond milk the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 585 ml converts to approximately 2.47 cups in both systems, UK and US cup measurements differ slightly. A UK cup is 284 ml, while a US cup is 240 ml. For most recipes, this small difference won’t affect the outcome, but for precise baking, it’s best to stick to one measurement system."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 585 ml converts to approximately 2.47 cups in both systems, UK and US cup measurements differ slightly. A UK cup is 284 ml, while a US cup is 240 ml. For most recipes, this small difference won’t affect the outcome, but for precise baking, it’s best to stick to one measurement system."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 585 ml of almond milk instead of regular milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Almond milk works as a 1:1 substitute for regular milk in most air fryer recipes. Just remember that 585 ml of almond milk equals about 2.47 cups. The main difference is that almond milk might produce slightly less browning in baked goods due to its lower protein content."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Almond milk works as a 1:1 substitute for regular milk in most air fryer recipes. Just remember that 585 ml of almond milk equals about 2.47 cups. The main difference is that almond milk might produce slightly less browning in baked goods due to its lower protein content."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 585 ml of almond milk without any tools?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have measuring tools, you can estimate 585 ml of almond milk using common household items. Two standard UK mugs (about 284 ml each) will give you roughly 568 ml – just add another tablespoon to reach 585 ml. Alternatively, use a 500 ml water bottle and fill it to about 85% full for the remaining 85 ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have measuring tools, you can estimate 585 ml of almond milk using common household items. Two standard UK mugs (about 284 ml each) will give you roughly 568 ml – just add another tablespoon to reach 585 ml. Alternatively, use a 500 ml water bottle and fill it to about 85% full for the remaining 85 ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ml while others use cups for almond milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different countries prefer different measurement systems – the UK typically uses millilitres, while the US favours cups. At airfryerrecipe.co.uk, we provide both where possible. For air fryer cooking, millilitres are often more precise, especially for liquids like almond milk where accuracy affects texture and consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different countries prefer different measurement systems – the UK typically uses millilitres, while the US favours cups. At airfryerrecipe.co.uk, we provide both where possible. For air fryer cooking, millilitres are often more precise, especially for liquids like almond milk where accuracy affects texture and consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 585 ml of Almond Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 585 ml of Almond Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk",
     "description": "Discover how to convert 585 ml of almond milk to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 585 ml of Almond Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-almond-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>585 ml of almond milk equals approximately 2.47 cups. This conversion is essential for air fryer recipes, ensuring accuracy whether you're baking cakes or preparing savoury dishes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in achieving perfect results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour"
-        },
-        "headline": "Quick Guide: Convert 15g of Cornflour to Ounces Easily",
-        "description": "Learn how to convert 15g of cornflour to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour"
+    },
+    "headline": "Quick Guide: Convert 15g of Cornflour to Ounces Easily",
+    "description": "Learn how to convert 15g of cornflour to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-cornflour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-15g-of-cornflour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of cornflour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the results will differ. Cornflour creates a crispier, lighter coating, while plain flour may be denser. For best results, stick to cornflour when the recipe calls for it, especially in crispy dishes like fried chicken or tempura."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the results will differ. Cornflour creates a crispier, lighter coating, while plain flour may be denser. For best results, stick to cornflour when the recipe calls for it, especially in crispy dishes like fried chicken or tempura."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert larger amounts of cornflour from grams to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert larger quantities, multiply the grams by 0.0353. For example, 100g of cornflour equals 3.53 ounces. Always double-check with a reliable conversion tool or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert larger quantities, multiply the grams by 0.0353. For example, 100g of cornflour equals 3.53 ounces. Always double-check with a reliable conversion tool or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer coating turn out soggy?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sogginess often results from overcrowding the air fryer basket or using too much oil. Ensure your cornflour coating is light and even, and cook in batches if needed. Preheating the air fryer can also help achieve a crispier texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sogginess often results from overcrowding the air fryer basket or using too much oil. Ensure your cornflour coating is light and even, and cook in batches if needed. Preheating the air fryer can also help achieve a crispier texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is cornflour the same as cornstarch in the UK?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, in the UK, cornflour and cornstarch refer to the same product. It’s a fine, white powder used for thickening and coating. Always check labels if you’re using imported products, as terminology can vary by region."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, in the UK, cornflour and cornstarch refer to the same product. It’s a fine, white powder used for thickening and coating. Always check labels if you’re using imported products, as terminology can vary by region."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 15g of cornflour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour",
+    "@type": "WebPage",
+    "name": "How many ounces is 15g of cornflour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour",
     "description": "Learn how to convert 15g of cornflour to ounces for precise air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 15g of cornflour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-15g-of-cornflour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>15g of cornflour equals approximately 0.53 ounces. This conversion is essential for air fryer recipes where precision matters, especially when baking or coating ingredients. Whether you're making crispy fried chicken or light, fluffy cakes, knowing how to convert grams to ounces ensures consistent results every time.</p>  

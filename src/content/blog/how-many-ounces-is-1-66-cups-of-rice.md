@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice"
-        },
-        "headline": "Quickly Convert 1.66 Cups of Rice to Ounces for Perfect Cooking",
-        "description": "Discover how many ounces are in 1.66 cups of rice for flawless air fryer meals. Get accurate conversions and cooking tips in seconds.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice"
+    },
+    "headline": "Quickly Convert 1.66 Cups of Rice to Ounces for Perfect Cooking",
+    "description": "Discover how many ounces are in 1.66 cups of rice for flawless air fryer meals. Get accurate conversions and cooking tips in seconds.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-20T00:27:11.141Z",
-        "dateModified": "2025-08-20T00:27:11.141Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-20T00:27:11.141Z",
+    "dateModified": "2025-08-20T00:27:11.141Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-of-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is the weight different for different types of rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the weight can vary slightly depending on the type and grain of rice. Long-grain white rice, which is the standard used for the 8 ounces per cup measurement, is a common benchmark. However, short-grain or brown rice may have a different density, meaning a cup could weigh a little more or less. For absolute precision, especially in baking, it's always best to weigh your rice rather than rely on cup measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the weight can vary slightly depending on the type and grain of rice. Long-grain white rice, which is the standard used for the 8 ounces per cup measurement, is a common benchmark. However, short-grain or brown rice may have a different density, meaning a cup could weigh a little more or less. For absolute precision, especially in baking, it's always best to weigh your rice rather than rely on cup measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why should I weigh rice instead of using measuring cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing rice with a digital scale is far more accurate than using measuring cups because it eliminates human error. How you scoop rice into a cup—whether you pack it down or spoon it in lightly—can significantly change the actual volume and weight you end up with. A scale gives you a consistent, precise measurement every time, which is crucial for recipe success, especially in air frying where exact quantities affect cooking time and texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing rice with a digital scale is far more accurate than using measuring cups because it eliminates human error. How you scoop rice into a cup—whether you pack it down or spoon it in lightly—can significantly change the actual volume and weight you end up with. A scale gives you a consistent, precise measurement every time, which is crucial for recipe success, especially in air frying where exact quantities affect cooking time and texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for cooked rice as well?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, this conversion specifically applies to uncooked rice. When rice is cooked, it absorbs water and increases in volume and weight dramatically. One cup of uncooked rice typically yields about three cups of cooked rice. Therefore, the conversion of 1.66 cups of uncooked rice to 13.28 ounces does not apply to cooked rice, which would be much heavier for the same volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, this conversion specifically applies to uncooked rice. When rice is cooked, it absorbs water and increases in volume and weight dramatically. One cup of uncooked rice typically yields about three cups of cooked rice. Therefore, the conversion of 1.66 cups of uncooked rice to 13.28 ounces does not apply to cooked rice, which would be much heavier for the same volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "My recipe is in grams; how do I convert 1.66 cups of rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Since 1.66 cups of rice is approximately 13.28 ounces, you can easily convert this to grams. One ounce is equal to roughly 28.35 grams. Therefore, 13.28 ounces multiplied by 28.35 gives you about 377 grams. So, 1.66 cups of uncooked long-grain white rice weighs approximately 377 grams. Using a scale that measures in grams is often preferred for its precision in international recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since 1.66 cups of rice is approximately 13.28 ounces, you can easily convert this to grams. One ounce is equal to roughly 28.35 grams. Therefore, 13.28 ounces multiplied by 28.35 gives you about 377 grams. So, 1.66 cups of uncooked long-grain white rice weighs approximately 377 grams. Using a scale that measures in grams is often preferred for its precision in international recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice",
     "description": "Discover how many ounces are in 1.66 cups of rice for flawless air fryer meals. Get accurate conversions and cooking tips in seconds.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-of-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>If you have ever wondered how many ounces is 1.66 cups of rice, the straightforward answer is approximately 13.28 ounces. This conversion is based on the standard that one cup of uncooked, long-grain white rice weighs about 8 ounces, making the calculation for 1.66 cups a simple multiplication task. Getting this measurement right is absolutely crucial when you are preparing meals in your air fryer, as precise quantities ensure even cooking and perfect results every single time. Whether you are meal prepping for the week or cooking a family dinner, knowing your conversions takes the guesswork out of the kitchen. For a huge range of recipes that use precise measurements like this, be sure to explore the fantastic collection at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a>.</p>

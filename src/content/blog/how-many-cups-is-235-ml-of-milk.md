@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk"
-        },
-        "headline": "Quick Guide: Convert 235 ml of Milk to Cups Easily",
-        "description": "Learn how to convert 235 ml of milk to cups for baking and cooking with this simple guide. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk"
+    },
+    "headline": "Quick Guide: Convert 235 ml of Milk to Cups Easily",
+    "description": "Learn how to convert 235 ml of milk to cups for baking and cooking with this simple guide. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-235-ml-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 235 ml of milk the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In the UK, 235 ml of milk is just under 1 cup (since 1 UK cup = 250 ml). In the US, it’s closer to 1 cup (240 ml per cup). Always check whether your recipe uses UK or US measurements for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the UK, 235 ml of milk is just under 1 cup (since 1 UK cup = 250 ml). In the US, it’s closer to 1 cup (240 ml per cup). Always check whether your recipe uses UK or US measurements for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a scale to measure 235 ml of milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Milk weighs roughly 1 gram per millilitre, so 235 ml equals about 235 grams. This method is great for precision, especially in baking. Just ensure your scale is set to grams for accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Milk weighs roughly 1 gram per millilitre, so 235 ml equals about 235 grams. This method is great for precision, especially in baking. Just ensure your scale is set to grams for accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of milk affect the 235 ml to cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the volume remains the same whether you use whole, skimmed, or plant-based milk. However, fat content can change the recipe’s texture. Stick to 235 ml unless the recipe suggests otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the volume remains the same whether you use whole, skimmed, or plant-based milk. However, fat content can change the recipe’s texture. Stick to 235 ml unless the recipe suggests otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 235 ml of milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use a tablespoon (15 ml) – 235 ml is about 16 tablespoons. Alternatively, use a kitchen scale (235 grams) or a standard drinking glass (if you know its volume). For best results, invest in a measuring jug."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use a tablespoon (15 ml) – 235 ml is about 16 tablespoons. Alternatively, use a kitchen scale (235 grams) or a standard drinking glass (if you know its volume). For best results, invest in a measuring jug."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 235 ml of Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 235 ml of Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk",
     "description": "Learn how to convert 235 ml of milk to cups for baking and cooking with this simple guide. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 235 ml of Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-235-ml-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>235 ml of milk is approximately 1 cup in UK measurements and just under 1 cup (about 0.99 cups) in US measurements. Whether you're baking a cake or whipping up a creamy sauce in your air fryer, getting the milk measurement right is key to perfect results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know how important precise measurements are for air fryer cooking, so let’s break it down.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 75g of Cornflour to Ounces Easily",
-        "description": "Learn how to convert 75g of cornflour to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 75g of Cornflour to Ounces Easily",
+    "description": "Learn how to convert 75g of cornflour to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-cornflour-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-cornflour-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 75g of cornflour the same as 75g of plain flour in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 75g of cornflour and 75g of plain flour both equal 2.65 ounces in weight, but they behave differently in recipes. Cornflour is lighter and more powdery, so it takes up more volume than plain flour. This affects texture, especially in air fryer coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 75g of cornflour and 75g of plain flour both equal 2.65 ounces in weight, but they behave differently in recipes. Cornflour is lighter and more powdery, so it takes up more volume than plain flour. This affects texture, especially in air fryer coatings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of scales for 75g of cornflour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, it's not ideal. 75g of cornflour is roughly 10 level tablespoons, but scooping methods can vary the amount significantly. For air fryer recipes where precision matters, digital scales give the most accurate 2.65-ounce measurement. This ensures consistent results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, it's not ideal. 75g of cornflour is roughly 10 level tablespoons, but scooping methods can vary the amount significantly. For air fryer recipes where precision matters, digital scales give the most accurate 2.65-ounce measurement. This ensures consistent results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some air fryer recipes specifically use cornflour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cornflour creates an exceptionally crispy texture in air fryers because it absorbs moisture better than plain flour. When you use 75g (2.65 oz) of cornflour for coatings, it results in a lighter, crunchier finish that mimics deep-frying. It's also great for gluten-free cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cornflour creates an exceptionally crispy texture in air fryers because it absorbs moisture better than plain flour. When you use 75g (2.65 oz) of cornflour for coatings, it results in a lighter, crunchier finish that mimics deep-frying. It's also great for gluten-free cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I adjust cooking time when using 75g of cornflour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes using 75g of cornflour typically cook at the same temperature but may need slightly less time than those with plain flour. Start checking 2-3 minutes earlier, as cornflour coatings brown faster. The exact time depends on your air fryer model and the food being cooked."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes using 75g of cornflour typically cook at the same temperature but may need slightly less time than those with plain flour. Start checking 2-3 minutes earlier, as cornflour coatings brown faster. The exact time depends on your air fryer model and the food being cooked."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of cornflour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of cornflour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces",
     "description": "Learn how to convert 75g of cornflour to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of cornflour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/75g-cornflour-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of cornflour equals approximately 2.65 ounces. This conversion is handy for air fryer recipes, where precise measurements can make all the difference. Whether you're coating chicken or thickening a sauce, knowing how to convert 75g of cornflour to ounces ensures your dish turns out perfectly every time.</p>

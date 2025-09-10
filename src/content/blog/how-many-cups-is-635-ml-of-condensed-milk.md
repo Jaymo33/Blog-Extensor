@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk"
-        },
-        "headline": "Quick Guide: Convert 635 ml of Condensed Milk to Cups Easily",
-        "description": "Learn how to convert 635 ml of condensed milk to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk"
+    },
+    "headline": "Quick Guide: Convert 635 ml of Condensed Milk to Cups Easily",
+    "description": "Learn how to convert 635 ml of condensed milk to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-635-ml-of-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 635 ml of condensed milk the same as one tin?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, in the UK, condensed milk is commonly sold in 635 ml tins, which is roughly 2.68 US cups or 2.23 UK metric cups. This standard size makes it easy to follow recipes without needing to measure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, in the UK, condensed milk is commonly sold in 635 ml tins, which is roughly 2.68 US cups or 2.23 UK metric cups. This standard size makes it easy to follow recipes without needing to measure."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use evaporated milk instead of condensed milk in a 635 ml measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk and condensed milk aren't interchangeable. Condensed milk is sweetened and much thicker. Using evaporated milk would require adding sugar and reducing the liquid, which changes the recipe entirely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk and condensed milk aren't interchangeable. Condensed milk is sweetened and much thicker. Using evaporated milk would require adding sugar and reducing the liquid, which changes the recipe entirely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 635 ml of condensed milk without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring jug, you can use standard cups. For US measurements, 635 ml equals about 2 2/3 cups. For UK measurements, it's roughly 2 1/4 cups. A kitchen scale set to grams (635 ml weighs about 800g) is even more accurate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring jug, you can use standard cups. For US measurements, 635 ml equals about 2 2/3 cups. For UK measurements, it's roughly 2 1/4 cups. A kitchen scale set to grams (635 ml weighs about 800g) is even more accurate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air fryer desserts with condensed milk cook faster than the recipe states?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers heat more intensely than conventional ovens, and condensed milk's high sugar content caramelises quickly. Always check desserts 5-10 minutes before the suggested time, and consider reducing the temperature by 10-15°C if browning too fast."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers heat more intensely than conventional ovens, and condensed milk's high sugar content caramelises quickly. Always check desserts 5-10 minutes before the suggested time, and consider reducing the temperature by 10-15°C if browning too fast."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 635 ml of Condensed Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 635 ml of Condensed Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk",
     "description": "Learn how to convert 635 ml of condensed milk to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 635 ml of Condensed Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-635-ml-of-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>635 ml of condensed milk is approximately 2.68 cups in the US measurement system and roughly 2.23 cups in the UK metric cup system. Whether you're baking a cake or whipping up a dessert in your air fryer, knowing this conversion ensures your recipes turn out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break a dish, especially when working with rich ingredients like condensed milk.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats"
-        },
-        "headline": "Quick Guide: Convert 475 Grams of Rolled Oats to Cups Easily",
-        "description": "Learn how to convert 475 grams of rolled oats to cups for perfect baking and air frying every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats"
+    },
+    "headline": "Quick Guide: Convert 475 Grams of Rolled Oats to Cups Easily",
+    "description": "Learn how to convert 475 grams of rolled oats to cups for perfect baking and air frying every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T22:50:31.097Z",
-        "dateModified": "2025-07-26T22:50:31.097Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-rolled-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T22:50:31.097Z",
+    "dateModified": "2025-07-26T22:50:31.097Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-475-grams-of-rolled-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 475 grams of rolled oats to cups without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, fluff the rolled oats with a spoon before lightly scooping them into a measuring cup. Avoid packing them down, as this can lead to an inaccurate measurement. 475 grams of rolled oats is roughly 5.5 cups when measured this way."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, fluff the rolled oats with a spoon before lightly scooping them into a measuring cup. Avoid packing them down, as this can lead to an inaccurate measurement. 475 grams of rolled oats is roughly 5.5 cups when measured this way."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rolled oats affect the cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker rolled oats may take up slightly more space, while finer ones can settle more densely. However, the difference is minimal for most recipes. For precise baking or air frying, weighing your oats is always best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker rolled oats may take up slightly more space, while finer ones can settle more densely. However, the difference is minimal for most recipes. For precise baking or air frying, weighing your oats is always best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 475 grams of rolled oats in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Rolled oats work well in air fryer recipes like granola, oat bars, or even savoury coatings. Just ensure they’re spread evenly in the basket for consistent cooking. Check our recipes for inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Rolled oats work well in air fryer recipes like granola, oat bars, or even savoury coatings. Just ensure they’re spread evenly in the basket for consistent cooking. Check our recipes for inspiration."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover rolled oats after measuring 475 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store rolled oats in an airtight container in a cool, dry place to maintain freshness. They can last for several months this way. For longer storage, consider keeping them in the fridge or freezer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store rolled oats in an airtight container in a cool, dry place to maintain freshness. They can last for several months this way. For longer storage, consider keeping them in the fridge or freezer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 475 Grams of Rolled Oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 475 Grams of Rolled Oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats",
     "description": "Learn how to convert 475 grams of rolled oats to cups for perfect baking and air frying every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T22:50:31.097000+00:00",
     "dateModified": "2025-07-26T22:50:31.097000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 475 Grams of Rolled Oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-475-grams-of-rolled-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>475 grams of rolled oats equals approximately 5.5 cups. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making overnight oats, granola, or air-fried oat bars, knowing the exact measurement helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can focus on cooking.</p>  

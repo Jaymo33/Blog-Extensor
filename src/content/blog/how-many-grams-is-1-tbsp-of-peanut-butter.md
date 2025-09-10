@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter"
-        },
-        "headline": "Quick Answer: How Many Grams in 1 Tbsp Peanut Butter?",
-        "description": "Find out exactly how many grams are in 1 tbsp of peanut butter for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter"
+    },
+    "headline": "Quick Answer: How Many Grams in 1 Tbsp Peanut Butter?",
+    "description": "Find out exactly how many grams are in 1 tbsp of peanut butter for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-peanut-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-peanut-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of peanut butter affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of peanut butter can slightly affect the weight. Smooth peanut butter is typically denser and may weigh closer to 16-17 grams per tablespoon, while crunchy varieties often weigh 14-15 grams due to air pockets from peanut pieces. Natural peanut butter with oil separation may also vary if not properly stirred before measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of peanut butter can slightly affect the weight. Smooth peanut butter is typically denser and may weigh closer to 16-17 grams per tablespoon, while crunchy varieties often weigh 14-15 grams due to air pockets from peanut pieces. Natural peanut butter with oil separation may also vary if not properly stirred before measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure peanut butter without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without a scale, use a standard tablespoon and lightly pack the peanut butter without pressing too firmly. Level off the top with a straight-edged knife for an approximate 16-gram measurement. For sticky peanut butter, lightly grease the spoon first to help it slide off cleanly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without a scale, use a standard tablespoon and lightly pack the peanut butter without pressing too firmly. Level off the top with a straight-edged knife for an approximate 16-gram measurement. For sticky peanut butter, lightly grease the spoon first to help it slide off cleanly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use grams instead of tablespoons for peanut butter?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes often use grams for greater accuracy, especially in baking where precise ratios matter. Peanut butter can be difficult to measure consistently by volume due to its sticky texture. Weight measurements ensure the same amount is used every time, which is crucial for air fryer recipes where cooking times are precise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes often use grams for greater accuracy, especially in baking where precise ratios matter. Peanut butter can be difficult to measure consistently by volume due to its sticky texture. Weight measurements ensure the same amount is used every time, which is crucial for air fryer recipes where cooking times are precise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other nut butters in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While almond butter and cashew butter have similar densities to peanut butter (about 16g per tbsp), thicker butters like tahini or sunflower seed butter may weigh slightly more. Always check specific conversions for alternative nut butters, especially when adapting air fryer recipes that rely on precise measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While almond butter and cashew butter have similar densities to peanut butter (about 16g per tbsp), thicker butters like tahini or sunflower seed butter may weigh slightly more. Always check specific conversions for alternative nut butters, especially when adapting air fryer recipes that rely on precise measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of peanut butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of peanut butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter",
     "description": "Find out exactly how many grams are in 1 tbsp of peanut butter for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of peanut butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-peanut-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>One tablespoon (1 tbsp) of peanut butter weighs approximately 16 grams, though this can vary slightly depending on the brand and consistency. Whether you're whipping up a quick snack or a full meal in your air fryer, accurate measurements ensure perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know that precision matters, especially when converting between volume and weight for ingredients like peanut butter.</p>  

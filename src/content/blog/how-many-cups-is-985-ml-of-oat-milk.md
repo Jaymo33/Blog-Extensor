@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk"
-        },
-        "headline": "Quick Guide: Convert 985 ml of Oat Milk to Cups Easily",
-        "description": "Learn how to convert 985 ml of oat milk to cups for perfect baking and cooking every time. Simple, accurate measurements for UK and US cups.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk"
+    },
+    "headline": "Quick Guide: Convert 985 ml of Oat Milk to Cups Easily",
+    "description": "Learn how to convert 985 ml of oat milk to cups for perfect baking and cooking every time. Simple, accurate measurements for UK and US cups.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-oat-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-985-ml-of-oat-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 985 ml of oat milk the same as 1 litre?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 985 ml of oat milk is just under a litre. A full litre is 1000 ml, so 985 ml is 15 ml less. This small difference might not matter in some recipes, but for precise baking, it's best to measure accurately."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 985 ml of oat milk is just under a litre. A full litre is 1000 ml, so 985 ml is 15 ml less. This small difference might not matter in some recipes, but for precise baking, it's best to measure accurately."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 985 ml of oat milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but ensure you know whether your recipe uses US or UK cup measurements. A US cup is 240 ml, so 985 ml equals roughly 4.16 cups. A UK cup is 284 ml, making 985 ml about 3.46 cups. For best results, use a measuring jug."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but ensure you know whether your recipe uses US or UK cup measurements. A US cup is 240 ml, so 985 ml equals roughly 4.16 cups. A UK cup is 284 ml, making 985 ml about 3.46 cups. For best results, use a measuring jug."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does oat milk measure the same as dairy milk in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, oat milk has a similar density to dairy milk, so 985 ml of oat milk equals the same volume in cups as cow's milk. However, oat milk is slightly thinner, which may affect texture in some recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, oat milk has a similar density to dairy milk, so 985 ml of oat milk equals the same volume in cups as cow's milk. However, oat milk is slightly thinner, which may affect texture in some recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 985 ml of oat milk without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a jug, use standard cups. In the US, 4 cups plus 2 tablespoons will get you close to 985 ml. In the UK, use 3 and a half cups. For precision, a kitchen scale set to grams (985g) also works."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a jug, use standard cups. In the US, 4 cups plus 2 tablespoons will get you close to 985 ml. In the UK, use 3 and a half cups. For precision, a kitchen scale set to grams (985g) also works."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 985 ml of Oat Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 985 ml of Oat Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk",
     "description": "Learn how to convert 985 ml of oat milk to cups for perfect baking and cooking every time. Simple, accurate measurements for UK and US cups.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 985 ml of Oat Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-985-ml-of-oat-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>985 ml of oat milk is roughly 4.16 cups in the US measurement system and 3.46 cups in the UK. Whether you're whipping up a cake, preparing a creamy sauce, or experimenting with air fryer recipes, knowing this conversion ensures accuracy. Oat milk is a popular dairy-free alternative, and measuring it correctly can make or break your dish. For more air fryer-friendly recipes, check out <a href=https://www.airfryerrecipe.co.uk/recipes>our recipe collection</a>.</p>  

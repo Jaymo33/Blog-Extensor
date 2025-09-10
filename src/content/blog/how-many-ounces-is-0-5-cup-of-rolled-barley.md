@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley"
-        },
-        "headline": "Quick Guide: Convert 0.5 Cup Rolled Barley to Ounces Easily",
-        "description": "Discover how many ounces are in 0.5 cup of rolled barley for perfect air fryer recipes every time. Get accurate conversions now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley"
+    },
+    "headline": "Quick Guide: Convert 0.5 Cup Rolled Barley to Ounces Easily",
+    "description": "Discover how many ounces are in 0.5 cup of rolled barley for perfect air fryer recipes every time. Get accurate conversions now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-rolled-barley.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-of-rolled-barley.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use quick-cooking barley instead of rolled barley in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but quick-cooking barley has a different texture and may require less time in the air fryer. Adjust measurements slightly, as 0.5 cup of quick-cooking barley weighs about 1.4 ounces. Always check for doneness earlier to avoid overcooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but quick-cooking barley has a different texture and may require less time in the air fryer. Adjust measurements slightly, as 0.5 cup of quick-cooking barley weighs about 1.4 ounces. Always check for doneness earlier to avoid overcooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover rolled barley for air frying later?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooked rolled barley can be refrigerated for up to 5 days in an airtight container. For longer storage, freeze it in portions. When ready to use, reheat in the air fryer at 160°C for 3–5 minutes, stirring occasionally."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooked rolled barley can be refrigerated for up to 5 days in an airtight container. For longer storage, freeze it in portions. When ready to use, reheat in the air fryer at 160°C for 3–5 minutes, stirring occasionally."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is rolled barley gluten-free?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, rolled barley contains gluten, so it’s unsuitable for gluten-free diets. For alternatives, try quinoa or gluten-free oats, adjusting measurements since their weights differ from 0.5 cup of rolled barley (1.5 oz)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, rolled barley contains gluten, so it’s unsuitable for gluten-free diets. For alternatives, try quinoa or gluten-free oats, adjusting measurements since their weights differ from 0.5 cup of rolled barley (1.5 oz)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I toast rolled barley in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Spread 0.5 cup (1.5 oz) of rolled barley in the air fryer basket and cook at 180°C for 5–7 minutes, shaking halfway. Toasted barley adds crunch to salads and soups. Watch closely to prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Spread 0.5 cup (1.5 oz) of rolled barley in the air fryer basket and cook at 180°C for 5–7 minutes, shaking halfway. Toasted barley adds crunch to salads and soups. Watch closely to prevent burning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.5 cup of rolled barley?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of rolled barley?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley",
     "description": "Discover how many ounces are in 0.5 cup of rolled barley for perfect air fryer recipes every time. Get accurate conversions now!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.5 cup of rolled barley?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-of-rolled-barley"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cup of rolled barley equals approximately 1.5 ounces (oz). This conversion ensures your air fryer recipes turn out perfectly every time. Whether you're meal prepping or whipping up a quick breakfast, knowing this measurement helps maintain consistency. Rolled barley is a versatile ingredient, great for adding texture and nutrition to dishes. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

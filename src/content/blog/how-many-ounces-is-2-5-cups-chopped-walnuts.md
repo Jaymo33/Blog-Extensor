@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts"
-        },
-        "headline": "Quick Answer: 2.5 cups of chopped walnuts to ounces",
-        "description": "Convert 2.5 cups of chopped walnuts to ounces easily for perfect air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts"
+    },
+    "headline": "Quick Answer: 2.5 cups of chopped walnuts to ounces",
+    "description": "Convert 2.5 cups of chopped walnuts to ounces easily for perfect air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-chopped-walnuts.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-chopped-walnuts.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use whole walnuts instead of chopped for the same weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the volume will differ. Whole walnuts take up more space, so you'll need slightly fewer whole walnuts to reach 10 ounces (about 2 cups). Chopping creates more surface area and packs tighter, hence the 2.5 cup measurement for the same weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the volume will differ. Whole walnuts take up more space, so you'll need slightly fewer whole walnuts to reach 10 ounces (about 2 cups). Chopping creates more surface area and packs tighter, hence the 2.5 cup measurement for the same weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent walnuts from burning in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Toast walnuts at a lower temperature (150°C) for shorter periods (3-5 minutes), shaking the basket frequently. Their high oil content makes them prone to burning. For recipes where walnuts are mixed with other ingredients, they're less likely to burn."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Toast walnuts at a lower temperature (150°C) for shorter periods (3-5 minutes), shaking the basket frequently. Their high oil content makes them prone to burning. For recipes where walnuts are mixed with other ingredients, they're less likely to burn."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are walnut measurements different for US and UK recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The cup-to-ounce conversion remains the same (1 cup = 4 ounces), but UK recipes may list weights in grams. 2.5 cups equals 283 grams. Always check if a recipe uses metric or imperial measurements for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cup-to-ounce conversion remains the same (1 cup = 4 ounces), but UK recipes may list weights in grams. 2.5 cups equals 283 grams. Always check if a recipe uses metric or imperial measurements for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute other nuts using the same 2.5 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use the same volume, but the weight will vary. Almonds weigh about 5 ounces per cup, so 2.5 cups would be 12.5 ounces. For accurate substitutions, always weigh nuts or check specific conversion charts for different varieties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use the same volume, but the weight will vary. Almonds weigh about 5 ounces per cup, so 2.5 cups would be 12.5 ounces. For accurate substitutions, always weigh nuts or check specific conversion charts for different varieties."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of chopped walnuts?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of chopped walnuts?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts",
     "description": "Convert 2.5 cups of chopped walnuts to ounces easily for perfect air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of chopped walnuts?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-chopped-walnuts"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of chopped walnuts equals approximately 10 ounces (283 grams). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and flavour. Whether you're baking walnut-crusted chicken or making a crunchy topping for desserts, knowing the weight helps avoid over or under-measuring.</p>  

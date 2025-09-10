@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice"
-        },
-        "headline": "Quick Conversion: 185 ml of Lime Juice to Cups Explained",
-        "description": "Learn how to convert 185 ml of lime juice to cups for perfect recipes every time. Get precise measurements for baking and cooking with ease.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice"
+    },
+    "headline": "Quick Conversion: 185 ml of Lime Juice to Cups Explained",
+    "description": "Learn how to convert 185 ml of lime juice to cups for perfect recipes every time. Get precise measurements for baking and cooking with ease.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-185-ml-of-lime-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-185-ml-of-lime-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 185 ml of lime juice the same as 3/4 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In the US measurement system, 185 ml of lime juice is roughly 0.78 cups, which is just under 3/4 cup. In the UK metric system, it’s about 0.65 cups, or closer to 2/3 cup. Always check which cup measurement your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the US measurement system, 185 ml of lime juice is roughly 0.78 cups, which is just under 3/4 cup. In the UK metric system, it’s about 0.65 cups, or closer to 2/3 cup. Always check which cup measurement your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use bottled lime juice instead of fresh for 185 ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, bottled lime juice works for 185 ml measurements, though fresh lime juice often has a brighter flavour. If using bottled, check for additives like preservatives, which might slightly alter the taste. The conversion remains the same regardless of the juice source."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, bottled lime juice works for 185 ml measurements, though fresh lime juice often has a brighter flavour. If using bottled, check for additives like preservatives, which might slightly alter the taste. The conversion remains the same regardless of the juice source."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many limes do I need for 185 ml of juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "On average, one medium lime yields about 30-45 ml of juice. For 185 ml, you’d need roughly 4-6 limes, depending on their size and juiciness. Roll limes before juicing to maximise yield."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On average, one medium lime yields about 30-45 ml of juice. For 185 ml, you’d need roughly 4-6 limes, depending on their size and juiciness. Roll limes before juicing to maximise yield."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 185 ml of lime juice change weight when converting to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the weight of 185 ml of lime juice remains the same (about 185 grams, as lime juice has a similar density to water). Cup measurements are based on volume, not weight, so the conversion stays consistent for recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the weight of 185 ml of lime juice remains the same (about 185 grams, as lime juice has a similar density to water). Cup measurements are based on volume, not weight, so the conversion stays consistent for recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 185 ml of Lime Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 185 ml of Lime Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice",
     "description": "Learn how to convert 185 ml of lime juice to cups for perfect recipes every time. Get precise measurements for baking and cooking with ease.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 185 ml of Lime Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-lime-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>185 ml of lime juice equals approximately 0.78 cups in the US measurement system or 0.65 cups in the UK metric system. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're whipping up a zesty marinade or a tangy dessert, knowing how to convert ml to cups ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements for perfect results every time.</p>

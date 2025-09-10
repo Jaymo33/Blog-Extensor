@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce"
-        },
-        "headline": "Quick Answer: How many ounces is 3 cups of bbq sauce?",
-        "description": "Find out exactly how many ounces are in 3 cups of bbq sauce with our simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce"
+    },
+    "headline": "Quick Answer: How many ounces is 3 cups of bbq sauce?",
+    "description": "Find out exactly how many ounces are in 3 cups of bbq sauce with our simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-bbq-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-bbq-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the thickness of bbq sauce affect the ounce measurement for 3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, thicker bbq sauces may weigh slightly more than thinner varieties when measuring 3 cups. While 3 cups generally equals 24 ounces, a dense, sticky sauce could be closer to 25-26 ounces. For precise air fryer recipes, it's best to weigh your sauce if possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, thicker bbq sauces may weigh slightly more than thinner varieties when measuring 3 cups. While 3 cups generally equals 24 ounces, a dense, sticky sauce could be closer to 25-26 ounces. For precise air fryer recipes, it's best to weigh your sauce if possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this 3 cups to ounces conversion for other types of sauce in air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The 3 cups to 24 ounces conversion works well for most bbq sauces, but other sauces may vary. Thinner sauces like teriyaki might measure slightly less, while thicker sauces like hoisin could weigh more. Always check specific conversions when substituting sauces in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 3 cups to 24 ounces conversion works well for most bbq sauces, but other sauces may vary. Thinner sauces like teriyaki might measure slightly less, while thicker sauces like hoisin could weigh more. Always check specific conversions when substituting sauces in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I adjust cooking times when using 3 cups (24 oz) of bbq sauce in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "When using 24 ounces of bbq sauce in air fryer recipes, you may need to reduce cooking temperatures slightly or cook in batches. The moisture from the sauce can affect cooking times. Start checking for doneness a few minutes early, especially for recipes like ribs or chicken wings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When using 24 ounces of bbq sauce in air fryer recipes, you may need to reduce cooking temperatures slightly or cook in batches. The moisture from the sauce can affect cooking times. Start checking for doneness a few minutes early, especially for recipes like ribs or chicken wings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to clean my air fryer after cooking with 3 cups of bbq sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After cooking with 24 ounces of bbq sauce, wipe your air fryer basket immediately while still warm. For stubborn residue, soak the basket in warm, soapy water. Our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> works wonders on sticky bbq sauce buildup, keeping your appliance in perfect condition."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After cooking with 24 ounces of bbq sauce, wipe your air fryer basket immediately while still warm. For stubborn residue, soak the basket in warm, soapy water. Our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> works wonders on sticky bbq sauce buildup, keeping your appliance in perfect condition."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of bbq sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of bbq sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce",
     "description": "Find out exactly how many ounces are in 3 cups of bbq sauce with our simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of bbq sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-bbq-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of bbq sauce equals approximately 24 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're marinating chicken wings or glazing ribs, knowing how many ounces are in 3 cups of bbq sauce ensures your dish turns out perfectly. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love helping you get the most out of your air fryer with accurate measurements and delicious recipes.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream"
-        },
-        "headline": "Quick Answer: How Many Cups Is 350 Grams of Cream?",
-        "description": "Discover how to convert 350 grams of cream to cups for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 350 Grams of Cream?",
+    "description": "Discover how to convert 350 grams of cream to cups for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-350-grams-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 350 grams of cream the same as 350ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, grams and millilitres measure different properties. Cream’s density means 350 grams won’t always equal 350ml. For most creams, 350 grams is roughly 350ml, but it’s best to weigh for accuracy, especially in baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, grams and millilitres measure different properties. Cream’s density means 350 grams won’t always equal 350ml. For most creams, 350 grams is roughly 350ml, but it’s best to weigh for accuracy, especially in baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use whipped cream instead of liquid cream for 350 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Whipped cream has more air, so 350 grams will take up more volume than liquid cream. If your recipe calls for liquid cream, it’s best to stick with that for consistent results. Check the recipe notes for substitutions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Whipped cream has more air, so 350 grams will take up more volume than liquid cream. If your recipe calls for liquid cream, it’s best to stick with that for consistent results. Check the recipe notes for substitutions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover cream after measuring 350 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover cream in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in portions. Thaw in the fridge before using, and stir well to restore consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover cream in an airtight container in the fridge for up to 3 days. For longer storage, freeze it in portions. Thaw in the fridge before using, and stir well to restore consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do US and UK cup measurements differ for 350 grams of cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The US uses a 240ml cup, while the UK uses 250ml. This small difference affects conversions. Always check your recipe’s origin to ensure you’re using the right measurement. A kitchen scale eliminates this confusion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The US uses a 240ml cup, while the UK uses 250ml. This small difference affects conversions. Always check your recipe’s origin to ensure you’re using the right measurement. A kitchen scale eliminates this confusion."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 350 Grams of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 350 Grams of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream",
     "description": "Discover how to convert 350 grams of cream to cups for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 350 Grams of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-350-grams-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>350 grams of cream is roughly equivalent to 1.48 cups in standard US measurements, or 1.23 cups in UK metric measurements. This conversion is essential for air fryer recipes where precision ensures perfect texture and consistency. Whether you're whipping up a creamy dessert or a savoury sauce, knowing how to measure cream accurately can make all the difference.</p>

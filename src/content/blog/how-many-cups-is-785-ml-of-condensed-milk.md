@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk"
-        },
-        "headline": "Quick Answer: How Many Cups Is 785 ml of Condensed Milk?",
-        "description": "Convert 785 ml of condensed milk to cups effortlessly for baking and air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 785 ml of Condensed Milk?",
+    "description": "Convert 785 ml of condensed milk to cups effortlessly for baking and air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-785-ml-of-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-785-ml-of-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use evaporated milk instead of condensed milk in a 785 ml measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk and condensed milk aren’t interchangeable. Condensed milk is sweetened, while evaporated milk is unsweetened. Using evaporated milk in the same quantity will result in a less sweet and less creamy texture. If substituting, adjust sugar levels accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk and condensed milk aren’t interchangeable. Condensed milk is sweetened, while evaporated milk is unsweetened. Using evaporated milk in the same quantity will result in a less sweet and less creamy texture. If substituting, adjust sugar levels accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 785 ml of condensed milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a kitchen scale. 785 ml of condensed milk weighs approximately 1,050 grams. Alternatively, a standard UK mug holds about 300 ml, so 2.5 mugs would give you roughly 750 ml—close enough for most recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a kitchen scale. 785 ml of condensed milk weighs approximately 1,050 grams. Alternatively, a standard UK mug holds about 300 ml, so 2.5 mugs would give you roughly 750 ml—close enough for most recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ml and others use cups for condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes vary by region—ml is more common in the UK and Europe, while cups are standard in the US. Always check the recipe’s origin and convert if needed. For air fryer recipes, precise measurements matter more due to faster cooking times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes vary by region—ml is more common in the UK and Europe, while cups are standard in the US. Always check the recipe’s origin and convert if needed. For air fryer recipes, precise measurements matter more due to faster cooking times."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover condensed milk after opening a 785 ml tin?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can freeze condensed milk for up to 3 months. Portion it into smaller containers or ice cube trays for easy use. Thaw in the fridge overnight and stir well before using, as separation may occur. Avoid refreezing thawed condensed milk."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can freeze condensed milk for up to 3 months. Portion it into smaller containers or ice cube trays for easy use. Thaw in the fridge overnight and stir well before using, as separation may occur. Avoid refreezing thawed condensed milk."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 785 ml of Condensed Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 785 ml of Condensed Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk",
     "description": "Convert 785 ml of condensed milk to cups effortlessly for baking and air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 785 ml of Condensed Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-785-ml-of-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>785 ml of condensed milk equals approximately 3.3 cups. This conversion is essential for baking, cooking, or air fryer recipes where precise measurements matter. Whether you're making a caramel drizzle or a creamy dessert, knowing how many cups 785 ml of condensed milk translates to ensures consistency in your dishes.</p>  

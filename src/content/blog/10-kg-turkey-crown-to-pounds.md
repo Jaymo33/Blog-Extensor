@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds"
-        },
-        "headline": "Easy 10 kg Turkey Crown to Pounds Conversion Guide",
-        "description": "Convert 10 kg turkey crown to pounds instantly with our simple guide. Perfect for air fryer cooking and holiday meal planning. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds"
+    },
+    "headline": "Easy 10 kg Turkey Crown to Pounds Conversion Guide",
+    "description": "Convert 10 kg turkey crown to pounds instantly with our simple guide. Perfect for air fryer cooking and holiday meal planning. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T23:04:43.655Z",
-        "dateModified": "2025-08-22T23:04:43.655Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-turkey-crown-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T23:04:43.655Z",
+    "dateModified": "2025-08-22T23:04:43.655Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-turkey-crown-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is exactly 10 kg of turkey crown?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10 kilograms of turkey crown converts exactly to 22.0462 pounds, though for practical cooking purposes, most people round this to 22.05 pounds. This precise conversion uses the standard factor where 1 kilogram equals 2.20462 pounds, and when multiplied by 10, gives you the accurate pound measurement. For air frying, this level of precision helps ensure proper cooking times and temperature settings for your turkey crown."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10 kilograms of turkey crown converts exactly to 22.0462 pounds, though for practical cooking purposes, most people round this to 22.05 pounds. This precise conversion uses the standard factor where 1 kilogram equals 2.20462 pounds, and when multiplied by 10, gives you the accurate pound measurement. For air frying, this level of precision helps ensure proper cooking times and temperature settings for your turkey crown."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most air fryer recipes and cooking guidelines use pound measurements for specifying cooking times and temperatures. Converting your 10 kg turkey crown to pounds (approximately 22.05 pounds) ensures you follow these instructions accurately, preventing undercooking or overcooking. Since air fryers cook food rapidly with circulating hot air, precise timing based on weight is crucial for perfect results and food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most air fryer recipes and cooking guidelines use pound measurements for specifying cooking times and temperatures. Converting your 10 kg turkey crown to pounds (approximately 22.05 pounds) ensures you follow these instructions accurately, preventing undercooking or overcooking. Since air fryers cook food rapidly with circulating hot air, precise timing based on weight is crucial for perfect results and food safety."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can my air fryer handle a 10 kg (22 lb) turkey crown?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most standard home air fryers cannot accommodate a full 10 kg (22 lb) turkey crown due to size limitations. You'll need to check your specific air fryer's capacity specifications before attempting to cook such a large cut. Some larger capacity or commercial-style air fryers might handle it, but you may need to cook in sections or use additional accessories like roasting racks for proper air circulation around the turkey crown."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most standard home air fryers cannot accommodate a full 10 kg (22 lb) turkey crown due to size limitations. You'll need to check your specific air fryer's capacity specifications before attempting to cook such a large cut. Some larger capacity or commercial-style air fryers might handle it, but you may need to cook in sections or use additional accessories like roasting racks for proper air circulation around the turkey crown."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does a 10 kg turkey crown take in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 10 kg turkey crown (approximately 22 pounds) would typically require about 20-25 minutes per pound in an air fryer, totaling roughly 7-9 hours of cooking time. However, most home air fryers cannot accommodate such a large cut, and this extended cooking time isn't practical for air fryer use. For larger turkey crowns, traditional oven roasting is usually more appropriate, while air fryers work better with smaller cuts or turkey crown portions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 10 kg turkey crown (approximately 22 pounds) would typically require about 20-25 minutes per pound in an air fryer, totaling roughly 7-9 hours of cooking time. However, most home air fryers cannot accommodate such a large cut, and this extended cooking time isn't practical for air fryer use. For larger turkey crowns, traditional oven roasting is usually more appropriate, while air fryers work better with smaller cuts or turkey crown portions."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "10 kg turkey crown to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds",
+    "@type": "WebPage",
+    "name": "10 kg turkey crown to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds",
     "description": "Convert 10 kg turkey crown to pounds instantly with our simple guide. Perfect for air fryer cooking and holiday meal planning. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-22T23:04:43.655000+00:00",
     "dateModified": "2025-08-22T23:04:43.655000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "10 kg turkey crown to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-turkey-crown-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>A 10 kg turkey crown converts to approximately 22.05 pounds, making it a substantial cut perfect for holiday feasts and special occasions. This conversion is essential for proper cooking times and temperature settings, especially when using an air fryer where precise measurements matter. Understanding this weight conversion helps you plan your meal preparation more effectively and ensures your turkey crown cooks evenly throughout. Whether you're following a specific recipe or adjusting cooking times, knowing the pound equivalent of your 10 kg turkey crown is crucial. For more conversion help, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> that covers various measurements.</p>

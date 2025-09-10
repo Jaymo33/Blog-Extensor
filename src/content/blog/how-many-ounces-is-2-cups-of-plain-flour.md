@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour"
-        },
-        "headline": "Quick Answer: How Many Ounces in 2 Cups of Plain Flour?",
-        "description": "Discover the exact weight of 2 cups of plain flour in ounces for perfect baking every time. Includes UK conversions and air fryer tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour"
+    },
+    "headline": "Quick Answer: How Many Ounces in 2 Cups of Plain Flour?",
+    "description": "Discover the exact weight of 2 cups of plain flour in ounces for perfect baking every time. Includes UK conversions and air fryer tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-plain-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-plain-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 2 cups of plain flour always equal 8.8 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 2 cups of plain flour generally equals 8.8 ounces (250g), slight variations can occur based on how you measure. Spooning and levelling gives the most consistent results. Humidity and flour brand can also cause minor weight differences."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 2 cups of plain flour generally equals 8.8 ounces (250g), slight variations can occur based on how you measure. Spooning and levelling gives the most consistent results. Humidity and flour brand can also cause minor weight differences."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for self-raising flour in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Self-raising flour weighs slightly less due to added raising agents. For 2 cups of self-raising flour, expect about 8.5 ounces (240g). Always adjust measurements when substituting flour types in air fryer recipes for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Self-raising flour weighs slightly less due to added raising agents. For 2 cups of self-raising flour, expect about 8.5 ounces (240g). Always adjust measurements when substituting flour types in air fryer recipes for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer baking sometimes turn out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dry results often come from too much flour. If you’ve used volume measurements (cups) instead of weight (ounces), you might have accidentally added extra flour. Weighing ingredients prevents this common air fryer baking issue."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dry results often come from too much flour. If you’ve used volume measurements (cups) instead of weight (ounces), you might have accidentally added extra flour. Weighing ingredients prevents this common air fryer baking issue."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert ounces to grams for flour measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1 ounce equals approximately 28.35 grams. So 8.8 ounces of plain flour is about 250g. Most UK recipes use grams, so keeping a conversion chart handy helps when adapting recipes for your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1 ounce equals approximately 28.35 grams. So 8.8 ounces of plain flour is about 250g. Most UK recipes use grams, so keeping a conversion chart handy helps when adapting recipes for your air fryer."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of plain flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of plain flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour",
     "description": "Discover the exact weight of 2 cups of plain flour in ounces for perfect baking every time. Includes UK conversions and air fryer tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of plain flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-plain-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of plain flour equals approximately 8.8 ounces (250 grams) in the UK. This conversion is essential for precise baking, especially when using an air fryer where measurements matter for perfect texture and consistency. Whether you’re whipping up air fryer cakes or crispy coatings, knowing the exact weight ensures your recipes turn out just right. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

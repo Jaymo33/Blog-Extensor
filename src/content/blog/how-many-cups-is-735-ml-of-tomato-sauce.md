@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce"
-        },
-        "headline": "Quick Guide: Convert 735 ml of Tomato Sauce to Cups Easily",
-        "description": "Discover how to convert 735 ml of tomato sauce to cups for perfect cooking measurements every time. Ideal for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce"
+    },
+    "headline": "Quick Guide: Convert 735 ml of Tomato Sauce to Cups Easily",
+    "description": "Discover how to convert 735 ml of tomato sauce to cups for perfect cooking measurements every time. Ideal for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-735-ml-of-tomato-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-735-ml-of-tomato-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 735 ml of tomato sauce the same as 3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not exactly. 735 ml of tomato sauce is roughly 3.1 US cups or 3.3 UK cups. The slight difference matters in recipes, especially for air fryer cooking where precision affects texture and flavour. Always use a measuring jug for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not exactly. 735 ml of tomato sauce is roughly 3.1 US cups or 3.3 UK cups. The slight difference matters in recipes, especially for air fryer cooking where precision affects texture and flavour. Always use a measuring jug for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 735 ml of tomato sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you'll need to know the density of the sauce. Tomato sauce weighs about 240 grams per cup (US), so 735 ml would be around 740 grams. A scale is handy, but a liquid measuring jug is simpler for most home cooks."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you'll need to know the density of the sauce. Tomato sauce weighs about 240 grams per cup (US), so 735 ml would be around 740 grams. A scale is handy, but a liquid measuring jug is simpler for most home cooks."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust a recipe if I only have 500 ml of tomato sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Reduce the other ingredients proportionally or make up the difference with water or stock. For air fryer recipes, slightly less sauce may mean shorter cooking time. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for help scaling recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reduce the other ingredients proportionally or make up the difference with water or stock. For air fryer recipes, slightly less sauce may mean shorter cooking time. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for help scaling recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe turn out soggy with 735 ml of tomato sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Too much sauce can overwhelm the air fryer's cooking process, leading to sogginess. Try reducing the sauce slightly or layering it thinly. Also, preheat the air fryer and avoid overcrowding the basket for crisper results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Too much sauce can overwhelm the air fryer's cooking process, leading to sogginess. Try reducing the sauce slightly or layering it thinly. Also, preheat the air fryer and avoid overcrowding the basket for crisper results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 735 ml of Tomato Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 735 ml of Tomato Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce",
     "description": "Discover how to convert 735 ml of tomato sauce to cups for perfect cooking measurements every time. Ideal for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 735 ml of Tomato Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-735-ml-of-tomato-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>735 ml of tomato sauce is approximately 3.1 cups in the US and 3.3 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements can make or break a dish. Whether you're making a rich pasta sauce or a hearty casserole, knowing how to convert 735 ml of tomato sauce to cups ensures consistency. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

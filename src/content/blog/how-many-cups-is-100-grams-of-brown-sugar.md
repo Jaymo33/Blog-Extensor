@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar"
-        },
-        "headline": "Quick Guide: Convert 100 Grams of Brown Sugar to Cups Easily",
-        "description": "Learn how to convert 100 grams of brown sugar to cups for perfect baking every time. Includes UK and US measurements for accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar"
+    },
+    "headline": "Quick Guide: Convert 100 Grams of Brown Sugar to Cups Easily",
+    "description": "Learn how to convert 100 grams of brown sugar to cups for perfect baking every time. Includes UK and US measurements for accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T20:38:05.690Z",
-        "dateModified": "2025-07-27T20:38:05.690Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-brown-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T20:38:05.690Z",
+    "dateModified": "2025-07-27T20:38:05.690Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-brown-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100 grams of brown sugar the same as white sugar in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, brown sugar is denser due to its moisture content, so 100 grams of brown sugar takes up slightly less volume than white sugar. While 100 grams of brown sugar is roughly ½ cup, white sugar would be closer to ½ cup plus a tablespoon."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, brown sugar is denser due to its moisture content, so 100 grams of brown sugar takes up slightly less volume than white sugar. While 100 grams of brown sugar is roughly ½ cup, white sugar would be closer to ½ cup plus a tablespoon."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does brown sugar need to be packed when measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Brown sugar contains molasses, which makes it clumpier and denser. Packing it ensures consistency in measurements, especially for baking. However, for 100 grams, lightly packed is sufficient unless the recipe specifies otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brown sugar contains molasses, which makes it clumpier and denser. Packing it ensures consistency in measurements, especially for baking. However, for 100 grams, lightly packed is sufficient unless the recipe specifies otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 100 grams of brown sugar in savory air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Brown sugar adds a rich, caramelized flavor to glazes for meats like chicken or pork. Just ensure it's balanced with spices or acids to avoid overly sweet results. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a> for inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Brown sugar adds a rich, caramelized flavor to glazes for meats like chicken or pork. Just ensure it's balanced with spices or acids to avoid overly sweet results. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a> for inspiration."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store brown sugar to keep it fresh?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store brown sugar in an airtight container to prevent hardening. If it dries out, add a slice of bread or a damp paper towel to restore moisture. Proper storage ensures accurate measurements every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store brown sugar in an airtight container to prevent hardening. If it dries out, add a slice of bread or a damp paper towel to restore moisture. Proper storage ensures accurate measurements every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 100 Grams of Brown Sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 100 Grams of Brown Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar",
     "description": "Learn how to convert 100 grams of brown sugar to cups for perfect baking every time. Includes UK and US measurements for accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T20:38:05.690000+00:00",
     "dateModified": "2025-07-27T20:38:05.690000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 100 Grams of Brown Sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-brown-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100 grams of brown sugar is roughly equivalent to ½ cup when lightly packed. This conversion is essential for baking and air frying, where precision ensures the best results. Whether you're making cookies, cakes, or even glazes for meats, knowing how to measure 100 grams of brown sugar in cups can make all the difference.</p>  

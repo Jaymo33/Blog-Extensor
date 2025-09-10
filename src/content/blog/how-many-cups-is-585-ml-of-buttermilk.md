@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk"
-        },
-        "headline": "Quick Guide: Convert 585 ml of Buttermilk to Cups Easily",
-        "description": "Learn how to convert 585 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk"
+    },
+    "headline": "Quick Guide: Convert 585 ml of Buttermilk to Cups Easily",
+    "description": "Learn how to convert 585 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-585-ml-of-buttermilk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-585-ml-of-buttermilk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 585 ml of buttermilk the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there's a slight difference. In the UK, 585 ml equals 2.47 cups (250 ml per cup), while in the US, it's 2.48 cups (240 ml per cup). The variance is minimal but worth noting for precision baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there's a slight difference. In the UK, 585 ml equals 2.47 cups (250 ml per cup), while in the US, it's 2.48 cups (240 ml per cup). The variance is minimal but worth noting for precision baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 585 ml of buttermilk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but ensure you're using a standard measuring cup, not a drinking cup. For accuracy, use a liquid measuring cup with clear markings. Two UK cups (500 ml) plus a half cup (125 ml) will give you 585 ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but ensure you're using a standard measuring cup, not a drinking cup. For accuracy, use a liquid measuring cup with clear markings. Two UK cups (500 ml) plus a half cup (125 ml) will give you 585 ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes commonly use 585 ml of buttermilk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes like buttermilk pancakes, red velvet cake, and fried chicken often call for around 585 ml. In an air fryer, buttermilk-marinated chicken or cakes benefit from this measurement for perfect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes like buttermilk pancakes, red velvet cake, and fried chicken often call for around 585 ml. In an air fryer, buttermilk-marinated chicken or cakes benefit from this measurement for perfect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does leftover buttermilk last?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover buttermilk in an airtight container in the fridge for up to two weeks. You can also freeze it in portions for later use, though it may separate slightly when thawed—just stir before using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover buttermilk in an airtight container in the fridge for up to two weeks. You can also freeze it in portions for later use, though it may separate slightly when thawed—just stir before using."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 585 ml of Buttermilk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 585 ml of Buttermilk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk",
     "description": "Learn how to convert 585 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 585 ml of Buttermilk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-585-ml-of-buttermilk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>585 ml of buttermilk equals approximately 2.47 cups in the UK and 2.48 cups in the US. This conversion is essential for bakers and cooks who rely on precise measurements for perfect results. Whether you're whipping up pancakes, scones, or a moist cake, knowing how to convert 585 ml of buttermilk to cups ensures consistency in your recipes. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when using an air fryer for baking.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle"
-        },
-        "headline": "Quick Answer: 2.5 Cups of Treacle to Ounces Conversion",
-        "description": "Discover how many ounces are in 2.5 cups of treacle with our easy conversion guide—perfect for air fryer recipes and baking accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle"
+    },
+    "headline": "Quick Answer: 2.5 Cups of Treacle to Ounces Conversion",
+    "description": "Discover how many ounces are in 2.5 cups of treacle with our easy conversion guide—perfect for air fryer recipes and baking accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-treacle.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-treacle.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use golden syrup instead of treacle in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute golden syrup for treacle, but the flavour will be milder. Use the same 2.5 cups (20 oz) measurement, as their densities are similar. Golden syrup works well in cakes and glazes but lacks treacle’s deep molasses notes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute golden syrup for treacle, but the flavour will be milder. Use the same 2.5 cups (20 oz) measurement, as their densities are similar. Golden syrup works well in cakes and glazes but lacks treacle’s deep molasses notes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean treacle from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Soak the basket in warm, soapy water to loosen sticky treacle residue. For stubborn spots, use a soft brush or sponge. Avoid abrasive cleaners that could damage the non-stick coating. Prevent mess by lining the basket with parchment when using 2.5 cups of treacle."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Soak the basket in warm, soapy water to loosen sticky treacle residue. For stubborn spots, use a soft brush or sponge. Avoid abrasive cleaners that could damage the non-stick coating. Prevent mess by lining the basket with parchment when using 2.5 cups of treacle."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does treacle weigh the same as honey in ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, honey is slightly denser than treacle. While 2.5 cups of treacle equals 20 oz, the same volume of honey would weigh about 24 oz. Adjust measurements accordingly if substituting to avoid overly sweet or thick results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, honey is slightly denser than treacle. While 2.5 cups of treacle equals 20 oz, the same volume of honey would weigh about 24 oz. Adjust measurements accordingly if substituting to avoid overly sweet or thick results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my treacle-based air fryer recipe burning?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Treacle caramelises quickly at high heat. If using 2.5 cups (20 oz), reduce the air fryer temperature by 10–15°C and check frequently. Covering dishes with foil for part of the cooking time can also prevent burning while ensuring even cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Treacle caramelises quickly at high heat. If using 2.5 cups (20 oz), reduce the air fryer temperature by 10–15°C and check frequently. Covering dishes with foil for part of the cooking time can also prevent burning while ensuring even cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2.5 cups of treacle?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle",
+    "@type": "WebPage",
+    "name": "How many ounces is 2.5 cups of treacle?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle",
     "description": "Discover how many ounces are in 2.5 cups of treacle with our easy conversion guide—perfect for air fryer recipes and baking accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2.5 cups of treacle?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-treacle"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.5 cups of treacle equals approximately 20 ounces (oz). This conversion is essential for air fryer recipes where precise measurements ensure the best texture and flavour. Whether you're baking sticky toffee pudding or glazing meats, knowing how many ounces are in 2.5 cups of treacle helps avoid kitchen mishaps.</p>  

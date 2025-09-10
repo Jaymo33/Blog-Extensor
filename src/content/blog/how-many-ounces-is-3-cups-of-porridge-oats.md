@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats"
-        },
-        "headline": "Quick Guide: Convert 3 cups of porridge oats to ounces",
-        "description": "Learn how to convert 3 cups of porridge oats to ounces with our easy guide. Perfect for air fryer recipes and meal prep!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats"
+    },
+    "headline": "Quick Guide: Convert 3 cups of porridge oats to ounces",
+    "description": "Learn how to convert 3 cups of porridge oats to ounces with our easy guide. Perfect for air fryer recipes and meal prep!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-porridge-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-3-cups-of-porridge-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of porridge oats affect the weight measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the type of porridge oats can slightly affect the weight. Rolled oats and steel-cut oats have different densities, so 3 cups might weigh slightly differently. However, for most standard porridge oats, 3 cups will be approximately 24 ounces. Always check your specific oat type if precision is crucial."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the type of porridge oats can slightly affect the weight. Rolled oats and steel-cut oats have different densities, so 3 cups might weigh slightly differently. However, for most standard porridge oats, 3 cups will be approximately 24 ounces. Always check your specific oat type if precision is crucial."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other types of oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While this conversion works well for standard porridge oats, other varieties like jumbo oats or instant oats might have slightly different weights per cup. It's always best to check the packaging or use a kitchen scale for the most accurate measurement, especially when baking or making air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While this conversion works well for standard porridge oats, other varieties like jumbo oats or instant oats might have slightly different weights per cup. It's always best to check the packaging or use a kitchen scale for the most accurate measurement, especially when baking or making air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 3 cups (24 ounces) of porridge oats make?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Three cups of porridge oats typically makes about 6 standard servings when prepared as traditional porridge. However, this can vary depending on the recipe. For air fryer granola or baked goods, 3 cups could make 12-15 smaller portions. Always check your specific recipe for serving sizes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Three cups of porridge oats typically makes about 6 standard servings when prepared as traditional porridge. However, this can vary depending on the recipe. For air fryer granola or baked goods, 3 cups could make 12-15 smaller portions. Always check your specific recipe for serving sizes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it better to weigh oats rather than use cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weighing oats gives you more consistent results because cup measurements can vary based on how the oats are packed. A kitchen scale eliminates this variability, which is especially important for air fryer recipes where precise measurements affect cooking time and texture. Digital scales are inexpensive and worth the investment for regular cooks."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weighing oats gives you more consistent results because cup measurements can vary based on how the oats are packed. A kitchen scale eliminates this variability, which is especially important for air fryer recipes where precise measurements affect cooking time and texture. Digital scales are inexpensive and worth the investment for regular cooks."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 3 cups of porridge oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 3 cups of porridge oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats",
     "description": "Learn how to convert 3 cups of porridge oats to ounces with our easy guide. Perfect for air fryer recipes and meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 3 cups of porridge oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-3-cups-of-porridge-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 cups of porridge oats equal approximately 24 ounces (or 680 grams). This conversion is essential for precise measurements, especially when preparing air fryer recipes or meal prepping breakfast dishes. Whether you're making overnight oats or a crunchy granola topping, knowing the exact weight ensures consistency in your cooking.</p>

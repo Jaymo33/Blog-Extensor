@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth"
-        },
-        "headline": "Quick Answer: How Many Cups Is 210 ml of Chicken Broth?",
-        "description": "Discover how to convert 210 ml of chicken broth to cups for perfect air fryer recipes every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth"
+    },
+    "headline": "Quick Answer: How Many Cups Is 210 ml of Chicken Broth?",
+    "description": "Discover how to convert 210 ml of chicken broth to cups for perfect air fryer recipes every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-210-ml-of-chicken-broth.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-210-ml-of-chicken-broth.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 210 ml of chicken broth the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 210 ml of chicken broth is approximately 0.89 cups. A standard US cup is 240 ml, so 210 ml is just under a full cup. This small difference matters in air fryer recipes where precise liquid measurements affect cooking results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 210 ml of chicken broth is approximately 0.89 cups. A standard US cup is 240 ml, so 210 ml is just under a full cup. This small difference matters in air fryer recipes where precise liquid measurements affect cooking results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use water instead of chicken broth in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While water can substitute chicken broth, it lacks flavour. Chicken broth adds depth to dishes like soups and stews. If replacing, consider adding herbs or spices to compensate. For best results, stick to the recipe's 210 ml of chicken broth measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While water can substitute chicken broth, it lacks flavour. Chicken broth adds depth to dishes like soups and stews. If replacing, consider adding herbs or spices to compensate. For best results, stick to the recipe's 210 ml of chicken broth measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 210 ml of chicken broth without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a kitchen scale—210 ml of chicken broth weighs about 210 grams. Alternatively, 14 UK tablespoons (15 ml each) approximate 210 ml. For air fryer recipes, accuracy ensures even cooking and optimal texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a kitchen scale—210 ml of chicken broth weighs about 210 grams. Alternatively, 14 UK tablespoons (15 ml each) approximate 210 ml. For air fryer recipes, accuracy ensures even cooking and optimal texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does chicken broth measurement differ between US and UK recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, US cups are 240 ml, while UK cups are 250 ml. Always check the recipe's origin. For 210 ml of chicken broth, the difference is minimal (0.89 US cups vs. 0.84 UK cups), but precision matters in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, US cups are 240 ml, while UK cups are 250 ml. Always check the recipe's origin. For 210 ml of chicken broth, the difference is minimal (0.89 US cups vs. 0.84 UK cups), but precision matters in air fryer cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 210 ml of Chicken Broth?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 210 ml of Chicken Broth?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth",
     "description": "Discover how to convert 210 ml of chicken broth to cups for perfect air fryer recipes every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 210 ml of Chicken Broth?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-chicken-broth"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>210 ml of chicken broth equals approximately 0.89 cups. This conversion is essential for air fryer recipes, ensuring accuracy for soups, stews, and sauces. Whether you're following a British or American recipe, knowing how many cups is 210 ml of chicken broth helps avoid measurement mishaps.</p>

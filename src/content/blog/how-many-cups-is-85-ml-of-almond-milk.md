@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk"
-        },
-        "headline": "Quick Guide: Convert 85 ml of Almond Milk to Cups Easily",
-        "description": "Learn how to convert 85 ml of almond milk to cups for baking and cooking. Perfect for air fryer recipes and precise measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk"
+    },
+    "headline": "Quick Guide: Convert 85 ml of Almond Milk to Cups Easily",
+    "description": "Learn how to convert 85 ml of almond milk to cups for baking and cooking. Perfect for air fryer recipes and precise measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-almond-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-85-ml-of-almond-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 85 ml of almond milk the same as 85 ml of regular milk in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 85 ml of almond milk can generally be substituted 1:1 for regular milk in most recipes. However, almond milk is thinner and less creamy, so it may affect the texture slightly. For baking in an air fryer, the difference is minimal, but for sauces, you might need a thickener."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 85 ml of almond milk can generally be substituted 1:1 for regular milk in most recipes. However, almond milk is thinner and less creamy, so it may affect the texture slightly. For baking in an air fryer, the difference is minimal, but for sauces, you might need a thickener."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup for 85 ml of almond milk if it only has cup markings?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Since 85 ml is roughly 0.35 cups, fill the cup just over a third of the way. For better accuracy, use a 1/3 cup measure and add a teaspoon extra. This method works well for air fryer recipes where precision isn’t overly critical."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Since 85 ml is roughly 0.35 cups, fill the cup just over a third of the way. For better accuracy, use a 1/3 cup measure and add a teaspoon extra. This method works well for air fryer recipes where precision isn’t overly critical."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 85 ml of almond milk convert to fluid ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "85 ml of almond milk is approximately 2.87 fluid ounces. This conversion is useful if you're using a recipe with imperial measurements. For air fryer cooking, this small amount is often used in marinades or light coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "85 ml of almond milk is approximately 2.87 fluid ounces. This conversion is useful if you're using a recipe with imperial measurements. For air fryer cooking, this small amount is often used in marinades or light coatings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes specify almond milk in ml rather than cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many UK and European recipes use metric measurements (ml) for liquids, as it’s more precise. Cups are more common in the US. If you're using an air fryer recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, you’ll often see ml for accuracy, especially in baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many UK and European recipes use metric measurements (ml) for liquids, as it’s more precise. Cups are more common in the US. If you're using an air fryer recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, you’ll often see ml for accuracy, especially in baking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 85 ml of Almond Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 85 ml of Almond Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk",
     "description": "Learn how to convert 85 ml of almond milk to cups for baking and cooking. Perfect for air fryer recipes and precise measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 85 ml of Almond Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-85-ml-of-almond-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>85 ml of almond milk equals approximately 0.36 cups in the UK or 0.35 cups in the US. This conversion is handy for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you're whipping up a cake or a creamy sauce, knowing how to convert ml to cups ensures your dish turns out perfectly every time.</p>

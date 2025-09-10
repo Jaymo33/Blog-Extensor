@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup"
-        },
-        "headline": "Quick Answer: How many grams is 3 tbsp of maple syrup?",
-        "description": "Find out exactly how many grams are in 3 tbsp of maple syrup for perfect air fryer recipes. Get precise measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup"
+    },
+    "headline": "Quick Answer: How many grams is 3 tbsp of maple syrup?",
+    "description": "Find out exactly how many grams are in 3 tbsp of maple syrup for perfect air fryer recipes. Get precise measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-maple-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-tbsp-of-maple-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of maple syrup affect the weight conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "All grades of pure maple syrup (amber, dark, etc.) have nearly identical density, so 3 tbsp will always be about 60 grams. However, pancake syrups or artificial maple-flavoured products may differ slightly in weight due to added ingredients. For precision, we recommend sticking with pure maple syrup in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All grades of pure maple syrup (amber, dark, etc.) have nearly identical density, so 3 tbsp will always be about 60 grams. However, pancake syrups or artificial maple-flavoured products may differ slightly in weight due to added ingredients. For precision, we recommend sticking with pure maple syrup in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other liquid sweeteners like honey?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, different sweeteners have different densities. While 3 tbsp of maple syrup is 60g, honey weighs about 63g for the same volume. Always check specific conversions for each sweetener. Our air fryer conversion chart includes weights for common alternatives like agave and golden syrup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, different sweeteners have different densities. While 3 tbsp of maple syrup is 60g, honey weighs about 63g for the same volume. Always check specific conversions for each sweetener. Our air fryer conversion chart includes weights for common alternatives like agave and golden syrup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is weighing better than measuring by volume for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Weight measurements eliminate variables like how level your tablespoon is or the syrup's temperature. In the concentrated heat of an air fryer, even small measurement differences can affect how ingredients caramelise or burn. Grams provide foolproof consistency for perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Weight measurements eliminate variables like how level your tablespoon is or the syrup's temperature. In the concentrated heat of an air fryer, even small measurement differences can affect how ingredients caramelise or burn. Grams provide foolproof consistency for perfect results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store maple syrup to maintain its quality?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After opening, keep maple syrup refrigerated to prevent mould growth. Properly stored, it lasts about a year. For easy pouring, warm the desired amount briefly before use. Always use clean utensils to avoid contamination. These practices ensure your syrup stays fresh for all your air fryer creations."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After opening, keep maple syrup refrigerated to prevent mould growth. Properly stored, it lasts about a year. For easy pouring, warm the desired amount briefly before use. Always use clean utensils to avoid contamination. These practices ensure your syrup stays fresh for all your air fryer creations."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 3 tbsp of maple syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup",
+    "@type": "WebPage",
+    "name": "How many grams is 3 tbsp of maple syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup",
     "description": "Find out exactly how many grams are in 3 tbsp of maple syrup for perfect air fryer recipes. Get precise measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 3 tbsp of maple syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-tbsp-of-maple-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3 tablespoons of maple syrup equals approximately 60 grams. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're glazing salmon, sweetening desserts, or adding a touch of richness to breakfast dishes, knowing the exact weight helps avoid inconsistencies. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking. Keep reading to learn why this conversion matters and how to use it effectively.</p>  

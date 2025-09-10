@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder"
-        },
-        "headline": "Quick & Easy: Convert 4 tbsp baking powder to grams",
-        "description": "Discover how to convert 4 tbsp baking powder to grams for perfect air fryer recipes every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder"
+    },
+    "headline": "Quick & Easy: Convert 4 tbsp baking powder to grams",
+    "description": "Discover how to convert 4 tbsp baking powder to grams for perfect air fryer recipes every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-baking-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-4-tbsp-baking-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why does 4 tbsp of baking powder sometimes weigh differently?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The weight can vary slightly depending on how compacted the baking powder is and the brand's density. Always fluff the powder before measuring 4 tbsp to ensure accuracy. For air fryer recipes, using grams (48g) is more reliable than volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The weight can vary slightly depending on how compacted the baking powder is and the brand's density. Always fluff the powder before measuring 4 tbsp to ensure accuracy. For air fryer recipes, using grams (48g) is more reliable than volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 4 tbsp baking powder in all air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not all recipes require 4 tbsp (48g) of baking powder. The amount depends on the quantity of flour and other ingredients. Always follow the recipe guidelines, especially for air fryer baking where heat distribution affects rising."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not all recipes require 4 tbsp (48g) of baking powder. The amount depends on the quantity of flour and other ingredients. Always follow the recipe guidelines, especially for air fryer baking where heat distribution affects rising."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 4 tbsp baking powder to grams if my scale only does ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "48 grams of baking powder equals approximately 1.7 ounces. Most digital scales have a unit conversion function. For air fryer recipes, precise measurements in grams are preferable for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "48 grams of baking powder equals approximately 1.7 ounces. Most digital scales have a unit conversion function. For air fryer recipes, precise measurements in grams are preferable for consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of baking powder affect the 4 tbsp to grams conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Double-acting and single-acting baking powders have slightly different densities, but the difference is minimal. For 4 tbsp, you'll still get roughly 48g in UK measurements. In air fryer cooking, double-acting is often preferred for better rise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Double-acting and single-acting baking powders have slightly different densities, but the difference is minimal. For 4 tbsp, you'll still get roughly 48g in UK measurements. In air fryer cooking, double-acting is often preferred for better rise."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 4 tbsp of baking powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder",
+    "@type": "WebPage",
+    "name": "How many grams is 4 tbsp of baking powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder",
     "description": "Discover how to convert 4 tbsp baking powder to grams for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 4 tbsp of baking powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-4-tbsp-baking-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>4 tablespoons (tbsp) of baking powder equals approximately 48 grams (g). This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and rise. Whether you're baking cakes, bread, or even savoury dishes in your air fryer, getting the right amount of baking powder is crucial. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

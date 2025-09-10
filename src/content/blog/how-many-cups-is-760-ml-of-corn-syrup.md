@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup"
-        },
-        "headline": "Quick Answer: How Many Cups Is 760 ml of Corn Syrup?",
-        "description": "Discover how to convert 760 ml of corn syrup to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup"
+    },
+    "headline": "Quick Answer: How Many Cups Is 760 ml of Corn Syrup?",
+    "description": "Discover how to convert 760 ml of corn syrup to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-760-ml-of-corn-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-760-ml-of-corn-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 760 ml of corn syrup the same as 3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 760 ml of corn syrup is approximately 3.2 cups. While 3 cups would be 720 ml (using the US standard), the extra 40 ml can make a difference in recipes, especially in air fryer cooking where precision affects texture and consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 760 ml of corn syrup is approximately 3.2 cups. While 3 cups would be 720 ml (using the US standard), the extra 40 ml can make a difference in recipes, especially in air fryer cooking where precision affects texture and consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a liquid measuring cup for 760 ml of corn syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a liquid measuring cup is ideal for measuring 760 ml of corn syrup. These cups typically have millilitre markings, making it easy to measure accurately. For sticky substances like corn syrup, lightly greasing the cup helps with pouring and cleaning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a liquid measuring cup is ideal for measuring 760 ml of corn syrup. These cups typically have millilitre markings, making it easy to measure accurately. For sticky substances like corn syrup, lightly greasing the cup helps with pouring and cleaning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 760 ml of corn syrup affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Corn syrup can caramelise and brown faster in an air fryer due to its sugar content. When using 760 ml in a recipe, you may need to reduce cooking time slightly or lower the temperature to prevent burning. Always monitor your dish closely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Corn syrup can caramelise and brown faster in an air fryer due to its sugar content. When using 760 ml in a recipe, you may need to reduce cooking time slightly or lower the temperature to prevent burning. Always monitor your dish closely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to clean my air fryer after using corn syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After cooking with corn syrup, wipe your air fryer basket with warm, soapy water while it's still slightly warm. For stubborn residue, soak the basket briefly before scrubbing gently. Avoid abrasive cleaners that could damage the non-stick coating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After cooking with corn syrup, wipe your air fryer basket with warm, soapy water while it's still slightly warm. For stubborn residue, soak the basket briefly before scrubbing gently. Avoid abrasive cleaners that could damage the non-stick coating."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 760 ml of Corn Syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 760 ml of Corn Syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup",
     "description": "Discover how to convert 760 ml of corn syrup to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 760 ml of Corn Syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-760-ml-of-corn-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>760 ml of corn syrup is equivalent to approximately 3.2 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements matter. Whether you're making sticky buns or glazes, knowing how to convert ml to cups ensures your recipes turn out just right.</p>

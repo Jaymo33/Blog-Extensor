@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar"
-        },
-        "headline": "Quick Answer: How Many Grams Is 0.25 Cups of Brown Sugar?",
-        "description": "Discover the exact gram measurement for 0.25 cups of brown sugar and simplify your baking with this easy conversion guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar"
+    },
+    "headline": "Quick Answer: How Many Grams Is 0.25 Cups of Brown Sugar?",
+    "description": "Discover the exact gram measurement for 0.25 cups of brown sugar and simplify your baking with this easy conversion guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T08:17:57.875Z",
-        "dateModified": "2025-07-27T08:17:57.875Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-cups-of-brown-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T08:17:57.875Z",
+    "dateModified": "2025-07-27T08:17:57.875Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-cups-of-brown-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.25 cups of brown sugar the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.25 cups of brown sugar is roughly 50 grams in both the UK and USA. However, measuring cups can vary slightly, so using a kitchen scale for precision is recommended, especially for air fryer recipes where accuracy matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.25 cups of brown sugar is roughly 50 grams in both the UK and USA. However, measuring cups can vary slightly, so using a kitchen scale for precision is recommended, especially for air fryer recipes where accuracy matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use white sugar instead of brown sugar in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute white sugar, but keep in mind that 0.25 cups of white sugar is about 48 grams, slightly less than brown sugar. Brown sugar adds moisture, so your air fryer baked goods may turn out drier with white sugar."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute white sugar, but keep in mind that 0.25 cups of white sugar is about 48 grams, slightly less than brown sugar. Brown sugar adds moisture, so your air fryer baked goods may turn out drier with white sugar."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.25 cups of brown sugar without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly spoon brown sugar into a dry measuring cup and level it off with a knife. Avoid packing it down to ensure you’re close to the 50-gram mark. For best results in air fryer baking, investing in a scale is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly spoon brown sugar into a dry measuring cup and level it off with a knife. Avoid packing it down to ensure you’re close to the 50-gram mark. For best results in air fryer baking, investing in a scale is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer dessert taste too sweet with 0.25 cups of brown sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your dessert is overly sweet, you may have packed the brown sugar too tightly, resulting in more than 50 grams. Next time, measure by weight or fluff the sugar before lightly spooning it into the cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your dessert is overly sweet, you may have packed the brown sugar too tightly, resulting in more than 50 grams. Next time, measure by weight or fluff the sugar before lightly spooning it into the cup."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 0.25 Cups of Brown Sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 0.25 Cups of Brown Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar",
     "description": "Discover the exact gram measurement for 0.25 cups of brown sugar and simplify your baking with this easy conversion guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T08:17:57.875000+00:00",
     "dateModified": "2025-07-27T08:17:57.875000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 0.25 Cups of Brown Sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-cups-of-brown-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cups of brown sugar equals approximately 50 grams. This conversion is essential for precise baking, especially when using an air fryer, where measurements can impact texture and cooking time. Whether you're whipping up cookies or a cake, knowing how many grams 0.25 cups of brown sugar is ensures consistent results every time.</p>  

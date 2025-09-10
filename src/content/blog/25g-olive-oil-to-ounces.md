@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces"
-        },
-        "headline": "Quick & Easy 25g olive oil to ounces conversion",
-        "description": "Convert 25g of olive oil to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces"
+    },
+    "headline": "Quick & Easy 25g olive oil to ounces conversion",
+    "description": "Convert 25g of olive oil to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-olive-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-olive-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 25g of olive oil for air frying frozen foods?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 25g (0.88 oz) of olive oil works well for frozen foods like chips or onion rings. It helps achieve crispiness without making them greasy. Just toss the frozen items evenly in the oil before air frying for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 25g (0.88 oz) of olive oil works well for frozen foods like chips or onion rings. It helps achieve crispiness without making them greasy. Just toss the frozen items evenly in the oil before air frying for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 25g of olive oil the same as 25ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, because olive oil’s density differs from water. While 25ml of water weighs 25g, 25ml of olive oil weighs about 23g due to its lower density. For accuracy in air fryer recipes, always measure by weight when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, because olive oil’s density differs from water. While 25ml of water weighs 25g, 25ml of olive oil weighs about 23g due to its lower density. For accuracy in air fryer recipes, always measure by weight when possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 25g of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "25g of olive oil contains approximately 221 calories, as olive oil has about 8.8 calories per gram. While it’s healthy in moderation, be mindful of portions in air fryer recipes if you’re calorie-conscious."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "25g of olive oil contains approximately 221 calories, as olive oil has about 8.8 calories per gram. While it’s healthy in moderation, be mindful of portions in air fryer recipes if you’re calorie-conscious."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute other oils for 25g of olive oil in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! You can swap 25g (0.88 oz) of olive oil with avocado, sunflower, or coconut oil. Adjust slightly for viscosity differences—for example, coconut oil may need melting first. Each oil brings unique flavours to air-fried dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! You can swap 25g (0.88 oz) of olive oil with avocado, sunflower, or coconut oil. Adjust slightly for viscosity differences—for example, coconut oil may need melting first. Each oil brings unique flavours to air-fried dishes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of olive oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of olive oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces",
     "description": "Convert 25g of olive oil to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise cooking.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of olive oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/25g-olive-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25 grams of olive oil equals approximately 0.88 ounces. This conversion is essential for air fryer cooking, where precise measurements can make all the difference in texture and flavour. Whether you’re drizzling oil over chips or coating chicken wings, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>  

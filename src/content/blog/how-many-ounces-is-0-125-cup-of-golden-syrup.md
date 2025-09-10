@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup"
-        },
-        "headline": "Quick Answer: 0.125 Cup Golden Syrup to Ounces UK",
-        "description": "Find out exactly how many ounces are in 0.125 cup of golden syrup with our easy conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup"
+    },
+    "headline": "Quick Answer: 0.125 Cup Golden Syrup to Ounces UK",
+    "description": "Find out exactly how many ounces are in 0.125 cup of golden syrup with our easy conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-golden-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-golden-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.125 cup of golden syrup the same as 2 tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.125 cup equals exactly 2 tablespoons. This measurement is particularly useful for small-batch air fryer recipes where precision matters. When converting to ounces, these 2 tablespoons of golden syrup weigh approximately 1.5 ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.125 cup equals exactly 2 tablespoons. This measurement is particularly useful for small-batch air fryer recipes where precision matters. When converting to ounces, these 2 tablespoons of golden syrup weigh approximately 1.5 ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does golden syrup weigh the same as honey when measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Golden syrup and honey have similar densities, but not identical weights. While 0.125 cup of golden syrup equals 1.5 ounces, the same volume of honey weighs slightly more at about 1.6 ounces. For air fryer recipes, this small difference usually doesn't affect results, but for precision baking, it's best to measure by weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Golden syrup and honey have similar densities, but not identical weights. While 0.125 cup of golden syrup equals 1.5 ounces, the same volume of honey weighs slightly more at about 1.6 ounces. For air fryer recipes, this small difference usually doesn't affect results, but for precision baking, it's best to measure by weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other syrups in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The 0.125 cup to 1.5 ounce conversion works well for golden syrup, but other syrups may vary. Maple syrup, for example, is slightly less dense at about 1.3 ounces for 0.125 cup. Always check specific conversions when substituting ingredients in air fryer recipes to ensure perfect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 0.125 cup to 1.5 ounce conversion works well for golden syrup, but other syrups may vary. Maple syrup, for example, is slightly less dense at about 1.3 ounces for 0.125 cup. Always check specific conversions when substituting ingredients in air fryer recipes to ensure perfect results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store golden syrup for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store golden syrup in an airtight container at room temperature. Before measuring, give it a good stir as separation can occur. For easy measuring in small quantities like 0.125 cup (1.5 oz), warm the syrup slightly to make it less viscous. Always wipe any drips from your air fryer basket immediately to prevent sticky buildup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store golden syrup in an airtight container at room temperature. Before measuring, give it a good stir as separation can occur. For easy measuring in small quantities like 0.125 cup (1.5 oz), warm the syrup slightly to make it less viscous. Always wipe any drips from your air fryer basket immediately to prevent sticky buildup."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of golden syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of golden syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup",
     "description": "Find out exactly how many ounces are in 0.125 cup of golden syrup with our easy conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of golden syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-golden-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of golden syrup equals approximately 1.5 ounces (1.5 oz). This measurement is crucial when preparing recipes, especially for air fryer desserts or glazes where precision matters. Golden syrup, a staple in British baking, has a thick consistency, so accurate conversions ensure your dishes turn out perfectly every time. Whether you're making sticky toffee pudding or a glaze for air-fried ham, knowing this conversion saves time and hassle. Visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a> for more handy measurements.</p>

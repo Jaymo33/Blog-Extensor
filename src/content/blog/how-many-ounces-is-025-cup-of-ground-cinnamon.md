@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon"
-        },
-        "headline": "Quick Guide: Convert 0.25 Cup of Ground Cinnamon to Ounces",
-        "description": "Learn how to convert 0.25 cup of ground cinnamon to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon"
+    },
+    "headline": "Quick Guide: Convert 0.25 Cup of Ground Cinnamon to Ounces",
+    "description": "Learn how to convert 0.25 cup of ground cinnamon to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-of-ground-cinnamon.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-of-ground-cinnamon.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use cinnamon sticks instead of ground cinnamon for this measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cinnamon sticks and ground cinnamon aren’t interchangeable in recipes without adjustment. One cinnamon stick yields about ½ teaspoon of ground cinnamon when grated. For 0.25 cup (12 teaspoons) of ground cinnamon, you’d need roughly 24 cinnamon sticks—which isn’t practical for most recipes. Stick to ground cinnamon unless the recipe specifies otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cinnamon sticks and ground cinnamon aren’t interchangeable in recipes without adjustment. One cinnamon stick yields about ½ teaspoon of ground cinnamon when grated. For 0.25 cup (12 teaspoons) of ground cinnamon, you’d need roughly 24 cinnamon sticks—which isn’t practical for most recipes. Stick to ground cinnamon unless the recipe specifies otherwise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does the UK ounce measurement differ from the US ounce for cinnamon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "There’s no difference—both the UK and US use the same avoirdupois ounce for dry measurements like spices. However, UK recipes often list weights in grams, so you may need to convert if using an American recipe. 0.25 cup of ground cinnamon equals 0.7 ounces or 20 grams in both systems."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There’s no difference—both the UK and US use the same avoirdupois ounce for dry measurements like spices. However, UK recipes often list weights in grams, so you may need to convert if using an American recipe. 0.25 cup of ground cinnamon equals 0.7 ounces or 20 grams in both systems."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my cinnamon measurement seem inconsistent when using cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ground cinnamon can settle or become compacted in its container, leading to varying amounts per cup. For accuracy, fluff the cinnamon with a fork before measuring, or better yet, use a kitchen scale. Humidity can also affect volume measurements, making weight (ounces) a more reliable method."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ground cinnamon can settle or become compacted in its container, leading to varying amounts per cup. For accuracy, fluff the cinnamon with a fork before measuring, or better yet, use a kitchen scale. Humidity can also affect volume measurements, making weight (ounces) a more reliable method."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other ground spices in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the 0.25 cup to ounces conversion works for cinnamon, other spices have different densities. For example, 0.25 cup of ground nutmeg weighs about 0.8 ounces. Always check a <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> or weigh each spice separately for precise air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the 0.25 cup to ounces conversion works for cinnamon, other spices have different densities. For example, 0.25 cup of ground nutmeg weighs about 0.8 ounces. Always check a <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> or weigh each spice separately for precise air fryer cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of ground cinnamon?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of ground cinnamon?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon",
     "description": "Learn how to convert 0.25 cup of ground cinnamon to ounces with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of ground cinnamon?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-of-ground-cinnamon"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of ground cinnamon equals approximately 0.7 ounces (or roughly 20 grams). This measurement is essential for precision in air fryer recipes, ensuring your dishes have the perfect balance of flavour. Whether you're baking cinnamon rolls or seasoning meats, knowing this conversion helps avoid over- or under-spicing.</p>

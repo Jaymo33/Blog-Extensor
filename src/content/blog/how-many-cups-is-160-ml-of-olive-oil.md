@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil"
-        },
-        "headline": "Quick Guide: Convert 160 ml of Olive Oil to Cups Easily",
-        "description": "Learn how to convert 160 ml of olive oil to cups for perfect cooking and baking every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 160 ml of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 160 ml of olive oil to cups for perfect cooking and baking every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-160-ml-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 160 ml of olive oil the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s a slight difference. In the US, 160 ml of olive oil equals about 0.68 cups (240 ml per cup). In the UK, it’s roughly 0.64 cups (250 ml per cup). Always check your recipe’s origin for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s a slight difference. In the US, 160 ml of olive oil equals about 0.68 cups (240 ml per cup). In the UK, it’s roughly 0.64 cups (250 ml per cup). Always check your recipe’s origin for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 160 ml of olive oil for air-frying frozen foods?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but sparingly. Frozen foods like chips or nuggets often don’t need extra oil. For best results, lightly coat with 1-2 tablespoons (15-30 ml) and shake the basket mid-cook. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods guide</a> for tips."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but sparingly. Frozen foods like chips or nuggets often don’t need extra oil. For best results, lightly coat with 1-2 tablespoons (15-30 ml) and shake the basket mid-cook. Check our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods guide</a> for tips."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean my air fryer after using 160 ml of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Excess oil can cause smoke or residue. Wipe the basket with warm, soapy water or use a dedicated <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. For stubborn grease, soak the parts in baking soda and vinegar."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Excess oil can cause smoke or residue. Wipe the basket with warm, soapy water or use a dedicated <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a>. For stubborn grease, soak the parts in baking soda and vinegar."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute 160 ml of olive oil with butter in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust the quantity. 160 ml of olive oil equals about 150 grams of melted butter. Butter burns faster, so reduce the temperature by 10-15°C and monitor cooking time closely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust the quantity. 160 ml of olive oil equals about 150 grams of melted butter. Butter burns faster, so reduce the temperature by 10-15°C and monitor cooking time closely."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 160 ml of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 160 ml of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil",
     "description": "Learn how to convert 160 ml of olive oil to cups for perfect cooking and baking every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 160 ml of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-160-ml-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>160 ml of olive oil equals approximately 0.68 cups. This conversion is essential for accurate cooking and baking, especially when using an air fryer where precise measurements can make or break a dish. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or improvising, knowing this conversion ensures consistent results.</p>

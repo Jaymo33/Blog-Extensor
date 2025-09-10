@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream"
-        },
-        "headline": "Quick Guide: Convert 685 ml of Heavy Cream to Cups Easily",
-        "description": "Learn how to convert 685 ml of heavy cream to cups for perfect baking and cooking every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream"
+    },
+    "headline": "Quick Guide: Convert 685 ml of Heavy Cream to Cups Easily",
+    "description": "Learn how to convert 685 ml of heavy cream to cups for perfect baking and cooking every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-of-heavy-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-of-heavy-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 685 ml of heavy cream the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 685 ml of heavy cream differs between US and UK cups. In the US, it’s about 2.9 cups (240 ml per cup), while in the UK, it’s roughly 2.4 cups (284 ml per cup). Always check which measurement system your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 685 ml of heavy cream differs between US and UK cups. In the US, it’s about 2.9 cups (240 ml per cup), while in the UK, it’s roughly 2.4 cups (284 ml per cup). Always check which measurement system your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 685 ml of heavy cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale works well for measuring heavy cream. 685 ml of heavy cream weighs approximately 700 grams. This method is especially useful if you don’t have a liquid measuring cup or want extra precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale works well for measuring heavy cream. 685 ml of heavy cream weighs approximately 700 grams. This method is especially useful if you don’t have a liquid measuring cup or want extra precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes use 685 ml of heavy cream in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "685 ml of heavy cream is great for creamy pasta bakes, whipped desserts, or rich sauces in the air fryer. It’s also used in cakes, scones, and mashed potatoes for added richness. Check our recipe collections for inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "685 ml of heavy cream is great for creamy pasta bakes, whipped desserts, or rich sauces in the air fryer. It’s also used in cakes, scones, and mashed potatoes for added richness. Check our recipe collections for inspiration."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover heavy cream after measuring 685 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover heavy cream in an airtight container in the fridge for up to 5 days. You can also freeze it for longer storage, though the texture may change slightly when thawed. Shake or whisk it before using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover heavy cream in an airtight container in the fridge for up to 5 days. You can also freeze it for longer storage, though the texture may change slightly when thawed. Shake or whisk it before using."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 685 ml of Heavy Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 685 ml of Heavy Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream",
     "description": "Learn how to convert 685 ml of heavy cream to cups for perfect baking and cooking every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 685 ml of Heavy Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-heavy-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>685 ml of heavy cream is roughly equivalent to 2.9 cups in the US or 2.4 cups in the UK. This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you’re whipping up a creamy sauce or baking a decadent dessert, knowing how to convert 685 ml of heavy cream to cups ensures consistency. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils"
-        },
-        "headline": "Quick Answer: How Many Ounces in 2 Cups of Lentils?",
-        "description": "Discover how many ounces are in 2 cups of lentils for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils"
+    },
+    "headline": "Quick Answer: How Many Ounces in 2 Cups of Lentils?",
+    "description": "Discover how many ounces are in 2 cups of lentils for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-lentils.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-lentils.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Do different lentil colors affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, lentil varieties have slight weight differences. Green and brown lentils are denser, so 2 cups weigh around 14 ounces. Split red or yellow lentils are lighter, closer to 12 ounces per 2 cups. Always check your recipe for the type specified."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, lentil varieties have slight weight differences. Green and brown lentils are denser, so 2 cups weigh around 14 ounces. Split red or yellow lentils are lighter, closer to 12 ounces per 2 cups. Always check your recipe for the type specified."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use dried and cooked lentils interchangeably in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, dried and cooked lentils aren’t interchangeable. Dried lentils expand when cooked, so 2 cups of dried lentils yield about 4 cups cooked. For air fryer recipes, stick to the form (dried or cooked) listed to avoid texture issues."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, dried and cooked lentils aren’t interchangeable. Dried lentils expand when cooked, so 2 cups of dried lentils yield about 4 cups cooked. For air fryer recipes, stick to the form (dried or cooked) listed to avoid texture issues."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure lentils without a kitchen scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use the spoon-and-level method: fluff the lentils, spoon them into a measuring cup, and level the top with a knife. This avoids compacting and gives a fairly accurate 2-cup (14-ounce) measure for most lentil types."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use the spoon-and-level method: fluff the lentils, spoon them into a measuring cup, and level the top with a knife. This avoids compacting and gives a fairly accurate 2-cup (14-ounce) measure for most lentil types."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air-fried lentil dishes turn out soggy?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sogginess often stems from overcrowding or excess moisture. For crispy results, spread lentils in a single layer and pat them dry before cooking. Preheating the air fryer also helps. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning tips</a> to maintain optimal airflow."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sogginess often stems from overcrowding or excess moisture. For crispy results, spread lentils in a single layer and pat them dry before cooking. Preheating the air fryer also helps. Check our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>cleaning tips</a> to maintain optimal airflow."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of lentils?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of lentils?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils",
     "description": "Discover how many ounces are in 2 cups of lentils for perfect air fryer recipes. Get accurate conversions and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of lentils?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-lentils"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of lentils weigh approximately 14 ounces (396 grams). This measurement is key for air fryer recipes, ensuring accurate portioning and perfect results every time. Whether you're meal prepping or cooking a one-off dish, knowing this conversion helps streamline your kitchen workflow.</p>  

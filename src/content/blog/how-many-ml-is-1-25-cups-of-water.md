@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water"
-        },
-        "headline": "Quick Answer: How Many ml Is 1.25 Cups of Water?",
-        "description": "Discover the exact ml measurement for 1.25 cups of water with our simple conversion guide—perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water"
+    },
+    "headline": "Quick Answer: How Many ml Is 1.25 Cups of Water?",
+    "description": "Discover the exact ml measurement for 1.25 cups of water with our simple conversion guide—perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:11:40.852Z",
-        "dateModified": "2025-07-28T20:11:40.852Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-25-cups-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:11:40.852Z",
+    "dateModified": "2025-07-28T20:11:40.852Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-25-cups-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.25 cups of water the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.25 cups of water is the same volume in both the UK and USA. However, cup sizes can vary slightly in other countries, so always use a standard measuring cup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.25 cups of water is the same volume in both the UK and USA. However, cup sizes can vary slightly in other countries, so always use a standard measuring cup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 1.25 cups of water in ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While kitchen scales measure weight, not volume, you can approximate 1.25 cups of water (295.735 ml) by weighing 295.735 grams, as water’s density is 1g/ml. For precision, a liquid measuring cup is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While kitchen scales measure weight, not volume, you can approximate 1.25 cups of water (295.735 ml) by weighing 295.735 grams, as water’s density is 1g/ml. For precision, a liquid measuring cup is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe require exact water measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers rely on rapid air circulation, so too much liquid can cause spills or uneven cooking. Precise measurements, like 1.25 cups of water in ml, ensure proper texture and safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers rely on rapid air circulation, so too much liquid can cause spills or uneven cooking. Precise measurements, like 1.25 cups of water in ml, ensure proper texture and safety."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 1.25 cups of water to ml for a larger batch?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Multiply 295.735 ml (1.25 cups) by your desired batch size. For example, doubling the recipe requires 591.47 ml. Always check your air fryer’s capacity to avoid overfilling."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiply 295.735 ml (1.25 cups) by your desired batch size. For example, doubling the recipe requires 591.47 ml. Always check your air fryer’s capacity to avoid overfilling."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 1.25 Cups of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water",
+    "@type": "WebPage",
+    "name": "How Many ml Is 1.25 Cups of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water",
     "description": "Discover the exact ml measurement for 1.25 cups of water with our simple conversion guide—perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:11:40.852000+00:00",
     "dateModified": "2025-07-28T20:11:40.852000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 1.25 Cups of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-25-cups-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of water equals 295.735 millilitres (ml). This conversion is essential for air fryer recipes where precision matters, ensuring your dishes turn out perfectly every time. Whether you’re baking, steaming, or preparing sauces, knowing how many ml is 1.25 cups of water helps avoid guesswork.</p>  

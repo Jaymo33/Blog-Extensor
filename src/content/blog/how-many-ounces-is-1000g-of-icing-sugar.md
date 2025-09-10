@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar"
-        },
-        "headline": "Quick Answer: 1000g of icing sugar equals 35.27 ounces",
-        "description": "Discover how to convert 1000g of icing sugar to ounces for perfect baking results. Includes tips for air fryer desserts!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar"
+    },
+    "headline": "Quick Answer: 1000g of icing sugar equals 35.27 ounces",
+    "description": "Discover how to convert 1000g of icing sugar to ounces for perfect baking results. Includes tips for air fryer desserts!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-icing-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-of-icing-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is 1000g of icing sugar commonly sold in UK shops?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "1000g (1kg) is a standard packaging size for icing sugar in the UK, as it suits both home bakers and small businesses. This amount is perfect for making large batches of frosting or multiple desserts, especially when using an air fryer for efficient baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1000g (1kg) is a standard packaging size for icing sugar in the UK, as it suits both home bakers and small businesses. This amount is perfect for making large batches of frosting or multiple desserts, especially when using an air fryer for efficient baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of ounces to measure 1000g of icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, cups are less accurate for icing sugar due to settling and compaction. 1000g equals roughly 8.5 cups, but weighing (35.27 oz) guarantees precision. For air fryer recipes, where consistency is key, always opt for weight measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, cups are less accurate for icing sugar due to settling and compaction. 1000g equals roughly 8.5 cups, but weighing (35.27 oz) guarantees precision. For air fryer recipes, where consistency is key, always opt for weight measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does icing sugar weigh the same as granulated sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, icing sugar is lighter per volume due to its fine texture. 1000g of granulated sugar equals 35.27 oz, just like icing sugar, but they measure differently in cups. In air fryer baking, using the correct type and weight ensures proper texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, icing sugar is lighter per volume due to its fine texture. 1000g of granulated sugar equals 35.27 oz, just like icing sugar, but they measure differently in cups. In air fryer baking, using the correct type and weight ensures proper texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 1000g of icing sugar last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Stored airtight, 1000g of icing sugar lasts up to 2 years, though it’s best used within 6 months for optimal freshness. For air fryer recipes, always check for clumps and sift if needed to maintain smooth consistency in batters and toppings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Stored airtight, 1000g of icing sugar lasts up to 2 years, though it’s best used within 6 months for optimal freshness. For air fryer recipes, always check for clumps and sift if needed to maintain smooth consistency in batters and toppings."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of icing sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of icing sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar",
     "description": "Discover how to convert 1000g of icing sugar to ounces for perfect baking results. Includes tips for air fryer desserts!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of icing sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-of-icing-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of icing sugar equals approximately 35.27 ounces. This conversion is essential for bakers who need precise measurements, especially when working with air fryer recipes. Whether you’re dusting desserts or making frosting, knowing the exact weight ensures perfect results every time.</p>

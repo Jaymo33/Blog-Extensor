@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half"
-        },
-        "headline": "Quick Guide: Convert 885 ml of Half And Half to Cups Easily",
-        "description": "Learn how to convert 885 ml of half and half to cups for perfect baking and cooking every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half"
+    },
+    "headline": "Quick Guide: Convert 885 ml of Half And Half to Cups Easily",
+    "description": "Learn how to convert 885 ml of half and half to cups for perfect baking and cooking every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-885-ml-of-half-and-half.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-885-ml-of-half-and-half.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 885 ml of half and half the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 885 ml of half and half is the same volume in both the UK and USA. However, cup measurements can vary slightly between countries. In the UK, 1 cup is 250 ml, while in the USA, it's 240 ml. For 885 ml, this means roughly 3.54 UK cups or 3.75 US cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 885 ml of half and half is the same volume in both the UK and USA. However, cup measurements can vary slightly between countries. In the UK, 1 cup is 250 ml, while in the USA, it's 240 ml. For 885 ml, this means roughly 3.54 UK cups or 3.75 US cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of half and half in a recipe calling for 885 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute milk for half and half, but the texture and richness of your dish will be affected. To mimic half and half, mix 1 part milk with 1 part single cream. For 885 ml, you'd use 442.5 ml of milk and 442.5 ml of cream."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute milk for half and half, but the texture and richness of your dish will be affected. To mimic half and half, mix 1 part milk with 1 part single cream. For 885 ml, you'd use 442.5 ml of milk and 442.5 ml of cream."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover half and half after opening?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store opened half and half in an airtight container in the fridge for up to 7 days. Always check for signs of spoilage like sour smell or curdling before use. For longer storage, you can freeze half and half, though it may separate when thawed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store opened half and half in an airtight container in the fridge for up to 7 days. Always check for signs of spoilage like sour smell or curdling before use. For longer storage, you can freeze half and half, though it may separate when thawed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to measure 885 ml of half and half without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring jug, use standard cups. For 885 ml, measure 3 full cups (720 ml) plus 3/4 cup (180 ml) to get close to 885 ml. For more precision, use tablespoons – 885 ml equals about 59 tablespoons."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring jug, use standard cups. For 885 ml, measure 3 full cups (720 ml) plus 3/4 cup (180 ml) to get close to 885 ml. For more precision, use tablespoons – 885 ml equals about 59 tablespoons."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 885 ml of Half And Half?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 885 ml of Half And Half?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half",
     "description": "Learn how to convert 885 ml of half and half to cups for perfect baking and cooking every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 885 ml of Half And Half?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-half-and-half"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>885 ml of half and half is equivalent to approximately 3.75 cups. This conversion is essential for anyone using half and half in recipes, especially when working with air fryer dishes that require precise measurements. Whether you're making creamy sauces, desserts, or even rich mashed potatoes, knowing how to convert 885 ml of half and half to cups ensures your dishes turn out perfectly every time.</p>

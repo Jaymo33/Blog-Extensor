@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 75g of Golden Syrup to Ounces Easily",
-        "description": "Learn how to convert 75g of golden syrup to ounces in seconds. Perfect for air fryer recipes and baking accuracy. Get the exact measurement now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 75g of Golden Syrup to Ounces Easily",
+    "description": "Learn how to convert 75g of golden syrup to ounces in seconds. Perfect for air fryer recipes and baking accuracy. Get the exact measurement now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-golden-syrup-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-golden-syrup-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use honey instead of golden syrup in a recipe calling for 75g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute honey for golden syrup, but the flavour and texture will differ slightly. Honey is thinner and has a more floral taste, while golden syrup is thicker and has a deeper caramel flavour. Use the same weight (75g or 2.65 ounces) for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute honey for golden syrup, but the flavour and texture will differ slightly. Honey is thinner and has a more floral taste, while golden syrup is thicker and has a deeper caramel flavour. Use the same weight (75g or 2.65 ounces) for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 75g of golden syrup without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, 75g of golden syrup is roughly 3 tablespoons. Lightly grease the spoon first to help the syrup slide off cleanly. For the most accurate results, investing in a digital kitchen scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, 75g of golden syrup is roughly 3 tablespoons. Lightly grease the spoon first to help the syrup slide off cleanly. For the most accurate results, investing in a digital kitchen scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does golden syrup weigh the same as water when converting grams to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, golden syrup is denser than water. While 75g of water is about 2.65 ounces, golden syrup’s thickness means it takes up less volume for the same weight. Always measure by weight for precision."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, golden syrup is denser than water. While 75g of water is about 2.65 ounces, golden syrup’s thickness means it takes up less volume for the same weight. Always measure by weight for precision."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to clean golden syrup from my air fryer basket?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To remove sticky golden syrup residue, soak the air fryer basket in warm, soapy water for 10 minutes. For stubborn spots, use a soft sponge or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner guide</a> for more tips. Avoid abrasive scrubbers to prevent damage."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To remove sticky golden syrup residue, soak the air fryer basket in warm, soapy water for 10 minutes. For stubborn spots, use a soft sponge or our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner guide</a> for more tips. Avoid abrasive scrubbers to prevent damage."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of golden syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of golden syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces",
     "description": "Learn how to convert 75g of golden syrup to ounces in seconds. Perfect for air fryer recipes and baking accuracy. Get the exact measurement now!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of golden syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/75g-golden-syrup-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of golden syrup equals approximately 2.65 ounces. This conversion is essential for anyone using golden syrup in baking or air fryer recipes, ensuring precise measurements for perfect results. Golden syrup, a staple in British kitchens, is often used in desserts, marinades, and even glazes for air-fried dishes. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert grams to ounces is a handy skill.</p>

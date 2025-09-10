@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats"
-        },
-        "headline": "Quick Guide: Convert 200g of Oats to Ounces Easily",
-        "description": "Learn how to convert 200g of oats to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats"
+    },
+    "headline": "Quick Guide: Convert 200g of Oats to Ounces Easily",
+    "description": "Learn how to convert 200g of oats to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of ounces for 200g of oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but weighing is more accurate. 200g of oats is roughly 2.5 UK cups, but this can vary based on how packed the oats are. For air fryer recipes, a scale ensures consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but weighing is more accurate. 200g of oats is roughly 2.5 UK cups, but this can vary based on how packed the oats are. For air fryer recipes, a scale ensures consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes need precise oat measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook quickly, so uneven measurements can lead to undercooked or burnt spots. 200g of oats (7.05 oz) ensures even toasting and perfect texture every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook quickly, so uneven measurements can lead to undercooked or burnt spots. 200g of oats (7.05 oz) ensures even toasting and perfect texture every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do steel-cut oats weigh the same as rolled oats per 200g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 200g of any oat type equals 7.05 oz, but steel-cut oats are denser. Adjust cooking times in the air fryer as they take longer to crisp."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 200g of any oat type equals 7.05 oz, but steel-cut oats are denser. Adjust cooking times in the air fryer as they take longer to crisp."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 200g of oats make in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It depends on the recipe. For granola, 200g (7.05 oz) serves about 4. For coatings or toppings, it could cover 6-8 portions. Check recipe specifics for guidance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the recipe. For granola, 200g (7.05 oz) serves about 4. For coatings or toppings, it could cover 6-8 portions. Check recipe specifics for guidance."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats",
     "description": "Learn how to convert 200g of oats to ounces in seconds. Perfect for air fryer recipes and precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200g of oats equals approximately 7.05 ounces. Whether you're measuring ingredients for an air fryer recipe or simply need to convert grams to ounces, this guide will help you get it right every time. Precise measurements are crucial for perfect results, especially when using an air fryer, where consistency matters. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know how important accurate conversions are for delicious meals.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk"
-        },
-        "headline": "Quick Guide: Convert 1000g of Almond Milk to Ounces",
-        "description": "Learn how to convert 1000g of almond milk to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk"
+    },
+    "headline": "Quick Guide: Convert 1000g of Almond Milk to Ounces",
+    "description": "Learn how to convert 1000g of almond milk to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-almond-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1000g-almond-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1000g of almond milk the same as 1000ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 1000g of almond milk is not always the same as 1000ml. While water has a 1:1 ratio of grams to millilitres, almond milk’s density can vary slightly depending on additives like thickeners or sweeteners. For precise measurements, always weigh almond milk in grams or convert using 1000g ≈ 35.27 oz."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 1000g of almond milk is not always the same as 1000ml. While water has a 1:1 ratio of grams to millilitres, almond milk’s density can vary slightly depending on additives like thickeners or sweeteners. For precise measurements, always weigh almond milk in grams or convert using 1000g ≈ 35.27 oz."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of ounces for 1000g of almond milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use cups as an alternative. 1000g of almond milk is roughly 4.23 cups, but this can vary slightly based on the brand. For air fryer recipes, weighing ingredients in grams or ounces is more accurate, ensuring consistent results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use cups as an alternative. 1000g of almond milk is roughly 4.23 cups, but this can vary slightly based on the brand. For air fryer recipes, weighing ingredients in grams or ounces is more accurate, ensuring consistent results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use grams and others use ounces for almond milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes may use grams or ounces depending on regional preferences or the recipe creator’s measurement system. Grams are more common in the UK and Europe, while ounces are often used in the US. Converting 1000g to ounces (35.27 oz) ensures compatibility with any recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes may use grams or ounces depending on regional preferences or the recipe creator’s measurement system. Grams are more common in the UK and Europe, while ounces are often used in the US. Converting 1000g to ounces (35.27 oz) ensures compatibility with any recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover almond milk after measuring 1000g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After measuring 1000g of almond milk, store any leftovers in a sealed container in the fridge for up to 5 days. Shake well before using, as separation can occur. For longer storage, consider freezing almond milk in portions, though texture may change slightly upon thawing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After measuring 1000g of almond milk, store any leftovers in a sealed container in the fridge for up to 5 days. Shake well before using, as separation can occur. For longer storage, consider freezing almond milk in portions, though texture may change slightly upon thawing."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1000g of almond milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 1000g of almond milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk",
     "description": "Learn how to convert 1000g of almond milk to ounces with our easy guide. Perfect for air fryer recipes and precise measurements!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1000g of almond milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1000g-almond-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1000g of almond milk equals approximately 35.27 ounces. This conversion is essential for anyone using precise measurements in recipes, especially when working with air fryers. Whether you're making a creamy dessert or a savoury dish, knowing the exact weight ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Let’s dive deeper into why this measurement matters and how to use it effectively.</p>  

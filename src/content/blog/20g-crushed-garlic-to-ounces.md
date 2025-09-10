@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 20g of Crushed Garlic to Ounces",
-        "description": "Learn how to convert 20g of crushed garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 20g of Crushed Garlic to Ounces",
+    "description": "Learn how to convert 20g of crushed garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-crushed-garlic-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-crushed-garlic-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use minced garlic instead of crushed garlic in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute minced garlic for crushed garlic, but the texture and intensity may differ slightly. Minced garlic is finer, so 20g will have a more concentrated flavour. Adjust quantities if needed, starting with a bit less and tasting as you go."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute minced garlic for crushed garlic, but the texture and intensity may differ slightly. Minced garlic is finer, so 20g will have a more concentrated flavour. Adjust quantities if needed, starting with a bit less and tasting as you go."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover crushed garlic for future air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store leftover crushed garlic in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays with a bit of olive oil. Each cube (about 5g) can be popped straight into your air fryer dishes when needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store leftover crushed garlic in an airtight container in the fridge for up to a week. For longer storage, freeze it in ice cube trays with a bit of olive oil. Each cube (about 5g) can be popped straight into your air fryer dishes when needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 20g of crushed garlic lose flavour when cooked in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air frying can mellow garlic’s sharpness but won’t eliminate its flavour entirely. For a stronger taste, add a bit more garlic or mix some in after cooking. High heat can caramelise garlic, adding a sweet, nutty depth to dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air frying can mellow garlic’s sharpness but won’t eliminate its flavour entirely. For a stronger taste, add a bit more garlic or mix some in after cooking. High heat can caramelise garlic, adding a sweet, nutty depth to dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to clean my air fryer after cooking with garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Wipe the air fryer basket with warm, soapy water to remove garlic residue. For stubborn smells, a mix of baking soda and water works wonders. Regular cleaning prevents lingering odours and keeps your air fryer ready for the next recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wipe the air fryer basket with warm, soapy water to remove garlic residue. For stubborn smells, a mix of baking soda and water works wonders. Regular cleaning prevents lingering odours and keeps your air fryer ready for the next recipe."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 20g of crushed garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of crushed garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces",
     "description": "Learn how to convert 20g of crushed garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 20g of crushed garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/20g-crushed-garlic-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>20 grams of crushed garlic equals approximately 0.71 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're preparing a garlic-infused marinade or seasoning vegetables, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify conversions so you can focus on cooking delicious meals.</p>  

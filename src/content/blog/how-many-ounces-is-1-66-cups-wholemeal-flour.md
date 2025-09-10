@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour"
-        },
-        "headline": "Quick Answer: 1.66 Cups Wholemeal Flour to Ounces UK",
-        "description": "Convert 1.66 cups of wholemeal flour to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour"
+    },
+    "headline": "Quick Answer: 1.66 Cups Wholemeal Flour to Ounces UK",
+    "description": "Convert 1.66 cups of wholemeal flour to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T06:21:39.135Z",
-        "dateModified": "2025-08-14T06:21:39.135Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-wholemeal-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T06:21:39.135Z",
+    "dateModified": "2025-08-14T06:21:39.135Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-66-cups-wholemeal-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why does 1.66 cups of wholemeal flour weigh differently than white flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Wholemeal flour weighs more than white flour because it contains the entire wheat kernel, including the bran and germ. These additional components make it denser, so 1.66 cups of wholemeal flour equals about 7.5 ounces, while the same volume of white flour would be slightly lighter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wholemeal flour weighs more than white flour because it contains the entire wheat kernel, including the bran and germ. These additional components make it denser, so 1.66 cups of wholemeal flour equals about 7.5 ounces, while the same volume of white flour would be slightly lighter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for self-raising wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The weight conversion is similar, but self-raising wholemeal flour contains added raising agents. For 1.66 cups, you'll still get approximately 7.5 ounces, but remember the leavening agents may affect your recipe's outcome in the air fryer. Always check if your recipe specifies plain or self-raising flour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The weight conversion is similar, but self-raising wholemeal flour contains added raising agents. For 1.66 cups, you'll still get approximately 7.5 ounces, but remember the leavening agents may affect your recipe's outcome in the air fryer. Always check if your recipe specifies plain or self-raising flour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust air fryer settings when using wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "When using measurements like 1.66 cups (7.5 ounces) of wholemeal flour, reduce your air fryer temperature by about 10°C compared to white flour recipes. Wholemeal flour browns faster, so you may also need to shorten cooking times by 1-2 minutes to prevent over-browning while ensuring thorough cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When using measurements like 1.66 cups (7.5 ounces) of wholemeal flour, reduce your air fryer temperature by about 10°C compared to white flour recipes. Wholemeal flour browns faster, so you may also need to shorten cooking times by 1-2 minutes to prevent over-browning while ensuring thorough cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Where can I find more air fryer recipes using wholemeal flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Our website <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> features numerous recipes using wholemeal flour measurements like 1.66 cups. Check our healthy baking section or use the search function to find recipes specifically designed for wholemeal flour in air fryers, ensuring perfect results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Our website <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> features numerous recipes using wholemeal flour measurements like 1.66 cups. Check our healthy baking section or use the search function to find recipes specifically designed for wholemeal flour in air fryers, ensuring perfect results every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.66 cups of wholemeal flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.66 cups of wholemeal flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour",
     "description": "Convert 1.66 cups of wholemeal flour to ounces in seconds. Perfect for air fryer baking with precise measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-14T06:21:39.135000+00:00",
     "dateModified": "2025-08-14T06:21:39.135000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.66 cups of wholemeal flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-66-cups-wholemeal-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.66 cups of wholemeal flour equals approximately 7.5 ounces (or 7.48 oz to be precise). This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up air fryer bread, muffins, or cookies, knowing this conversion ensures consistent results every time.</p>

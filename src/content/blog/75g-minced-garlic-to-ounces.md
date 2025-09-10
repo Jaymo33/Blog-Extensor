@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 75g minced garlic to ounces easily",
-        "description": "Learn how to convert 75g minced garlic to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 75g minced garlic to ounces easily",
+    "description": "Learn how to convert 75g minced garlic to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-minced-garlic-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-minced-garlic-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use jarred minced garlic instead of fresh for 75g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, jarred minced garlic works fine, but the flavour may be milder. Use the same 75g (2.65 oz) measurement, but taste and adjust if needed. Fresh garlic offers a sharper taste, ideal for bold dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, jarred minced garlic works fine, but the flavour may be milder. Use the same 75g (2.65 oz) measurement, but taste and adjust if needed. Fresh garlic offers a sharper taste, ideal for bold dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 75g minced garlic affect cooking time in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Minced garlic cooks quickly, so adding 75g won’t significantly change cooking time. However, spread it evenly to prevent burning. For recipes like roasted veggies, toss halfway for even flavour distribution."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Minced garlic cooks quickly, so adding 75g won’t significantly change cooking time. However, spread it evenly to prevent burning. For recipes like roasted veggies, toss halfway for even flavour distribution."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to mince garlic for accurate 75g measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a garlic press or finely chop cloves with a knife. Pack the minced garlic lightly into a measuring spoon or scale for 75g (2.65 oz). Avoid over-packing, as it can skew the weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a garlic press or finely chop cloves with a knife. Pack the minced garlic lightly into a measuring spoon or scale for 75g (2.65 oz). Avoid over-packing, as it can skew the weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute garlic powder for 75g minced garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but the ratio differs: 1/4 teaspoon of garlic powder equals about 1 clove (5g). For 75g minced garlic, use roughly 3.75 teaspoons. Adjust to taste, as powder is more concentrated."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but the ratio differs: 1/4 teaspoon of garlic powder equals about 1 clove (5g). For 75g minced garlic, use roughly 3.75 teaspoons. Adjust to taste, as powder is more concentrated."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of minced garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of minced garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces",
     "description": "Learn how to convert 75g minced garlic to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of minced garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/75g-minced-garlic-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of minced garlic equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements ensure the best flavour and texture. Whether you're making garlic butter shrimp or a savoury marinade, knowing the exact weight helps avoid overpowering or underwhelming your dish. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on accuracy to elevate your cooking. Keep reading for tips on measuring minced garlic and using it in your air fryer.</p>  

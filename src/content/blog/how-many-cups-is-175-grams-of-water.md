@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water"
-        },
-        "headline": "Quick Answer: How Many Cups Is 175 Grams of Water?",
-        "description": "Discover how to convert 175 grams of water to cups for baking, cooking, and air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water"
+    },
+    "headline": "Quick Answer: How Many Cups Is 175 Grams of Water?",
+    "description": "Discover how to convert 175 grams of water to cups for baking, cooking, and air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-25T23:55:27.950Z",
-        "dateModified": "2025-07-25T23:55:27.950Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-water.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-25T23:55:27.950Z",
+    "dateModified": "2025-07-25T23:55:27.950Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-water.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 175 grams of water the same as 175ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, because water has a density of 1g/ml, 175 grams of water equals exactly 175 millilitres. This makes measuring liquids like water straightforward with a metric measuring jug."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, because water has a density of 1g/ml, 175 grams of water equals exactly 175 millilitres. This makes measuring liquids like water straightforward with a metric measuring jug."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 175 grams of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to use a liquid measuring cup for accuracy, as dry cups aren’t designed to account for meniscus (the curve at the top of the liquid). For 175 grams (0.74 cups), a clear liquid cup with millilitre markings is ideal."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to use a liquid measuring cup for accuracy, as dry cups aren’t designed to account for meniscus (the curve at the top of the liquid). For 175 grams (0.74 cups), a clear liquid cup with millilitre markings is ideal."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 175 grams of water affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Adding water can create steam, which may slightly increase cooking times for foods like vegetables or bread. However, 175 grams is a moderate amount that shouldn’t drastically alter timing. Always check food doneness with a skewer or thermometer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Adding water can create steam, which may slightly increase cooking times for foods like vegetables or bread. However, 175 grams is a moderate amount that shouldn’t drastically alter timing. Always check food doneness with a skewer or thermometer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use grams instead of cups for water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide precise, consistent measurements unaffected by how you fill a cup. This is especially important in baking and air fryer recipes, where small variations can impact texture. Scales also simplify scaling recipes up or down."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide precise, consistent measurements unaffected by how you fill a cup. This is especially important in baking and air fryer recipes, where small variations can impact texture. Scales also simplify scaling recipes up or down."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 175 Grams of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water",
     "description": "Discover how to convert 175 grams of water to cups for baking, cooking, and air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-25T23:55:27.950000+00:00",
     "dateModified": "2025-07-25T23:55:27.950000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 175 Grams of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>175 grams of water equals approximately 0.74 cups (or just under 3/4 cup) in standard US measurements. This conversion is essential for baking, cooking, or preparing air fryer recipes where precision matters. Whether you're making a cake, sauces, or even reheating meals in your air fryer, knowing how to convert grams to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions simple so you can cook with confidence.</p>

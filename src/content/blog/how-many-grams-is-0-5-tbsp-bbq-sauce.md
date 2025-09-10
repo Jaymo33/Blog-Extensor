@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce"
-        },
-        "headline": "Quick Answer: How Many Grams is 0.5 Tbsp of BBQ Sauce?",
-        "description": "Discover the exact weight of 0.5 tbsp of BBQ sauce in grams for perfect air fryer recipes. Get the conversion now for precise cooking!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce"
+    },
+    "headline": "Quick Answer: How Many Grams is 0.5 Tbsp of BBQ Sauce?",
+    "description": "Discover the exact weight of 0.5 tbsp of BBQ sauce in grams for perfect air fryer recipes. Get the conversion now for precise cooking!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-bbq-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-bbq-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.5 tbsp of BBQ sauce for air fryer ribs?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 0.5 tbsp (7.5g) of BBQ sauce is enough to lightly coat one small rib portion in the air fryer. For stickier ribs, apply a second layer halfway through cooking. Avoid overloading to prevent smoke."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 0.5 tbsp (7.5g) of BBQ sauce is enough to lightly coat one small rib portion in the air fryer. For stickier ribs, apply a second layer halfway through cooking. Avoid overloading to prevent smoke."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer smoke when using BBQ sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "BBQ sauce contains sugar, which burns quickly under high heat. Using more than 0.5 tbsp (7.5g) per serving can cause smoking. To prevent this, dilute sauce with water or apply it in the last 5 minutes of cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "BBQ sauce contains sugar, which burns quickly under high heat. Using more than 0.5 tbsp (7.5g) per serving can cause smoking. To prevent this, dilute sauce with water or apply it in the last 5 minutes of cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 tbsp of BBQ sauce to grams for a UK recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In the UK, 0.5 tbsp of BBQ sauce equals roughly 7.5 grams. UK and US tablespoons are the same size, so no adjustment is needed. For precision, weigh it on a metric scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the UK, 0.5 tbsp of BBQ sauce equals roughly 7.5 grams. UK and US tablespoons are the same size, so no adjustment is needed. For precision, weigh it on a metric scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute ketchup for BBQ sauce in a 0.5 tbsp measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but ketchup is thinner, so 0.5 tbsp weighs slightly less (about 7g). Adjust seasonings, as ketchup lacks BBQ sauce’s smokiness. For best results, tweak the recipe or check our <a href=https://www.airfryerrecipe.co.uk/recipes>sauce substitutions guide</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but ketchup is thinner, so 0.5 tbsp weighs slightly less (about 7g). Adjust seasonings, as ketchup lacks BBQ sauce’s smokiness. For best results, tweak the recipe or check our <a href=https://www.airfryerrecipe.co.uk/recipes>sauce substitutions guide</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of bbq sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of bbq sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce",
     "description": "Discover the exact weight of 0.5 tbsp of BBQ sauce in grams for perfect air fryer recipes. Get the conversion now for precise cooking!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of bbq sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-bbq-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of BBQ sauce weighs approximately 7.5 grams. This measurement is essential for air fryer recipes where precision ensures even cooking and perfect flavour balance. Whether you're marinating chicken or glazing ribs, knowing the exact weight helps avoid over or under-seasoning. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

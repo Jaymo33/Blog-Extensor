@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water"
-        },
-        "headline": "Quick Guide: Convert 910 ml of Water to Cups Easily",
-        "description": "Learn how to convert 910 ml of water to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water"
+    },
+    "headline": "Quick Guide: Convert 910 ml of Water to Cups Easily",
+    "description": "Learn how to convert 910 ml of water to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T00:27:33.432Z",
-        "dateModified": "2025-08-03T00:27:33.432Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-910-ml-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T00:27:33.432Z",
+    "dateModified": "2025-08-03T00:27:33.432Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-910-ml-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 910 ml of water the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there's a slight difference. In the UK, 910 ml equals about 3.85 cups (284 ml per cup), while in the US, it's roughly 3.84 cups (240 ml per cup). Always check which measurement system your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there's a slight difference. In the UK, 910 ml equals about 3.85 cups (284 ml per cup), while in the US, it's roughly 3.84 cups (240 ml per cup). Always check which measurement system your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular drinking cup to measure 910 ml of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It's not recommended, as drinking cups vary in size. For precise results, use a standard measuring cup or a kitchen scale. Air fryer recipes often need exact measurements to ensure proper cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It's not recommended, as drinking cups vary in size. For precise results, use a standard measuring cup or a kitchen scale. Air fryer recipes often need exact measurements to ensure proper cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 910 ml of water affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Liquid amounts impact steam and moisture levels in the air fryer. Too much water (like 910 ml) may increase cooking time for some dishes, while too little can dry them out. Adjust times based on your recipe's requirements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liquid amounts impact steam and moisture levels in the air fryer. Too much water (like 910 ml) may increase cooking time for some dishes, while too little can dry them out. Adjust times based on your recipe's requirements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to convert 910 ml to cups without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a jug, use tablespoons as a reference—20 UK tbsp or 16.23 US tbsp equal roughly 1 cup. For 910 ml, you’d need about 61 UK tbsp or 50 US tbsp. However, a measuring jug is more reliable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a jug, use tablespoons as a reference—20 UK tbsp or 16.23 US tbsp equal roughly 1 cup. For 910 ml, you’d need about 61 UK tbsp or 50 US tbsp. However, a measuring jug is more reliable."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 910 ml of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 910 ml of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water",
     "description": "Learn how to convert 910 ml of water to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T00:27:33.432000+00:00",
     "dateModified": "2025-08-03T00:27:33.432000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 910 ml of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-910-ml-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>910 ml of water equals approximately 3.85 cups in the UK or 3.84 cups in the US. This conversion is essential for air fryer recipes, where precise liquid measurements can affect texture and cooking times. Whether you're making a cake, steaming vegetables, or preparing a sauce, knowing how to convert millilitres to cups ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we emphasise accuracy to help you achieve perfect dishes every time.</p>  

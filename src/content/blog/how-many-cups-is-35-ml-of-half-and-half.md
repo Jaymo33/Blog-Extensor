@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half"
-        },
-        "headline": "Quick Guide: Convert 35 ml of Half And Half to Cups Easily",
-        "description": "Learn how to convert 35 ml of half and half to cups in seconds with our simple guide. Perfect for air fryer recipes and baking conversions.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half"
+    },
+    "headline": "Quick Guide: Convert 35 ml of Half And Half to Cups Easily",
+    "description": "Learn how to convert 35 ml of half and half to cups in seconds with our simple guide. Perfect for air fryer recipes and baking conversions.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:31:13.975Z",
-        "dateModified": "2025-07-30T23:31:13.975Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-half-and-half.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:31:13.975Z",
+    "dateModified": "2025-07-30T23:31:13.975Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-35-ml-of-half-and-half.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 35 ml of half and half the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there’s a slight difference. In the UK, 35 ml of half and half equals approximately 0.15 cups, while in the US, it’s about 0.148 cups. This small variance usually doesn’t impact recipes, but for precision, it’s best to use the correct measurement for your region."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there’s a slight difference. In the UK, 35 ml of half and half equals approximately 0.15 cups, while in the US, it’s about 0.148 cups. This small variance usually doesn’t impact recipes, but for precision, it’s best to use the correct measurement for your region."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use milk instead of half and half in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute milk, but the texture and richness will differ. Half and half adds creaminess, so if using milk, consider adding a bit of butter or cream to compensate. For best results, stick to the recipe or check conversions on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute milk, but the texture and richness will differ. Half and half adds creaminess, so if using milk, consider adding a bit of butter or cream to compensate. For best results, stick to the recipe or check conversions on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 35 ml of half and half without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use tablespoons—2 tablespoons (30 ml) plus 1 teaspoon (5 ml) will give you 35 ml. Alternatively, a small medicine cup or shot glass often has ml markings for quick measurements. Precision is key for air fryer recipes, so try to measure as accurately as possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use tablespoons—2 tablespoons (30 ml) plus 1 teaspoon (5 ml) will give you 35 ml. Alternatively, a small medicine cup or shot glass often has ml markings for quick measurements. Precision is key for air fryer recipes, so try to measure as accurately as possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is half and half commonly used in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Half and half adds richness without being too heavy, making it ideal for air fryer dishes like creamy sauces or baked goods. Its balanced fat content helps achieve the perfect texture, whether you’re cooking or baking. For recipe ideas, explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Half and half adds richness without being too heavy, making it ideal for air fryer dishes like creamy sauces or baked goods. Its balanced fat content helps achieve the perfect texture, whether you’re cooking or baking. For recipe ideas, explore our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 35 ml of Half And Half?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 35 ml of Half And Half?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half",
     "description": "Learn how to convert 35 ml of half and half to cups in seconds with our simple guide. Perfect for air fryer recipes and baking conversions.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:13.975000+00:00",
     "dateModified": "2025-07-30T23:31:13.975000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 35 ml of Half And Half?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-35-ml-of-half-and-half"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>35 ml of half and half is approximately 0.15 cups (UK) or 0.148 cups (US). Whether you're whipping up a creamy sauce or baking a delicious dessert, knowing this conversion ensures your air fryer recipes turn out perfectly every time. Half and half, a blend of equal parts milk and cream, is a staple in many dishes, so getting the measurements right is key.</p>

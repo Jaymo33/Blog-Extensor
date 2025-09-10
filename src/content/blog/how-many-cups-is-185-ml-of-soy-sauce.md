@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce"
-        },
-        "headline": "Quick Answer: How Many Cups Is 185 ml of Soy Sauce?",
-        "description": "Discover how to convert 185 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce"
+    },
+    "headline": "Quick Answer: How Many Cups Is 185 ml of Soy Sauce?",
+    "description": "Discover how to convert 185 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-185-ml-of-soy-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-185-ml-of-soy-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 185 ml of soy sauce interchangeably with 0.78 cups in any recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 185 ml of soy sauce is equivalent to 0.78 cups, so you can use them interchangeably in most recipes. However, for baking or dishes requiring extreme precision, slight variations may occur due to measuring tool differences. Always level off your cups or use a jug for the most accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 185 ml of soy sauce is equivalent to 0.78 cups, so you can use them interchangeably in most recipes. However, for baking or dishes requiring extreme precision, slight variations may occur due to measuring tool differences. Always level off your cups or use a jug for the most accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 185 ml of soy sauce compare to other common liquid measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "185 ml of soy sauce equals roughly 6.25 fluid ounces or 12 tablespoons plus one teaspoon. It’s slightly less than a standard US cup (240 ml) but works well in most air fryer marinades and sauces. For larger batches, you might need to scale up accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "185 ml of soy sauce equals roughly 6.25 fluid ounces or 12 tablespoons plus one teaspoon. It’s slightly less than a standard US cup (240 ml) but works well in most air fryer marinades and sauces. For larger batches, you might need to scale up accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 185 ml of soy sauce the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 185 ml is a metric measurement used universally, so it’s the same in the UK and US. However, cup sizes differ slightly—a US cup is 240 ml, while a UK cup is 284 ml. For 185 ml, the difference is negligible in most recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 185 ml is a metric measurement used universally, so it’s the same in the UK and US. However, cup sizes differ slightly—a US cup is 240 ml, while a UK cup is 284 ml. For 185 ml, the difference is negligible in most recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute low-sodium soy sauce when a recipe calls for 185 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use low-sodium soy sauce in the same quantity (185 ml or 0.78 cups), but you may want to adjust other seasonings to compensate for the reduced saltiness. Taste as you go, especially in air fryer dishes where flavours concentrate during cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use low-sodium soy sauce in the same quantity (185 ml or 0.78 cups), but you may want to adjust other seasonings to compensate for the reduced saltiness. Taste as you go, especially in air fryer dishes where flavours concentrate during cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 185 ml of Soy Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 185 ml of Soy Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce",
     "description": "Discover how to convert 185 ml of soy sauce to cups for perfect air fryer recipes. Get precise measurements and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 185 ml of Soy Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-185-ml-of-soy-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>185 ml of soy sauce is approximately 0.78 cups. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or adding flavour to stir-fried vegetables, knowing how to convert millilitres to cups ensures consistency in your cooking. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions effortless, so you can spend less time measuring and more time enjoying delicious meals.</p>  

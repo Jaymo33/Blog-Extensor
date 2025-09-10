@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter"
-        },
-        "headline": "How Many Cups Is 175 Grams of Butter? – Easy Conversion Guide | AirFryerRecipe.co.uk",
-        "description": "Wondering how many cups 175 grams of butter equals? Get the precise conversion for UK and US measurements, plus handy air fryer baking tips. Perfect for recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter"
+    },
+    "headline": "How Many Cups Is 175 Grams of Butter? – Easy Conversion Guide | AirFryerRecipe.co.uk",
+    "description": "Wondering how many cups 175 grams of butter equals? Get the precise conversion for UK and US measurements, plus handy air fryer baking tips. Perfect for recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:57:37.476Z",
-        "dateModified": "2025-07-22T16:57:37.476Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-butter.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:57:37.476Z",
+    "dateModified": "2025-07-22T16:57:37.476Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-175-grams-of-butter.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 175 grams of butter equal 3/4 cup in both UK and US measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 175 grams of butter is approximately 3/4 cup (0.77 cups) in both UK and US cup measurements. The slight difference in cup volumes (250ml UK vs 240ml US) doesn’t significantly affect this conversion for most air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 175 grams of butter is approximately 3/4 cup (0.77 cups) in both UK and US cup measurements. The slight difference in cup volumes (250ml UK vs 240ml US) doesn’t significantly affect this conversion for most air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 175 grams of butter without a kitchen scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use the markings on a standard UK butter block (1 tablespoon = ~14g), so 175g equals about 12.5 tablespoons. Alternatively, use the water displacement method: add butter to 1 cup of water until the level reaches 1.77 cups total."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use the markings on a standard UK butter block (1 tablespoon = ~14g), so 175g equals about 12.5 tablespoons. Alternatively, use the water displacement method: add butter to 1 cup of water until the level reaches 1.77 cups total."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does butter temperature matter when measuring 175 grams in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cold butter is denser than softened butter, so 175 grams takes up slightly less volume when cold. For accurate cup measurements, use softened butter or pack cold butter firmly into the measuring cup to eliminate air gaps."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cold butter is denser than softened butter, so 175 grams takes up slightly less volume when cold. For accurate cup measurements, use softened butter or pack cold butter firmly into the measuring cup to eliminate air gaps."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use margarine instead of butter for 175 grams in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, margarine’s higher water content may affect texture in baked goods. For best results in air fryer recipes, stick to butter or check our conversion chart for precise alternatives."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, margarine’s higher water content may affect texture in baked goods. For best results in air fryer recipes, stick to butter or check our conversion chart for precise alternatives."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 175 Grams of Butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 175 Grams of Butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter",
     "description": "Wondering how many cups 175 grams of butter equals? Get the precise conversion for UK and US measurements, plus handy air fryer baking tips. Perfect for recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:57:37.476000+00:00",
     "dateModified": "2025-07-22T16:57:37.476000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 175 Grams of Butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-175-grams-of-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>175 grams of butter is roughly 3/4 cup (0.77 cups to be precise) in both UK and US measurements. Whether you're baking cakes or preparing savoury dishes in your air fryer, getting the butter measurement right ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know precise conversions make all the difference in air fryer cooking.</p>

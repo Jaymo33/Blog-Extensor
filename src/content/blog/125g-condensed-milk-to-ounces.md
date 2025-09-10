@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces"
-        },
-        "headline": "Quick 125g condensed milk to ounces conversion guide",
-        "description": "Convert 125g of condensed milk to ounces easily with our simple guide. Perfect for air fryer recipes and baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces"
+    },
+    "headline": "Quick 125g condensed milk to ounces conversion guide",
+    "description": "Convert 125g of condensed milk to ounces easily with our simple guide. Perfect for air fryer recipes and baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-condensed-milk-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-condensed-milk-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of a scale for 125g of condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use a measuring cup, but it’s less accurate. One tablespoon of condensed milk is roughly 20g, so 125g would be about 6 tablespoons. For best results, especially in air fryer recipes, a digital scale is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use a measuring cup, but it’s less accurate. One tablespoon of condensed milk is roughly 20g, so 125g would be about 6 tablespoons. For best results, especially in air fryer recipes, a digital scale is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ounces instead of grams for condensed milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Recipes may use ounces if they originate from countries like the US, where imperial measurements are common. In the UK, grams are standard, so conversions like 125g to ounces (4.41 oz) are helpful for following international recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Recipes may use ounces if they originate from countries like the US, where imperial measurements are common. In the UK, grams are standard, so conversions like 125g to ounces (4.41 oz) are helpful for following international recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does condensed milk affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Condensed milk can caramelise quickly in the air fryer due to its high sugar content. Using the correct amount, like 125g (4.41 oz), ensures even cooking. Always monitor dishes with condensed milk to prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Condensed milk can caramelise quickly in the air fryer due to its high sugar content. Using the correct amount, like 125g (4.41 oz), ensures even cooking. Always monitor dishes with condensed milk to prevent burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute evaporated milk for condensed milk in a 125g measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk is unsweetened and thinner than condensed milk. Substituting it in a 125g measurement will alter the recipe’s texture and sweetness. Stick to condensed milk unless the recipe specifies otherwise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk is unsweetened and thinner than condensed milk. Substituting it in a 125g measurement will alter the recipe’s texture and sweetness. Stick to condensed milk unless the recipe specifies otherwise."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 125g of condensed milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of condensed milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces",
     "description": "Convert 125g of condensed milk to ounces easily with our simple guide. Perfect for air fryer recipes and baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 125g of condensed milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/125g-condensed-milk-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>125g of condensed milk equals approximately 4.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a dessert or a savoury dish, knowing how to convert grams to ounces ensures your recipe turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with ingredients like condensed milk.</p>  

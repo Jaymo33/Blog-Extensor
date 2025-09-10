@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark"
-        },
-        "headline": "Convert 299 F to Gas Mark | Air Fryer & Oven Guide",
-        "description": "Learn how to convert 299°F to Gas Mark for your air fryer or oven. Includes baking tips, temperature charts, and UK conversion methods.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark"
+    },
+    "headline": "Convert 299 F to Gas Mark | Air Fryer & Oven Guide",
+    "description": "Learn how to convert 299°F to Gas Mark for your air fryer or oven. Includes baking tips, temperature charts, and UK conversion methods.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T18:49:13.383Z",
-        "dateModified": "2025-07-20T18:49:13.383Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/299-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T18:49:13.383Z",
+    "dateModified": "2025-07-20T18:49:13.383Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/299-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 299 F to Gas Mark 2 for all air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 299 F (Gas Mark 2) works for many dishes, it's best suited for slow cooking, baking, and delicate foods. For crisping or browning, you'll typically need higher temperatures around Gas Mark 4-6 (350-400°F)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 299 F (Gas Mark 2) works for many dishes, it's best suited for slow cooking, baking, and delicate foods. For crisping or browning, you'll typically need higher temperatures around Gas Mark 4-6 (350-400°F)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 299 F in an air fryer compare to a conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook faster at 299 F (Gas Mark 2) due to their powerful fan circulation. Expect cooking times to be about 20% shorter than oven recipes, and check food earlier to prevent overcooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook faster at 299 F (Gas Mark 2) due to their powerful fan circulation. Expect cooking times to be about 20% shorter than oven recipes, and check food earlier to prevent overcooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 299 F to Gas Mark 2?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This temperature excels for roasting vegetables, baking delicate fish, proofing dough, slow-cooking meats, and reheating leftovers without drying them out. It's also ideal for custards and egg-based dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This temperature excels for roasting vegetables, baking delicate fish, proofing dough, slow-cooking meats, and reheating leftovers without drying them out. It's also ideal for custards and egg-based dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook faster at 299 F than my oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers' compact size and intense air circulation distribute heat more efficiently than conventional ovens. This means food cooks faster at the same temperature setting, requiring adjusted timing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers' compact size and intense air circulation distribute heat more efficiently than conventional ovens. This means food cooks faster at the same temperature setting, requiring adjusted timing."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "299 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "299 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark",
     "description": "Learn how to convert 299°F to Gas Mark for your air fryer or oven. Includes baking tips, temperature charts, and UK conversion methods.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T18:49:13.383000+00:00",
     "dateModified": "2025-07-20T18:49:13.383000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "299 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/299-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>299°F converts to Gas Mark 2 in UK ovens and air fryers. This moderate temperature is ideal for slow baking, roasting vegetables, or cooking delicate dishes that require gentle heat. Whether you're using a traditional oven or modern air fryer, understanding this conversion ensures your recipes turn out perfectly every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice"
-        },
-        "headline": "Quick Answer: How Many Ounces Is 200g of Rice?",
-        "description": "Discover how to convert 200g of rice to ounces for perfect air fryer meals. Get accurate measurements and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice"
+    },
+    "headline": "Quick Answer: How Many Ounces Is 200g of Rice?",
+    "description": "Discover how to convert 200g of rice to ounces for perfect air fryer meals. Get accurate measurements and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-200g-of-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 200g of rice the same as 7 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "200g of rice is approximately 7.05 ounces, so it’s very close to 7 ounces. For most recipes, this small difference won’t matter, but for precision in air fryer cooking, it’s best to use the exact conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "200g of rice is approximately 7.05 ounces, so it’s very close to 7 ounces. For most recipes, this small difference won’t matter, but for precision in air fryer cooking, it’s best to use the exact conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many cups is 200g of rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "200g of rice is roughly 1 metric cup, but this varies by type. Long-grain rice like basmati fills a cup at 200g, while short-grain or sticky rice may be slightly denser. Always check your rice variety for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "200g of rice is roughly 1 metric cup, but this varies by type. Long-grain rice like basmati fills a cup at 200g, while short-grain or sticky rice may be slightly denser. Always check your rice variety for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook 200g of rice directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to pre-cook rice before air-frying, as the air fryer’s dry heat isn’t ideal for boiling water. Use pre-cooked 200g of rice for dishes like fried rice or crispy rice balls for the best texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to pre-cook rice before air-frying, as the air fryer’s dry heat isn’t ideal for boiling water. Use pre-cooked 200g of rice for dishes like fried rice or crispy rice balls for the best texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 200g of rice double when cooked?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 200g of uncooked rice roughly triples in weight once cooked, yielding about 600g. This expansion is crucial to remember when portioning air fryer meals to avoid overcrowding the basket."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 200g of uncooked rice roughly triples in weight once cooked, yielding about 600g. This expansion is crucial to remember when portioning air fryer meals to avoid overcrowding the basket."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 200g of rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 200g of rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice",
     "description": "Discover how to convert 200g of rice to ounces for perfect air fryer meals. Get accurate measurements and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 200g of rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-200g-of-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>200g of rice equals approximately 7.05 ounces. This conversion is essential for air fryer cooking, where precise measurements ensure perfectly cooked grains every time. Whether you’re meal prepping or whipping up a quick side dish, knowing how to convert grams to ounces simplifies your kitchen workflow. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

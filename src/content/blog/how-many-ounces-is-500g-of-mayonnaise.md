@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise"
-        },
-        "headline": "Quick 500g mayonnaise to ounces conversion for UK cooks",
-        "description": "Convert 500g of mayonnaise to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise"
+    },
+    "headline": "Quick 500g mayonnaise to ounces conversion for UK cooks",
+    "description": "Convert 500g of mayonnaise to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-mayonnaise.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-500g-of-mayonnaise.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert 500g of mayonnaise to ounces for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 500g of mayonnaise to ounces (17.64 oz) ensures accuracy in air fryer recipes where precise measurements matter. Many UK recipes provide weights in grams, while some air fryer manuals use ounces, so knowing both measurements helps you follow instructions perfectly for consistent results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 500g of mayonnaise to ounces (17.64 oz) ensures accuracy in air fryer recipes where precise measurements matter. Many UK recipes provide weights in grams, while some air fryer manuals use ounces, so knowing both measurements helps you follow instructions perfectly for consistent results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use cups instead of ounces to measure 500g of mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, cups aren't ideal for measuring 500g of mayonnaise as its thickness affects volume measurements. Weight measurements (grams or ounces) are more accurate for air fryer cooking. 500g of mayonnaise is roughly 2 cups, but for best results, use a kitchen scale to measure by weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, cups aren't ideal for measuring 500g of mayonnaise as its thickness affects volume measurements. Weight measurements (grams or ounces) are more accurate for air fryer cooking. 500g of mayonnaise is roughly 2 cups, but for best results, use a kitchen scale to measure by weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of mayonnaise affect the 500g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion from 500g to ounces (17.64 oz) remains the same regardless of mayonnaise type - full fat, light, or vegan. However, different varieties may have slightly different densities, so for absolute precision in air fryer recipes, weighing your specific mayonnaise is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion from 500g to ounces (17.64 oz) remains the same regardless of mayonnaise type - full fat, light, or vegan. However, different varieties may have slightly different densities, so for absolute precision in air fryer recipes, weighing your specific mayonnaise is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure 500g of mayonnaise without scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Without scales, you can estimate 500g of mayonnaise using tablespoons (about 33 tbsp) or milliliters (about 480ml). However, these methods are less precise than weighing. For air fryer recipes where accuracy matters, investing in a simple kitchen scale will give you the most reliable results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Without scales, you can estimate 500g of mayonnaise using tablespoons (about 33 tbsp) or milliliters (about 480ml). However, these methods are less precise than weighing. For air fryer recipes where accuracy matters, investing in a simple kitchen scale will give you the most reliable results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 500g of mayonnaise?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise",
+    "@type": "WebPage",
+    "name": "How many ounces is 500g of mayonnaise?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise",
     "description": "Convert 500g of mayonnaise to ounces in seconds with our easy guide. Perfect for air fryer recipes and meal prep.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 500g of mayonnaise?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-500g-of-mayonnaise"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500g of mayonnaise equals approximately 17.64 ounces. This conversion is essential for air fryer recipes, where precise measurements can make all the difference. Whether you're whipping up a batch of crispy chicken or a creamy dip, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

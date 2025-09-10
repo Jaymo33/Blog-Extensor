@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit"
-        },
-        "headline": "Gas Mark 3 to Fahrenheit Conversion Guide | Air Fryer Tips",
-        "description": "Convert Gas Mark 3 to Fahrenheit (325°F) for perfect air fryer cooking. Includes conversion charts, tips, and recipe ideas for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit"
+    },
+    "headline": "Gas Mark 3 to Fahrenheit Conversion Guide | Air Fryer Tips",
+    "description": "Convert Gas Mark 3 to Fahrenheit (325°F) for perfect air fryer cooking. Includes conversion charts, tips, and recipe ideas for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T12:06:53.392Z",
-        "dateModified": "2025-07-21T12:06:53.392Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-3-to-fahrenheit.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T12:06:53.392Z",
+    "dateModified": "2025-07-21T12:06:53.392Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-3-to-fahrenheit.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use Gas Mark 3 temperature for all air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gas Mark 3 (325°F) works best for baking and gentle cooking in air fryers. Higher-temperature foods like chips or roasted meats typically need higher heat settings beyond Gas Mark 3 equivalents for proper crisping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gas Mark 3 (325°F) works best for baking and gentle cooking in air fryers. Higher-temperature foods like chips or roasted meats typically need higher heat settings beyond Gas Mark 3 equivalents for proper crisping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert Gas Mark 3 cooking times for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Reduce conventional Gas Mark 3 oven times by 20-25% when using an air fryer at 325°F. Start checking food at the 75% mark of the original recipe time, as air fryers cook faster due to concentrated heat circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reduce conventional Gas Mark 3 oven times by 20-25% when using an air fryer at 325°F. Start checking food at the 75% mark of the original recipe time, as air fryers cook faster due to concentrated heat circulation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook differently at Gas Mark 3 compared to my oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate heat more aggressively than conventional ovens, so foods at Gas Mark 3 temperature (325°F) may brown faster while cooking more evenly. The compact space also intensifies the heating effect compared to a full-sized oven."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate heat more aggressively than conventional ovens, so foods at Gas Mark 3 temperature (325°F) may brown faster while cooking more evenly. The compact space also intensifies the heating effect compared to a full-sized oven."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook frozen foods at Gas Mark 3 temperature in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, most frozen foods benefit from slightly higher temperatures than Gas Mark 3 (325°F) in air fryers. Try 350°F instead for better crisping, adjusting time as needed based on your specific air fryer model."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, most frozen foods benefit from slightly higher temperatures than Gas Mark 3 (325°F) in air fryers. Try 350°F instead for better crisping, adjusting time as needed based on your specific air fryer model."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Gas Mark 3 to Fahrenheit",
-            "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit",
+    "@type": "WebPage",
+    "name": "Gas Mark 3 to Fahrenheit",
+    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit",
     "description": "Convert Gas Mark 3 to Fahrenheit (325°F) for perfect air fryer cooking. Includes conversion charts, tips, and recipe ideas for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
     "dateModified": "2025-07-21T12:06:53.392000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "Gas Mark 3 to Fahrenheit",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-3-to-fahrenheit"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Gas Mark 3 converts to 325°F (163°C), making it a moderate oven temperature ideal for baking and slow roasting in both conventional ovens and air fryers. This temperature is perfect for recipes requiring gentle, even heat without excessive browning. Whether you're converting a family recipe or adapting cooking times for your air fryer, understanding Gas Mark 3 to Fahrenheit conversions ensures consistent results.</p>

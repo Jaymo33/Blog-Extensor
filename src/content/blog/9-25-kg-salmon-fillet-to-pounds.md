@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds"
-        },
-        "headline": "Quick 9.25 kg Salmon Fillet to Pounds Conversion Guide",
-        "description": "Convert 9.25 kg salmon fillet to pounds instantly. Perfect for air fryer meal prep and portioning with our easy guide and tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds"
+    },
+    "headline": "Quick 9.25 kg Salmon Fillet to Pounds Conversion Guide",
+    "description": "Convert 9.25 kg salmon fillet to pounds instantly. Perfect for air fryer meal prep and portioning with our easy guide and tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-25-kg-salmon-fillet-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-25-kg-salmon-fillet-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 9.25 kg of salmon fillet?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "9.25 kg of salmon fillet is approximately 20.39 pounds. This conversion is based on the standard rate where 1 kilogram equals about 2.20462 pounds. It's a useful figure for portioning, especially when preparing large batches for air frying or other cooking methods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "9.25 kg of salmon fillet is approximately 20.39 pounds. This conversion is based on the standard rate where 1 kilogram equals about 2.20462 pounds. It's a useful figure for portioning, especially when preparing large batches for air frying or other cooking methods."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook a 9.25 kg salmon fillet directly in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most home air fryers cannot accommodate a whole 9.25 kg salmon fillet due to size constraints. It's best to portion the fillet into smaller pieces that fit comfortably in the basket without overcrowding. This ensures even cooking and crispy results. Cook in batches if needed, keeping finished portions warm until serving."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most home air fryers cannot accommodate a whole 9.25 kg salmon fillet due to size constraints. It's best to portion the fillet into smaller pieces that fit comfortably in the basket without overcrowding. This ensures even cooking and crispy results. Cook in batches if needed, keeping finished portions warm until serving."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 9.25 kg salmon fillet to pounds and ounces for precise recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 9.25 kg to pounds and ounces, first calculate the total pounds (20.39). The decimal part (0.39) multiplied by 16 gives you approximately 6.24 ounces. So, 9.25 kg is roughly 20 pounds and 6 ounces. This level of detail helps with exact portioning for recipes or dietary tracking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 9.25 kg to pounds and ounces, first calculate the total pounds (20.39). The decimal part (0.39) multiplied by 16 gives you approximately 6.24 ounces. So, 9.25 kg is roughly 20 pounds and 6 ounces. This level of detail helps with exact portioning for recipes or dietary tracking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why would I need to convert 9.25 kg salmon fillet to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting to pounds helps with understanding portion sizes and cooking times, as many air fryer recipes and guidelines use imperial measurements. Knowing the weight in pounds allows you to divide the fillet appropriately, avoid overloading the air fryer, and ensure each piece cooks evenly. It also helps with comparing prices or quantities when shopping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting to pounds helps with understanding portion sizes and cooking times, as many air fryer recipes and guidelines use imperial measurements. Knowing the weight in pounds allows you to divide the fillet appropriately, avoid overloading the air fryer, and ensure each piece cooks evenly. It also helps with comparing prices or quantities when shopping."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "9.25 kg salmon fillet to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds",
+    "@type": "WebPage",
+    "name": "9.25 kg salmon fillet to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds",
     "description": "Convert 9.25 kg salmon fillet to pounds instantly. Perfect for air fryer meal prep and portioning with our easy guide and tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "9.25 kg salmon fillet to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/9-25-kg-salmon-fillet-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>9.25 kg of salmon fillet is equal to approximately 20.39 pounds. This conversion is essential when you're working with large quantities of salmon, especially if you're planning to cook it in your air fryer. Knowing the weight in pounds can help with portioning, timing, and ensuring even cooking. Whether you're meal prepping or cooking for a crowd, getting the measurements right makes all the difference. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

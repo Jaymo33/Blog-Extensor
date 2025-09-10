@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds"
-        },
-        "headline": "Quick 2.25 kg Prawns to Pounds Conversion Guide",
-        "description": "Convert 2.25 kg prawns to pounds instantly. Get perfect air fryer portions and cooking times with our easy conversion chart and tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds"
+    },
+    "headline": "Quick 2.25 kg Prawns to Pounds Conversion Guide",
+    "description": "Convert 2.25 kg prawns to pounds instantly. Get perfect air fryer portions and cooking times with our easy conversion chart and tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-prawns-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversions"
-        },
-        "articleSection": "Conversions",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-prawns-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversions"
+    },
+    "articleSection": "Conversions",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
-    "@context": "https://schema.org",
-            "@type": "FAQPage",
-    "mainEntity": [
+                  "@context": "https://schema.org",
+                          "@type": "FAQPage",
+                  "mainEntity": [
     {
-            "@type": "Question",
-            "name": "How many pounds is 2.25 kg of prawns exactly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "How many pounds is 2.25 kg of prawns exactly?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "2.25 kg of prawns converts to approximately 4.96 pounds. The exact conversion is 4.960395 pounds, but for practical cooking purposes, most people round this to 5 pounds or use 4 pounds 15 ounces. This conversion helps when following recipes that use imperial measurements or when purchasing prawns packaged in metric weights.\n\nWhen working with this conversion for air frying, the slight difference between 4.96 and 5 pounds won't significantly impact your results. The more important factor is ensuring you don't overcrowd your air fryer basket, regardless of the exact weight measurement."
-        }
-        },
+                                    }
+                      },
     {
-            "@type": "Question",
-            "name": "Should I weigh prawns before or after peeling when converting 2.25 kg to pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "Should I weigh prawns before or after peeling when converting 2.25 kg to pounds?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "You should always weigh prawns in their state as specified in your recipe. If the recipe calls for "2.25 kg prawns" without specification, it typically means the weight as purchased (with shells on). However, if your recipe specifies "peeled prawns," then you should measure after peeling.\n\nThe shell accounts for approximately 30-40% of the total weight, so 2.25 kg of shell-on prawns will yield roughly 1.35-1.575 kg (approximately 3-3.5 pounds) of edible meat. For accurate results, always check whether your recipe weight includes shells or not."
-        }
-        },
+                                    }
+                      },
     {
-            "@type": "Question",
-            "name": "Does the 2.25 kg to pounds conversion change if my prawns are frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "Does the 2.25 kg to pounds conversion change if my prawns are frozen?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "The weight conversion itself doesn't change - 2.25 kg always equals approximately 4.96 pounds regardless of the prawns' state. However, frozen prawns often have a protective ice glaze that adds to their weight but not to the actual prawn content.\n\nFor accurate measurement, it's best to thaw and drain frozen prawns completely before weighing them for recipes. This ensures you're working with the actual prawn weight rather than including the water weight from the ice glaze, which would affect your recipe proportions and cooking results."
-        }
-        },
+                                    }
+                      },
     {
-            "@type": "Question",
-            "name": "How should I adjust air fryer time for 2.25 kg (5 pounds) of prawns?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "How should I adjust air fryer time for 2.25 kg (5 pounds) of prawns?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "For 2.25 kg (approximately 5 pounds) of prawns, you should cook in batches rather than attempting to air fry all at once. Most home air fryers cannot properly accommodate this quantity in a single layer, which is essential for even cooking.\n\nFor each batch, cook at 200°C for 4-6 minutes, depending on the size of your prawns. The prawns are done when they turn pink and opaque throughout. Remember that cooking time depends more on the thickness of your prawns and your specific air fryer model than on the total weight, as you'll be cooking in manageable batches."
-        }
-        }
+                                    }
+                                    }
     ]
-        }
+                                    }
     </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "2.25 kg prawns to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds",
+    "@type": "WebPage",
+    "name": "2.25 kg prawns to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds",
     "description": "Convert 2.25 kg prawns to pounds instantly. Get perfect air fryer portions and cooking times with our easy conversion chart and tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "2.25 kg prawns to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.25 kg of prawns is equal to approximately 4.96 pounds. This conversion is essential for anyone using recipes or packaging that lists weights in different measurement systems, particularly when preparing delicious seafood dishes in your air fryer. Getting the weight right ensures you use the correct cooking times and temperatures, leading to perfectly cooked prawns every single time. Whether you're following a British recipe or using imported prawns, knowing how to convert 2.25 kg prawns to pounds takes the guesswork out of meal preparation. For more handy conversion tools, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk.</p>

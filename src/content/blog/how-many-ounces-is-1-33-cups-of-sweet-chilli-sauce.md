@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce"
-        },
-        "headline": "Quick Answer: 1.33 Cups of Sweet Chilli Sauce to Ounces UK",
-        "description": "Convert 1.33 cups of sweet chilli sauce to ounces easily and accurately for perfect air fryer recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce"
+    },
+    "headline": "Quick Answer: 1.33 Cups of Sweet Chilli Sauce to Ounces UK",
+    "description": "Convert 1.33 cups of sweet chilli sauce to ounces easily and accurately for perfect air fryer recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for other thick sauces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 1.33 cups generally equals 10.64 ounces for sweet chilli sauce, thicker sauces like hoisin or barbecue may vary slightly in weight. Always check specific product densities or weigh your sauce for critical recipes, especially when air frying delicate items that require precise sauce quantities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 1.33 cups generally equals 10.64 ounces for sweet chilli sauce, thicker sauces like hoisin or barbecue may vary slightly in weight. Always check specific product densities or weigh your sauce for critical recipes, especially when air frying delicate items that require precise sauce quantities."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does altitude affect sweet chilli sauce measurements in air fryers?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "At higher altitudes, sweet chilli sauce may thicken slightly due to faster evaporation, potentially affecting the 1.33 cups to ounces ratio. However, the difference is minimal for most home cooking. For precision at any elevation, weighing your 10.64-ounce portion eliminates uncertainty in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "At higher altitudes, sweet chilli sauce may thicken slightly due to faster evaporation, potentially affecting the 1.33 cups to ounces ratio. However, the difference is minimal for most home cooking. For precision at any elevation, weighing your 10.64-ounce portion eliminates uncertainty in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for 1.33 cups specifically?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This measurement (10.64 ounces) often represents the ideal sauce-to-food ratio for even coating without excess dripping in standard air fryer baskets. It's enough to properly flavour 4-6 portions while allowing proper air circulation - crucial for achieving that perfect crispy texture air fryers are known for."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This measurement (10.64 ounces) often represents the ideal sauce-to-food ratio for even coating without excess dripping in standard air fryer baskets. It's enough to properly flavour 4-6 portions while allowing proper air circulation - crucial for achieving that perfect crispy texture air fryers are known for."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover sweet chilli sauce after measuring 1.33 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! The 10.64-ounce portion freezes well in airtight containers for up to 3 months. Thaw overnight in the fridge before using in air fryer recipes. For best results, stir well after thawing as separation may occur - this won't affect the measured quantity or cooking performance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! The 10.64-ounce portion freezes well in airtight containers for up to 3 months. Thaw overnight in the fridge before using in air fryer recipes. For best results, stir well after thawing as separation may occur - this won't affect the measured quantity or cooking performance."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.33 cups of sweet chilli sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.33 cups of sweet chilli sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce",
     "description": "Convert 1.33 cups of sweet chilli sauce to ounces easily and accurately for perfect air fryer recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.33 cups of sweet chilli sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-33-cups-of-sweet-chilli-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.33 cups of sweet chilli sauce equals approximately 10.64 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break a dish. Whether you're marinating chicken or drizzling sauce over crispy tofu, knowing the exact weight ensures consistent results. For more air fryer measurement tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

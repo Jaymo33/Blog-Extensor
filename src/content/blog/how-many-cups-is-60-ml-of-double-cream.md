@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream"
-        },
-        "headline": "Quick Guide: Converting 60 ml of Double Cream to Cups",
-        "description": "Learn how to convert 60 ml of double cream to cups for precise baking and cooking. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream"
+    },
+    "headline": "Quick Guide: Converting 60 ml of Double Cream to Cups",
+    "description": "Learn how to convert 60 ml of double cream to cups for precise baking and cooking. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:31:14.568Z",
-        "dateModified": "2025-07-30T23:31:14.568Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-double-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:31:14.568Z",
+    "dateModified": "2025-07-30T23:31:14.568Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-double-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use single cream instead of double cream in a recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but keep in mind that single cream has a lower fat content (around 18%) compared to double cream (48%). This means it won’t whip as thickly and may result in a less rich texture. For baking, you might need to adjust other ingredients slightly to compensate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but keep in mind that single cream has a lower fat content (around 18%) compared to double cream (48%). This means it won’t whip as thickly and may result in a less rich texture. For baking, you might need to adjust other ingredients slightly to compensate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 60 ml of double cream to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "60 ml of double cream is equivalent to 4 tablespoons. This conversion is handy when you don’t have a measuring cup but need a precise amount for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60 ml of double cream is equivalent to 4 tablespoons. This conversion is handy when you don’t have a measuring cup but need a precise amount for your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does double cream measurement differ between the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 60 ml of double cream is the same volume in both the UK and USA. However, cup sizes can vary slightly, so it’s always best to use millilitres for accuracy when possible."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 60 ml of double cream is the same volume in both the UK and USA. However, cup sizes can vary slightly, so it’s always best to use millilitres for accuracy when possible."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze double cream for later use?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but it may separate when thawed, making it better suited for cooking rather than whipping. Freeze it in 60 ml portions for easy use in sauces or baked dishes. Thaw in the fridge overnight before using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but it may separate when thawed, making it better suited for cooking rather than whipping. Freeze it in 60 ml portions for easy use in sauces or baked dishes. Thaw in the fridge overnight before using."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 60 ml of Double Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream",
     "description": "Learn how to convert 60 ml of double cream to cups for precise baking and cooking. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:31:14.568000+00:00",
     "dateModified": "2025-07-30T23:31:14.568000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 60 ml of Double Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-double-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>60 ml of double cream is approximately 0.25 cups (or 1/4 cup). This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements can impact texture and consistency. Whether you're whipping up a dessert or adding richness to a savoury dish, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>  

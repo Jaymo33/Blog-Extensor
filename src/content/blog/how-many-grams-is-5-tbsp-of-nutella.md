@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella"
-        },
-        "headline": "Quick Guide: Convert 5 tbsp of Nutella to Grams Easily",
-        "description": "Discover how many grams are in 5 tbsp of Nutella with our simple conversion guide. Perfect for air fryer recipes and baking accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella"
+    },
+    "headline": "Quick Guide: Convert 5 tbsp of Nutella to Grams Easily",
+    "description": "Discover how many grams are in 5 tbsp of Nutella with our simple conversion guide. Perfect for air fryer recipes and baking accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-nutella.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-nutella.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 5 tbsp of Nutella instead of 85 grams in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 5 tbsp of Nutella is roughly equivalent to 85 grams, so you can use them interchangeably in most recipes. However, for baking or air frying, weighing ingredients is more accurate than measuring by volume, as tablespoons can vary slightly depending on how the Nutella is scooped."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 5 tbsp of Nutella is roughly equivalent to 85 grams, so you can use them interchangeably in most recipes. However, for baking or air frying, weighing ingredients is more accurate than measuring by volume, as tablespoons can vary slightly depending on how the Nutella is scooped."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert other amounts of Nutella from tablespoons to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert other amounts, use the ratio of 1 tablespoon of Nutella to approximately 17 grams. For example, 3 tbsp would be about 51 grams, and 10 tbsp would be around 170 grams. A kitchen scale is the best tool for precise conversions, especially for air fryer recipes where accuracy matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert other amounts, use the ratio of 1 tablespoon of Nutella to approximately 17 grams. For example, 3 tbsp would be about 51 grams, and 10 tbsp would be around 170 grams. A kitchen scale is the best tool for precise conversions, especially for air fryer recipes where accuracy matters."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of Nutella affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most Nutella brands have a similar density, so the weight per tablespoon should be consistent. However, if you're using a generic hazelnut spread, check the label for nutritional information, as some brands may differ slightly in texture and weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most Nutella brands have a similar density, so the weight per tablespoon should be consistent. However, if you're using a generic hazelnut spread, check the label for nutritional information, as some brands may differ slightly in texture and weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure Nutella without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a scale, lightly spoon Nutella into a tablespoon and level it off with a knife for the most accurate measurement. Avoid packing it down, as this can lead to using more Nutella than the recipe calls for. For air fryer recipes, this method works well in a pinch."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a scale, lightly spoon Nutella into a tablespoon and level it off with a knife for the most accurate measurement. Avoid packing it down, as this can lead to using more Nutella than the recipe calls for. For air fryer recipes, this method works well in a pinch."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 5 tbsp of nutella?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of nutella?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella",
     "description": "Discover how many grams are in 5 tbsp of Nutella with our simple conversion guide. Perfect for air fryer recipes and baking accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 5 tbsp of nutella?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-nutella"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 tablespoons of Nutella equals approximately 85 grams. This conversion is essential for precise baking and air frying, ensuring your recipes turn out perfectly every time. Whether you're making Nutella-stuffed cookies or a decadent air fryer dessert, knowing the exact weight helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate measurements to elevate your cooking. Keep reading to learn more about converting tablespoons to grams and why it matters.</p>

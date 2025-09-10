@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds"
-        },
-        "headline": "Quick 2 kg Cod Fillet to Pounds Conversion Guide",
-        "description": "Convert 2 kg cod fillet to pounds instantly with our easy guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds"
+    },
+    "headline": "Quick 2 kg Cod Fillet to Pounds Conversion Guide",
+    "description": "Convert 2 kg cod fillet to pounds instantly with our easy guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-cod-fillet-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-kg-cod-fillet-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2 kg cod fillet to pounds accurately?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 2 kg cod fillet to pounds accurately, multiply 2 by 2.20462, which gives you approximately 4.409 pounds. For most practical cooking purposes, rounding to 4.4 pounds is perfectly acceptable. Using a digital kitchen scale with unit conversion capabilities will give you the most precise measurement. Remember that the exact conversion might vary slightly depending on the specific density of your cod fillet."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 2 kg cod fillet to pounds accurately, multiply 2 by 2.20462, which gives you approximately 4.409 pounds. For most practical cooking purposes, rounding to 4.4 pounds is perfectly acceptable. Using a digital kitchen scale with unit conversion capabilities will give you the most precise measurement. Remember that the exact conversion might vary slightly depending on the specific density of your cod fillet."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is converting 2 kg cod fillet to pounds important for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 2 kg cod fillet to pounds is crucial for air fryer cooking because accurate portion sizes ensure even cooking and proper air circulation. Air fryers work best when food pieces are uniformly sized, and knowing the exact weight helps you divide the fillet appropriately. This prevents overcrowding the basket and ensures each piece cooks through perfectly. Consistent measurements also help you follow air fryer recipes accurately, leading to better results every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 2 kg cod fillet to pounds is crucial for air fryer cooking because accurate portion sizes ensure even cooking and proper air circulation. Air fryers work best when food pieces are uniformly sized, and knowing the exact weight helps you divide the fillet appropriately. This prevents overcrowding the basket and ensures each piece cooks through perfectly. Consistent measurements also help you follow air fryer recipes accurately, leading to better results every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for frozen 2 kg cod fillet to pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion from 2 kg cod fillet to pounds remains the same whether the fish is fresh or frozen. The weight measurement doesn't change based on the fish's temperature state. However, remember that frozen cod may contain some ice crystals that could affect the precise weight slightly. For best results, thaw your cod completely and pat it dry before weighing and cooking. This ensures accurate measurement and proper cooking in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion from 2 kg cod fillet to pounds remains the same whether the fish is fresh or frozen. The weight measurement doesn't change based on the fish's temperature state. However, remember that frozen cod may contain some ice crystals that could affect the precise weight slightly. For best results, thaw your cod completely and pat it dry before weighing and cooking. This ensures accurate measurement and proper cooking in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does a 2 kg cod fillet converted to pounds provide?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 2 kg cod fillet converted to pounds (approximately 4.4 pounds) typically provides 8-10 servings, depending on portion size and appetite. Each serving is generally around 200-250 grams or 7-9 ounces of fish. This makes it perfect for family meals or entertaining guests. When air frying, you may need to cook in batches to avoid overcrowding the basket, which ensures each portion cooks evenly and develops that desirable slight crispness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 2 kg cod fillet converted to pounds (approximately 4.4 pounds) typically provides 8-10 servings, depending on portion size and appetite. Each serving is generally around 200-250 grams or 7-9 ounces of fish. This makes it perfect for family meals or entertaining guests. When air frying, you may need to cook in batches to avoid overcrowding the basket, which ensures each portion cooks evenly and develops that desirable slight crispness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "2 kg cod fillet to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds",
+    "@type": "WebPage",
+    "name": "2 kg cod fillet to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds",
     "description": "Convert 2 kg cod fillet to pounds instantly with our easy guide. Perfect for air fryer recipes and portion planning. Get cooking now!",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "2 kg cod fillet to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/2-kg-cod-fillet-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 kg of cod fillet equals approximately 4.409 pounds, making it easy to portion for air fryer cooking. This conversion is essential for following recipes accurately and ensuring your meals cook evenly. Whether you're preparing a family dinner or meal prepping for the week, knowing this measurement helps you plan perfectly. Many air fryer recipes use pound measurements, so this knowledge is particularly valuable. You can find more helpful conversion tools at <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">airfryerrecipe.co.uk/air-fryer-conversion-chart</a> to make your cooking experience smoother.</p>

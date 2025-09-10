@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces"
-        },
-        "headline": "Quick 125g powdered milk to ounces conversion for UK cooks",
-        "description": "Convert 125g of powdered milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces"
+    },
+    "headline": "Quick 125g powdered milk to ounces conversion for UK cooks",
+    "description": "Convert 125g of powdered milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-powdered-milk-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/125g-powdered-milk-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use liquid milk instead of 125g powdered milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, liquid and powdered milk aren’t interchangeable without conversion. 125g of powdered milk equals about 4.41 ounces and would need to be reconstituted with water per package instructions. For air fryer coatings or dry mixes, stick to powdered for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, liquid and powdered milk aren’t interchangeable without conversion. 125g of powdered milk equals about 4.41 ounces and would need to be reconstituted with water per package instructions. For air fryer coatings or dry mixes, stick to powdered for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 125g of powdered milk measurement vary slightly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Variations can occur due to settling or how you scoop it. Always fluff powdered milk before measuring, and use a scale for accuracy. 125g should consistently equal 4.41 ounces if measured correctly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Variations can occur due to settling or how you scoop it. Always fluff powdered milk before measuring, and use a scale for accuracy. 125g should consistently equal 4.41 ounces if measured correctly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 125g of powdered milk last once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "An opened package of powdered milk lasts about 3–6 months if stored airtight in a cool, dry place. For air fryer recipes, clumping from moisture can affect measurements, so check freshness before use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An opened package of powdered milk lasts about 3–6 months if stored airtight in a cool, dry place. For air fryer recipes, clumping from moisture can affect measurements, so check freshness before use."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 125g of powdered milk the same as 125ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, grams measure weight (125g = 4.41 oz), while millilitres measure volume. Powdered milk is lighter; 125ml would weigh less than 125g. Always use weight for dry ingredients in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, grams measure weight (125g = 4.41 oz), while millilitres measure volume. Powdered milk is lighter; 125ml would weigh less than 125g. Always use weight for dry ingredients in air fryer cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 125g of powdered milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 125g of powdered milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces",
     "description": "Convert 125g of powdered milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 125g of powdered milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/125g-powdered-milk-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>125g of powdered milk equals approximately 4.41 ounces. This conversion is essential for air fryer recipes, baking, or meal prep where precise measurements matter. Whether you’re whipping up a cake or thickening a sauce, knowing how to convert grams to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen maths so you can focus on cooking.</p>  

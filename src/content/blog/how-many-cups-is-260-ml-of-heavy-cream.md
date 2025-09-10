@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream"
-        },
-        "headline": "Quick Answer: How Many Cups Is 260 ml of Heavy Cream?",
-        "description": "Discover how to convert 260 ml of heavy cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 260 ml of Heavy Cream?",
+    "description": "Discover how to convert 260 ml of heavy cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-260-ml-of-heavy-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-260-ml-of-heavy-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 260 ml of heavy cream the same as 260 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 260 ml of heavy cream is not exactly the same as 260 grams. While 1 ml of heavy cream weighs approximately 1 gram, the density can vary slightly. For precise baking, it's best to measure by volume or use a kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 260 ml of heavy cream is not exactly the same as 260 grams. While 1 ml of heavy cream weighs approximately 1 gram, the density can vary slightly. For precise baking, it's best to measure by volume or use a kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 260 ml of heavy cream in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use 260 ml of heavy cream in your air fryer for recipes like creamy sauces or desserts. Just ensure you're using an air fryer-safe container and follow the recipe instructions carefully to avoid spills or uneven cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use 260 ml of heavy cream in your air fryer for recipes like creamy sauces or desserts. Just ensure you're using an air fryer-safe container and follow the recipe instructions carefully to avoid spills or uneven cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 260 ml of heavy cream to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "260 ml of heavy cream is approximately 8.8 fluid ounces in the US measurement system. If you're using a UK recipe, it's roughly 9.2 fluid ounces. Always check which measurement system your recipe uses for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "260 ml of heavy cream is approximately 8.8 fluid ounces in the US measurement system. If you're using a UK recipe, it's roughly 9.2 fluid ounces. Always check which measurement system your recipe uses for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What can I substitute for 260 ml of heavy cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have heavy cream, you can substitute 260 ml of a mixture of milk and butter (about 200 ml milk + 60 ml melted butter). For a lighter option, try evaporated milk or coconut cream, though the texture and taste may vary slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have heavy cream, you can substitute 260 ml of a mixture of milk and butter (about 200 ml milk + 60 ml melted butter). For a lighter option, try evaporated milk or coconut cream, though the texture and taste may vary slightly."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 260 ml of Heavy Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 260 ml of Heavy Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream",
     "description": "Discover how to convert 260 ml of heavy cream to cups for perfect baking and cooking results every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 260 ml of Heavy Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-260-ml-of-heavy-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>260 ml of heavy cream is approximately 1.1 cups in the US measurement system and 1.04 cups in the UK measurement system. Whether you're baking a cake or preparing a creamy sauce for your air fryer, getting the measurements right is crucial. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how important precise conversions are for perfect results every time.</p>

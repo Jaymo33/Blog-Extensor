@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour"
-        },
-        "headline": "Quick Guide: Convert 300g Self-Raising Flour to Cups Easily",
-        "description": "Discover how to convert 300 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements and tips for air fryer recipes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour"
+    },
+    "headline": "Quick Guide: Convert 300g Self-Raising Flour to Cups Easily",
+    "description": "Discover how to convert 300 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements and tips for air fryer recipes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-self-raising-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-self-raising-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 300 grams of self-raising flour without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a kitchen scale, use a measuring cup and spoon the flour gently into it. Level off the top with a knife for accuracy. Remember, 300 grams of self-raising flour is roughly 2.4 UK cups or 2.5 US cups. Avoid scooping directly from the bag, as this can compact the flour and lead to over-measuring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a kitchen scale, use a measuring cup and spoon the flour gently into it. Level off the top with a knife for accuracy. Remember, 300 grams of self-raising flour is roughly 2.4 UK cups or 2.5 US cups. Avoid scooping directly from the bag, as this can compact the flour and lead to over-measuring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of measuring cup affect the conversion of 300 grams of self-raising flour to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, UK and US measuring cups differ slightly in size. A UK cup holds about 120 grams of self-raising flour, while a US cup holds 120-125 grams. This means 300 grams of self-raising flour is approximately 2.4 UK cups or 2.5 US cups. Always check which cup measurement your recipe uses for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, UK and US measuring cups differ slightly in size. A UK cup holds about 120 grams of self-raising flour, while a US cup holds 120-125 grams. This means 300 grams of self-raising flour is approximately 2.4 UK cups or 2.5 US cups. Always check which cup measurement your recipe uses for the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plain flour instead of self-raising flour in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute plain flour for self-raising flour, but you'll need to add baking powder. For every 150 grams of plain flour, add 2 teaspoons of baking powder. This ensures your air fryer baked goods rise properly. However, for best results, stick to self-raising flour when the recipe calls for it."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute plain flour for self-raising flour, but you'll need to add baking powder. For every 150 grams of plain flour, add 2 teaspoons of baking powder. This ensures your air fryer baked goods rise properly. However, for best results, stick to self-raising flour when the recipe calls for it."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cake turn out dense when using self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A dense cake could be due to over-measuring the flour or not sifting it properly. Always spoon the flour into the measuring cup and level it off. Also, ensure your self-raising flour is fresh, as old flour may lose its leavening power. Preheating your air fryer can also help achieve a lighter texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A dense cake could be due to over-measuring the flour or not sifting it properly. Always spoon the flour into the measuring cup and level it off. Also, ensure your self-raising flour is fresh, as old flour may lose its leavening power. Preheating your air fryer can also help achieve a lighter texture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 300 Grams of Self-Raising Flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 300 Grams of Self-Raising Flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour",
     "description": "Discover how to convert 300 grams of self-raising flour to cups for perfect baking every time. Get accurate measurements and tips for air fryer recipes.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 300 Grams of Self-Raising Flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-self-raising-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>300 grams of self-raising flour is roughly equivalent to 2.4 cups in the UK or 2.5 cups in the US. This conversion is essential for baking, especially when using an air fryer, where precise measurements can make or break a recipe. Whether you're whipping up cakes, muffins, or bread, knowing how to convert grams to cups ensures consistent results every time.</p>

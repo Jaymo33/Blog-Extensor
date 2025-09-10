@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream"
-        },
-        "headline": "Quick Answer: How Many Cups Is 860 ml of Double Cream?",
-        "description": "Discover how to convert 860 ml of double cream to cups for perfect baking and cooking every time. Get precise measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 860 ml of Double Cream?",
+    "description": "Discover how to convert 860 ml of double cream to cups for perfect baking and cooking every time. Get precise measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-double-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-860-ml-of-double-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 860 ml of double cream the same as 3.6 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 860 ml of double cream is approximately 3.6 cups. This conversion is based on the standard metric-to-imperial measurement, where 1 cup equals roughly 240 ml. For precise baking or cooking, especially in an air fryer, it’s best to use a liquid measuring jug for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 860 ml of double cream is approximately 3.6 cups. This conversion is based on the standard metric-to-imperial measurement, where 1 cup equals roughly 240 ml. For precise baking or cooking, especially in an air fryer, it’s best to use a liquid measuring jug for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 860 ml of double cream in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 860 ml of double cream works well in air fryer recipes, from creamy sauces to desserts. Just ensure you convert it correctly to 3.6 cups if your recipe uses imperial measurements. The air fryer’s even heat distribution makes it ideal for dishes requiring double cream."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 860 ml of double cream works well in air fryer recipes, from creamy sauces to desserts. Just ensure you convert it correctly to 3.6 cups if your recipe uses imperial measurements. The air fryer’s even heat distribution makes it ideal for dishes requiring double cream."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 860 ml of double cream without a jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring jug, use a standard cup (240 ml) to measure 860 ml of double cream. Fill it 3 times (720 ml) and add another half cup (120 ml) to reach 840 ml, then add a tablespoon (15 ml) twice to get close to 860 ml. For best results, invest in a liquid measuring jug."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring jug, use a standard cup (240 ml) to measure 860 ml of double cream. Fill it 3 times (720 ml) and add another half cup (120 ml) to reach 840 ml, then add a tablespoon (15 ml) twice to get close to 860 ml. For best results, invest in a liquid measuring jug."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the fat content of double cream affect the conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The fat content doesn’t change the volume conversion—860 ml of double cream will always be roughly 3.6 cups. However, higher fat content can make the cream thicker, so ensure you measure it at room temperature for accuracy. This is especially important for air fryer recipes where consistency matters."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The fat content doesn’t change the volume conversion—860 ml of double cream will always be roughly 3.6 cups. However, higher fat content can make the cream thicker, so ensure you measure it at room temperature for accuracy. This is especially important for air fryer recipes where consistency matters."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 860 ml of Double Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 860 ml of Double Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream",
     "description": "Discover how to convert 860 ml of double cream to cups for perfect baking and cooking every time. Get precise measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 860 ml of Double Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-860-ml-of-double-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>860 ml of double cream is approximately 3.6 cups. This conversion is essential for precise baking and cooking, especially when using an air fryer. Whether you’re whipping up a dessert or adding richness to a savoury dish, knowing the exact measurement ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

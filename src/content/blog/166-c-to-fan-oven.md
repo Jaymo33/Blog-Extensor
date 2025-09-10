@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven"
-        },
-        "headline": "166 C to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 166°C to fan oven settings easily. Learn how to adjust temperatures for baking, roasting, and air frying with our simple guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven"
+    },
+    "headline": "166 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 166°C to fan oven settings easily. Learn how to adjust temperatures for baking, roasting, and air frying with our simple guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T13:18:32.394Z",
-        "dateModified": "2025-07-21T13:18:32.394Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/166-c-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T13:18:32.394Z",
+    "dateModified": "2025-07-21T13:18:32.394Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/166-c-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How does 166 C compare in a fan oven versus conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "166 C in a fan oven is approximately equivalent to 180-185 C in a conventional oven. Fan ovens circulate hot air more efficiently, allowing for lower temperature settings while maintaining cooking effectiveness. Always reduce conventional oven temperatures by 15-20°C when using fan mode."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "166 C in a fan oven is approximately equivalent to 180-185 C in a conventional oven. Fan ovens circulate hot air more efficiently, allowing for lower temperature settings while maintaining cooking effectiveness. Always reduce conventional oven temperatures by 15-20°C when using fan mode."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same cooking time when converting 166 C to fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the temperature converts directly, cooking times may vary slightly. Fan ovens typically cook food 10-15% faster than conventional ovens at the same temperature setting. Start checking your food 5-10 minutes before the recipe's suggested time when using 166 C in a fan oven."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the temperature converts directly, cooking times may vary slightly. Fan ovens typically cook food 10-15% faster than conventional ovens at the same temperature setting. Start checking your food 5-10 minutes before the recipe's suggested time when using 166 C in a fan oven."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 166 C suitable for baking cakes in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 166 C is an excellent temperature for baking most cakes in a fan oven. The even heat distribution helps cakes rise uniformly without drying out. For delicate sponge cakes, you might want to reduce to 160 C to prevent over-browning while maintaining the perfect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 166 C is an excellent temperature for baking most cakes in a fan oven. The even heat distribution helps cakes rise uniformly without drying out. For delicate sponge cakes, you might want to reduce to 160 C to prevent over-browning while maintaining the perfect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 166 C translate to air fryer settings?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most air fryers operate similarly to fan ovens, so 166 C translates directly. However, due to the air fryer's compact size and intense air circulation, you may need to reduce cooking times by about 10-15% compared to fan oven recommendations at this temperature."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most air fryers operate similarly to fan ovens, so 166 C translates directly. However, due to the air fryer's compact size and intense air circulation, you may need to reduce cooking times by about 10-15% compared to fan oven recommendations at this temperature."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "166 C to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven",
+    "@type": "WebPage",
+    "name": "166 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven",
     "description": "Convert 166°C to fan oven settings easily. Learn how to adjust temperatures for baking, roasting, and air frying with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T13:18:32.394000+00:00",
     "dateModified": "2025-07-21T13:18:32.394000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "166 C to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/166-c-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <h2>Understanding 166 C in a Fan Oven</h2>

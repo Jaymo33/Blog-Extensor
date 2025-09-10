@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar"
-        },
-        "headline": "Quick Answer: How Many Cups Is 100 Grams of Granulated Sugar?",
-        "description": "Find out exactly how many cups 100 grams of granulated sugar equals for perfect baking results every time. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar"
+    },
+    "headline": "Quick Answer: How Many Cups Is 100 Grams of Granulated Sugar?",
+    "description": "Find out exactly how many cups 100 grams of granulated sugar equals for perfect baking results every time. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T19:05:43.270Z",
-        "dateModified": "2025-07-27T19:05:43.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-granulated-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T19:05:43.270Z",
+    "dateModified": "2025-07-27T19:05:43.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-granulated-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 100 grams of granulated sugar equal the same in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cup measurements can vary slightly between countries. In the UK, 100 grams of granulated sugar is roughly ½ cup (using a 250ml cup), while in the US, it’s also close to ½ cup but based on a 240ml cup. Always check the recipe’s origin for the most accurate conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cup measurements can vary slightly between countries. In the UK, 100 grams of granulated sugar is roughly ½ cup (using a 250ml cup), while in the US, it’s also close to ½ cup but based on a 240ml cup. Always check the recipe’s origin for the most accurate conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular drinking cup to measure 100 grams of granulated sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s not recommended, as drinking cups vary in size. For accuracy, use a standard measuring cup or a kitchen scale. If you must, remember that 100 grams of granulated sugar is about ½ cup, but results may differ without proper tools."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s not recommended, as drinking cups vary in size. For accuracy, use a standard measuring cup or a kitchen scale. If you must, remember that 100 grams of granulated sugar is about ½ cup, but results may differ without proper tools."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does granulated sugar compare to caster sugar in cup measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Caster sugar is finer, so 100 grams may fill slightly more than ½ cup compared to granulated sugar. For precise baking, especially in air fryer recipes, it’s best to weigh ingredients or use a conversion chart for each sugar type."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Caster sugar is finer, so 100 grams may fill slightly more than ½ cup compared to granulated sugar. For precise baking, especially in air fryer recipes, it’s best to weigh ingredients or use a conversion chart for each sugar type."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer dessert turn out too sweet or not sweet enough?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Incorrect sugar measurements are often the culprit. If you’ve used more or less than 100 grams of granulated sugar (about ½ cup), it can affect sweetness. Always measure carefully and follow recipes closely for balanced results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Incorrect sugar measurements are often the culprit. If you’ve used more or less than 100 grams of granulated sugar (about ½ cup), it can affect sweetness. Always measure carefully and follow recipes closely for balanced results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 100 Grams of Granulated Sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 100 Grams of Granulated Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar",
     "description": "Find out exactly how many cups 100 grams of granulated sugar equals for perfect baking results every time. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 100 Grams of Granulated Sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-granulated-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100 grams of granulated sugar equals approximately ½ cup when measured correctly. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're following a British or American recipe, knowing how to convert grams to cups ensures your treats turn out perfectly every time. Visit <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk/recipes</a> for delicious air fryer dessert ideas.</p>

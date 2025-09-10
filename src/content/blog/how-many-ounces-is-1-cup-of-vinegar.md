@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar"
-        },
-        "headline": "Quick Guide: How Many Ounces in 1 Cup of Vinegar?",
-        "description": "Discover how many ounces are in 1 cup of vinegar for precise cooking. Perfect for air fryer recipes and UK measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar"
+    },
+    "headline": "Quick Guide: How Many Ounces in 1 Cup of Vinegar?",
+    "description": "Discover how many ounces are in 1 cup of vinegar for precise cooking. Perfect for air fryer recipes and UK measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-vinegar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-vinegar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of vinegar affect how many ounces are in 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, all types of vinegar - whether white, apple cider, or balsamic - measure 8 fluid ounces per cup. The difference lies in viscosity and flavour intensity, not volume measurement. Balsamic vinegar may pour more slowly due to its thickness, but the ounce measurement remains consistent."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, all types of vinegar - whether white, apple cider, or balsamic - measure 8 fluid ounces per cup. The difference lies in viscosity and flavour intensity, not volume measurement. Balsamic vinegar may pour more slowly due to its thickness, but the ounce measurement remains consistent."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is it important to measure vinegar accurately in air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Precise vinegar measurements ensure balanced flavours in marinades and sauces. Too much vinegar can overpower other ingredients, while too little might not provide enough acidity for proper marination or preservation. In air fryer cooking, where evaporation happens quickly, accurate measurements prevent overly acidic or bland results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Precise vinegar measurements ensure balanced flavours in marinades and sauces. Too much vinegar can overpower other ingredients, while too little might not provide enough acidity for proper marination or preservation. In air fryer cooking, where evaporation happens quickly, accurate measurements prevent overly acidic or bland results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same cup-to-ounces conversion for UK and US measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1 cup equals 8 fluid ounces in both UK and US measurements. However, UK cooks should note that standard cup sizes might vary slightly between countries. For absolute precision in air fryer recipes, using a kitchen scale or proper liquid measuring cups is recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1 cup equals 8 fluid ounces in both UK and US measurements. However, UK cooks should note that standard cup sizes might vary slightly between countries. For absolute precision in air fryer recipes, using a kitchen scale or proper liquid measuring cups is recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I measure vinegar if I don't have measuring cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use a standard drinking glass (typically 8-10 oz) as a rough guide, though this isn't as precise. Alternatively, 16 tablespoons equal 1 cup (8 oz) of vinegar. For best results in air fryer recipes, investing in proper measuring tools will give you consistent, reliable outcomes every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use a standard drinking glass (typically 8-10 oz) as a rough guide, though this isn't as precise. Alternatively, 16 tablespoons equal 1 cup (8 oz) of vinegar. For best results in air fryer recipes, investing in proper measuring tools will give you consistent, reliable outcomes every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of vinegar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of vinegar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar",
     "description": "Discover how many ounces are in 1 cup of vinegar for precise cooking. Perfect for air fryer recipes and UK measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of vinegar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of vinegar equals 8 fluid ounces (oz) in both US and UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and flavour. Whether you're marinating chicken or whipping up a tangy sauce, knowing this measurement ensures consistency in your dishes.</p>

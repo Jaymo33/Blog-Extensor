@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour"
-        },
-        "headline": "Quick Answer: 1.5 tbsp plain flour to grams conversion",
-        "description": "Discover how to convert 1.5 tbsp of plain flour into grams for perfect air fryer baking every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour"
+    },
+    "headline": "Quick Answer: 1.5 tbsp plain flour to grams conversion",
+    "description": "Discover how to convert 1.5 tbsp of plain flour into grams for perfect air fryer baking every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-plain-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-5-tbsp-plain-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of tablespoon affect the gram measurement of flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, tablespoon sizes can vary slightly between countries. In the UK, 1 standard tablespoon holds about 8g of plain flour, making 1.5 tablespoons approximately 12g. Always use proper measuring spoons rather than eating utensils for accuracy in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, tablespoon sizes can vary slightly between countries. In the UK, 1 standard tablespoon holds about 8g of plain flour, making 1.5 tablespoons approximately 12g. Always use proper measuring spoons rather than eating utensils for accuracy in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for self-raising flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Self-raising flour is slightly lighter than plain flour due to the added raising agents. While 1.5 tbsp plain flour equals about 12g, the same volume of self-raising flour would be closer to 11g. For best results in air fryer baking, weigh each type separately."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Self-raising flour is slightly lighter than plain flour due to the added raising agents. While 1.5 tbsp plain flour equals about 12g, the same volume of self-raising flour would be closer to 11g. For best results in air fryer baking, weigh each type separately."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do air fryer recipes often use grams instead of tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide more consistent results because flour can settle or be packed differently in measuring spoons. Air fryers cook so quickly that precise measurements are crucial. Digital scales eliminate variation, especially important for delicate baked goods like air fryer cakes or cookies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide more consistent results because flour can settle or be packed differently in measuring spoons. Air fryers cook so quickly that precise measurements are crucial. Digital scales eliminate variation, especially important for delicate baked goods like air fryer cakes or cookies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store flour for accurate measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Keep plain flour in an airtight container in a cool, dry place. Before measuring, fluff it with a fork to aerate. Compacted flour can weigh significantly more per tablespoon, throwing off your 1.5 tbsp to gram conversions and affecting air fryer recipe results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Keep plain flour in an airtight container in a cool, dry place. Before measuring, fluff it with a fork to aerate. Compacted flour can weigh significantly more per tablespoon, throwing off your 1.5 tbsp to gram conversions and affecting air fryer recipe results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1.5 tbsp of plain flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour",
+    "@type": "WebPage",
+    "name": "How many grams is 1.5 tbsp of plain flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour",
     "description": "Discover how to convert 1.5 tbsp of plain flour into grams for perfect air fryer baking every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1.5 tbsp of plain flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-5-tbsp-plain-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 tablespoons of plain flour equals approximately 12 grams in UK measurements. This conversion is essential for air fryer recipes where precise ingredient quantities can make or break your dish. Whether you're whipping up air fryer cakes, cookies, or breaded coatings, knowing this measurement ensures consistent results every time.</p>

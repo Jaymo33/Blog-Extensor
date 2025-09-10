@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey"
-        },
-        "headline": "Quick & Easy Conversion: 100g of Honey to Ounces",
-        "description": "Discover how to convert 100g of honey to ounces effortlessly for precise air fryer recipes. Perfect measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey"
+    },
+    "headline": "Quick & Easy Conversion: 100g of Honey to Ounces",
+    "description": "Discover how to convert 100g of honey to ounces effortlessly for precise air fryer recipes. Perfect measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100g of honey the same as 100ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 100g of honey is not the same as 100ml. Honey is denser than water, so 100g equals roughly 69ml. Always weigh honey for accuracy in air fryer recipes, especially for baking or glazing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 100g of honey is not the same as 100ml. Honey is denser than water, so 100g equals roughly 69ml. Always weigh honey for accuracy in air fryer recipes, especially for baking or glazing."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 100g of honey?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While possible, it’s not the most accurate method. One tablespoon of honey weighs about 21g, so 100g would be roughly 4.7 tablespoons. For precision, a digital scale is recommended, especially in air fryer cooking where exact measurements matter."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While possible, it’s not the most accurate method. One tablespoon of honey weighs about 21g, so 100g would be roughly 4.7 tablespoons. For precision, a digital scale is recommended, especially in air fryer cooking where exact measurements matter."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of honey affect the 100g to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion (100g = 3.53 oz) applies to most honey types, though thicker varieties like manuka may vary slightly in volume. Weight remains consistent, making grams to ounces reliable for all honey types in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion (100g = 3.53 oz) applies to most honey types, though thicker varieties like manuka may vary slightly in volume. Weight remains consistent, making grams to ounces reliable for all honey types in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust air fryer cooking times for honey-glazed dishes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Honey caramelises faster than sugar, so reduce the temperature by 10-15°C and check frequently. For example, honey-glazed chicken may cook in 12-15 minutes instead of 15-20. Always monitor to prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Honey caramelises faster than sugar, so reduce the temperature by 10-15°C and check frequently. For example, honey-glazed chicken may cook in 12-15 minutes instead of 15-20. Always monitor to prevent burning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 100g of honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey",
     "description": "Discover how to convert 100g of honey to ounces effortlessly for precise air fryer recipes. Perfect measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 100g of honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100g of honey is approximately 3.53 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you’re drizzling honey over roasted vegetables or using it as a glaze for chicken, knowing the exact weight ensures consistent results. For more handy conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

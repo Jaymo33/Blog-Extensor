@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce"
-        },
-        "headline": "Quick Answer: How Many Cups Is 10 ml of Soy Sauce?",
-        "description": "Discover how to convert 10 ml of soy sauce to cups for precise cooking and baking. Perfect for air fryer recipes and meal prep!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce"
+    },
+    "headline": "Quick Answer: How Many Cups Is 10 ml of Soy Sauce?",
+    "description": "Discover how to convert 10 ml of soy sauce to cups for precise cooking and baking. Perfect for air fryer recipes and meal prep!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-10-ml-of-soy-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-10-ml-of-soy-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 10 ml of soy sauce the same as 10 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 10 ml of soy sauce is not the same as 10 grams. Millilitres (ml) measure volume, while grams measure weight. The density of soy sauce means 10 ml weighs about 10.5 grams, but this can vary slightly by brand. For precise cooking, always use volume measurements unless the recipe specifies weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 10 ml of soy sauce is not the same as 10 grams. Millilitres (ml) measure volume, while grams measure weight. The density of soy sauce means 10 ml weighs about 10.5 grams, but this can vary slightly by brand. For precise cooking, always use volume measurements unless the recipe specifies weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 10 ml of soy sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but be cautious with tablespoon sizes. A UK tablespoon holds 15 ml, while a US tablespoon is 14.8 ml. For 10 ml, use two-thirds of a UK tablespoon or just under a US tablespoon. A dessert spoon (10 ml) or two level teaspoons (5 ml each) are more accurate alternatives."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but be cautious with tablespoon sizes. A UK tablespoon holds 15 ml, while a US tablespoon is 14.8 ml. For 10 ml, use two-thirds of a UK tablespoon or just under a US tablespoon. A dessert spoon (10 ml) or two level teaspoons (5 ml each) are more accurate alternatives."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 10 ml of soy sauce affect the saltiness of a dish?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10 ml of soy sauce adds a mild salty-umami flavour, perfect for marinades or light seasoning. For context, it’s roughly 1/6th of a standard UK tablespoon. If you’re watching sodium intake, opt for reduced-sodium soy sauce or dilute regular soy sauce with water."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10 ml of soy sauce adds a mild salty-umami flavour, perfect for marinades or light seasoning. For context, it’s roughly 1/6th of a standard UK tablespoon. If you’re watching sodium intake, opt for reduced-sodium soy sauce or dilute regular soy sauce with water."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ml instead of cups for small amounts like 10 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Millilitres are more precise for small liquid quantities, especially in baking or sauces. Cups are better for larger volumes. Recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> often use ml for accuracy, ensuring consistent results across different measuring tools."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Millilitres are more precise for small liquid quantities, especially in baking or sauces. Cups are better for larger volumes. Recipes from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> often use ml for accuracy, ensuring consistent results across different measuring tools."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 10 ml of Soy Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 10 ml of Soy Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce",
     "description": "Discover how to convert 10 ml of soy sauce to cups for precise cooking and baking. Perfect for air fryer recipes and meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 10 ml of Soy Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-10-ml-of-soy-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>10 ml of soy sauce is equal to approximately 0.042 cups (UK) or 0.04 cups (US). This small but crucial measurement is often needed for air fryer recipes, marinades, or sauces. Whether you're whipping up a quick stir-fry or marinating chicken for the air fryer, knowing the exact conversion ensures your dish turns out perfectly.</p>  

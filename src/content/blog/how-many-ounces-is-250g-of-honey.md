@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey"
-        },
-        "headline": "Quick 250g honey to ounces conversion for air fryer recipes",
-        "description": "Convert 250g of honey to oz in seconds with our easy guide—perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey"
+    },
+    "headline": "Quick 250g honey to ounces conversion for air fryer recipes",
+    "description": "Convert 250g of honey to oz in seconds with our easy guide—perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-250g-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 250g of honey the same as 8 oz?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 250g of honey equals approximately 8.82 ounces, not 8 oz. The slight difference matters in recipes where honey’s sweetness and moisture content are crucial, especially in air fryer cooking where precise measurements prevent burning or uneven cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 250g of honey equals approximately 8.82 ounces, not 8 oz. The slight difference matters in recipes where honey’s sweetness and moisture content are crucial, especially in air fryer cooking where precise measurements prevent burning or uneven cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup for 250g of honey instead of scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 250g of honey is roughly ¾ cup or 12 tablespoons. However, honey’s sticky consistency means volume measurements can vary slightly. For air fryer recipes requiring precision, like glazes or baked goods, weighing with scales is more reliable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 250g of honey is roughly ¾ cup or 12 tablespoons. However, honey’s sticky consistency means volume measurements can vary slightly. For air fryer recipes requiring precision, like glazes or baked goods, weighing with scales is more reliable."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer honey glaze burn at 250g?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Honey caramelises quickly in air fryers due to concentrated heat. If your 250g (8.82 oz) honey glaze burns, try reducing the temperature by 10°C or brushing it on during the last few minutes of cooking. Mixing honey with oil or water can also help prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Honey caramelises quickly in air fryers due to concentrated heat. If your 250g (8.82 oz) honey glaze burns, try reducing the temperature by 10°C or brushing it on during the last few minutes of cooking. Mixing honey with oil or water can also help prevent burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 250g of honey?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "250g of honey contains about 850 calories, as honey has roughly 3.4 calories per gram. While delicious in air fryer recipes, moderation is key. Consider splitting your 250g (8.82 oz) portion across multiple servings for balanced meals."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "250g of honey contains about 850 calories, as honey has roughly 3.4 calories per gram. While delicious in air fryer recipes, moderation is key. Consider splitting your 250g (8.82 oz) portion across multiple servings for balanced meals."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 250g of honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey",
+    "@type": "WebPage",
+    "name": "How many ounces is 250g of honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey",
     "description": "Convert 250g of honey to oz in seconds with our easy guide—perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 250g of honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-250g-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>250g of honey equals approximately 8.82 ounces. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you're drizzling honey over roasted vegetables or using it in a glaze for chicken, getting the quantities right ensures consistent results. For more air fryer measurement tips, visit <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our conversion chart</a>.</p>

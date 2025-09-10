@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice"
-        },
-        "headline": "Quick Answer: How Many Cups Is 685 ml of Orange Juice?",
-        "description": "Discover how to convert 685 ml of orange juice to cups for perfect baking and cooking every time. Includes handy air fryer tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice"
+    },
+    "headline": "Quick Answer: How Many Cups Is 685 ml of Orange Juice?",
+    "description": "Discover how to convert 685 ml of orange juice to cups for perfect baking and cooking every time. Includes handy air fryer tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-of-orange-juice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-685-ml-of-orange-juice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 685 ml of orange juice the same as 3 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 685 ml of orange juice is approximately 2.9 cups, just slightly under 3 cups. While the difference is small, it’s worth noting for recipes where precision matters, especially in baking or air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 685 ml of orange juice is approximately 2.9 cups, just slightly under 3 cups. While the difference is small, it’s worth noting for recipes where precision matters, especially in baking or air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a standard drinking glass to measure 685 ml of orange juice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s not recommended, as drinking glasses vary in size. For accuracy, use a liquid measuring cup marked with millilitres or cups. If you don’t have one, a UK juice carton (often 685 ml) can serve as a rough guide."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s not recommended, as drinking glasses vary in size. For accuracy, use a liquid measuring cup marked with millilitres or cups. If you don’t have one, a UK juice carton (often 685 ml) can serve as a rough guide."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 685 ml of orange juice affect air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "In air fryer cooking, excess liquid can reduce crispiness. If a recipe calls for 685 ml of orange juice, consider reducing it slightly or using it as a marinade rather than a glaze to avoid soggy results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In air fryer cooking, excess liquid can reduce crispiness. If a recipe calls for 685 ml of orange juice, consider reducing it slightly or using it as a marinade rather than a glaze to avoid soggy results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to convert 685 ml of orange juice to US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Since a US cup is 240 ml, 685 ml converts to roughly 2.85 US cups. This minor difference rarely impacts recipes, but for precision, use a measuring cup or scale. Check our conversion chart for more details."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since a US cup is 240 ml, 685 ml converts to roughly 2.85 US cups. This minor difference rarely impacts recipes, but for precision, use a measuring cup or scale. Check our conversion chart for more details."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 685 ml of Orange Juice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 685 ml of Orange Juice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice",
     "description": "Discover how to convert 685 ml of orange juice to cups for perfect baking and cooking every time. Includes handy air fryer tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 685 ml of Orange Juice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-685-ml-of-orange-juice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>685 ml of orange juice equals approximately 2.9 cups (just under 3 cups). This conversion is essential for baking, cooking, or preparing drinks where precise measurements matter. Whether you're using an air fryer or a conventional oven, knowing how to convert millilitres to cups ensures your recipes turn out perfectly every time.</p>

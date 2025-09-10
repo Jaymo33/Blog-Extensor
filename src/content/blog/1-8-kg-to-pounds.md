@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds"
-        },
-        "headline": "Quick Guide: Convert 1.8 kg to Pounds for Perfect Air Fryer Cooking",
-        "description": "Master your air fryer recipes with our easy conversion from 1.8 kg to pounds. Get precise measurements for perfect results every time you cook.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds"
+    },
+    "headline": "Quick Guide: Convert 1.8 kg to Pounds for Perfect Air Fryer Cooking",
+    "description": "Master your air fryer recipes with our easy conversion from 1.8 kg to pounds. Get precise measurements for perfect results every time you cook.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-20T00:27:11.141Z",
-        "dateModified": "2025-08-20T00:27:11.141Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-8-kg-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-20T00:27:11.141Z",
+    "dateModified": "2025-08-20T00:27:11.141Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-8-kg-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert 1.8 kg to pounds for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many fantastic air fryer recipes, especially those from international sources or classic cookbooks, use imperial measurements like pounds. Converting 1.8 kg to pounds (approximately 3.97 lbs) ensures you use the correct ingredient weight, which is critical for air fryer cooking. Precise weights directly impact cooking time and the final texture of your food, guaranteeing perfect results every time you use your appliance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many fantastic air fryer recipes, especially those from international sources or classic cookbooks, use imperial measurements like pounds. Converting 1.8 kg to pounds (approximately 3.97 lbs) ensures you use the correct ingredient weight, which is critical for air fryer cooking. Precise weights directly impact cooking time and the final texture of your food, guaranteeing perfect results every time you use your appliance."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is there a difference between US pounds and UK pounds when converting 1.8 kg?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, for all practical cooking and shopping purposes, the pound unit is the same. The international avoirdupois pound is used in both the UK and the US and is legally defined as exactly 0.45359237 kilograms. Therefore, whether you are converting 1.8 kg to US pounds or imperial pounds, the calculation and the result (approximately 3.97 pounds) are identical."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, for all practical cooking and shopping purposes, the pound unit is the same. The international avoirdupois pound is used in both the UK and the US and is legally defined as exactly 0.45359237 kilograms. Therefore, whether you are converting 1.8 kg to US pounds or imperial pounds, the calculation and the result (approximately 3.97 pounds) are identical."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I easily convert 1.8 kilograms to pounds without a calculator?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A simple rule of thumb is to remember that 1 kilogram is roughly equal to 2.2 pounds. To convert 1.8 kg, you can multiply 1.8 by 2.2, which gives you 3.96 pounds—a very close approximation to the exact figure. For most kitchen purposes, this quick mental math is perfectly accurate enough to portion your ingredients correctly for your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A simple rule of thumb is to remember that 1 kilogram is roughly equal to 2.2 pounds. To convert 1.8 kg, you can multiply 1.8 by 2.2, which gives you 3.96 pounds—a very close approximation to the exact figure. For most kitchen purposes, this quick mental math is perfectly accurate enough to portion your ingredients correctly for your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "My recipe asks for 1.8 kg in pounds and ounces. How do I calculate that?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "First, convert 1.8 kg to pounds, which is approximately 3.968 pounds. This means you have 3 whole pounds. To find the ounces, take the decimal part (0.968) and multiply it by 16 (since there are 16 ounces in a pound). 0.968 x 16 equals about 15.5 ounces. So, 1.8 kg is roughly 3 pounds and 15.5 ounces, giving you the precise measurement needed for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "First, convert 1.8 kg to pounds, which is approximately 3.968 pounds. This means you have 3 whole pounds. To find the ounces, take the decimal part (0.968) and multiply it by 16 (since there are 16 ounces in a pound). 0.968 x 16 equals about 15.5 ounces. So, 1.8 kg is roughly 3 pounds and 15.5 ounces, giving you the precise measurement needed for your recipe."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "1.8 kg to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds",
+    "@type": "WebPage",
+    "name": "1.8 kg to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds",
     "description": "Master your air fryer recipes with our easy conversion from 1.8 kg to pounds. Get precise measurements for perfect results every time you cook.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "1.8 kg to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/1-8-kg-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.8 kg is equal to approximately 3.968 pounds, a conversion that is incredibly useful when preparing ingredients for your air fryer. Many recipes, especially those from American sources or older cookbooks, use pounds and ounces, so knowing how to convert 1.8 kg to pounds ensures you never get your quantities wrong. This is particularly important for air fryer cooking, where precise ingredient weights can affect cooking times and final texture. Getting this conversion right means your meals will be perfectly cooked every single time. For a comprehensive guide to all your conversion needs, be sure to bookmark <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>our air fryer conversion chart</a>.</p>

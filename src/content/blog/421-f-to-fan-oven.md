@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven"
-        },
-        "headline": "421°F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 421°F to fan oven settings easily. Learn the exact temperature for air fryers and fan ovens with our simple guide. Perfect for crispy results!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven"
+    },
+    "headline": "421°F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 421°F to fan oven settings easily. Learn the exact temperature for air fryers and fan ovens with our simple guide. Perfect for crispy results!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T23:29:04.388Z",
-        "dateModified": "2025-07-21T23:29:04.388Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/421-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T23:29:04.388Z",
+    "dateModified": "2025-07-21T23:29:04.388Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/421-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 421°F to Celsius for a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "421°F equals 220°C in a fan oven. This is the standard conversion used for most air fryer and fan-assisted cooking. Reduce cooking times by 5–10 minutes compared to conventional oven recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "421°F equals 220°C in a fan oven. This is the standard conversion used for most air fryer and fan-assisted cooking. Reduce cooking times by 5–10 minutes compared to conventional oven recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 421°F fan oven settings for frozen foods in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 220°C (421°F equivalent) works well for frozen foods like chips or nuggets. Cook for slightly less time than package instructions suggest, shaking the basket halfway for even crisping."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 220°C (421°F equivalent) works well for frozen foods like chips or nuggets. Cook for slightly less time than package instructions suggest, shaking the basket halfway for even crisping."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook faster than my fan oven at 421°F?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers are more compact, so heat circulates faster and more intensely around food. At the same 220°C setting, they typically cook 20–30% quicker than full-sized fan ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers are more compact, so heat circulates faster and more intensely around food. At the same 220°C setting, they typically cook 20–30% quicker than full-sized fan ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 421°F too high for baking cakes in a fan oven or air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "220°C (421°F) can work for dense cakes like brownies, but reduce to 180°C (350°F) for lighter sponges. Always check doneness early—air fryers may require foil covering to prevent over-browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "220°C (421°F) can work for dense cakes like brownies, but reduce to 180°C (350°F) for lighter sponges. Always check doneness early—air fryers may require foil covering to prevent over-browning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "421 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "421 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven",
     "description": "Convert 421°F to fan oven settings easily. Learn the exact temperature for air fryers and fan ovens with our simple guide. Perfect for crispy results!",
     "inLanguage": "en",
     "datePublished": "2025-07-21T23:29:04.388000+00:00",
     "dateModified": "2025-07-21T23:29:04.388000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "421 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/421-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>421°F converts to approximately 220°C in a fan oven, which is the standard setting for many air fryer recipes. This temperature is ideal for achieving crispy textures without overcooking, whether you're roasting vegetables or baking chicken. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt traditional oven recipes to your air fryer with precision.</p>

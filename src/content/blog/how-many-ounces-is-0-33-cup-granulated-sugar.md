@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar"
-        },
-        "headline": "Quick Answer: 0.33 Cup Granulated Sugar to Ounces UK",
-        "description": "Discover how to convert 0.33 cup granulated sugar to ounces for perfect air fryer baking every time. Get precise UK measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar"
+    },
+    "headline": "Quick Answer: 0.33 Cup Granulated Sugar to Ounces UK",
+    "description": "Discover how to convert 0.33 cup granulated sugar to ounces for perfect air fryer baking every time. Get precise UK measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-granulated-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-granulated-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular measuring cup for 0.33 cup granulated sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use a standard measuring cup for 0.33 cup granulated sugar. Fill it one-third full and level it off with a knife for accuracy. For best results, a digital scale measuring 2.64 oz is even more precise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use a standard measuring cup for 0.33 cup granulated sugar. Fill it one-third full and level it off with a knife for accuracy. For best results, a digital scale measuring 2.64 oz is even more precise."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does 0.33 cup granulated sugar weigh 2.64 oz?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Granulated sugar has a standard density where 1 cup equals 8 oz. Therefore, 0.33 cup is one-third of that, resulting in 2.64 oz. This conversion ensures consistency in UK air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Granulated sugar has a standard density where 1 cup equals 8 oz. Therefore, 0.33 cup is one-third of that, resulting in 2.64 oz. This conversion ensures consistency in UK air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust air fryer recipes if I don’t have 0.33 cup granulated sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you’re short on granulated sugar, you can use 2.64 oz (by weight) or a slightly heaped 1/3 cup. For alternative sweeteners, check our conversion chart for adjustments. Always test small batches first."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you’re short on granulated sugar, you can use 2.64 oz (by weight) or a slightly heaped 1/3 cup. For alternative sweeteners, check our conversion chart for adjustments. Always test small batches first."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does granulated sugar behave differently in air fryers compared to ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Granulated sugar works similarly in air fryers and ovens, but air fryers cook faster. This means sugar can caramelise quicker, so keep an eye on baking times. Reduce cooking time by 20% for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Granulated sugar works similarly in air fryers and ovens, but air fryers cook faster. This means sugar can caramelise quicker, so keep an eye on baking times. Reduce cooking time by 20% for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of granulated sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of granulated sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar",
     "description": "Discover how to convert 0.33 cup granulated sugar to ounces for perfect air fryer baking every time. Get precise UK measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of granulated sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-granulated-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of granulated sugar equals approximately 2.64 ounces (oz) in UK measurements. This conversion is essential for air fryer baking, where precision ensures perfect results every time. Whether you're whipping up cakes, cookies, or desserts, knowing how to convert 0.33 cup granulated sugar to ounces helps you follow recipes accurately.</p>

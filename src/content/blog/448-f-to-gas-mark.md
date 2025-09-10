@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark"
-        },
-        "headline": "448 F to Gas Mark Conversion Guide for Air Fryers & Ovens",
-        "description": "Convert 448 F to Gas Mark (Gas Mark 9) for perfect air fryer and oven cooking. Includes temperature charts and baking tips for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark"
+    },
+    "headline": "448 F to Gas Mark Conversion Guide for Air Fryers & Ovens",
+    "description": "Convert 448 F to Gas Mark (Gas Mark 9) for perfect air fryer and oven cooking. Includes temperature charts and baking tips for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T23:31:38.343Z",
-        "dateModified": "2025-07-20T23:31:38.343Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/448-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T23:31:38.343Z",
+    "dateModified": "2025-07-20T23:31:38.343Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/448-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 448 F to Gas Mark 9 in all air fryer models?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most modern air fryers can reach 448 F (Gas Mark 9), but check your model's maximum temperature in the manual. Compact air fryers might cap at 400°F, while premium models often go up to 450°F or higher."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most modern air fryers can reach 448 F (Gas Mark 9), but check your model's maximum temperature in the manual. Compact air fryers might cap at 400°F, while premium models often go up to 450°F or higher."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust cooking times when converting 448 F to Gas Mark for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Reduce standard oven times by 20-25% when air frying at 448 F (Gas Mark 9). Start checking food 5 minutes before the recipe suggests, as air fryers cook faster due to concentrated heat circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reduce standard oven times by 20-25% when air frying at 448 F (Gas Mark 9). Start checking food 5 minutes before the recipe suggests, as air fryers cook faster due to concentrated heat circulation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 448 F to Gas Mark 9 too hot for baking cakes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 448 F (Gas Mark 9) is generally too high for most cakes, which typically bake between Gas Mark 3-5. Reserve this temperature for items needing intense heat like puff pastry, pizzas, or certain breads."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 448 F (Gas Mark 9) is generally too high for most cakes, which typically bake between Gas Mark 3-5. Reserve this temperature for items needing intense heat like puff pastry, pizzas, or certain breads."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer display show Celsius instead of Gas Mark at 448 F?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many air fryers default to Celsius in the UK. 448°F equals 231°C - check your manual for instructions on switching display modes. Some models show Gas Mark equivalents in their preset cooking programs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many air fryers default to Celsius in the UK. 448°F equals 231°C - check your manual for instructions on switching display modes. Some models show Gas Mark equivalents in their preset cooking programs."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "448 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "448 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark",
     "description": "Convert 448 F to Gas Mark (Gas Mark 9) for perfect air fryer and oven cooking. Includes temperature charts and baking tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T23:31:38.343000+00:00",
     "dateModified": "2025-07-20T23:31:38.343000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "448 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/448-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>448°F converts to Gas Mark 9 in UK ovens and air fryers. This high-temperature setting is ideal for roasting meats, baking pizzas, or creating crispy textures in your air fryer. Whether you're following an American recipe or adjusting your appliance settings, knowing this conversion ensures perfect results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk"
-        },
-        "headline": "Quick Answer: How Many Cups Is 60 ml of Oat Milk?",
-        "description": "Discover how to convert 60 ml of oat milk to cups for perfect baking and cooking every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 60 ml of Oat Milk?",
+    "description": "Discover how to convert 60 ml of oat milk to cups for perfect baking and cooking every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-oat-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-60-ml-of-oat-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 60 ml of oat milk the same as 60 ml of regular milk in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 60 ml of oat milk is the same as 60 ml of regular milk when measuring in cups. Both equal approximately 0.25 cups. The difference lies in taste and texture, but the volume measurement remains identical for cooking and baking purposes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 60 ml of oat milk is the same as 60 ml of regular milk when measuring in cups. Both equal approximately 0.25 cups. The difference lies in taste and texture, but the volume measurement remains identical for cooking and baking purposes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 60 ml of oat milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use tablespoons to measure 60 ml of oat milk, as it equals about 4 tablespoons. However, this method is less precise than using a measuring cup or kitchen scale. For air fryer recipes where accuracy matters, proper measuring tools are recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use tablespoons to measure 60 ml of oat milk, as it equals about 4 tablespoons. However, this method is less precise than using a measuring cup or kitchen scale. For air fryer recipes where accuracy matters, proper measuring tools are recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of oat milk affect the 60 ml to cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the brand of oat milk doesn't change the 60 ml to cups conversion. All oat milk brands have similar densities, so 60 ml will always equal roughly 0.25 cups. However, thicker barista-style oat milks might pour slightly differently, so always measure carefully."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the brand of oat milk doesn't change the 60 ml to cups conversion. All oat milk brands have similar densities, so 60 ml will always equal roughly 0.25 cups. However, thicker barista-style oat milks might pour slightly differently, so always measure carefully."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 60 ml of oat milk to cups for US recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion is the same for US recipes: 60 ml of oat milk equals 0.25 cups. US and UK cup measurements for liquids are identical, so you don't need to adjust when following American recipes in your air fryer. Just measure carefully for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion is the same for US recipes: 60 ml of oat milk equals 0.25 cups. US and UK cup measurements for liquids are identical, so you don't need to adjust when following American recipes in your air fryer. Just measure carefully for best results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 60 ml of Oat Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 60 ml of Oat Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk",
     "description": "Discover how to convert 60 ml of oat milk to cups for perfect baking and cooking every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 60 ml of Oat Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-60-ml-of-oat-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>60 ml of oat milk equals approximately 0.25 cups in both UK and US measurements. This conversion is essential for precise baking and cooking, especially when using an air fryer where measurements matter. Whether you're whipping up pancakes or a creamy sauce, knowing how to convert 60 ml of oat milk to cups ensures your recipes turn out perfectly every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk"
-        },
-        "headline": "Quick Guide: Convert 710 ml of Evaporated Milk to Cups Easily",
-        "description": "Learn how to convert 710 ml of evaporated milk to cups for perfect baking and cooking every time. Includes handy air fryer tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk"
+    },
+    "headline": "Quick Guide: Convert 710 ml of Evaporated Milk to Cups Easily",
+    "description": "Learn how to convert 710 ml of evaporated milk to cups for perfect baking and cooking every time. Includes handy air fryer tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-evaporated-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-710-ml-of-evaporated-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use fresh milk instead of evaporated milk in a recipe calling for 710 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute fresh milk for evaporated milk, but the results will differ. Evaporated milk is thicker and richer, so using fresh milk may make your dish less creamy. If you do swap, consider reducing the liquid elsewhere in the recipe to compensate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute fresh milk for evaporated milk, but the results will differ. Evaporated milk is thicker and richer, so using fresh milk may make your dish less creamy. If you do swap, consider reducing the liquid elsewhere in the recipe to compensate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 710 ml of evaporated milk without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring jug, you can use a standard cup measure. Since 710 ml equals roughly 3 cups, simply fill a cup measure three times. For more accuracy, use a kitchen scale—710 ml of evaporated milk weighs about 720 grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring jug, you can use a standard cup measure. Since 710 ml equals roughly 3 cups, simply fill a cup measure three times. For more accuracy, use a kitchen scale—710 ml of evaporated milk weighs about 720 grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes specify evaporated milk instead of regular milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Evaporated milk has a richer, creamier texture due to its reduced water content. It’s ideal for recipes where a thicker consistency is desired, like custards or sauces. It also has a slightly caramelised flavour, which adds depth to dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Evaporated milk has a richer, creamier texture due to its reduced water content. It’s ideal for recipes where a thicker consistency is desired, like custards or sauces. It also has a slightly caramelised flavour, which adds depth to dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover evaporated milk after measuring out 710 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can freeze evaporated milk, though it may separate slightly when thawed. Stir well before using. Freeze in small portions for easy use later. Thaw in the fridge overnight and shake or stir to recombine."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can freeze evaporated milk, though it may separate slightly when thawed. Stir well before using. Freeze in small portions for easy use later. Thaw in the fridge overnight and shake or stir to recombine."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 710 ml of Evaporated Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 710 ml of Evaporated Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk",
     "description": "Learn how to convert 710 ml of evaporated milk to cups for perfect baking and cooking every time. Includes handy air fryer tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 710 ml of Evaporated Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-710-ml-of-evaporated-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>710 ml of evaporated milk equals approximately 3 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make all the difference. Whether you're whipping up a creamy dessert or a savoury dish, knowing how to convert 710 ml of evaporated milk to cups ensures your recipes turn out perfectly every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey"
-        },
-        "headline": "Quickly convert 40g of honey to ounces for perfect air fryer recipes",
-        "description": "Discover how to convert 40g of honey to ounces for precise air fryer cooking. Get accurate measurements and tips for sticky-sweet success in minutes.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey"
+    },
+    "headline": "Quickly convert 40g of honey to ounces for perfect air fryer recipes",
+    "description": "Discover how to convert 40g of honey to ounces for precise air fryer cooking. Get accurate measurements and tips for sticky-sweet success in minutes.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is my honey measurement different when using cups versus scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Honey's density changes with temperature and variety, making volumetric measurements (cups) less accurate than weighing (grams/ounces). For precise results in air fryer recipes, always use digital scales to measure 40g of honey (1.41 oz) rather than relying on cup measurements which can vary by up to 20%."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Honey's density changes with temperature and variety, making volumetric measurements (cups) less accurate than weighing (grams/ounces). For precise results in air fryer recipes, always use digital scales to measure 40g of honey (1.41 oz) rather than relying on cup measurements which can vary by up to 20%."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same conversion for other syrups like maple or golden syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the weight-to-volume ratio is similar, different syrups have varying densities. Maple syrup is slightly less dense than honey - 40g equals about 1.46 oz. For perfect results in air fryer glazes and marinades, check specific conversion charts for each syrup type at airfryerrecipe.co.uk."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the weight-to-volume ratio is similar, different syrups have varying densities. Maple syrup is slightly less dense than honey - 40g equals about 1.46 oz. For perfect results in air fryer glazes and marinades, check specific conversion charts for each syrup type at airfryerrecipe.co.uk."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store honey after measuring 40g portions for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Always seal honey containers tightly after use to prevent crystallisation. Store at room temperature away from direct sunlight. If your 40g honey measurement has left residue on the jar rim, wipe clean to avoid attracting ants. Proper storage maintains quality for future air fryer cooking sessions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Always seal honey containers tightly after use to prevent crystallisation. Store at room temperature away from direct sunlight. If your 40g honey measurement has left residue on the jar rim, wipe clean to avoid attracting ants. Proper storage maintains quality for future air fryer cooking sessions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of honey affect how I measure 40g to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While all honey types convert 40g to approximately 1.41 oz, thicker varieties like manuka may require warming for accurate pouring. For air fryer recipes, gently heat very thick honey in its container placed in warm water before measuring - this ensures precise 40g portions without compromising the honey's beneficial properties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While all honey types convert 40g to approximately 1.41 oz, thicker varieties like manuka may require warming for accurate pouring. For air fryer recipes, gently heat very thick honey in its container placed in warm water before measuring - this ensures precise 40g portions without compromising the honey's beneficial properties."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 40g of honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey",
     "description": "Discover how to convert 40g of honey to ounces for precise air fryer cooking. Get accurate measurements and tips for sticky-sweet success in minutes.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 40g of honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>40g of honey equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference between sticky success and a messy disaster. Whether you're glazing chicken wings or sweetening baked goods, knowing how to convert 40g honey to ounces ensures consistent results every time.</p>

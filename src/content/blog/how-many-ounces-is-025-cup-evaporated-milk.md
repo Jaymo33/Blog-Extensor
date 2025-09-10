@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk"
-        },
-        "headline": "Quick Answer: How many ounces is 0.25 cup of evaporated milk?",
-        "description": "Find out exactly how many ounces are in 0.25 cup of evaporated milk for perfect air fryer recipes every time. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk"
+    },
+    "headline": "Quick Answer: How many ounces is 0.25 cup of evaporated milk?",
+    "description": "Find out exactly how many ounces are in 0.25 cup of evaporated milk for perfect air fryer recipes every time. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-evaporated-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-025-cup-evaporated-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use regular milk instead of evaporated milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute regular milk for evaporated milk, but you'll need to adjust the quantity. Since evaporated milk is concentrated, use 0.33 cup of regular milk to replace 0.25 cup (2 ounces) of evaporated milk. Keep in mind this may affect the texture and richness of your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute regular milk for evaporated milk, but you'll need to adjust the quantity. Since evaporated milk is concentrated, use 0.33 cup of regular milk to replace 0.25 cup (2 ounces) of evaporated milk. Keep in mind this may affect the texture and richness of your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.25 cup of evaporated milk to millilitres?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.25 cup of evaporated milk equals approximately 59 millilitres. This conversion is useful if you're using metric measurements. Remember that 2 ounces by weight is the same as 59ml by volume for evaporated milk in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.25 cup of evaporated milk equals approximately 59 millilitres. This conversion is useful if you're using metric measurements. Remember that 2 ounces by weight is the same as 59ml by volume for evaporated milk in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does evaporated milk behave differently in an air fryer compared to regular milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, evaporated milk performs differently in air fryer cooking. Its reduced water content means it browns better and creates richer textures. When using 0.25 cup (2 ounces) in recipes, you'll notice improved browning and a creamier result compared to regular milk."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, evaporated milk performs differently in air fryer cooking. Its reduced water content means it browns better and creates richer textures. When using 0.25 cup (2 ounces) in recipes, you'll notice improved browning and a creamier result compared to regular milk."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I make my own evaporated milk for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can make evaporated milk by simmering regular milk to reduce it by about 60%. For 0.25 cup (2 ounces) of evaporated milk, start with 0.625 cup (5 ounces) of regular milk. Simmer until reduced to the required amount, then cool before using in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can make evaporated milk by simmering regular milk to reduce it by about 60%. For 0.25 cup (2 ounces) of evaporated milk, start with 0.625 cup (5 ounces) of regular milk. Simmer until reduced to the required amount, then cool before using in your air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of evaporated milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of evaporated milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk",
     "description": "Find out exactly how many ounces are in 0.25 cup of evaporated milk for perfect air fryer recipes every time. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of evaporated milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-025-cup-evaporated-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of evaporated milk equals 2 ounces. This precise measurement is essential for air fryer recipes where accuracy can make or break your dish. Whether you're making a creamy sauce or a decadent dessert, knowing this conversion ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you get these measurements spot on. Keep reading to learn more about using evaporated milk in your air fryer.</p>

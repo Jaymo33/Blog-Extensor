@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey"
-        },
-        "headline": "Quick Guide: Convert 275 Grams of Honey to Cups Easily",
-        "description": "Learn how to convert 275 grams of honey to cups for perfect baking and cooking every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey"
+    },
+    "headline": "Quick Guide: Convert 275 Grams of Honey to Cups Easily",
+    "description": "Learn how to convert 275 grams of honey to cups for perfect baking and cooking every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:31:11.565Z",
-        "dateModified": "2025-07-26T21:31:11.565Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-honey.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:31:11.565Z",
+    "dateModified": "2025-07-26T21:31:11.565Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-275-grams-of-honey.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 275 grams of honey without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use the displacement method. Fill a liquid measuring cup with water to a known mark, then add honey until the water rises by the equivalent volume. Alternatively, lightly grease your measuring cup to help the honey slide out more easily."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use the displacement method. Fill a liquid measuring cup with water to a known mark, then add honey until the water rises by the equivalent volume. Alternatively, lightly grease your measuring cup to help the honey slide out more easily."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 275 grams of honey the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there's a slight difference. In the UK, 275 grams of honey is roughly 0.8 cups, while in the US, it's about 0.9 cups. This is due to the slight variation in cup sizes between the two regions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there's a slight difference. In the UK, 275 grams of honey is roughly 0.8 cups, while in the US, it's about 0.9 cups. This is due to the slight variation in cup sizes between the two regions."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 275 grams of honey in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 275 grams of honey is perfect for glazes, marinades, or sweetening dishes in the air fryer. It works well for honey-glazed salmon, chicken wings, or even drizzling over roasted vegetables."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 275 grams of honey is perfect for glazes, marinades, or sweetening dishes in the air fryer. It works well for honey-glazed salmon, chicken wings, or even drizzling over roasted vegetables."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover honey after measuring 275 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store honey in a cool, dry place, preferably in an airtight container. Avoid exposing it to direct sunlight or moisture, as this can affect its quality and consistency. Proper storage ensures it stays fresh for future use."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store honey in a cool, dry place, preferably in an airtight container. Avoid exposing it to direct sunlight or moisture, as this can affect its quality and consistency. Proper storage ensures it stays fresh for future use."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 275 Grams of Honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 275 Grams of Honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey",
     "description": "Learn how to convert 275 grams of honey to cups for perfect baking and cooking every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:31:11.565000+00:00",
     "dateModified": "2025-07-26T21:31:11.565000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 275 Grams of Honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-275-grams-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>275 grams of honey is roughly equivalent to 0.8 cups in the UK and 0.9 cups in the US. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that require precise measurements. Whether you're making glazes, marinades, or desserts, knowing how to convert grams to cups ensures your dish turns out perfectly every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey"
-        },
-        "headline": "How Many Cups Is 150 Grams of Honey? – Easy Conversion Guide | AirFryerRecipe.co.uk",
-        "description": "Wondering how many cups is 150 grams of honey? Get the precise conversion for UK and US cups, plus handy air fryer baking tips at airfryerrecipe.co.uk.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey"
+    },
+    "headline": "How Many Cups Is 150 Grams of Honey? – Easy Conversion Guide | AirFryerRecipe.co.uk",
+    "description": "Wondering how many cups is 150 grams of honey? Get the precise conversion for UK and US cups, plus handy air fryer baking tips at airfryerrecipe.co.uk.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T16:02:09.139Z",
-        "dateModified": "2025-07-22T16:02:09.139Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-honey.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T16:02:09.139Z",
+    "dateModified": "2025-07-22T16:02:09.139Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-honey.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 150 grams of honey equal 0.5 cups in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While most countries using cup measurements (UK, US, Canada, Australia) consider 150 grams of honey as approximately 0.5 cups, always check local standards. Japanese cups, for instance, measure 200ml, making 150g honey about 0.75 cups there."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While most countries using cup measurements (UK, US, Canada, Australia) consider 150 grams of honey as approximately 0.5 cups, always check local standards. Japanese cups, for instance, measure 200ml, making 150g honey about 0.75 cups there."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I adjust cooking times when using 150g honey in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "When using 150 grams of honey (0.5 cups) in air fryer recipes, reduce cooking time by 15-20% compared to oven recipes. Honey caramelises faster in air fryers – check foods 5 minutes before the suggested time to prevent over-browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When using 150 grams of honey (0.5 cups) in air fryer recipes, reduce cooking time by 15-20% compared to oven recipes. Honey caramelises faster in air fryers – check foods 5 minutes before the suggested time to prevent over-browning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute other sweeteners for 150 grams of honey in air fryer baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute 150 grams of honey with 0.5 cups maple syrup or golden syrup, but reduce added liquids by 1 tablespoon. Avoid granulated sugar substitutions as they lack honey’s moisture-retaining properties crucial for air fryer baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute 150 grams of honey with 0.5 cups maple syrup or golden syrup, but reduce added liquids by 1 tablespoon. Avoid granulated sugar substitutions as they lack honey’s moisture-retaining properties crucial for air fryer baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 150g honey measurement look different in winter versus summer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Honey’s viscosity changes with temperature – 150 grams of cold honey appears denser than warm honey. For accurate cup measurements, let honey reach room temperature first, especially important for air fryer recipes requiring precise consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Honey’s viscosity changes with temperature – 150 grams of cold honey appears denser than warm honey. For accurate cup measurements, let honey reach room temperature first, especially important for air fryer recipes requiring precise consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 150 Grams of Honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 150 Grams of Honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey",
     "description": "Wondering how many cups is 150 grams of honey? Get the precise conversion for UK and US cups, plus handy air fryer baking tips at airfryerrecipe.co.uk.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T16:02:09.139000+00:00",
     "dateModified": "2025-07-22T16:02:09.139000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 150 Grams of Honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>150 grams of honey equals approximately 0.5 cups (½ cup) in standard UK and US measurements. This conversion is essential for air fryer recipes where precise measurements affect texture and caramelisation. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we know accurate conversions make the difference between sticky buns and baking triumphs.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar"
-        },
-        "headline": "Quick Guide: 100 Grams of Icing Sugar to Cups Conversion",
-        "description": "Learn how to convert 100 grams of icing sugar to cups for perfect baking results every time. Includes tips for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar"
+    },
+    "headline": "Quick Guide: 100 Grams of Icing Sugar to Cups Conversion",
+    "description": "Learn how to convert 100 grams of icing sugar to cups for perfect baking results every time. Includes tips for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T20:38:05.709Z",
-        "dateModified": "2025-07-27T20:38:05.709Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-icing-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T20:38:05.709Z",
+    "dateModified": "2025-07-27T20:38:05.709Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-icing-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100 grams of icing sugar the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 100 grams of icing sugar is not equal to 1 cup. In the UK, it’s roughly 0.8 cups, and in the US, it’s about 0.75 cups. Icing sugar is lighter and fluffier than granulated sugar, so it takes up more volume for the same weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 100 grams of icing sugar is not equal to 1 cup. In the UK, it’s roughly 0.8 cups, and in the US, it’s about 0.75 cups. Icing sugar is lighter and fluffier than granulated sugar, so it takes up more volume for the same weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 100 grams of icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use a measuring cup, a kitchen scale is far more accurate. If using a cup, spoon the sugar in lightly and level it off—never pack it down. For air fryer baking, precision ensures even cooking and perfect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use a measuring cup, a kitchen scale is far more accurate. If using a cup, spoon the sugar in lightly and level it off—never pack it down. For air fryer baking, precision ensures even cooking and perfect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of icing sugar affect the conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, finely ground icing sugar packs differently than coarser varieties. Always check if your recipe specifies a particular type. For air fryer recipes, consistency matters, so stick to the recommended sugar texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, finely ground icing sugar packs differently than coarser varieties. Always check if your recipe specifies a particular type. For air fryer recipes, consistency matters, so stick to the recommended sugar texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert other sugar amounts from grams to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a conversion chart or kitchen scale for accuracy. Granulated sugar, brown sugar, and icing sugar all have different weights per cup. For air fryer baking, refer to guides like our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for reliable measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a conversion chart or kitchen scale for accuracy. Granulated sugar, brown sugar, and icing sugar all have different weights per cup. For air fryer baking, refer to guides like our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> for reliable measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 100 Grams of Icing Sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 100 Grams of Icing Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar",
     "description": "Learn how to convert 100 grams of icing sugar to cups for perfect baking results every time. Includes tips for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T20:38:05.709000+00:00",
     "dateModified": "2025-07-27T20:38:05.709000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 100 Grams of Icing Sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-icing-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100 grams of icing sugar is roughly equivalent to 0.8 cups in the UK or 0.75 cups in the US. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adjusting measurements, knowing how to convert grams to cups ensures perfect results every time.</p>  

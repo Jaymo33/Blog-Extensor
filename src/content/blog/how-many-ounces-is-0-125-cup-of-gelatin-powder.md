@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder"
-        },
-        "headline": "Quick Guide: Convert 0.125 Cup Gelatin Powder to Ounces",
-        "description": "Discover how to convert 0.125 cup of gelatin powder to ounces for perfect air fryer desserts every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder"
+    },
+    "headline": "Quick Guide: Convert 0.125 Cup Gelatin Powder to Ounces",
+    "description": "Discover how to convert 0.125 cup of gelatin powder to ounces for perfect air fryer desserts every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-gelatin-powder.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-of-gelatin-powder.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.125 cup of gelatin powder interchangeably with 1 ounce in recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 0.125 cup of gelatin powder is roughly equivalent to 1 ounce, making them interchangeable in most recipes. However, for precision in air fryer cooking, using a kitchen scale is recommended to ensure consistency, especially in delicate desserts."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 0.125 cup of gelatin powder is roughly equivalent to 1 ounce, making them interchangeable in most recipes. However, for precision in air fryer cooking, using a kitchen scale is recommended to ensure consistency, especially in delicate desserts."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.125 cup of gelatin powder to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Since 1 ounce is approximately 28 grams, 0.125 cup of gelatin powder (1 ounce) equals about 28 grams. This conversion is useful for international recipes or if your scale measures in grams instead of ounces."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since 1 ounce is approximately 28 grams, 0.125 cup of gelatin powder (1 ounce) equals about 28 grams. This conversion is useful for international recipes or if your scale measures in grams instead of ounces."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my gelatin-based air fryer dessert turn out too firm?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Using too much gelatin can make desserts rubbery. Ensure you measure 0.125 cup (1 ounce) accurately and follow recipe instructions for blooming and dissolving gelatin properly. Overheating can also affect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Using too much gelatin can make desserts rubbery. Ensure you measure 0.125 cup (1 ounce) accurately and follow recipe instructions for blooming and dissolving gelatin properly. Overheating can also affect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute sheet gelatin for powdered gelatin in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but sheet gelatin requires different measurements. One sheet typically equals about 2 grams, so you’d need around 14 sheets to match 0.125 cup (1 ounce) of powdered gelatin. Always check the packaging for exact conversions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but sheet gelatin requires different measurements. One sheet typically equals about 2 grams, so you’d need around 14 sheets to match 0.125 cup (1 ounce) of powdered gelatin. Always check the packaging for exact conversions."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of gelatin powder?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of gelatin powder?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder",
     "description": "Discover how to convert 0.125 cup of gelatin powder to ounces for perfect air fryer desserts every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of gelatin powder?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-of-gelatin-powder"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of gelatin powder equals approximately 1 ounce. This conversion is essential for air fryer recipes, especially when making desserts like panna cotta or jelly-based treats. Precise measurements ensure the right texture and consistency, so your air fryer creations turn out perfectly every time.</p>  

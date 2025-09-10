@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces"
-        },
-        "headline": "Quick 50g whipping cream to ounces conversion for UK cooks",
-        "description": "Convert 50g of whipping cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces"
+    },
+    "headline": "Quick 50g whipping cream to ounces conversion for UK cooks",
+    "description": "Convert 50g of whipping cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-whipping-cream-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-whipping-cream-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 50g of whipping cream the same as 50ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 50g and 50ml of whipping cream are not identical. While they're close in volume (50g is approximately 48-49ml), weight measurements are more accurate for baking and air fryer cooking. The density of whipping cream means weight measurements eliminate variables like air incorporation and temperature effects."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 50g and 50ml of whipping cream are not identical. While they're close in volume (50g is approximately 48-49ml), weight measurements are more accurate for baking and air fryer cooking. The density of whipping cream means weight measurements eliminate variables like air incorporation and temperature effects."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use double cream instead of whipping cream in a 50g measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute double cream for whipping cream in a 50g measurement, but be aware it will affect your recipe. Double cream has higher fat content (about 48% compared to whipping cream's 35-38%), which may make sauces thicker or desserts richer. Adjust other liquids slightly if making this swap."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute double cream for whipping cream in a 50g measurement, but be aware it will affect your recipe. Double cream has higher fat content (about 48% compared to whipping cream's 35-38%), which may make sauces thicker or desserts richer. Adjust other liquids slightly if making this swap."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 50g of whipping cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "50g of whipping cream contains approximately 175-190 calories, depending on the specific fat content. The calorie count comes primarily from the high fat content, with about 18-19g of fat per 50g serving. This is worth considering when planning air fryer meals for calorie-conscious diets."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50g of whipping cream contains approximately 175-190 calories, depending on the specific fat content. The calorie count comes primarily from the high fat content, with about 18-19g of fat per 50g serving. This is worth considering when planning air fryer meals for calorie-conscious diets."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK recipes often use grams instead of ounces for whipping cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "UK recipes typically use grams because the metric system provides more precise measurements, especially important in baking and air fryer cooking where ratios matter. Digital scales measuring grams are more accurate than volume measurements in ounces. However, our conversion shows 50g equals 1.76 ounces for those using imperial measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "UK recipes typically use grams because the metric system provides more precise measurements, especially important in baking and air fryer cooking where ratios matter. Digital scales measuring grams are more accurate than volume measurements in ounces. However, our conversion shows 50g equals 1.76 ounces for those using imperial measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 50g of whipping cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 50g of whipping cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces",
     "description": "Convert 50g of whipping cream to ounces in seconds with our simple guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 50g of whipping cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/50g-whipping-cream-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50g of whipping cream equals approximately 1.76 ounces. This precise conversion is essential for air fryer recipes where accurate measurements can make all the difference between success and disappointment. Whether you're making air fryer desserts or creamy sauces, knowing how to convert grams to ounces ensures consistent results.</p>

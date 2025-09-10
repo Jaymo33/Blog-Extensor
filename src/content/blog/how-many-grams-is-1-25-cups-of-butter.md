@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter"
-        },
-        "headline": "Quick Answer: How Many Grams Is 1.25 Cups of Butter?",
-        "description": "Discover the exact gram measurement for 1.25 cups of butter with our easy conversion guide—perfect for baking and air frying!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter"
+    },
+    "headline": "Quick Answer: How Many Grams Is 1.25 Cups of Butter?",
+    "description": "Discover the exact gram measurement for 1.25 cups of butter with our easy conversion guide—perfect for baking and air frying!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T16:11:37.491Z",
-        "dateModified": "2025-07-27T16:11:37.491Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-25-cups-of-butter.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T16:11:37.491Z",
+    "dateModified": "2025-07-27T16:11:37.491Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-25-cups-of-butter.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.25 cups of butter the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While the cup measurement is similar, slight variations exist between UK and US standards. In most cases, 1.25 cups of butter equals 284 grams in both systems, but always check your recipe’s origin to be sure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While the cup measurement is similar, slight variations exist between UK and US standards. In most cases, 1.25 cups of butter equals 284 grams in both systems, but always check your recipe’s origin to be sure."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use margarine instead of butter in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but margarine has a different water content and fat ratio, which may affect texture and cooking time. For best results, stick to butter or adjust measurements slightly if substituting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but margarine has a different water content and fat ratio, which may affect texture and cooking time. For best results, stick to butter or adjust measurements slightly if substituting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.25 cups of butter without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use the markings on butter packaging—1.25 cups is roughly 2.5 sticks (284 grams). Pack the butter firmly into a measuring cup to avoid gaps for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use the markings on butter packaging—1.25 cups is roughly 2.5 sticks (284 grams). Pack the butter firmly into a measuring cup to avoid gaps for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does butter measurement matter so much in air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook food quickly and evenly, so precise butter amounts prevent greasiness or dryness. Too much butter can cause smoking, while too little may lead to uneven browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook food quickly and evenly, so precise butter amounts prevent greasiness or dryness. Too much butter can cause smoking, while too little may lead to uneven browning."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Grams Is 1.25 Cups of Butter?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter",
+    "@type": "WebPage",
+    "name": "How Many Grams Is 1.25 Cups of Butter?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter",
     "description": "Discover the exact gram measurement for 1.25 cups of butter with our easy conversion guide—perfect for baking and air frying!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T16:11:37.491000+00:00",
     "dateModified": "2025-07-27T16:11:37.491000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Grams Is 1.25 Cups of Butter?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-25-cups-of-butter"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.25 cups of butter equals approximately 284 grams. This conversion is essential for anyone baking or cooking with an air fryer, where precision ensures perfect results. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a> or adapting a traditional dish, knowing exact measurements makes all the difference.</p>

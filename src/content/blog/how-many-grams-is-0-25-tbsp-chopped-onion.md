@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion"
-        },
-        "headline": "Quick Answer: 0.25 tbsp chopped onion to grams conversion",
-        "description": "Find out exactly how many grams are in 0.25 tbsp of chopped onion for perfect air fryer recipes every time. Includes UK measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion"
+    },
+    "headline": "Quick Answer: 0.25 tbsp chopped onion to grams conversion",
+    "description": "Find out exactly how many grams are in 0.25 tbsp of chopped onion for perfect air fryer recipes every time. Includes UK measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-chopped-onion.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-25-tbsp-chopped-onion.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is it better to measure chopped onion in grams rather than tablespoons for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide more consistent results because how tightly packed chopped onion is in a tablespoon can vary. Air fryers cook quickly and precisely, so accurate measurements prevent over- or under-seasoning. Weight measurements eliminate packing density variables."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide more consistent results because how tightly packed chopped onion is in a tablespoon can vary. Air fryers cook quickly and precisely, so accurate measurements prevent over- or under-seasoning. Weight measurements eliminate packing density variables."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use dried onion instead of fresh chopped onion in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you'll need to adjust quantities. Generally, 1 tablespoon fresh chopped onion equals about 1 teaspoon dried onion. For 0.25 tbsp fresh, use about 1/4 teaspoon dried. Rehydrate dried onion with a bit of water before adding to prevent burning in the air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you'll need to adjust quantities. Generally, 1 tablespoon fresh chopped onion equals about 1 teaspoon dried onion. For 0.25 tbsp fresh, use about 1/4 teaspoon dried. Rehydrate dried onion with a bit of water before adding to prevent burning in the air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover chopped onion for future air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store chopped onion in an airtight container in the fridge for up to 5 days. For longer storage, freeze measured portions (like 0.25 tbsp/2.5g amounts) in ice cube trays with a little water, then transfer to freezer bags. Thaw before using in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store chopped onion in an airtight container in the fridge for up to 5 days. For longer storage, freeze measured portions (like 0.25 tbsp/2.5g amounts) in ice cube trays with a little water, then transfer to freezer bags. Thaw before using in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of onion affect the gram measurement for 0.25 tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slightly - sweeter onions like Vidalia are less dense than standard brown onions, so 0.25 tbsp might weigh about 10% less. For most recipes, the 2.5g measurement works for all common UK onion varieties. Only adjust if using particularly large or small onion varieties."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slightly - sweeter onions like Vidalia are less dense than standard brown onions, so 0.25 tbsp might weigh about 10% less. For most recipes, the 2.5g measurement works for all common UK onion varieties. Only adjust if using particularly large or small onion varieties."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.25 tbsp of chopped onion?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion",
+    "@type": "WebPage",
+    "name": "How many grams is 0.25 tbsp of chopped onion?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion",
     "description": "Find out exactly how many grams are in 0.25 tbsp of chopped onion for perfect air fryer recipes every time. Includes UK measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.25 tbsp of chopped onion?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-25-tbsp-chopped-onion"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 tbsp of chopped onion equals approximately 2.5 grams. This measurement is crucial for air fryer recipes where precision matters, especially when working with small quantities of aromatic ingredients like onions.</p>

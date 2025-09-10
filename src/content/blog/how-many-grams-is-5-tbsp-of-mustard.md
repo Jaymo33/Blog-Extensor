@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard"
-        },
-        "headline": "Quick Guide: Convert 5 tbsp of mustard to grams easily",
-        "description": "Find out exactly how many grams are in 5 tbsp of mustard with our simple conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard"
+    },
+    "headline": "Quick Guide: Convert 5 tbsp of mustard to grams easily",
+    "description": "Find out exactly how many grams are in 5 tbsp of mustard with our simple conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-05T23:07:32.143Z",
-        "dateModified": "2025-08-05T23:07:32.143Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-mustard.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-05T23:07:32.143Z",
+    "dateModified": "2025-08-05T23:07:32.143Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-mustard.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of mustard affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, different mustards have slightly varying densities. Dijon mustard is thicker and may weigh closer to 16 grams per tablespoon, while yellow mustard is lighter at around 14 grams. Always weigh for precision if the recipe requires exact measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, different mustards have slightly varying densities. Dijon mustard is thicker and may weigh closer to 16 grams per tablespoon, while yellow mustard is lighter at around 14 grams. Always weigh for precision if the recipe requires exact measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure mustard instead of weighing it?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use tablespoons, weighing mustard (or any ingredient) is more accurate for air fryer recipes. A tablespoon can hold varying amounts depending on how it’s scooped, but 5 tbsp generally equals about 75 grams of mustard."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use tablespoons, weighing mustard (or any ingredient) is more accurate for air fryer recipes. A tablespoon can hold varying amounts depending on how it’s scooped, but 5 tbsp generally equals about 75 grams of mustard."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is gram measurement better for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook food quickly and evenly, so precise measurements prevent over- or under-seasoning. Grams provide consistency, especially when scaling recipes or using sticky ingredients like mustard that can clump in tablespoons."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook food quickly and evenly, so precise measurements prevent over- or under-seasoning. Grams provide consistency, especially when scaling recipes or using sticky ingredients like mustard that can clump in tablespoons."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert other mustard amounts to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use the rough guideline of 15 grams per tablespoon. For example, 3 tbsp would be 45 grams, and 10 tbsp would be 150 grams. For larger quantities, a kitchen scale is the most reliable tool."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use the rough guideline of 15 grams per tablespoon. For example, 3 tbsp would be 45 grams, and 10 tbsp would be 150 grams. For larger quantities, a kitchen scale is the most reliable tool."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 5 tbsp of mustard",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of mustard",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard",
     "description": "Find out exactly how many grams are in 5 tbsp of mustard with our simple conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-05T23:07:32.143000+00:00",
     "dateModified": "2025-08-05T23:07:32.143000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 5 tbsp of mustard",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-mustard"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 tablespoons of mustard weigh approximately 75 grams. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you’re preparing a marinade, glaze, or sauce, knowing the exact weight ensures consistency in flavour and texture.</p>  

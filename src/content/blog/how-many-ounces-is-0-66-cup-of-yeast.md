@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast"
-        },
-        "headline": "Quick Answer: How many ounces is 0.66 cup of yeast?",
-        "description": "Find out exactly how many ounces are in 0.66 cup of yeast for perfect baking results every time. Includes UK conversions!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast"
+    },
+    "headline": "Quick Answer: How many ounces is 0.66 cup of yeast?",
+    "description": "Find out exactly how many ounces are in 0.66 cup of yeast for perfect baking results every time. Includes UK conversions!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-17T23:33:52.556Z",
-        "dateModified": "2025-08-17T23:33:52.556Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-yeast.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-17T23:33:52.556Z",
+    "dateModified": "2025-08-17T23:33:52.556Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-66-cup-of-yeast.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.66 cup of yeast in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use 0.66 cup of yeast (2.64 oz) in air fryer recipes, but adjust the quantity based on batch size. Air fryers work best with smaller portions, so halve the amount for single loaves or rolls. Always check recipe notes for air fryer-specific adjustments."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use 0.66 cup of yeast (2.64 oz) in air fryer recipes, but adjust the quantity based on batch size. Air fryers work best with smaller portions, so halve the amount for single loaves or rolls. Always check recipe notes for air fryer-specific adjustments."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.66 cup of yeast to grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.66 cup of yeast equals approximately 75 grams. This conversion is useful for recipes using metric measurements. For air fryer baking, weighing ingredients like yeast ensures consistency, especially when adapting traditional oven recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.66 cup of yeast equals approximately 75 grams. This conversion is useful for recipes using metric measurements. For air fryer baking, weighing ingredients like yeast ensures consistency, especially when adapting traditional oven recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of yeast affect the 0.66 cup to ounces conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The type of yeast can slightly impact the weight. Active dry yeast and instant yeast have similar weights, but instant yeast is more potent. For 0.66 cup, you might need slightly less instant yeast (around 2.5 oz) for the same rising power."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The type of yeast can slightly impact the weight. Active dry yeast and instant yeast have similar weights, but instant yeast is more potent. For 0.66 cup, you might need slightly less instant yeast (around 2.5 oz) for the same rising power."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer yeast dough not rise properly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Improper rising can result from expired yeast, incorrect measurements, or insufficient proofing time. In air fryers, ensure you’re using the right amount (like 0.66 cup or 2.64 oz for larger batches) and preheat the fryer to create an ideal environment for the dough to rise."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Improper rising can result from expired yeast, incorrect measurements, or insufficient proofing time. In air fryers, ensure you’re using the right amount (like 0.66 cup or 2.64 oz for larger batches) and preheat the fryer to create an ideal environment for the dough to rise."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.66 cup of yeast?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.66 cup of yeast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast",
     "description": "Find out exactly how many ounces are in 0.66 cup of yeast for perfect baking results every time. Includes UK conversions!",
     "inLanguage": "en",
     "datePublished": "2025-08-17T23:33:52.556000+00:00",
     "dateModified": "2025-08-17T23:33:52.556000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.66 cup of yeast?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-66-cup-of-yeast"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.66 cup of yeast equals approximately 2.64 ounces. This conversion is essential for bakers who need precise measurements to ensure their dough rises perfectly. Whether you’re using an air fryer or a traditional oven, getting the yeast quantity right can make or break your recipe. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we’re all about helping you nail those measurements for flawless results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil"
-        },
-        "headline": "Quick Answer: How Many ml Is 0.5 Cups of Olive Oil?",
-        "description": "Discover the exact ml measurement for 0.5 cups of olive oil for perfect cooking and baking every time. Get the conversion now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil"
+    },
+    "headline": "Quick Answer: How Many ml Is 0.5 Cups of Olive Oil?",
+    "description": "Discover the exact ml measurement for 0.5 cups of olive oil for perfect cooking and baking every time. Get the conversion now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T20:11:40.852Z",
-        "dateModified": "2025-07-28T20:11:40.852Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T20:11:40.852Z",
+    "dateModified": "2025-07-28T20:11:40.852Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-5-cups-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 cups of olive oil the same as 120 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 0.5 cups of olive oil equals approximately 118 ml, not 120 ml. While the difference is minimal for most recipes, precision matters in baking and air frying. Always use 118 ml for accurate results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 0.5 cups of olive oil equals approximately 118 ml, not 120 ml. While the difference is minimal for most recipes, precision matters in baking and air frying. Always use 118 ml for accurate results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to measure 0.5 cups of olive oil in ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Since 1 ml of olive oil weighs about 0.92 grams, you can measure 118 grams for 0.5 cups. This method is especially useful if you don’t have a liquid measuring cup handy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Since 1 ml of olive oil weighs about 0.92 grams, you can measure 118 grams for 0.5 cups. This method is especially useful if you don’t have a liquid measuring cup handy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of olive oil affect the ml measurement for 0.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the ml measurement remains the same (118 ml) regardless of olive oil type (extra virgin, light, etc.). However, density variations are negligible for home cooking purposes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the ml measurement remains the same (118 ml) regardless of olive oil type (extra virgin, light, etc.). However, density variations are negligible for home cooking purposes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.5 cups of olive oil to ml for UK recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The conversion is identical—0.5 cups equals 118 ml in both UK and US measurements. This consistency makes it easy to follow international recipes without confusion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The conversion is identical—0.5 cups equals 118 ml in both UK and US measurements. This consistency makes it easy to follow international recipes without confusion."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 0.5 Cups of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many ml Is 0.5 Cups of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil",
     "description": "Discover the exact ml measurement for 0.5 cups of olive oil for perfect cooking and baking every time. Get the conversion now!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T20:11:40.852000+00:00",
     "dateModified": "2025-07-28T20:11:40.852000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 0.5 Cups of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-5-cups-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cups of olive oil equals approximately 118 ml. This conversion is essential for precise cooking and baking, especially when using an air fryer where exact measurements can make all the difference. Whether you’re following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or improvising, knowing this conversion ensures consistent results.</p>

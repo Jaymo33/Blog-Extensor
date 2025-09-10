@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil"
-        },
-        "headline": "Quick Answer: How Many ml Is 3.0 Cups of Olive Oil?",
-        "description": "Discover the exact ml measurement for 3.0 cups of olive oil and simplify your cooking conversions with this easy guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil"
+    },
+    "headline": "Quick Answer: How Many ml Is 3.0 Cups of Olive Oil?",
+    "description": "Discover the exact ml measurement for 3.0 cups of olive oil and simplify your cooking conversions with this easy guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:58.618Z",
-        "dateModified": "2025-07-30T08:54:58.618Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:58.618Z",
+    "dateModified": "2025-07-30T08:54:58.618Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-3-cups-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 3.0 cups of olive oil the same in ml for all types of oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, different oils have slightly varying densities, but for most cooking oils like olive, vegetable, or sunflower oil, 1 cup equals roughly 237 ml. So, 3.0 cups would still be approximately 710 ml. Always check specific oil types if precision is critical."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, different oils have slightly varying densities, but for most cooking oils like olive, vegetable, or sunflower oil, 1 cup equals roughly 237 ml. So, 3.0 cups would still be approximately 710 ml. Always check specific oil types if precision is critical."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! One ml of olive oil weighs about 0.92 grams, so 710 ml would be roughly 653 grams. Using a scale can be more accurate, especially for baking. Most digital scales have a ml option for liquids like oil."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! One ml of olive oil weighs about 0.92 grams, so 710 ml would be roughly 653 grams. Using a scale can be more accurate, especially for baking. Most digital scales have a ml option for liquids like oil."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use cups instead of ml for oil measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cups are more common in American recipes, while ml are standard in the UK and Europe. Many cooks find cups convenient for quick measuring, but ml provide greater precision. Always convert if your tools use different units."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cups are more common in American recipes, while ml are standard in the UK and Europe. Many cooks find cups convenient for quick measuring, but ml provide greater precision. Always convert if your tools use different units."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 3.0 cups (710 ml) of olive oil last in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You’d rarely use that much oil at once in an air fryer—it’s designed for minimal oil. However, 710 ml could last months if used sparingly for coating food. Store olive oil in a cool, dark place to maintain freshness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You’d rarely use that much oil at once in an air fryer—it’s designed for minimal oil. However, 710 ml could last months if used sparingly for coating food. Store olive oil in a cool, dark place to maintain freshness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 3.0 Cups of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many ml Is 3.0 Cups of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil",
     "description": "Discover the exact ml measurement for 3.0 cups of olive oil and simplify your cooking conversions with this easy guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:58.618000+00:00",
     "dateModified": "2025-07-30T08:54:58.618000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 3.0 Cups of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-3-cups-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.0 cups of olive oil equals 710 ml, making it easy to measure for recipes. Whether you’re using an air fryer or traditional oven, precise measurements ensure perfect results every time. Olive oil is a staple in many dishes, from roasting vegetables to baking cakes, so knowing the exact conversion is essential. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify kitchen conversions for hassle-free cooking. Keep reading for more details on measuring olive oil accurately.</p>  

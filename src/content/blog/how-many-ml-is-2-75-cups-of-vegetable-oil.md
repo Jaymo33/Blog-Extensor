@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil"
-        },
-        "headline": "Quick Answer: How Many ml Is 2.75 Cups of Vegetable Oil?",
-        "description": "Convert 2.75 cups of vegetable oil to ml effortlessly for precise air fryer cooking. Get accurate measurements and cooking tips here!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil"
+    },
+    "headline": "Quick Answer: How Many ml Is 2.75 Cups of Vegetable Oil?",
+    "description": "Convert 2.75 cups of vegetable oil to ml effortlessly for precise air fryer cooking. Get accurate measurements and cooking tips here!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:42.163Z",
-        "dateModified": "2025-07-30T08:54:42.163Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-vegetable-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:42.163Z",
+    "dateModified": "2025-07-30T08:54:42.163Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-vegetable-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.75 cups of vegetable oil the same in UK and US measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2.75 cups of vegetable oil equals 651.6 ml in both UK and US measurements. The metric conversion remains consistent, making it easy to follow recipes from either region."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2.75 cups of vegetable oil equals 651.6 ml in both UK and US measurements. The metric conversion remains consistent, making it easy to follow recipes from either region."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use olive oil instead of vegetable oil for this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, olive oil can be substituted in the same quantity (651.6 ml for 2.75 cups). However, olive oil has a lower smoke point, so adjust cooking temperatures slightly to prevent burning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, olive oil can be substituted in the same quantity (651.6 ml for 2.75 cups). However, olive oil has a lower smoke point, so adjust cooking temperatures slightly to prevent burning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover vegetable oil after measuring 2.75 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store unused oil in a cool, dark place in an airtight container. Avoid exposure to heat or sunlight to maintain quality. Use within a few months for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store unused oil in a cool, dark place in an airtight container. Avoid exposure to heat or sunlight to maintain quality. Use within a few months for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to measure 2.75 cups of vegetable oil without a jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring jug, use a kitchen scale. Since 1 ml of vegetable oil weighs about 0.92 grams, 651.6 ml would weigh roughly 599 grams. This method ensures accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring jug, use a kitchen scale. Since 1 ml of vegetable oil weighs about 0.92 grams, 651.6 ml would weigh roughly 599 grams. This method ensures accuracy."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.75 Cups of Vegetable Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.75 Cups of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil",
     "description": "Convert 2.75 cups of vegetable oil to ml effortlessly for precise air fryer cooking. Get accurate measurements and cooking tips here!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:42.163000+00:00",
     "dateModified": "2025-07-30T08:54:42.163000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.75 Cups of Vegetable Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-vegetable-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.75 cups of vegetable oil equals approximately 651.6 millilitres (ml). This conversion is essential for air fryer cooking, where precise measurements can make or break a recipe. Whether you’re whipping up crispy chips or baking a moist cake, knowing the exact ml equivalent ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on helping you achieve perfect results with accurate conversions.</p>  

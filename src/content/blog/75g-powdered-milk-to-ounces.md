@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces"
-        },
-        "headline": "Quick 75g powdered milk to ounces conversion for air fryer recipes",
-        "description": "Convert 75g of powdered milk to ounces in seconds for perfect air fryer baking. Get precise measurements for fluffy cakes and creamy desserts.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces"
+    },
+    "headline": "Quick 75g powdered milk to ounces conversion for air fryer recipes",
+    "description": "Convert 75g of powdered milk to ounces in seconds for perfect air fryer baking. Get precise measurements for fluffy cakes and creamy desserts.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-powdered-milk-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/75g-powdered-milk-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use liquid milk instead of 75g powdered milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you’ll need to adjust the recipe. Replace 75g of powdered milk with 300ml of liquid milk and reduce other liquids slightly. Keep in mind that liquid milk may change the texture, so stick to powdered for dry mixes like cakes or coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you’ll need to adjust the recipe. Replace 75g of powdered milk with 300ml of liquid milk and reduce other liquids slightly. Keep in mind that liquid milk may change the texture, so stick to powdered for dry mixes like cakes or coatings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe taste off when using powdered milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This could be due to improper measurement or old powdered milk. Always use a scale for 75g (2.65 oz) and check the expiry date. Stale powdered milk develops a bitter taste, which can ruin your dish. Store it in an airtight container to maintain freshness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This could be due to improper measurement or old powdered milk. Always use a scale for 75g (2.65 oz) and check the expiry date. Stale powdered milk develops a bitter taste, which can ruin your dish. Store it in an airtight container to maintain freshness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 75g of powdered milk to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "75g of powdered milk is roughly 10 UK tablespoons, but this can vary based on how tightly packed it is. For accuracy, weigh it instead. Air fryer recipes, especially baked goods, rely on precise measurements for the best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "75g of powdered milk is roughly 10 UK tablespoons, but this can vary based on how tightly packed it is. For accuracy, weigh it instead. Air fryer recipes, especially baked goods, rely on precise measurements for the best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I make a smaller batch using half of 75g powdered milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Halving 75g gives you 37.5g (about 1.32 oz). Adjust all other ingredients proportionally. Smaller batches cook faster in air fryers, so reduce the cooking time by 10-15% and check for doneness early."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Halving 75g gives you 37.5g (about 1.32 oz). Adjust all other ingredients proportionally. Smaller batches cook faster in air fryers, so reduce the cooking time by 10-15% and check for doneness early."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 75g of powdered milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 75g of powdered milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces",
     "description": "Convert 75g of powdered milk to ounces in seconds for perfect air fryer baking. Get precise measurements for fluffy cakes and creamy desserts.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 75g of powdered milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/75g-powdered-milk-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75g of powdered milk equals approximately 2.65 ounces. This conversion is essential for air fryer recipes where precise measurements ensure perfect texture and consistency. Whether you’re baking a cake or whipping up a creamy dessert, knowing how to convert grams to ounces is a game-changer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions and expert tips.</p>  

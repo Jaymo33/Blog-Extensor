@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce"
-        },
-        "headline": "Quick Answer: How Many ml Is 1.5 Cups of Soy Sauce?",
-        "description": "Convert 1.5 cups of soy sauce to ml with ease. Perfect for air fryer recipes and precise cooking measurements every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce"
+    },
+    "headline": "Quick Answer: How Many ml Is 1.5 Cups of Soy Sauce?",
+    "description": "Convert 1.5 cups of soy sauce to ml with ease. Perfect for air fryer recipes and precise cooking measurements every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T21:44:48.225Z",
-        "dateModified": "2025-07-28T21:44:48.225Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-5-cups-of-soy-sauce.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T21:44:48.225Z",
+    "dateModified": "2025-07-28T21:44:48.225Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-5-cups-of-soy-sauce.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.5 cups of soy sauce the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.5 cups of soy sauce equals 355 ml in both the UK and US. While dry cup measurements differ slightly between regions, liquid measurements like soy sauce remain consistent. Always use a liquid measuring jug for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.5 cups of soy sauce equals 355 ml in both the UK and US. While dry cup measurements differ slightly between regions, liquid measurements like soy sauce remain consistent. Always use a liquid measuring jug for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a dry measuring cup for 1.5 cups of soy sauce?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to avoid dry measuring cups for liquids like soy sauce. They can lead to spills or incorrect measurements. Instead, use a clear liquid measuring jug to reach the 355 ml mark precisely."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to avoid dry measuring cups for liquids like soy sauce. They can lead to spills or incorrect measurements. Instead, use a clear liquid measuring jug to reach the 355 ml mark precisely."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I halve 1.5 cups of soy sauce for smaller portions?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To halve 1.5 cups (355 ml) of soy sauce, simply measure out 177.5 ml. This works well for marinades or glazes in smaller air fryer batches. Adjust other seasonings proportionally for balanced flavour."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To halve 1.5 cups (355 ml) of soy sauce, simply measure out 177.5 ml. This works well for marinades or glazes in smaller air fryer batches. Adjust other seasonings proportionally for balanced flavour."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s a good soy sauce substitute for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Tamari or coconut aminos are excellent substitutes, using the same 355 ml measurement. Both offer similar umami notes but may require salt adjustments. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for substitution tips."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tamari or coconut aminos are excellent substitutes, using the same 355 ml measurement. Both offer similar umami notes but may require salt adjustments. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes</a> for substitution tips."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 1.5 Cups of Soy Sauce?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce",
+    "@type": "WebPage",
+    "name": "How Many ml Is 1.5 Cups of Soy Sauce?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce",
     "description": "Convert 1.5 cups of soy sauce to ml with ease. Perfect for air fryer recipes and precise cooking measurements every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-28T21:44:48.225000+00:00",
     "dateModified": "2025-07-28T21:44:48.225000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 1.5 Cups of Soy Sauce?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-5-cups-of-soy-sauce"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of soy sauce equals 355 ml, making it easy to measure for your air fryer recipes. Whether you're marinating chicken or whipping up a stir-fry, precise measurements ensure perfect results every time. This conversion is especially handy when following international recipes or adjusting portion sizes. For more air fryer tips, visit <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>

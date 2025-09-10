@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1.5 Cups of Lentils?",
-        "description": "Discover how to convert 1.5 cups of lentils to ounces for perfect air fryer recipes. Get precise measurements and cooking tips here.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1.5 Cups of Lentils?",
+    "description": "Discover how to convert 1.5 cups of lentils to ounces for perfect air fryer recipes. Get precise measurements and cooking tips here.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-16T23:30:04.315Z",
-        "dateModified": "2025-08-16T23:30:04.315Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-lentils.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-16T23:30:04.315Z",
+    "dateModified": "2025-08-16T23:30:04.315Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-5-cups-of-lentils.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of lentil affect the ounce measurement for 1.5 cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While different lentil varieties have slightly different densities, the standard conversion of 1.5 cups to 10.5 ounces works for most common types. Green, brown, and red lentils will all measure close to this weight. For very small or large specialty lentils, you might see minor variations, but the difference is usually negligible for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While different lentil varieties have slightly different densities, the standard conversion of 1.5 cups to 10.5 ounces works for most common types. Green, brown, and red lentils will all measure close to this weight. For very small or large specialty lentils, you might see minor variations, but the difference is usually negligible for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this measurement for cooked lentils in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the 1.5 cups to 10.5 ounces conversion applies to dry, uncooked lentils. Cooked lentils expand significantly and would require different measurements. Always use dry measurements unless your recipe specifically states otherwise. For cooked lentil dishes, follow the recipe's instructions for best results in your air fryer."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the 1.5 cups to 10.5 ounces conversion applies to dry, uncooked lentils. Cooked lentils expand significantly and would require different measurements. Always use dry measurements unless your recipe specifically states otherwise. For cooked lentil dishes, follow the recipe's instructions for best results in your air fryer."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.5 cups of lentils without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have measuring cups, you can use a kitchen scale to weigh out 10.5 ounces of lentils. Alternatively, a standard mug holds about 1.25 cups, so you could use that as a rough guide. For precise air fryer cooking, we recommend investing in proper measuring tools or a digital scale for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have measuring cups, you can use a kitchen scale to weigh out 10.5 ounces of lentils. Alternatively, a standard mug holds about 1.25 cups, so you could use that as a rough guide. For precise air fryer cooking, we recommend investing in proper measuring tools or a digital scale for consistent results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify ounces instead of cups for lentils?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Many professional recipes use weight measurements (ounces) because they're more accurate than volume measurements (cups). Lentils can settle differently in a cup, affecting the actual quantity. Weight measurements ensure consistency, especially important for air fryer cooking where precise quantities affect cooking time and results. That's why knowing that 1.5 cups equals 10.5 ounces is so valuable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many professional recipes use weight measurements (ounces) because they're more accurate than volume measurements (cups). Lentils can settle differently in a cup, affecting the actual quantity. Weight measurements ensure consistency, especially important for air fryer cooking where precise quantities affect cooking time and results. That's why knowing that 1.5 cups equals 10.5 ounces is so valuable."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1.5 cups of lentils?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils",
+    "@type": "WebPage",
+    "name": "How many ounces is 1.5 cups of lentils?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils",
     "description": "Discover how to convert 1.5 cups of lentils to ounces for perfect air fryer recipes. Get precise measurements and cooking tips here.",
     "inLanguage": "en",
     "datePublished": "2025-08-16T23:30:04.315000+00:00",
     "dateModified": "2025-08-16T23:30:04.315000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1.5 cups of lentils?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-5-cups-of-lentils"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.5 cups of lentils equals approximately 10.5 ounces. This conversion is essential for air fryer recipes, ensuring accurate measurements for perfect results every time. Whether you're meal prepping or following a specific dish, knowing this conversion helps streamline your cooking process. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

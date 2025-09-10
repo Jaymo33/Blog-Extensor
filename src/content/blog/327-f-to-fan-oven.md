@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven"
-        },
-        "headline": "327 F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 327 F to fan oven settings easily. Learn the exact temperature conversion for air fryers and fan ovens with our simple guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven"
+    },
+    "headline": "327 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 327 F to fan oven settings easily. Learn the exact temperature conversion for air fryers and fan ovens with our simple guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T23:29:04.388Z",
-        "dateModified": "2025-07-21T23:29:04.388Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/327-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T23:29:04.388Z",
+    "dateModified": "2025-07-21T23:29:04.388Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/327-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 327 F to Celsius for my fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "<p>To convert 327 F to Celsius for a fan oven, subtract 32, multiply by 5, then divide by 9. This gives you approximately 164 C. For fan ovens, you typically don't need to adjust further as the conversion already accounts for the circulating air.</p>"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "<p>To convert 327 F to Celsius for a fan oven, subtract 32, multiply by 5, then divide by 9. This gives you approximately 164 C. For fan ovens, you typically don't need to adjust further as the conversion already accounts for the circulating air.</p>"
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use the same cooking time when converting 327 F to fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "<p>No, cooking times will differ when converting 327 F to fan oven settings. Fan ovens cook about 20% faster than conventional ovens at the same temperature. Start checking your food 5-10 minutes earlier than the original recipe suggests.</p>"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "<p>No, cooking times will differ when converting 327 F to fan oven settings. Fan ovens cook about 20% faster than conventional ovens at the same temperature. Start checking your food 5-10 minutes earlier than the original recipe suggests.</p>"
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 327 F in an air fryer the same as in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "<p>While the temperature conversion is similar (327 F equals about 164 C in both), air fryers cook even faster than fan ovens due to their compact size and powerful airflow. You'll typically reduce cooking time by another 10-15% when using an air fryer at this temperature.</p>"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "<p>While the temperature conversion is similar (327 F equals about 164 C in both), air fryers cook even faster than fan ovens due to their compact size and powerful airflow. You'll typically reduce cooking time by another 10-15% when using an air fryer at this temperature.</p>"
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 327 F in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "<p>327 F (164 C) in a fan oven works beautifully for roasting vegetables, baking delicate pastries, and cooking thinner cuts of meat. It's also ideal for reheating fried foods to maintain crispiness without burning. This temperature provides gentle, even cooking for dishes that need thorough heating without excessive browning.</p>"
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "<p>327 F (164 C) in a fan oven works beautifully for roasting vegetables, baking delicate pastries, and cooking thinner cuts of meat. It's also ideal for reheating fried foods to maintain crispiness without burning. This temperature provides gentle, even cooking for dishes that need thorough heating without excessive browning.</p>"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "327 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "327 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven",
     "description": "Convert 327 F to fan oven settings easily. Learn the exact temperature conversion for air fryers and fan ovens with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T23:29:04.388000+00:00",
     "dateModified": "2025-07-21T23:29:04.388000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "327 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/327-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>327 F converts to approximately 164 C in a fan oven. This conversion is essential when adapting recipes between traditional ovens and modern air fryers. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping home cooks navigate these temperature conversions with ease.</p>

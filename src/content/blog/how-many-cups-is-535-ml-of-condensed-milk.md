@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk"
-        },
-        "headline": "Quick Answer: How Many Cups Is 535 ml of Condensed Milk?",
-        "description": "Discover how to convert 535 ml of condensed milk to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 535 ml of Condensed Milk?",
+    "description": "Discover how to convert 535 ml of condensed milk to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-535-ml-of-condensed-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-535-ml-of-condensed-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 535 ml of condensed milk the same as a standard can size?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 535 ml is the equivalent of a standard 14-ounce can of condensed milk, which is commonly used in baking and dessert recipes. This measurement is handy for following recipes without needing to adjust quantities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 535 ml is the equivalent of a standard 14-ounce can of condensed milk, which is commonly used in baking and dessert recipes. This measurement is handy for following recipes without needing to adjust quantities."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use evaporated milk instead of condensed milk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk and condensed milk are not interchangeable. Condensed milk is sweetened, while evaporated milk is unsweetened. Substituting one for the other will alter the taste and texture of your dish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk and condensed milk are not interchangeable. Condensed milk is sweetened, while evaporated milk is unsweetened. Substituting one for the other will alter the taste and texture of your dish."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 535 ml of condensed milk if I don’t have a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use a tablespoon for smaller increments—535 ml is roughly 36 tablespoons. Alternatively, use a kitchen scale to weigh the condensed milk, as 535 ml weighs about 600 grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use a tablespoon for smaller increments—535 ml is roughly 36 tablespoons. Alternatively, use a kitchen scale to weigh the condensed milk, as 535 ml weighs about 600 grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of condensed milk affect the conversion from ml to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the brand doesn’t impact the conversion. Whether it’s Carnation, Nestlé, or a store brand, 535 ml of condensed milk will always equal approximately 2.25 cups. Stick to the measurement for consistent results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the brand doesn’t impact the conversion. Whether it’s Carnation, Nestlé, or a store brand, 535 ml of condensed milk will always equal approximately 2.25 cups. Stick to the measurement for consistent results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 535 ml of Condensed Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 535 ml of Condensed Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk",
     "description": "Discover how to convert 535 ml of condensed milk to cups for perfect baking and air fryer recipes. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 535 ml of Condensed Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-535-ml-of-condensed-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>535 ml of condensed milk is approximately 2.25 cups. This conversion is essential for baking and cooking, especially when using an air fryer where precise measurements can make or break a recipe. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistency and perfect results every time.</p>  

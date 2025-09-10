@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream"
-        },
-        "headline": "Quick Answer: How Many Ounces in 1 Cup of Single Cream?",
-        "description": "Discover how many ounces are in 1 cup of single cream for perfect air fryer recipes. Get accurate conversions and tips for UK measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream"
+    },
+    "headline": "Quick Answer: How Many Ounces in 1 Cup of Single Cream?",
+    "description": "Discover how many ounces are in 1 cup of single cream for perfect air fryer recipes. Get accurate conversions and tips for UK measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-single-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-single-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use double cream instead of single cream in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but double cream has a higher fat content, so adjust quantities slightly. Since 1 cup of double cream equals about 9.6 ounces, you may need to reduce the amount to avoid overly rich dishes. For best results, refer to a conversion chart or recipe guidelines."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but double cream has a higher fat content, so adjust quantities slightly. Since 1 cup of double cream equals about 9.6 ounces, you may need to reduce the amount to avoid overly rich dishes. For best results, refer to a conversion chart or recipe guidelines."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1 cup of single cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard mug or glass, but note that sizes vary. A UK metric cup is 240 ml, roughly 8.45 ounces. For accuracy, fill the container to just below the rim and level it off. Alternatively, weigh 240 grams on a kitchen scale for a close approximation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard mug or glass, but note that sizes vary. A UK metric cup is 240 ml, roughly 8.45 ounces. For accuracy, fill the container to just below the rim and level it off. Alternatively, weigh 240 grams on a kitchen scale for a close approximation."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does single cream thicken in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Single cream can reduce slightly due to the air fryer’s heat, but it won’t thicken significantly like double cream. For thicker sauces, mix in a small amount of cornflour or flour before cooking. This helps achieve the desired consistency without curdling."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Single cream can reduce slightly due to the air fryer’s heat, but it won’t thicken significantly like double cream. For thicker sauces, mix in a small amount of cornflour or flour before cooking. This helps achieve the desired consistency without curdling."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does single cream last in the fridge after opening?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Opened single cream stays fresh for about 3–5 days if stored properly. Keep it sealed and refrigerated at all times. For air fryer recipes, always check for spoilage (sour smell or separation) before use to ensure food safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opened single cream stays fresh for about 3–5 days if stored properly. Keep it sealed and refrigerated at all times. For air fryer recipes, always check for spoilage (sour smell or separation) before use to ensure food safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 1 cup of single cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream",
+    "@type": "WebPage",
+    "name": "How many ounces is 1 cup of single cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream",
     "description": "Discover how many ounces are in 1 cup of single cream for perfect air fryer recipes. Get accurate conversions and tips for UK measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 1 cup of single cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-single-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 cup of single cream equals approximately 8.45 ounces (240 ml). This measurement is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you're making creamy sauces, desserts, or even savoury dishes, knowing this conversion helps maintain consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on precise measurements to elevate your cooking. Keep reading to learn more about converting single cream for your air fryer creations.</p>  

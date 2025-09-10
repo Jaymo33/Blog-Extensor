@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        },
-        "headline": "Easy 235 Fan Oven to Conventional Oven Conversion Guide",
-        "description": "Convert 235 fan oven to Fahrenheit for conventional ovens with our simple guide. Perfect for air fryer recipes and hassle-free baking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit"
+    },
+    "headline": "Easy 235 Fan Oven to Conventional Oven Conversion Guide",
+    "description": "Convert 235 fan oven to Fahrenheit for conventional ovens with our simple guide. Perfect for air fryer recipes and hassle-free baking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-25T17:54:48.288Z",
-        "dateModified": "2025-07-25T17:54:48.288Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/235-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-25T17:54:48.288Z",
+    "dateModified": "2025-07-25T17:54:48.288Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/235-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 235 fan oven to air fryer temperature?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers use similar temperatures to fan ovens, so you can use 235 directly in your air fryer without conversion. The circulating hot air system works identically in both appliances."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers use similar temperatures to fan ovens, so you can use 235 directly in your air fryer without conversion. The circulating hot air system works identically in both appliances."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 235 fan oven temperature for baking cakes in a conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but convert it to 225°F in a conventional oven. Reduce the baking time slightly and check for doneness 5-10 minutes earlier than the recipe suggests."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but convert it to 225°F in a conventional oven. Reduce the baking time slightly and check for doneness 5-10 minutes earlier than the recipe suggests."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is there a temperature difference between fan and conventional ovens?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures. Conventional ovens need slightly higher temperatures to achieve similar results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fan ovens circulate hot air more efficiently, cooking food faster at lower temperatures. Conventional ovens need slightly higher temperatures to achieve similar results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 235 fan oven conversion affect cooking frozen foods?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "When cooking frozen foods, the 235 fan to 225°F conversion helps prevent the outside from overcooking before the inside thaws. Always check internal temperatures for safety."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When cooking frozen foods, the 235 fan to 225°F conversion helps prevent the outside from overcooking before the inside thaws. Always check internal temperatures for safety."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "235 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-            "url": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit",
+    "@type": "WebPage",
+    "name": "235 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
+    "url": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit",
     "description": "Convert 235 fan oven to Fahrenheit for conventional ovens with our simple guide. Perfect for air fryer recipes and hassle-free baking.",
     "inLanguage": "en",
     "datePublished": "2025-07-25T17:54:48.288000+00:00",
     "dateModified": "2025-07-25T17:54:48.288000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "235 Fan Oven to Conventional Oven Conversion (Fahrenheit)",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/235-fan-oven-to-conventional-oven-conversion-fahrenheit"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>235 fan oven equals approximately 225°F in a conventional oven. This conversion is essential for adapting recipes between fan-assisted and traditional ovens, especially when using air fryer recipes that often rely on fan settings. Understanding this temperature shift ensures your dishes cook evenly and perfectly every time.</p>

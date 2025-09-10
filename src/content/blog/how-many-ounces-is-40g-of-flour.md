@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour"
-        },
-        "headline": "Quick Answer: How Many Ounces is 40g of Flour?",
-        "description": "Discover how to convert 40g of flour to ounces for perfect air fryer baking every time. Get the exact measurement now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour"
+    },
+    "headline": "Quick Answer: How Many Ounces is 40g of Flour?",
+    "description": "Discover how to convert 40g of flour to ounces for perfect air fryer baking every time. Get the exact measurement now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-flour.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-of-flour.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is 40g of flour a common measurement in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "40g of flour is often used in air fryer recipes because it’s ideal for small-batch baking or coating. Air fryers have limited space, so recipes are typically scaled down. This amount ensures even cooking and prevents overcrowding."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40g of flour is often used in air fryer recipes because it’s ideal for small-batch baking or coating. Air fryers have limited space, so recipes are typically scaled down. This amount ensures even cooking and prevents overcrowding."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring cup instead of scales for 40g of flour?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use a measuring cup if you don’t have scales. 40g of flour is roughly a third of a UK metric cup. Spoon the flour lightly into the cup and level it off for accuracy. For best results, though, digital scales are recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use a measuring cup if you don’t have scales. 40g of flour is roughly a third of a UK metric cup. Spoon the flour lightly into the cup and level it off for accuracy. For best results, though, digital scales are recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of flour affect the conversion from grams to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The type of flour can slightly affect the weight due to density differences. However, for most all-purpose or plain flour, 40g will still be close to 1.41 ounces. Wholemeal or bread flour may vary slightly but not enough to impact most recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The type of flour can slightly affect the weight due to density differences. However, for most all-purpose or plain flour, 40g will still be close to 1.41 ounces. Wholemeal or bread flour may vary slightly but not enough to impact most recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store flour to keep it fresh for air fryer baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store flour in an airtight container in a cool, dry place to maintain freshness. For longer storage, keep it in the fridge or freezer. Always let it come to room temperature before using it in air fryer recipes to ensure accurate measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store flour in an airtight container in a cool, dry place to maintain freshness. For longer storage, keep it in the fridge or freezer. Always let it come to room temperature before using it in air fryer recipes to ensure accurate measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 40g of flour?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour",
+    "@type": "WebPage",
+    "name": "How many ounces is 40g of flour?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour",
     "description": "Discover how to convert 40g of flour to ounces for perfect air fryer baking every time. Get the exact measurement now!",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 40g of flour?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-40g-of-flour"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>40g of flour equals approximately 1.41 ounces. This conversion is essential for air fryer baking, where precise measurements can make or break your recipe. Whether you're whipping up cakes, cookies, or bread in your air fryer, knowing how to convert grams to ounces ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help you master these conversions for flawless cooking every time.</p>  

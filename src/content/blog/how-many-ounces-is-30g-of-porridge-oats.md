@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats"
-        },
-        "headline": "Quick Guide: Convert 30g of Porridge Oats to Ounces",
-        "description": "Learn how to convert 30g of porridge oats to ounces for perfect air fryer breakfasts. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats"
+    },
+    "headline": "Quick Guide: Convert 30g of Porridge Oats to Ounces",
+    "description": "Learn how to convert 30g of porridge oats to ounces for perfect air fryer breakfasts. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T23:45:58.474Z",
-        "dateModified": "2025-08-10T23:45:58.474Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-porridge-oats.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T23:45:58.474Z",
+    "dateModified": "2025-08-10T23:45:58.474Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-30g-of-porridge-oats.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 30g of porridge oats in savoury air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 30g of porridge oats (1.06 ounces) works well in savoury dishes like air fryer veggie burgers or as a coating for chicken. Their mild flavour and texture add a lovely crunch. Check out our savoury recipes for inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 30g of porridge oats (1.06 ounces) works well in savoury dishes like air fryer veggie burgers or as a coating for chicken. Their mild flavour and texture add a lovely crunch. Check out our savoury recipes for inspiration."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 30g of porridge oats?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "30g of porridge oats contains around 117 calories, making it a nutritious choice for air fryer recipes. Combined with fruits or nuts, it’s a great energy-boosting breakfast or snack."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "30g of porridge oats contains around 117 calories, making it a nutritious choice for air fryer recipes. Combined with fruits or nuts, it’s a great energy-boosting breakfast or snack."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do I need to adjust cooking times for 30g of oats in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Cooking times may vary slightly depending on the recipe, but 30g of porridge oats typically cooks quickly in the air fryer. For granola or baked goods, start with 10-12 minutes at 160°C, checking regularly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cooking times may vary slightly depending on the recipe, but 30g of porridge oats typically cooks quickly in the air fryer. For granola or baked goods, start with 10-12 minutes at 160°C, checking regularly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute instant oats for porridge oats in a 30g measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but note that instant oats are finer, so the texture may differ. For best results in air fryer recipes, stick to traditional porridge oats when measuring 30g (1.06 ounces)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but note that instant oats are finer, so the texture may differ. For best results in air fryer recipes, stick to traditional porridge oats when measuring 30g (1.06 ounces)."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 30g of porridge oats?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats",
+    "@type": "WebPage",
+    "name": "How many ounces is 30g of porridge oats?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats",
     "description": "Learn how to convert 30g of porridge oats to ounces for perfect air fryer breakfasts. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-10T23:45:58.474000+00:00",
     "dateModified": "2025-08-10T23:45:58.474000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 30g of porridge oats?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-30g-of-porridge-oats"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>30g of porridge oats equals approximately 1.06 ounces. This conversion is essential for anyone using an air fryer to whip up a quick, healthy breakfast. Whether you're making oat bars, porridge, or adding oats to baked goods, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we love helping you get measurements right for flawless results. Keep reading for more tips on using porridge oats in your air fryer.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 50g of Minced Garlic to Ounces Easily",
-        "description": "Learn how to convert 50g of minced garlic to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 50g of Minced Garlic to Ounces Easily",
+    "description": "Learn how to convert 50g of minced garlic to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-10T00:51:10.153Z",
-        "dateModified": "2025-08-10T00:51:10.153Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-minced-garlic-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-10T00:51:10.153Z",
+    "dateModified": "2025-08-10T00:51:10.153Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/50g-minced-garlic-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 50g of minced garlic without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a scale, 50g of minced garlic is roughly 10 teaspoons or 3.5 tablespoons. This approximation works well for most air fryer recipes. For more precise measurements, consider investing in a digital kitchen scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a scale, 50g of minced garlic is roughly 10 teaspoons or 3.5 tablespoons. This approximation works well for most air fryer recipes. For more precise measurements, consider investing in a digital kitchen scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use jarred minced garlic instead of fresh for 50g conversions?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, jarred minced garlic can be used as a substitute for fresh. The conversion remains the same: 50g equals approximately 1.76 ounces. However, jarred garlic may have a slightly milder flavour, so adjust to taste."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, jarred minced garlic can be used as a substitute for fresh. The conversion remains the same: 50g equals approximately 1.76 ounces. However, jarred garlic may have a slightly milder flavour, so adjust to taste."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 50g of minced garlic last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fresh minced garlic stored in an airtight container lasts about 1-2 weeks in the fridge. If mixed with oil, use it within a week to avoid spoilage. Always check for off smells before using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fresh minced garlic stored in an airtight container lasts about 1-2 weeks in the fridge. If mixed with oil, use it within a week to avoid spoilage. Always check for off smells before using."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 50g of minced garlic lose flavour when air fried?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Garlic can mellow slightly when air fried, but 50g (1.76 oz) still provides robust flavour. To preserve its intensity, add a portion of the minced garlic towards the end of cooking or as a garnish."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Garlic can mellow slightly when air fried, but 50g (1.76 oz) still provides robust flavour. To preserve its intensity, add a portion of the minced garlic towards the end of cooking or as a garnish."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 50g of minced garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 50g of minced garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces",
     "description": "Learn how to convert 50g of minced garlic to ounces in seconds. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-10T00:51:10.153000+00:00",
     "dateModified": "2025-08-10T00:51:10.153000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 50g of minced garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/50g-minced-garlic-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>50 grams of minced garlic is approximately 1.76 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're following a British or international recipe, knowing how to convert grams to ounces ensures your dish turns out perfectly every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand the importance of accurate measurements, especially when working with potent ingredients like garlic.</p>  

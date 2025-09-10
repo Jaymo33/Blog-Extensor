@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream"
-        },
-        "headline": "Quick Answer: How Many Cups Is 210 ml of Heavy Cream?",
-        "description": "Convert 210 ml of heavy cream to cups effortlessly for perfect baking and cooking results every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream"
+    },
+    "headline": "Quick Answer: How Many Cups Is 210 ml of Heavy Cream?",
+    "description": "Convert 210 ml of heavy cream to cups effortlessly for perfect baking and cooking results every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-210-ml-of-heavy-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-210-ml-of-heavy-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 210 ml of heavy cream the same as 210 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, heavy cream has a density close to 1 gram per millilitre, so 210 ml of heavy cream weighs approximately 210 grams. This makes it easy to measure by weight if you don’t have a liquid measuring cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, heavy cream has a density close to 1 gram per millilitre, so 210 ml of heavy cream weighs approximately 210 grams. This makes it easy to measure by weight if you don’t have a liquid measuring cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use half-and-half instead of heavy cream in a recipe calling for 210 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute half-and-half, but the result will be less rich and creamy. Heavy cream has a higher fat content (around 36%), while half-and-half is about 10-12% fat. For baking or sauces, stick to heavy cream for the best texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute half-and-half, but the result will be less rich and creamy. Heavy cream has a higher fat content (around 36%), while half-and-half is about 10-12% fat. For baking or sauces, stick to heavy cream for the best texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 210 ml of heavy cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 210 grams. Alternatively, a standard tablespoon holds about 15 ml, so 14 tablespoons would equal roughly 210 ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a kitchen scale to weigh out 210 grams. Alternatively, a standard tablespoon holds about 15 ml, so 14 tablespoons would equal roughly 210 ml."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does 210 ml of heavy cream whip to the same volume as 210 ml of liquid cream?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, whipped cream expands in volume. 210 ml of liquid heavy cream will yield about 420-500 ml of whipped cream, depending on how stiff you whip it. Always measure the liquid form for recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, whipped cream expands in volume. 210 ml of liquid heavy cream will yield about 420-500 ml of whipped cream, depending on how stiff you whip it. Always measure the liquid form for recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 210 ml of Heavy Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 210 ml of Heavy Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream",
     "description": "Convert 210 ml of heavy cream to cups effortlessly for perfect baking and cooking results every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 210 ml of Heavy Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-210-ml-of-heavy-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>210 ml of heavy cream is approximately 0.89 cups. This conversion is essential for recipes requiring precise measurements, especially when using an air fryer for baking or cooking. Whether you're whipping up a creamy sauce or a decadent dessert, knowing how to convert millilitres to cups ensures consistent results every time.</p>

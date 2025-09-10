@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic"
-        },
-        "headline": "Quick Guide: Convert 0.5 Cup Minced Garlic to Ounces Easily",
-        "description": "Learn how to convert 0.5 cup of minced garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic"
+    },
+    "headline": "Quick Guide: Convert 0.5 Cup Minced Garlic to Ounces Easily",
+    "description": "Learn how to convert 0.5 cup of minced garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-minced-garlic.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-5-cup-minced-garlic.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 0.5 cup of minced garlic equal the same weight as whole cloves?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, whole cloves weigh less because peeling and mincing increases volume. One medium clove (about 1 tsp minced) weighs roughly 0.1 oz, so 0.5 cup (24 tsp) would require about 20 cloves, totaling 2 oz—slightly less than pre-minced garlic’s 2.5 oz due to packing."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, whole cloves weigh less because peeling and mincing increases volume. One medium clove (about 1 tsp minced) weighs roughly 0.1 oz, so 0.5 cup (24 tsp) would require about 20 cloves, totaling 2 oz—slightly less than pre-minced garlic’s 2.5 oz due to packing."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute garlic powder for 0.5 cup minced garlic?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but adjust quantities: 1/8 tsp garlic powder equals one clove (1 tsp minced). For 0.5 cup minced, use 3 tsp (1 tbsp) powder. Rehydrate powder with water for marinades to mimic fresh garlic’s texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but adjust quantities: 1/8 tsp garlic powder equals one clove (1 tsp minced). For 0.5 cup minced, use 3 tsp (1 tbsp) powder. Rehydrate powder with water for marinades to mimic fresh garlic’s texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer garlic taste bitter?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Overcooking minced garlic at high heat causes bitterness. Add it halfway through cooking or mix with oil to insulate it. Burnt garlic also sticks to baskets—clean promptly with our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> guide."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overcooking minced garlic at high heat causes bitterness. Add it halfway through cooking or mix with oil to insulate it. Burnt garlic also sticks to baskets—clean promptly with our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> guide."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 0.5 cup minced garlic last in the fridge?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Fresh minced garlic lasts 1–2 weeks refrigerated in an airtight container. Preserve it in oil for up to a month, but store oil-coated garlic in the fridge to prevent botulism risk. Freeze for longer storage (3–6 months)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fresh minced garlic lasts 1–2 weeks refrigerated in an airtight container. Preserve it in oil for up to a month, but store oil-coated garlic in the fridge to prevent botulism risk. Freeze for longer storage (3–6 months)."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.5 cup of minced garlic?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.5 cup of minced garlic?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic",
     "description": "Learn how to convert 0.5 cup of minced garlic to ounces for perfect air fryer recipes every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.5 cup of minced garlic?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-5-cup-minced-garlic"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 cup of minced garlic equals approximately 2.5 ounces (70 grams). This measurement is essential for air fryer recipes, where precision ensures even cooking and perfect flavour. Whether you're making garlic bread, roasted vegetables, or marinades, knowing this conversion helps avoid overpowering or underwhelming dishes.</p>

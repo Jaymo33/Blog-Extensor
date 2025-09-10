@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise"
-        },
-        "headline": "Quick Answer: How many ounces is 100g of mayonnaise?",
-        "description": "Find out exactly how many ounces 100g of mayonnaise equals and get handy air fryer conversion tips for perfect recipes every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise"
+    },
+    "headline": "Quick Answer: How many ounces is 100g of mayonnaise?",
+    "description": "Find out exactly how many ounces 100g of mayonnaise equals and get handy air fryer conversion tips for perfect recipes every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-mayonnaise.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-mayonnaise.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100g of mayonnaise the same as 100ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 100g of mayonnaise is not the same as 100ml. Grams measure weight, while millilitres measure volume. Mayonnaise is denser than water, so 100g is roughly 92ml. For air fryer recipes, always check whether the measurement is in grams or millilitres."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 100g of mayonnaise is not the same as 100ml. Grams measure weight, while millilitres measure volume. Mayonnaise is denser than water, so 100g is roughly 92ml. For air fryer recipes, always check whether the measurement is in grams or millilitres."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a US cup to measure 100g of mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but note that a US cup (240ml) differs slightly from a UK cup (250ml). 100g of mayonnaise is about 0.42 US cups. For accuracy, especially in air fryer recipes, weighing with a scale is best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but note that a US cup (240ml) differs slightly from a UK cup (250ml). 100g of mayonnaise is about 0.42 US cups. For accuracy, especially in air fryer recipes, weighing with a scale is best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does light mayonnaise weigh the same as regular mayonnaise?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Light mayonnaise is slightly less dense due to reduced fat content, but the difference is minimal. 100g of light mayonnaise will still be close to 3.5 ounces, so you can use the same conversion."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Light mayonnaise is slightly less dense due to reduced fat content, but the difference is minimal. 100g of light mayonnaise will still be close to 3.5 ounces, so you can use the same conversion."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I clean my air fryer after using mayonnaise-based coatings?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Mayonnaise can leave residue, so wipe your air fryer basket with warm, soapy water immediately after use. For stubborn grease, try our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner guide</a>. Avoid harsh scrubbing to protect non-stick coatings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mayonnaise can leave residue, so wipe your air fryer basket with warm, soapy water immediately after use. For stubborn grease, try our <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner guide</a>. Avoid harsh scrubbing to protect non-stick coatings."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 100g of mayonnaise?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of mayonnaise?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise",
     "description": "Find out exactly how many ounces 100g of mayonnaise equals and get handy air fryer conversion tips for perfect recipes every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 100g of mayonnaise?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-mayonnaise"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100 grams of mayonnaise equals approximately 3.53 ounces. If you're preparing a recipe in your air fryer and need to convert 100g of mayonnaise to ounces, this simple conversion ensures your measurements are spot on. Whether you're making a creamy dip, a rich sauce, or a marinade, knowing this conversion helps avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we love making cooking easier with precise measurements and handy tips.</p>

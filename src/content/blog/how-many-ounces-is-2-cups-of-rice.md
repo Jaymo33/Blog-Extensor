@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice"
-        },
-        "headline": "Quick Answer: How Many Ounces is 2 Cups of Rice? UK Guide",
-        "description": "Discover the exact weight of 2 cups of rice in ounces for perfect air fryer cooking every time. Get accurate UK conversions and tips now.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice"
+    },
+    "headline": "Quick Answer: How Many Ounces is 2 Cups of Rice? UK Guide",
+    "description": "Discover the exact weight of 2 cups of rice in ounces for perfect air fryer cooking every time. Get accurate UK conversions and tips now.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-20T00:27:11.141Z",
-        "dateModified": "2025-08-20T00:27:11.141Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-20T00:27:11.141Z",
+    "dateModified": "2025-08-20T00:27:11.141Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 2 cups of rice equal 16 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 2 cups of uncooked long-grain white rice does not typically equal 16 ounces. The standard weight for 2 cups is approximately 14 ounces. A weight of 16 ounces would be closer to what you might get with a denser rice variety, like short-grain or brown rice, if it is packed firmly into the measuring cup. For the most accurate measurement, especially in air fryer cooking where ratios are key, using a kitchen scale to weigh out 14 ounces is always recommended."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 2 cups of uncooked long-grain white rice does not typically equal 16 ounces. The standard weight for 2 cups is approximately 14 ounces. A weight of 16 ounces would be closer to what you might get with a denser rice variety, like short-grain or brown rice, if it is packed firmly into the measuring cup. For the most accurate measurement, especially in air fryer cooking where ratios are key, using a kitchen scale to weigh out 14 ounces is always recommended."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 2 cups of brown rice to ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting 2 cups of brown rice to ounces is simple once you know its density is slightly higher than white rice. On average, one cup of uncooked brown rice weighs about 7.5 ounces. Therefore, for 2 cups of brown rice, you would need approximately 15 ounces. Because brown rice is a whole grain and absorbs more water, this accurate measurement is crucial for getting the water-to-rice ratio perfect in your air fryer, preventing a dry or crunchy outcome."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting 2 cups of brown rice to ounces is simple once you know its density is slightly higher than white rice. On average, one cup of uncooked brown rice weighs about 7.5 ounces. Therefore, for 2 cups of brown rice, you would need approximately 15 ounces. Because brown rice is a whole grain and absorbs more water, this accurate measurement is crucial for getting the water-to-rice ratio perfect in your air fryer, preventing a dry or crunchy outcome."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is the ounce measurement the same for cooked rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the weight changes dramatically after cooking because rice absorbs a large amount of water. While 2 cups of uncooked rice weighs around 14 ounces, that same rice will yield about 6 cups of cooked rice, which will weigh significantly more—roughly 36 to 40 ounces. Recipes almost always specify measurements for uncooked rice, so it is vital to use the dry weight (14 oz for 2 cups) when starting your air fryer recipe to ensure proper cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the weight changes dramatically after cooking because rice absorbs a large amount of water. While 2 cups of uncooked rice weighs around 14 ounces, that same rice will yield about 6 cups of cooked rice, which will weigh significantly more—roughly 36 to 40 ounces. Recipes almost always specify measurements for uncooked rice, so it is vital to use the dry weight (14 oz for 2 cups) when starting your air fryer recipe to ensure proper cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 2 cups of rice seem to weigh more than 14 ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your 2 cups of rice weighs more than 14 ounces, the most likely reason is that you packed the rice into the measuring cup too firmly. Scooping directly from the bag or tapping the cup compacts the grains, adding significant extra weight. For a true 2-cup volume measurement, you should always use the spoon-and-level method. The type of rice also plays a role; short-grain or sushi rice is inherently denser and will naturally weigh more per cup than long-grain varieties like basmati."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your 2 cups of rice weighs more than 14 ounces, the most likely reason is that you packed the rice into the measuring cup too firmly. Scooping directly from the bag or tapping the cup compacts the grains, adding significant extra weight. For a true 2-cup volume measurement, you should always use the spoon-and-level method. The type of rice also plays a role; short-grain or sushi rice is inherently denser and will naturally weigh more per cup than long-grain varieties like basmati."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of rice",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of rice",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice",
     "description": "Discover the exact weight of 2 cups of rice in ounces for perfect air fryer cooking every time. Get accurate UK conversions and tips now.",
     "inLanguage": "en",
     "datePublished": "2025-08-20T00:27:11.141000+00:00",
     "dateModified": "2025-08-20T00:27:11.141000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of rice",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>So, how many ounces is 2 cups of rice? Two cups of uncooked, long-grain white rice typically weigh around 14 ounces, but this can vary slightly depending on the type and how you fill your cup. Getting this measurement right is absolutely crucial when you are preparing rice in your air fryer, as accurate quantities ensure even cooking and perfect texture every single time. Whether you are meal prepping for the week or cooking a family dinner, knowing your conversions takes the guesswork out of the process. For more handy conversion tips, check out our comprehensive <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on airfryerrecipe.co.uk. This simple question of how many ounces is 2 cups of rice is one we get asked all the time, and it is a fundamental building block for countless recipes.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika"
-        },
-        "headline": "Quick Guide: Convert 0.33 Cup Paprika to Ounces Easily",
-        "description": "Discover how to convert 0.33 cup of paprika to ounces for perfect air fryer seasoning. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika"
+    },
+    "headline": "Quick Guide: Convert 0.33 Cup Paprika to Ounces Easily",
+    "description": "Discover how to convert 0.33 cup of paprika to ounces for perfect air fryer seasoning. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-18T23:44:06.726Z",
-        "dateModified": "2025-08-18T23:44:06.726Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-paprika.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-18T23:44:06.726Z",
+    "dateModified": "2025-08-18T23:44:06.726Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-of-paprika.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale instead of measuring cups for paprika?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a kitchen scale is the most accurate way to measure paprika. Simply set it to ounces or grams and weigh out 1.41 ounces (40 grams) for 0.33 cup. This method eliminates guesswork and ensures consistency in your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a kitchen scale is the most accurate way to measure paprika. Simply set it to ounces or grams and weigh out 1.41 ounces (40 grams) for 0.33 cup. This method eliminates guesswork and ensures consistency in your air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of paprika affect the weight per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While smoked, sweet, or hot paprika have slightly different densities, the weight difference per cup is minimal. For most recipes, 0.33 cup will still weigh around 1.41 ounces. However, finely ground paprika may settle more densely, so always level off your measuring cup."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While smoked, sweet, or hot paprika have slightly different densities, the weight difference per cup is minimal. For most recipes, 0.33 cup will still weigh around 1.41 ounces. However, finely ground paprika may settle more densely, so always level off your measuring cup."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust paprika measurements for larger batches?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For larger quantities, multiply the conversion accordingly—e.g., 1 cup of paprika equals about 4.25 ounces. Use a scale for precision, especially when scaling up air fryer recipes like spice rubs or marinades."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For larger quantities, multiply the conversion accordingly—e.g., 1 cup of paprika equals about 4.25 ounces. Use a scale for precision, especially when scaling up air fryer recipes like spice rubs or marinades."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my paprika measurement different from the conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Variations can occur if the paprika is packed down or if you’re using a heaped cup. Always spoon the spice into the measuring cup and level it off for accuracy. Humidity can also affect volume, so storing paprika in an airtight container helps maintain consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Variations can occur if the paprika is packed down or if you’re using a heaped cup. Always spoon the spice into the measuring cup and level it off for accuracy. Humidity can also affect volume, so storing paprika in an airtight container helps maintain consistency."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of paprika?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of paprika?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika",
     "description": "Discover how to convert 0.33 cup of paprika to ounces for perfect air fryer seasoning. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-18T23:44:06.726000+00:00",
     "dateModified": "2025-08-18T23:44:06.726000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of paprika?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-of-paprika"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of paprika equals approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise seasoning can make or break a dish. Whether you’re whipping up a spicy rub or adding depth to a marinade, knowing the exact weight ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify measurements so you can focus on cooking. Let’s dive deeper into converting 0.33 cup of paprika to ounces and why it matters.</p>  

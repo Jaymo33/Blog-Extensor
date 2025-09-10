@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds"
-        },
-        "headline": "Easy 10 kg prawns to pounds conversion for perfect air fryer cooking",
-        "description": "Convert 10 kg prawns to pounds quickly for accurate air fryer recipes. Get perfect cooking results with our simple guide and conversion tips.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds"
+    },
+    "headline": "Easy 10 kg prawns to pounds conversion for perfect air fryer cooking",
+    "description": "Convert 10 kg prawns to pounds quickly for accurate air fryer recipes. Get perfect cooking results with our simple guide and conversion tips.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-prawns-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-kg-prawns-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 10 kg of prawns exactly?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10 kilograms of prawns converts to exactly 22.046 pounds when using the standard conversion factor of 1 kilogram equals 2.20462 pounds. For most cooking purposes, you can comfortably round this to 22 pounds without affecting your recipe results. This conversion applies whether you're working with fresh or frozen prawns, though frozen weights might include some ice content that affects the final cooked weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10 kilograms of prawns converts to exactly 22.046 pounds when using the standard conversion factor of 1 kilogram equals 2.20462 pounds. For most cooking purposes, you can comfortably round this to 22 pounds without affecting your recipe results. This conversion applies whether you're working with fresh or frozen prawns, though frozen weights might include some ice content that affects the final cooked weight."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the conversion change if the prawns are frozen?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The basic conversion of 10 kg prawns to pounds remains the same whether they're fresh or frozen—10 kg always equals approximately 22 pounds. However, frozen prawns often contain ice glaze or water content that adds to their weight, meaning you might actually have less prawn meat than the weight suggests. For most accurate results, thaw frozen prawns first and pat them dry before weighing for recipes, especially when air frying where excess moisture can affect crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The basic conversion of 10 kg prawns to pounds remains the same whether they're fresh or frozen—10 kg always equals approximately 22 pounds. However, frozen prawns often contain ice glaze or water content that adds to their weight, meaning you might actually have less prawn meat than the weight suggests. For most accurate results, thaw frozen prawns first and pat them dry before weighing for recipes, especially when air frying where excess moisture can affect crispiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many people will 10 kg of prawns serve?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "10 kg of prawns (approximately 22 pounds) will serve about 40-50 people as a main course or 80-100 as an appetizer, depending on portion sizes and what other dishes you're serving. When air frying, remember you'll likely need to cook in batches to avoid overcrowding the basket, which affects cooking time and results. For large gatherings, consider preparing some prawns in advance and reheating them in the air fryer just before serving to save time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10 kg of prawns (approximately 22 pounds) will serve about 40-50 people as a main course or 80-100 as an appetizer, depending on portion sizes and what other dishes you're serving. When air frying, remember you'll likely need to cook in batches to avoid overcrowding the basket, which affects cooking time and results. For large gatherings, consider preparing some prawns in advance and reheating them in the air fryer just before serving to save time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other types of shrimp or seafood?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, the conversion of 10 kg to pounds works for any type of shrimp, prawns, or similar seafood since it's a weight conversion rather than a variety-specific calculation. The conversion factor remains consistent regardless of whether you're working with tiger prawns, king prawns, or regular shrimp. However, different varieties may have different cooking times in the air fryer due to size and density variations, so adjust cooking times accordingly while using the same weight measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the conversion of 10 kg to pounds works for any type of shrimp, prawns, or similar seafood since it's a weight conversion rather than a variety-specific calculation. The conversion factor remains consistent regardless of whether you're working with tiger prawns, king prawns, or regular shrimp. However, different varieties may have different cooking times in the air fryer due to size and density variations, so adjust cooking times accordingly while using the same weight measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "10 kg prawns to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds",
+    "@type": "WebPage",
+    "name": "10 kg prawns to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds",
     "description": "Convert 10 kg prawns to pounds quickly for accurate air fryer recipes. Get perfect cooking results with our simple guide and conversion tips.",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "10 kg prawns to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/10-kg-prawns-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>10 kg of prawns converts to approximately 22.046 pounds, making it essential knowledge for anyone preparing seafood in their air fryer. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or creating your own dishes, accurate measurements ensure perfect results every time. Understanding this conversion helps you portion correctly, avoid overcrowding your air fryer basket, and achieve that delicious crispy texture we all love. This is particularly important when working with larger quantities for family meals or entertaining. Getting your weights right from the start makes the entire cooking process smoother and more enjoyable.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil"
-        },
-        "headline": "Quick Guide: Convert 310 ml of Vegetable Oil to Cups Easily",
-        "description": "Learn how to convert 310 ml of vegetable oil to cups for perfect baking and frying. Get accurate measurements for air fryer recipes today!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil"
+    },
+    "headline": "Quick Guide: Convert 310 ml of Vegetable Oil to Cups Easily",
+    "description": "Learn how to convert 310 ml of vegetable oil to cups for perfect baking and frying. Get accurate measurements for air fryer recipes today!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-vegetable-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-vegetable-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 310 ml of vegetable oil the same as 310 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 310 ml of vegetable oil is not the same as 310 grams. Millilitres measure volume, while grams measure weight. The weight of 310 ml of vegetable oil depends on its density but is roughly 285 grams. Always use a kitchen scale for weight measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 310 ml of vegetable oil is not the same as 310 grams. Millilitres measure volume, while grams measure weight. The weight of 310 ml of vegetable oil depends on its density but is roughly 285 grams. Always use a kitchen scale for weight measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use less than 310 ml of vegetable oil in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, air fryers require less oil than traditional frying. You can often reduce 310 ml of vegetable oil by half or use a spray bottle for even coating. Experiment with smaller amounts to achieve crispiness without excess grease."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, air fryers require less oil than traditional frying. You can often reduce 310 ml of vegetable oil by half or use a spray bottle for even coating. Experiment with smaller amounts to achieve crispiness without excess grease."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 310 ml of vegetable oil to tablespoons?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "310 ml of vegetable oil equals about 15.5 tablespoons (since 1 tablespoon is roughly 20 ml). This conversion is handy for recipes requiring smaller oil quantities, such as marinades or dressings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "310 ml of vegetable oil equals about 15.5 tablespoons (since 1 tablespoon is roughly 20 ml). This conversion is handy for recipes requiring smaller oil quantities, such as marinades or dressings."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of vegetable oil affect the 310 ml to cups conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same (1.31 cups) regardless of the vegetable oil type. However, oils with different viscosities (like olive oil vs. sunflower oil) may pour differently, so always measure at eye level for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same (1.31 cups) regardless of the vegetable oil type. However, oils with different viscosities (like olive oil vs. sunflower oil) may pour differently, so always measure at eye level for accuracy."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 310 ml of Vegetable Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 310 ml of Vegetable Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil",
     "description": "Learn how to convert 310 ml of vegetable oil to cups for perfect baking and frying. Get accurate measurements for air fryer recipes today!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 310 ml of Vegetable Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-vegetable-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>310 ml of vegetable oil is approximately 1.31 cups. This conversion is essential for accurate cooking, especially when using an air fryer where precise measurements can affect texture and crispiness. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or experimenting with your own creations, knowing how to convert 310 ml of vegetable oil to cups ensures consistent results every time.</p>

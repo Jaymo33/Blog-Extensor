@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius"
-        },
-        "headline": "Gas Mark 1 to Celsius Conversion Guide | Air Fryer Tips",
-        "description": "Convert Gas Mark 1 to Celsius (140°C) for perfect air fryer cooking. Includes conversion charts and temperature tips for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius"
+    },
+    "headline": "Gas Mark 1 to Celsius Conversion Guide | Air Fryer Tips",
+    "description": "Convert Gas Mark 1 to Celsius (140°C) for perfect air fryer cooking. Includes conversion charts and temperature tips for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T12:06:53.392Z",
-        "dateModified": "2025-07-21T12:06:53.392Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-1-to-celsius.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T12:06:53.392Z",
+    "dateModified": "2025-07-21T12:06:53.392Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-1-to-celsius.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use Gas Mark 1 temperature for air fryer baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, Gas Mark 1 (140°C) works well for delicate baking in air fryers, especially for items like cheesecakes or custards that need gentle heat. Reduce cooking times by 15-20% compared to oven recipes and check frequently."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Gas Mark 1 (140°C) works well for delicate baking in air fryers, especially for items like cheesecakes or custards that need gentle heat. Reduce cooking times by 15-20% compared to oven recipes and check frequently."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does Gas Mark 1 compare to air fryer dehydration settings?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Gas Mark 1 (140°C) is slightly higher than most air fryer dehydration settings (typically 50-70°C). For proper dehydration, use your air fryer's specific function if available, or prop the basket open at 140°C for shorter drying times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gas Mark 1 (140°C) is slightly higher than most air fryer dehydration settings (typically 50-70°C). For proper dehydration, use your air fryer's specific function if available, or prop the basket open at 140°C for shorter drying times."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why would I need to convert Gas Mark 1 to Celsius for my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most modern air fryers use Celsius displays, so converting Gas Mark 1 to 140°C ensures accurate temperature setting. This prevents under or overcooking when using traditional British recipes designed for gas ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most modern air fryers use Celsius displays, so converting Gas Mark 1 to 140°C ensures accurate temperature setting. This prevents under or overcooking when using traditional British recipes designed for gas ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is Gas Mark 1 the same in fan ovens and air fryers?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No - while fan ovens typically reduce Gas Mark temperatures by 10-20°C, air fryers should use the standard Gas Mark 1 to Celsius conversion (140°C) due to their different heating mechanics and faster air circulation."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No - while fan ovens typically reduce Gas Mark temperatures by 10-20°C, air fryers should use the standard Gas Mark 1 to Celsius conversion (140°C) due to their different heating mechanics and faster air circulation."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Gas Mark 1 to Celsius",
-            "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius",
+    "@type": "WebPage",
+    "name": "Gas Mark 1 to Celsius",
+    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius",
     "description": "Convert Gas Mark 1 to Celsius (140°C) for perfect air fryer cooking. Includes conversion charts and temperature tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T12:06:53.392000+00:00",
     "dateModified": "2025-07-21T12:06:53.392000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "Gas Mark 1 to Celsius",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-1-to-celsius"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <h2>Gas Mark 1 to Celsius Conversion</h2>

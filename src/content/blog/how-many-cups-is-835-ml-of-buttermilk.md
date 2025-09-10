@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk"
-        },
-        "headline": "Quick Guide: Convert 835 ml of Buttermilk to Cups Easily",
-        "description": "Learn how to convert 835 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk"
+    },
+    "headline": "Quick Guide: Convert 835 ml of Buttermilk to Cups Easily",
+    "description": "Learn how to convert 835 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-835-ml-of-buttermilk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-835-ml-of-buttermilk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 835 ml of buttermilk the same as 3.5 cups in all countries?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, cup measurements vary by country. In the UK, 835 ml of buttermilk equals 3.5 cups (using the UK standard of 284 ml per cup). In the US, it’s slightly more at 3.52 cups (240 ml per cup). For air fryer recipes, this small difference usually doesn’t affect the outcome, but it’s good to know for precision baking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, cup measurements vary by country. In the UK, 835 ml of buttermilk equals 3.5 cups (using the UK standard of 284 ml per cup). In the US, it’s slightly more at 3.52 cups (240 ml per cup). For air fryer recipes, this small difference usually doesn’t affect the outcome, but it’s good to know for precision baking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use regular milk instead of buttermilk in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute regular milk for buttermilk by adding 1 tablespoon of lemon juice or vinegar per 250 ml of milk. Let it sit for 5-10 minutes to thicken. However, buttermilk’s acidity and texture often work better in air fryer recipes, especially for marinating or baking, so substitutions may alter the results slightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute regular milk for buttermilk by adding 1 tablespoon of lemon juice or vinegar per 250 ml of milk. Let it sit for 5-10 minutes to thicken. However, buttermilk’s acidity and texture often work better in air fryer recipes, especially for marinating or baking, so substitutions may alter the results slightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 835 ml of buttermilk without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring jug, use a kitchen scale: 835 ml of buttermilk weighs about 860 grams. Alternatively, a standard UK mug holds roughly 300 ml, so just under three mugs will give you approximately 835 ml. For accuracy, we recommend using proper measuring tools for best results in air fryer cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring jug, use a kitchen scale: 835 ml of buttermilk weighs about 860 grams. Alternatively, a standard UK mug holds roughly 300 ml, so just under three mugs will give you approximately 835 ml. For accuracy, we recommend using proper measuring tools for best results in air fryer cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What air fryer recipes commonly use 835 ml of buttermilk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "835 ml of buttermilk is often used for marinating whole chickens or large batches of chicken wings in the air fryer. It’s also common in baking recipes like air fryer pancakes or cakes, where the acidity helps with rising. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> for ideas tailored to this measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "835 ml of buttermilk is often used for marinating whole chickens or large batches of chicken wings in the air fryer. It’s also common in baking recipes like air fryer pancakes or cakes, where the acidity helps with rising. Check our <a href=https://www.airfryerrecipe.co.uk/recipes>recipes section</a> for ideas tailored to this measurement."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 835 ml of Buttermilk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 835 ml of Buttermilk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk",
     "description": "Learn how to convert 835 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 835 ml of Buttermilk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-835-ml-of-buttermilk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>835 ml of buttermilk is approximately 3.5 cups in the UK and 3.52 cups in the US. This conversion is essential for air fryer recipes where precise measurements can make or break your dish. Whether you’re whipping up pancakes, cakes, or marinades, knowing how to convert 835 ml of buttermilk to cups ensures consistency and delicious results every time.</p>

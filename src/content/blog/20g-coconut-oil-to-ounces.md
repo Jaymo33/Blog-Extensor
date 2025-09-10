@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces"
-        },
-        "headline": "Quick 20g coconut oil to ounces conversion for air fryer recipes",
-        "description": "Convert 20g of coconut oil to ounces in seconds for perfect air fryer cooking. Get accurate measurements and handy tips for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces"
+    },
+    "headline": "Quick 20g coconut oil to ounces conversion for air fryer recipes",
+    "description": "Convert 20g of coconut oil to ounces in seconds for perfect air fryer cooking. Get accurate measurements and handy tips for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-coconut-oil-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/20g-coconut-oil-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Why is 20g of coconut oil a common measurement in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "20g (0.71 ounces) of coconut oil is a popular measurement because it's typically enough to coat ingredients without making them greasy. Air fryers require less oil than traditional frying, and this amount provides perfect crispness for most single-serving recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "20g (0.71 ounces) of coconut oil is a popular measurement because it's typically enough to coat ingredients without making them greasy. Air fryers require less oil than traditional frying, and this amount provides perfect crispness for most single-serving recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use volume measurements instead of weight for coconut oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use tablespoons (about 1⅓ tbsp for 20g), weight measurements are more accurate. Coconut oil's density changes with temperature, so 20g (0.71 oz) by weight ensures consistency regardless of whether it's solid or melted."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use tablespoons (about 1⅓ tbsp for 20g), weight measurements are more accurate. Coconut oil's density changes with temperature, so 20g (0.71 oz) by weight ensures consistency regardless of whether it's solid or melted."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of coconut oil affect the 20g to ounce conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same whether using refined or unrefined coconut oil. 20g always equals 0.71 ounces. However, unrefined coconut oil may have a stronger flavour that affects your air fryer recipes differently."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same whether using refined or unrefined coconut oil. 20g always equals 0.71 ounces. However, unrefined coconut oil may have a stronger flavour that affects your air fryer recipes differently."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 20g of coconut oil if I don't have metric scales?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your scales only show ounces, look for 0.71 oz which equals 20g. Alternatively, use the displacement method: 20g of coconut oil will displace 20ml of water in a measuring jug, as its density is very close to 1g/ml."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your scales only show ounces, look for 0.71 oz which equals 20g. Alternatively, use the displacement method: 20g of coconut oil will displace 20ml of water in a measuring jug, as its density is very close to 1g/ml."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 20g of coconut oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 20g of coconut oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces",
     "description": "Convert 20g of coconut oil to ounces in seconds for perfect air fryer cooking. Get accurate measurements and handy tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 20g of coconut oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/20g-coconut-oil-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>20g of coconut oil equals approximately 0.71 ounces. This conversion is essential for air fryer cooking where precise measurements can make all the difference to your recipes. Whether you're making crispy roast potatoes or delicious air-fried chicken, knowing exactly how much coconut oil to use ensures perfect results every time.</p>

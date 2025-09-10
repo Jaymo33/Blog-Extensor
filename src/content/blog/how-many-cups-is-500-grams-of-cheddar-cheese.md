@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese"
-        },
-        "headline": "Quick Guide: Convert 500 Grams of Cheddar Cheese to Cups",
-        "description": "Learn how to convert 500 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese"
+    },
+    "headline": "Quick Guide: Convert 500 Grams of Cheddar Cheese to Cups",
+    "description": "Learn how to convert 500 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T08:17:57.857Z",
-        "dateModified": "2025-07-27T08:17:57.857Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-cheddar-cheese.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T08:17:57.857Z",
+    "dateModified": "2025-07-27T08:17:57.857Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-cheddar-cheese.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does 500 grams of cheddar cheese equal the same in cups for all types of cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, different cheeses have varying densities. Cheddar is denser than softer cheeses like mozzarella, so 500 grams may fill fewer cups if using a lighter cheese. Always check specific conversions for the cheese type you're using."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, different cheeses have varying densities. Cheddar is denser than softer cheeses like mozzarella, so 500 grams may fill fewer cups if using a lighter cheese. Always check specific conversions for the cheese type you're using."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use pre-shredded cheese for measuring 500 grams in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but pre-shredded cheese often contains anti-caking agents, which can slightly alter volume. For the most accurate measurement, weigh 500 grams first, then lightly fill your cups without packing too tightly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but pre-shredded cheese often contains anti-caking agents, which can slightly alter volume. For the most accurate measurement, weigh 500 grams first, then lightly fill your cups without packing too tightly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover cheddar cheese after measuring 500 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Wrap leftover cheddar cheese tightly in parchment paper or cling film and store it in the fridge. Proper storage keeps it fresh for up to two weeks, ready for your next air fryer recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wrap leftover cheddar cheese tightly in parchment paper or cling film and store it in the fridge. Proper storage keeps it fresh for up to two weeks, ready for your next air fryer recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe call for grams instead of cups for cheese?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide a more precise measurement, especially important in air fryer cooking where even heat distribution matters. Cups can vary based on how cheese is packed, but weight ensures consistency every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide a more precise measurement, especially important in air fryer cooking where even heat distribution matters. Cups can vary based on how cheese is packed, but weight ensures consistency every time."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 500 Grams of Cheddar Cheese?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 500 Grams of Cheddar Cheese?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese",
     "description": "Learn how to convert 500 grams of cheddar cheese to cups for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T08:17:57.857000+00:00",
     "dateModified": "2025-07-27T08:17:57.857000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 500 Grams of Cheddar Cheese?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-cheddar-cheese"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500 grams of cheddar cheese is roughly equivalent to 4.5 cups when grated, though this can vary slightly depending on how finely you shred it. If you're using an air fryer for cheesy dishes like nachos or stuffed peppers, getting the measurement right ensures even cooking and perfect texture. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we know precise measurements make all the difference in air fryer cooking.</p>  

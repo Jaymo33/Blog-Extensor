@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer"
-        },
-        "headline": "Reheat Mashed Potatoes in Air Fryer – Quick & Easy Guide",
-        "description": "Learn the best way to reheat mashed potatoes in an air fryer without drying them out. Perfect temperature, timing, and tips for creamy leftovers!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer"
+    },
+    "headline": "Reheat Mashed Potatoes in Air Fryer – Quick & Easy Guide",
+    "description": "Learn the best way to reheat mashed potatoes in an air fryer without drying them out. Perfect temperature, timing, and tips for creamy leftovers!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T18:39:33.442Z",
-        "dateModified": "2025-07-22T18:39:33.442Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-mashed-potatoes-in-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Reheat"
-        },
-        "articleSection": "Reheat",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T18:39:33.442Z",
+    "dateModified": "2025-07-22T18:39:33.442Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-mashed-potatoes-in-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Reheat"
+    },
+    "articleSection": "Reheat",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can you reheat mashed potatoes in an air fryer without drying them out?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Reheat at 160°C (320°F) for 3–5 minutes and stir in a splash of milk or butter beforehand. Covering with foil also helps retain moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Reheat at 160°C (320°F) for 3–5 minutes and stir in a splash of milk or butter beforehand. Covering with foil also helps retain moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does it take to reheat mashed potatoes in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Typically 3–5 minutes at 160°C, depending on portion size. Stir halfway and add extra time in 1-minute increments if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Typically 3–5 minutes at 160°C, depending on portion size. Stir halfway and add extra time in 1-minute increments if needed."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to reheat frozen mashed potatoes in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Thaw first if possible, or reheat from frozen at 160°C for 5–7 minutes, covered with foil. Break up ice crystals and stir occasionally."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thaw first if possible, or reheat from frozen at 160°C for 5–7 minutes, covered with foil. Break up ice crystals and stir occasionally."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I make crispy mashed potatoes in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Spread them thinly, spray with oil, and air fry at 180°C for 8–10 minutes for a golden crust. Perfect for potato cakes or toppings."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Spread them thinly, spray with oil, and air fry at 180°C for 8–10 minutes for a golden crust. Perfect for potato cakes or toppings."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How to Reheat Mashed Potatoes in an Air Fryer",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer",
+    "@type": "WebPage",
+    "name": "How to Reheat Mashed Potatoes in an Air Fryer",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer",
     "description": "Learn the best way to reheat mashed potatoes in an air fryer without drying them out. Perfect temperature, timing, and tips for creamy leftovers!",
     "inLanguage": "en",
     "datePublished": "2025-07-22T18:39:33.442000+00:00",
     "dateModified": "2025-07-22T18:39:33.442000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How to Reheat Mashed Potatoes in an Air Fryer",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mashed-potatoes-in-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Reheating mashed potatoes in an air fryer is simple: set it to 160°C (320°F) and warm them for 3–5 minutes. This method prevents drying while keeping the texture creamy. Whether you’re using leftovers straight from the fridge or frozen, your air fryer can revive mashed potatoes better than a microwave. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

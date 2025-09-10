@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk"
-        },
-        "headline": "Quick Answer: How Many Cups Is 960 ml of Evaporated Milk?",
-        "description": "Discover how to convert 960 ml of evaporated milk to cups for perfect baking and cooking every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk"
+    },
+    "headline": "Quick Answer: How Many Cups Is 960 ml of Evaporated Milk?",
+    "description": "Discover how to convert 960 ml of evaporated milk to cups for perfect baking and cooking every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-evaporated-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-960-ml-of-evaporated-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 960 ml of evaporated milk the same as regular milk in cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, evaporated milk is more concentrated than regular milk due to the removal of water. However, the volume measurement (960 ml) converts to the same number of cups as regular milk. In the US, 960 ml equals about 4.06 cups, while in the UK, it's 3.38 cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, evaporated milk is more concentrated than regular milk due to the removal of water. However, the volume measurement (960 ml) converts to the same number of cups as regular milk. In the US, 960 ml equals about 4.06 cups, while in the UK, it's 3.38 cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a measuring jug instead of cups for 960 ml of evaporated milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, a measuring jug with millilitre markings is the most accurate way to measure 960 ml of evaporated milk. If your recipe calls for cups, simply convert using the correct ratio (1 US cup = 240 ml, 1 UK cup = 284 ml)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, a measuring jug with millilitre markings is the most accurate way to measure 960 ml of evaporated milk. If your recipe calls for cups, simply convert using the correct ratio (1 US cup = 240 ml, 1 UK cup = 284 ml)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cup (US or UK) affect air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, using the wrong cup measurement can alter liquid ratios in your recipe, affecting cooking times and textures in the air fryer. Always check whether your recipe uses US or UK measurements and convert 960 ml of evaporated milk accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, using the wrong cup measurement can alter liquid ratios in your recipe, affecting cooking times and textures in the air fryer. Always check whether your recipe uses US or UK measurements and convert 960 ml of evaporated milk accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What if I only have a 250 ml measuring cup for 960 ml of evaporated milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If using a 250 ml cup, measure out 3 full cups (750 ml) and then add 210 ml (just under a cup) to reach 960 ml. For greater accuracy, use a jug with millilitre markings or a kitchen scale for precise measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If using a 250 ml cup, measure out 3 full cups (750 ml) and then add 210 ml (just under a cup) to reach 960 ml. For greater accuracy, use a jug with millilitre markings or a kitchen scale for precise measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 960 ml of Evaporated Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 960 ml of Evaporated Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk",
     "description": "Discover how to convert 960 ml of evaporated milk to cups for perfect baking and cooking every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 960 ml of Evaporated Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-960-ml-of-evaporated-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>960 ml of evaporated milk is equal to approximately 4.06 cups in the US and 3.38 cups in the UK. This conversion is essential for baking and cooking, especially when using an air fryer for recipes that call for precise measurements. Whether you're making a creamy dessert or a savoury dish, knowing how to convert 960 ml of evaporated milk to cups ensures accuracy.</p>  

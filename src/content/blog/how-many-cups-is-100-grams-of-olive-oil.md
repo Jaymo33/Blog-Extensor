@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil"
-        },
-        "headline": "Quick Guide: Convert 100 Grams of Olive Oil to Cups Easily",
-        "description": "Learn how to convert 100 grams of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 100 Grams of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 100 grams of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T20:38:06.270Z",
-        "dateModified": "2025-07-27T20:38:06.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T20:38:06.270Z",
+    "dateModified": "2025-07-27T20:38:06.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-100-grams-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100 grams of olive oil the same as 100ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 100 grams of olive oil is roughly 109ml due to its density (0.92 g/ml). Grams measure weight, while millilitres measure volume. For air frying, the slight difference usually doesn’t impact results, but for baking, use a scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 100 grams of olive oil is roughly 109ml due to its density (0.92 g/ml). Grams measure weight, while millilitres measure volume. For air frying, the slight difference usually doesn’t impact results, but for baking, use a scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a tablespoon to measure 100 grams of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! 100 grams equals about 7 tablespoons (1 tbsp ≈ 14.3g). However, tablespoons vary slightly by region, so for recipes like air-fried <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>desserts</a>, a scale is more reliable."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! 100 grams equals about 7 tablespoons (1 tbsp ≈ 14.3g). However, tablespoons vary slightly by region, so for recipes like air-fried <a href=https://www.airfryerrecipe.co.uk/recipe-category/dessert>desserts</a>, a scale is more reliable."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does extra virgin olive oil measure the same as regular olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, both types have similar densities, so 100 grams equals 0.44 cups regardless. Extra virgin oil may pour more slowly due to viscosity, but the volume remains consistent."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, both types have similar densities, so 100 grams equals 0.44 cups regardless. Extra virgin oil may pour more slowly due to viscosity, but the volume remains consistent."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I adjust oil when converting oven recipes to air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers need less oil—reduce 100 grams (0.44 cups) by 10–20% to prevent greasiness. For example, use 80 grams for crispy <a href=https://www.airfryerrecipe.co.uk/recipe-category/potatoes>potatoes</a>. Always pat excess oil off ingredients before cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers need less oil—reduce 100 grams (0.44 cups) by 10–20% to prevent greasiness. For example, use 80 grams for crispy <a href=https://www.airfryerrecipe.co.uk/recipe-category/potatoes>potatoes</a>. Always pat excess oil off ingredients before cooking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 100 Grams of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 100 Grams of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil",
     "description": "Learn how to convert 100 grams of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T20:38:06.270000+00:00",
     "dateModified": "2025-07-27T20:38:06.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 100 Grams of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-100-grams-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100 grams of olive oil is approximately 0.44 cups (just under half a cup). This conversion is essential for air fryer recipes, where precise measurements can make or break your dish. Whether you're drizzling oil over vegetables or using it in baking, knowing the exact cup equivalent ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on making conversions simple so you can cook with confidence.</p>

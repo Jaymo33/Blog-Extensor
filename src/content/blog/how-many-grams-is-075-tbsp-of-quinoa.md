@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa"
-        },
-        "headline": "Quick Answer: 0.75 tbsp quinoa to grams UK conversion",
-        "description": "Convert 0.75 tbsp of quinoa into grams with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa"
+    },
+    "headline": "Quick Answer: 0.75 tbsp quinoa to grams UK conversion",
+    "description": "Convert 0.75 tbsp of quinoa into grams with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-06T23:33:24.546Z",
-        "dateModified": "2025-08-06T23:33:24.546Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-075-tbsp-of-quinoa.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-06T23:33:24.546Z",
+    "dateModified": "2025-08-06T23:33:24.546Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-075-tbsp-of-quinoa.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.75 tbsp of quinoa in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 0.75 tbsp of quinoa (about 7 grams) works perfectly in air fryer recipes. It's an ideal amount for small portions or as an ingredient in stuffed vegetables or crusts. Just remember to adjust cooking times accordingly for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 0.75 tbsp of quinoa (about 7 grams) works perfectly in air fryer recipes. It's an ideal amount for small portions or as an ingredient in stuffed vegetables or crusts. Just remember to adjust cooking times accordingly for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 0.75 tbsp without a measuring spoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have measuring spoons, you can estimate 0.75 tbsp by filling a regular tablespoon about three-quarters full. For more accuracy, use a teaspoon - 0.75 tbsp equals 2 1/4 teaspoons. However, for air fryer recipes, we recommend using proper measuring tools or a scale."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have measuring spoons, you can estimate 0.75 tbsp by filling a regular tablespoon about three-quarters full. For more accuracy, use a teaspoon - 0.75 tbsp equals 2 1/4 teaspoons. However, for air fryer recipes, we recommend using proper measuring tools or a scale."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of quinoa affect the weight measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Different quinoa varieties (white, red, black) have slightly different weights per tablespoon due to grain size variations. However, the difference is minimal - about 0.75 tbsp will still be roughly 7 grams regardless of type. For air fryer cooking, this small variation won't significantly affect your results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Different quinoa varieties (white, red, black) have slightly different weights per tablespoon due to grain size variations. However, the difference is minimal - about 0.75 tbsp will still be roughly 7 grams regardless of type. For air fryer cooking, this small variation won't significantly affect your results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook 0.75 tbsp of quinoa directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can cook quinoa in the air fryer, such a small amount (0.75 tbsp) might be challenging to cook evenly. It's better to cook a larger batch and store the extra, or use pre-cooked quinoa in your air fryer recipes. For best results, combine with other ingredients rather than cooking alone."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can cook quinoa in the air fryer, such a small amount (0.75 tbsp) might be challenging to cook evenly. It's better to cook a larger batch and store the extra, or use pre-cooked quinoa in your air fryer recipes. For best results, combine with other ingredients rather than cooking alone."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.75 tbsp of quinoa?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa",
+    "@type": "WebPage",
+    "name": "How many grams is 0.75 tbsp of quinoa?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa",
     "description": "Convert 0.75 tbsp of quinoa into grams with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-06T23:33:24.546000+00:00",
     "dateModified": "2025-08-06T23:33:24.546000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.75 tbsp of quinoa?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-075-tbsp-of-quinoa"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.75 tbsp of quinoa weighs approximately 7 grams. This conversion is essential for precise cooking, especially when using an air fryer where measurements can affect texture and cooking times. Whether you're preparing a quinoa salad or adding it to an air fryer recipe, knowing the exact weight ensures perfect results every time.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark"
-        },
-        "headline": "473 F to Gas Mark Conversion Guide for Air Fryers",
-        "description": "Learn how to convert 473 F to Gas Mark for your air fryer or oven. Includes baking tips and temperature equivalents for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark"
+    },
+    "headline": "473 F to Gas Mark Conversion Guide for Air Fryers",
+    "description": "Learn how to convert 473 F to Gas Mark for your air fryer or oven. Includes baking tips and temperature equivalents for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T10:27:34.920Z",
-        "dateModified": "2025-07-21T10:27:34.920Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/473-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T10:27:34.920Z",
+    "dateModified": "2025-07-21T10:27:34.920Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/473-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 473 F in my air fryer if the recipe calls for Gas Mark 9?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 473 F is the exact equivalent of Gas Mark 9. Air fryers can safely reach and maintain this temperature, though cooking times may be shorter than conventional oven recipes suggest."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 473 F is the exact equivalent of Gas Mark 9. Air fryers can safely reach and maintain this temperature, though cooking times may be shorter than conventional oven recipes suggest."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 473 F (Gas Mark 9) in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "This high temperature works excellently for roasting vegetables, cooking frozen foods like chips or nuggets, and achieving crispy skins on meats. It's also great for initial searing before reducing heat for thorough cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This high temperature works excellently for roasting vegetables, cooking frozen foods like chips or nuggets, and achieving crispy skins on meats. It's also great for initial searing before reducing heat for thorough cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 473 F compare to other common air fryer temperatures?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "473 F (Gas Mark 9) is one of the highest settings, ideal for quick crisping. Most air fryer cooking occurs between 350-400 F, with 473 F reserved for specific browning or roasting needs."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "473 F (Gas Mark 9) is one of the highest settings, ideal for quick crisping. Most air fryer cooking occurs between 350-400 F, with 473 F reserved for specific browning or roasting needs."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Should I adjust cooking times when converting 473 F oven recipes to my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely. Reduce cooking times by about 20% when using 473 F in an air fryer compared to conventional oven recipes. Always check food a few minutes early as air fryers cook faster at high temperatures."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely. Reduce cooking times by about 20% when using 473 F in an air fryer compared to conventional oven recipes. Always check food a few minutes early as air fryers cook faster at high temperatures."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "473 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "473 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark",
     "description": "Learn how to convert 473 F to Gas Mark for your air fryer or oven. Includes baking tips and temperature equivalents for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T10:27:34.920000+00:00",
     "dateModified": "2025-07-21T10:27:34.920000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "473 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/473-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>473 F converts to Gas Mark 9 in UK ovens and air fryers. This high temperature is ideal for achieving crispy textures when roasting or baking in your air fryer. Whether you're cooking frozen foods or preparing fresh vegetables, knowing this conversion ensures perfect results every time.</p>

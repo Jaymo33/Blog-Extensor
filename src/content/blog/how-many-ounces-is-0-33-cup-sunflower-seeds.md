@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds"
-        },
-        "headline": "Quick Answer: 0.33 Cup Sunflower Seeds to Ounces UK",
-        "description": "Discover how many ounces are in 0.33 cup of sunflower seeds for perfect air fryer recipes. Get accurate UK conversions in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds"
+    },
+    "headline": "Quick Answer: 0.33 Cup Sunflower Seeds to Ounces UK",
+    "description": "Discover how many ounces are in 0.33 cup of sunflower seeds for perfect air fryer recipes. Get accurate UK conversions in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-sunflower-seeds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-33-cup-sunflower-seeds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 0.33 cup of sunflower seeds straight from the freezer in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but thaw them first for even toasting. Frozen sunflower seeds may release moisture, leading to steaming instead of crisping. Pat them dry with a towel before air frying to ensure a crunchy texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but thaw them first for even toasting. Frozen sunflower seeds may release moisture, leading to steaming instead of crisping. Pat them dry with a towel before air frying to ensure a crunchy texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do roasted sunflower seeds weigh the same as raw ones per 0.33 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Roasted seeds are slightly lighter due to moisture loss. If a recipe specifies raw seeds, stick to 1.6 oz (0.33 cup) raw weight. Adjust seasoning after roasting, as flavours concentrate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Roasted seeds are slightly lighter due to moisture loss. If a recipe specifies raw seeds, stick to 1.6 oz (0.33 cup) raw weight. Adjust seasoning after roasting, as flavours concentrate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long should I air fry 0.33 cup of sunflower seeds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Toast at 160°C for 5–7 minutes, shaking halfway. Watch closely—they burn easily. For recipes where seeds are mixed with other ingredients, follow the main dish’s cooking time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Toast at 160°C for 5–7 minutes, shaking halfway. Watch closely—they burn easily. For recipes where seeds are mixed with other ingredients, follow the main dish’s cooking time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Are sunflower seeds in 0.33 cup measurements the same for all air fryer models?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, weight (ounces) is consistent, but basket sizes vary. In compact air fryers, split 0.33 cup into batches to avoid overcrowding. Check our <a href=https://www.airfryerrecipe.co.uk/fit-guide>fit guide</a> for model-specific tips."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, weight (ounces) is consistent, but basket sizes vary. In compact air fryers, split 0.33 cup into batches to avoid overcrowding. Check our <a href=https://www.airfryerrecipe.co.uk/fit-guide>fit guide</a> for model-specific tips."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.33 cup of sunflower seeds?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.33 cup of sunflower seeds?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds",
     "description": "Discover how many ounces are in 0.33 cup of sunflower seeds for perfect air fryer recipes. Get accurate UK conversions in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.33 cup of sunflower seeds?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-33-cup-sunflower-seeds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.33 cup of sunflower seeds equals approximately 1.6 ounces (oz) in UK measurements. This conversion is essential for precise cooking, especially when using an air fryer where ingredient ratios can affect texture and crispiness. Whether you’re making a crunchy topping or a healthy snack, knowing the exact weight ensures consistent results every time.</p>  

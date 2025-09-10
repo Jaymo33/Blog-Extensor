@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil"
-        },
-        "headline": "Quick Guide: Convert 410 ml of Olive Oil to Cups Easily",
-        "description": "Learn how to convert 410 ml of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil"
+    },
+    "headline": "Quick Guide: Convert 410 ml of Olive Oil to Cups Easily",
+    "description": "Learn how to convert 410 ml of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-410-ml-of-olive-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-410-ml-of-olive-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 410 ml of olive oil the same as 410 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 410 ml of olive oil is not the same as 410 grams. Olive oil has a density of about 0.92 g/ml, so 410 ml equals roughly 378 grams. Always check whether your recipe uses volume (ml/cups) or weight (grams) for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 410 ml of olive oil is not the same as 410 grams. Olive oil has a density of about 0.92 g/ml, so 410 ml equals roughly 378 grams. Always check whether your recipe uses volume (ml/cups) or weight (grams) for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 410 ml of olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but ensure it’s a standard measuring cup, not a drinking cup. A US cup holds 240 ml, so 410 ml is about 1.73 cups. For UK recipes, a metric cup (250 ml) makes 410 ml roughly 1.64 cups."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but ensure it’s a standard measuring cup, not a drinking cup. A US cup holds 240 ml, so 410 ml is about 1.73 cups. For UK recipes, a metric cup (250 ml) makes 410 ml roughly 1.64 cups."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How much olive oil should I use in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers need minimal oil—usually 1-2 tablespoons per serving. For 410 ml (1.73 cups), you’d typically use it across multiple batches or recipes. Over-oiling can cause smoke or uneven cooking, so measure carefully."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers need minimal oil—usually 1-2 tablespoons per serving. For 410 ml (1.73 cups), you’d typically use it across multiple batches or recipes. Over-oiling can cause smoke or uneven cooking, so measure carefully."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK and US cup measurements differ for olive oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "The US uses a customary cup (240 ml), while the UK uses a metric cup (250 ml). This means 410 ml converts to 1.73 US cups or 1.64 UK cups. Always check which system your recipe follows to avoid errors."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The US uses a customary cup (240 ml), while the UK uses a metric cup (250 ml). This means 410 ml converts to 1.73 US cups or 1.64 UK cups. Always check which system your recipe follows to avoid errors."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 410 ml of Olive Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 410 ml of Olive Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil",
     "description": "Learn how to convert 410 ml of olive oil to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 410 ml of Olive Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-410-ml-of-olive-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>410 ml of olive oil is approximately 1.73 cups. This conversion is essential for air fryer recipes, where precise measurements ensure perfect results. Whether you're frying, baking, or drizzling, knowing how to convert millilitres to cups can make all the difference. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify cooking conversions so you can focus on creating delicious meals.</p>  

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar"
-        },
-        "headline": "Quick Answer: How many grams is 5 tbsp of brown sugar?",
-        "description": "Find out exactly how many grams are in 5 tbsp of brown sugar for perfect air fryer recipes every time. No more guesswork!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar"
+    },
+    "headline": "Quick Answer: How many grams is 5 tbsp of brown sugar?",
+    "description": "Find out exactly how many grams are in 5 tbsp of brown sugar for perfect air fryer recipes every time. No more guesswork!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-03T23:25:27.803Z",
-        "dateModified": "2025-08-03T23:25:27.803Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-brown-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-03T23:25:27.803Z",
+    "dateModified": "2025-08-03T23:25:27.803Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-of-brown-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does packed vs loose brown sugar affect the weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, packing makes a significant difference. Packed brown sugar weighs about 12.5g per tablespoon, while loosely packed can be as light as 8g per tablespoon. Always pack brown sugar firmly for consistent results in recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, packing makes a significant difference. Packed brown sugar weighs about 12.5g per tablespoon, while loosely packed can be as light as 8g per tablespoon. Always pack brown sugar firmly for consistent results in recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use white sugar instead of brown sugar in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute white sugar, but the results will differ. Brown sugar contains molasses which adds moisture and flavor. For every 5 tbsp (62.5g) brown sugar, use 5 tbsp (60g) white sugar plus 1 tsp molasses for similar results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute white sugar, but the results will differ. Brown sugar contains molasses which adds moisture and flavor. For every 5 tbsp (62.5g) brown sugar, use 5 tbsp (60g) white sugar plus 1 tsp molasses for similar results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air fryer cookies spread too much when using brown sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Brown sugar's higher moisture content can cause spreading. Try reducing liquid elsewhere in the recipe or chilling the dough before cooking. Also ensure your measurements are accurate - too much sugar will affect texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brown sugar's higher moisture content can cause spreading. Try reducing liquid elsewhere in the recipe or chilling the dough before cooking. Also ensure your measurements are accurate - too much sugar will affect texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store brown sugar to keep it fresh for air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store brown sugar in an airtight container in a cool, dry place. For long-term storage, add a terra cotta brown sugar saver or slice of bread to prevent hardening. Proper storage ensures consistent weight measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store brown sugar in an airtight container in a cool, dry place. For long-term storage, add a terra cotta brown sugar saver or slice of bread to prevent hardening. Proper storage ensures consistent weight measurements."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 5 tbsp of brown sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of brown sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar",
     "description": "Find out exactly how many grams are in 5 tbsp of brown sugar for perfect air fryer recipes every time. No more guesswork!",
     "inLanguage": "en",
     "datePublished": "2025-08-03T23:25:27.803000+00:00",
     "dateModified": "2025-08-03T23:25:27.803000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 5 tbsp of brown sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-of-brown-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 tablespoons of brown sugar weigh approximately 62.5 grams. This conversion is essential for air fryer recipes where precision ensures perfect results. Whether you're making cookies, cakes, or glazes, knowing the exact weight helps avoid kitchen mishaps.</p>

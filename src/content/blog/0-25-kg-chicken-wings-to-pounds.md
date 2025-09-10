@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds"
-        },
-        "headline": "Easy 0.25 kg chicken wings to pounds conversion guide",
-        "description": "Convert 0.25 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and tips for crispy wings every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds"
+    },
+    "headline": "Easy 0.25 kg chicken wings to pounds conversion guide",
+    "description": "Convert 0.25 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and tips for crispy wings every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-22T20:06:59.565Z",
-        "dateModified": "2025-08-22T20:06:59.565Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-chicken-wings-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Conversion"
-        },
-        "articleSection": "Conversion",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-22T20:06:59.565Z",
+    "dateModified": "2025-08-22T20:06:59.565Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-chicken-wings-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Conversion"
+    },
+    "articleSection": "Conversion",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How many pounds is 0.25 kg of chicken wings?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.25 kg of chicken wings is approximately 0.55 pounds. This conversion uses the standard rate where 1 kilogram equals 2.20462 pounds. For most cooking purposes, rounding to 0.55 pounds is perfectly fine and makes portioning easier. It’s a useful figure to know for air fryer recipes that specify weights in pounds."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.25 kg of chicken wings is approximately 0.55 pounds. This conversion uses the standard rate where 1 kilogram equals 2.20462 pounds. For most cooking purposes, rounding to 0.55 pounds is perfectly fine and makes portioning easier. It’s a useful figure to know for air fryer recipes that specify weights in pounds."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do I need to convert kg to pounds for air fryer cooking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Converting kilograms to pounds for air fryer cooking ensures you use the correct quantity for your appliance’s capacity and the recipe’s requirements. Overloading the basket leads to uneven cooking, while too little food can overcook or dry out. Many air fryer manuals and recipes use imperial measurements, so converting helps you follow instructions accurately. It also makes shopping and meal planning simpler when dealing with different labelling systems."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Converting kilograms to pounds for air fryer cooking ensures you use the correct quantity for your appliance’s capacity and the recipe’s requirements. Overloading the basket leads to uneven cooking, while too little food can overcook or dry out. Many air fryer manuals and recipes use imperial measurements, so converting helps you follow instructions accurately. It also makes shopping and meal planning simpler when dealing with different labelling systems."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a kitchen scale to switch between kg and pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, most digital kitchen scales allow you to toggle between metric (kg/g) and imperial (lb/oz) units. This feature is incredibly handy for air fryer users who frequently work with recipes from various sources. Simply place your chicken wings on the scale and press the unit button until it displays your preferred measurement. It eliminates manual calculation errors and saves time. Investing in a good scale makes conversions like 0.25 kg to pounds effortless."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, most digital kitchen scales allow you to toggle between metric (kg/g) and imperial (lb/oz) units. This feature is incredibly handy for air fryer users who frequently work with recipes from various sources. Simply place your chicken wings on the scale and press the unit button until it displays your preferred measurement. It eliminates manual calculation errors and saves time. Investing in a good scale makes conversions like 0.25 kg to pounds effortless."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 0.25 kg chicken wings to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 0.25 kg chicken wings to pounds and ounces, first convert to pounds (0.55 lbs). Then, multiply the decimal part (0.55) by 16 to get ounces—0.55 x 16 = 8.8 ounces. So, 0.25 kg is roughly 0 pounds and 8.8 ounces. For practical purposes, you might round to 9 ounces. This level of precision is helpful for very detailed recipes or dietary tracking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 0.25 kg chicken wings to pounds and ounces, first convert to pounds (0.55 lbs). Then, multiply the decimal part (0.55) by 16 to get ounces—0.55 x 16 = 8.8 ounces. So, 0.25 kg is roughly 0 pounds and 8.8 ounces. For practical purposes, you might round to 9 ounces. This level of precision is helpful for very detailed recipes or dietary tracking."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "0.25 kg chicken wings to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds",
+    "@type": "WebPage",
+    "name": "0.25 kg chicken wings to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds",
     "description": "Convert 0.25 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and tips for crispy wings every time.",
     "inLanguage": "en",
     "datePublished": "2025-08-22T20:06:59.565000+00:00",
     "dateModified": "2025-08-22T20:06:59.565000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "0.25 kg chicken wings to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 kg chicken wings equals approximately 0.55 pounds. This conversion is essential for anyone using an air fryer, as many recipes and packaging labels use different measurement systems. Knowing exactly how much you're cooking helps ensure even cooking and perfect results every time. Whether you're following a British recipe or an American one, getting the weight right is the first step to delicious chicken wings. For more handy conversion tips, check out the full <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> on our site.</p>

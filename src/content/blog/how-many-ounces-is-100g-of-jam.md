@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam"
-        },
-        "headline": "Quick Answer: How many ounces is 100g of jam? UK Guide",
-        "description": "Discover how to convert 100g of jam to ounces with our easy UK guide. Perfect for air fryer recipes and precise baking measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam"
+    },
+    "headline": "Quick Answer: How many ounces is 100g of jam? UK Guide",
+    "description": "Discover how to convert 100g of jam to ounces with our easy UK guide. Perfect for air fryer recipes and precise baking measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-jam.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-jam.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 100g of jam the same as 100ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 100g of jam is not the same as 100ml. Grams measure weight, while millilitres measure volume. Depending on the jam's density, 100g could be slightly more or less than 100ml. For accuracy, always weigh jam when a recipe specifies grams."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 100g of jam is not the same as 100ml. Grams measure weight, while millilitres measure volume. Depending on the jam's density, 100g could be slightly more or less than 100ml. For accuracy, always weigh jam when a recipe specifies grams."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a US measuring cup for 100g of jam?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use a US measuring cup, it's less precise for jam because of its sticky texture. 100g of jam is roughly 1/3 cup, but weighing it with a scale is more reliable. This ensures your air fryer recipes turn out perfectly every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use a US measuring cup, it's less precise for jam because of its sticky texture. 100g of jam is roughly 1/3 cup, but weighing it with a scale is more reliable. This ensures your air fryer recipes turn out perfectly every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ounces instead of grams for jam?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Ounces are more common in older UK recipes or those from the US, where imperial measurements are standard. Grams are the metric standard in modern UK cooking. Converting 100g of jam to ounces (3.53 oz) helps bridge this gap for consistency."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ounces are more common in older UK recipes or those from the US, where imperial measurements are standard. Grams are the metric standard in modern UK cooking. Converting 100g of jam to ounces (3.53 oz) helps bridge this gap for consistency."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long does 100g of jam last in the fridge once opened?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Once opened, 100g of jam will last about 1-2 months in the fridge if stored properly in an airtight container. Always check for mould or off smells before using it in air fryer recipes. For more tips, visit our storage guides on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Once opened, 100g of jam will last about 1-2 months in the fridge if stored properly in an airtight container. Always check for mould or off smells before using it in air fryer recipes. For more tips, visit our storage guides on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 100g of jam?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam",
+    "@type": "WebPage",
+    "name": "How many ounces is 100g of jam?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam",
     "description": "Discover how to convert 100g of jam to ounces with our easy UK guide. Perfect for air fryer recipes and precise baking measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 100g of jam?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-jam"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>100g of jam is approximately 3.53 ounces. This conversion is essential for precise baking and air fryer recipes, especially when following UK measurements. Whether you're making a jam-filled pastry or glazing a cake, knowing this conversion ensures accuracy. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on helping you get measurements right for perfect results every time.</p>

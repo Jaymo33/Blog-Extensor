@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk"
-        },
-        "headline": "Quick Guide: Convert 310 ml of Coconut Milk to Cups Easily",
-        "description": "Learn how to convert 310 ml of coconut milk to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk"
+    },
+    "headline": "Quick Guide: Convert 310 ml of Coconut Milk to Cups Easily",
+    "description": "Learn how to convert 310 ml of coconut milk to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-coconut-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-310-ml-of-coconut-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 310 ml of coconut milk the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 310 ml of coconut milk is not the same as 1 cup. In the UK, 1 cup equals 284 ml, so 310 ml is roughly 1.31 cups. In the US, 1 cup is 240 ml, making 310 ml approximately 1.25 cups. Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 310 ml of coconut milk is not the same as 1 cup. In the UK, 1 cup equals 284 ml, so 310 ml is roughly 1.31 cups. In the US, 1 cup is 240 ml, making 310 ml approximately 1.25 cups. Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use coconut cream instead of coconut milk for 310 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but you'll need to dilute coconut cream with water to match the consistency of coconut milk. For 310 ml of coconut milk, mix 155 ml of coconut cream with 155 ml of water. Adjust to taste, as coconut cream is richer and thicker."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but you'll need to dilute coconut cream with water to match the consistency of coconut milk. For 310 ml of coconut milk, mix 155 ml of coconut cream with 155 ml of water. Adjust to taste, as coconut cream is richer and thicker."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 310 ml of coconut milk without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can use tablespoons or a standard cup. One tablespoon holds about 15 ml, so 20 tablespoons equal 310 ml. Alternatively, 1 UK cup (284 ml) plus 2 tablespoons (30 ml) gives you roughly 310 ml. A US cup (240 ml) plus 4.5 tablespoons (70 ml) also works."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can use tablespoons or a standard cup. One tablespoon holds about 15 ml, so 20 tablespoons equal 310 ml. Alternatively, 1 UK cup (284 ml) plus 2 tablespoons (30 ml) gives you roughly 310 ml. A US cup (240 ml) plus 4.5 tablespoons (70 ml) also works."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of coconut milk affect the conversion to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the conversion remains the same whether you use tinned, carton, or fresh coconut milk. However, thicker coconut milk (like tinned) may settle, so always stir well before measuring. For recipes, consistency matters more than the type, so adjust liquids if needed."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the conversion remains the same whether you use tinned, carton, or fresh coconut milk. However, thicker coconut milk (like tinned) may settle, so always stir well before measuring. For recipes, consistency matters more than the type, so adjust liquids if needed."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 310 ml of Coconut Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 310 ml of Coconut Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk",
     "description": "Learn how to convert 310 ml of coconut milk to cups for perfect air fryer recipes every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 310 ml of Coconut Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-310-ml-of-coconut-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>310 ml of coconut milk is roughly 1.31 cups in the UK or 1.25 cups in the US. This conversion is essential for air fryer recipes, baking, or cooking where precision matters. Whether you're whipping up a curry, baking a cake, or making a creamy sauce, knowing how to measure coconut milk correctly ensures perfect results every time.</p>

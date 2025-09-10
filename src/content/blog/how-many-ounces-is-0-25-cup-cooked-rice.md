@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice"
-        },
-        "headline": "Quick Answer: How many ounces in 0.25 cup cooked rice?",
-        "description": "Find out exactly how many ounces are in 0.25 cup of cooked rice with our simple conversion guide – perfect for air fryer meal prep!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice"
+    },
+    "headline": "Quick Answer: How many ounces in 0.25 cup cooked rice?",
+    "description": "Find out exactly how many ounces are in 0.25 cup of cooked rice with our simple conversion guide – perfect for air fryer meal prep!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-11T22:11:18.984Z",
-        "dateModified": "2025-08-11T22:11:18.984Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-cooked-rice.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-11T22:11:18.984Z",
+    "dateModified": "2025-08-11T22:11:18.984Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-cooked-rice.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of rice affect how many ounces are in 0.25 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While most cooked rice varieties weigh approximately 2 ounces per 0.25 cup, there can be slight variations. Brown rice tends to be denser and may weigh slightly more, while jasmine or basmati might be a bit lighter due to their fluffier texture when cooked."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While most cooked rice varieties weigh approximately 2 ounces per 0.25 cup, there can be slight variations. Brown rice tends to be denser and may weigh slightly more, while jasmine or basmati might be a bit lighter due to their fluffier texture when cooked."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this 0.25 cup to ounce conversion for uncooked rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, this conversion only applies to cooked rice. Uncooked rice weighs significantly less per cup since it hasn't absorbed water yet. For uncooked rice, 0.25 cup is about 1.5 ounces, but it will expand to approximately 2 ounces when cooked."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, this conversion only applies to cooked rice. Uncooked rice weighs significantly less per cup since it hasn't absorbed water yet. For uncooked rice, 0.25 cup is about 1.5 ounces, but it will expand to approximately 2 ounces when cooked."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 0.25 cup (2 ounces) of cooked rice?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 0.25 cup portion of cooked white rice contains about 75-100 calories, depending on the variety. Brown rice at this weight might have slightly more nutrients and fibre but similar calorie content. This makes it easy to track portions for air fryer meals."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 0.25 cup portion of cooked white rice contains about 75-100 calories, depending on the variety. Brown rice at this weight might have slightly more nutrients and fibre but similar calorie content. This makes it easy to track portions for air fryer meals."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 0.25 cup of cooked rice enough for one serving?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A 0.25 cup (2 ounce) portion of cooked rice works well as part of a balanced meal when combined with protein and vegetables in your air fryer. For heartier appetites or main dishes, you might want to increase to 0.5 cup (4 ounces) of cooked rice per serving."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A 0.25 cup (2 ounce) portion of cooked rice works well as part of a balanced meal when combined with protein and vegetables in your air fryer. For heartier appetites or main dishes, you might want to increase to 0.5 cup (4 ounces) of cooked rice per serving."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of cooked rice?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of cooked rice?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice",
     "description": "Find out exactly how many ounces are in 0.25 cup of cooked rice with our simple conversion guide – perfect for air fryer meal prep!",
     "inLanguage": "en",
     "datePublished": "2025-08-11T22:11:18.984000+00:00",
     "dateModified": "2025-08-11T22:11:18.984000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of cooked rice?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-cooked-rice"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of cooked rice weighs approximately 2 ounces (56.7 grams). This measurement is handy when portioning rice for air fryer recipes or meal prep, ensuring consistent results every time. Whether you're cooking for one or scaling up a dish, knowing this conversion helps maintain perfect texture and flavour.</p>

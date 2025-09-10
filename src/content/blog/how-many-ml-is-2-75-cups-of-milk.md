@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk"
-        },
-        "headline": "Quick Answer: How Many ml Is 2.75 Cups of Milk?",
-        "description": "Convert 2.75 cups of milk to ml effortlessly for precise cooking and baking. Get accurate measurements every time with our simple guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk"
+    },
+    "headline": "Quick Answer: How Many ml Is 2.75 Cups of Milk?",
+    "description": "Convert 2.75 cups of milk to ml effortlessly for precise cooking and baking. Get accurate measurements every time with our simple guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T08:54:42.617Z",
-        "dateModified": "2025-07-30T08:54:42.617Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-milk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T08:54:42.617Z",
+    "dateModified": "2025-07-30T08:54:42.617Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-75-cups-of-milk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2.75 cups of milk the same in the UK and USA?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 2.75 cups of milk is the same volume in both the UK and USA. However, cup sizes can vary slightly in other countries, so it’s best to use a standard measuring cup for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 2.75 cups of milk is the same volume in both the UK and USA. However, cup sizes can vary slightly in other countries, so it’s best to use a standard measuring cup for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use plant-based milk instead of regular milk in this conversion?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! The conversion of 2.75 cups of milk to 650 ml applies to any liquid milk, including almond, soy, or oat milk. The density may vary slightly, but the volume measurement remains the same."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! The conversion of 2.75 cups of milk to 650 ml applies to any liquid milk, including almond, soy, or oat milk. The density may vary slightly, but the volume measurement remains the same."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 2.75 cups of milk without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, you can use a kitchen scale. Since 1 ml of milk weighs roughly 1 gram, 650 ml would be about 650 grams. Alternatively, use a standard mug (about 240 ml) and adjust accordingly."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, you can use a kitchen scale. Since 1 ml of milk weighs roughly 1 gram, 650 ml would be about 650 grams. Alternatively, use a standard mug (about 240 ml) and adjust accordingly."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why is my air fryer recipe not turning out with 2.75 cups of milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your recipe isn’t working, double-check your measurements. Ensure you’ve converted 2.75 cups of milk to 650 ml accurately. Also, consider factors like air fryer temperature and cooking time, which can affect results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your recipe isn’t working, double-check your measurements. Ensure you’ve converted 2.75 cups of milk to 650 ml accurately. Also, consider factors like air fryer temperature and cooking time, which can affect results."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 2.75 Cups of Milk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk",
+    "@type": "WebPage",
+    "name": "How Many ml Is 2.75 Cups of Milk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk",
     "description": "Convert 2.75 cups of milk to ml effortlessly for precise cooking and baking. Get accurate measurements every time with our simple guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T08:54:42.617000+00:00",
     "dateModified": "2025-07-30T08:54:42.617000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 2.75 Cups of Milk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-75-cups-of-milk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2.75 cups of milk is equivalent to approximately 650 ml. This conversion is essential for precise cooking and baking, especially when using an air fryer where measurements matter. Whether you’re whipping up a creamy sauce or baking a cake, knowing how many ml is 2.75 cups of milk ensures consistency. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail every recipe with accurate conversions.</p>  

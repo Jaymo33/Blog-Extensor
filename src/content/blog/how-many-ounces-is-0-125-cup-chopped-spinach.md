@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach"
-        },
-        "headline": "Quick Guide: Convert 0.125 Cup Chopped Spinach to Ounces",
-        "description": "Learn how to convert 0.125 cup of chopped spinach to ounces for perfect air fryer recipes. Get accurate measurements every time!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach"
+    },
+    "headline": "Quick Guide: Convert 0.125 Cup Chopped Spinach to Ounces",
+    "description": "Learn how to convert 0.125 cup of chopped spinach to ounces for perfect air fryer recipes. Get accurate measurements every time!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-12T23:23:28.664Z",
-        "dateModified": "2025-08-12T23:23:28.664Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-chopped-spinach.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-12T23:23:28.664Z",
+    "dateModified": "2025-08-12T23:23:28.664Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-125-cup-chopped-spinach.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen spinach instead of fresh for the 0.125 cup measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use frozen chopped spinach, but there are important differences. Frozen spinach is more compact and contains more water than fresh. For 0.125 cup of fresh chopped spinach (about 0.4 ounces), you'll need slightly less frozen spinach after thawing and draining. Always squeeze out excess liquid from frozen spinach to prevent soggy results in your air fryer dishes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use frozen chopped spinach, but there are important differences. Frozen spinach is more compact and contains more water than fresh. For 0.125 cup of fresh chopped spinach (about 0.4 ounces), you'll need slightly less frozen spinach after thawing and draining. Always squeeze out excess liquid from frozen spinach to prevent soggy results in your air fryer dishes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does 0.125 cup of chopped spinach compare to whole leaves?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "0.125 cup of chopped spinach is roughly equivalent to about 3-4 medium whole spinach leaves, depending on their size. Chopped spinach packs more tightly into a measuring cup, so you get more spinach by volume compared to whole leaves. For air fryer recipes, chopped spinach often works better as it distributes more evenly and cooks faster."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.125 cup of chopped spinach is roughly equivalent to about 3-4 medium whole spinach leaves, depending on their size. Chopped spinach packs more tightly into a measuring cup, so you get more spinach by volume compared to whole leaves. For air fryer recipes, chopped spinach often works better as it distributes more evenly and cooks faster."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is the 0.125 cup to ounce conversion different for baby spinach?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Baby spinach is slightly more tender and less dense than mature spinach, but the difference in weight is minimal. 0.125 cup of chopped baby spinach still weighs about 0.4 ounces. The main difference is in texture and cooking time - baby spinach wilts faster in the air fryer, so you might reduce cooking time slightly when substituting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Baby spinach is slightly more tender and less dense than mature spinach, but the difference in weight is minimal. 0.125 cup of chopped baby spinach still weighs about 0.4 ounces. The main difference is in texture and cooking time - baby spinach wilts faster in the air fryer, so you might reduce cooking time slightly when substituting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How can I accurately measure 0.125 cup of chopped spinach without special tools?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a 1/8 cup measure, you can use two tablespoons (as 2 tbsp = 0.125 cup). Gently chop the spinach and lightly pack it into the measuring spoon without compressing too much. For even more accuracy, consider investing in a small kitchen scale - weighing 0.4 ounces eliminates any measuring guesswork for your air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a 1/8 cup measure, you can use two tablespoons (as 2 tbsp = 0.125 cup). Gently chop the spinach and lightly pack it into the measuring spoon without compressing too much. For even more accuracy, consider investing in a small kitchen scale - weighing 0.4 ounces eliminates any measuring guesswork for your air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.125 cup of chopped spinach?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.125 cup of chopped spinach?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach",
     "description": "Learn how to convert 0.125 cup of chopped spinach to ounces for perfect air fryer recipes. Get accurate measurements every time!",
     "inLanguage": "en",
     "datePublished": "2025-08-12T23:23:28.664000+00:00",
     "dateModified": "2025-08-12T23:23:28.664000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.125 cup of chopped spinach?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-125-cup-chopped-spinach"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.125 cup of chopped spinach equals approximately 0.4 ounces (or roughly 10 grams). This measurement is handy when preparing air fryer recipes that require precise amounts of spinach, such as omelettes, stuffed mushrooms, or healthy side dishes. Getting the right quantity ensures your dish turns out perfectly every time.</p>

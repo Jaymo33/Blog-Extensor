@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil"
-        },
-        "headline": "Quick Guide: Convert 610 ml of Coconut Oil to Cups Easily",
-        "description": "Learn how to convert 610 ml of coconut oil to cups for perfect baking and air frying every time. Get precise measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil"
+    },
+    "headline": "Quick Guide: Convert 610 ml of Coconut Oil to Cups Easily",
+    "description": "Learn how to convert 610 ml of coconut oil to cups for perfect baking and air frying every time. Get precise measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-610-ml-of-coconut-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-610-ml-of-coconut-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 610 ml of coconut oil the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 610 ml of coconut oil equals roughly 2.57 cups in both US and UK measurements. While UK cups are slightly larger (284 ml vs. 240 ml), most recipes standardise to the US cup for simplicity. Always check your recipe’s origin to be sure."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 610 ml of coconut oil equals roughly 2.57 cups in both US and UK measurements. While UK cups are slightly larger (284 ml vs. 240 ml), most recipes standardise to the US cup for simplicity. Always check your recipe’s origin to be sure."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 610 ml of coconut oil for air frying chicken?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Coconut oil works well for air frying chicken, giving it a crispy, golden finish. Use about 1-2 tablespoons per batch to avoid excess oil. For more ideas, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Coconut oil works well for air frying chicken, giving it a crispy, golden finish. Use about 1-2 tablespoons per batch to avoid excess oil. For more ideas, explore our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a>."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store leftover coconut oil after measuring 610 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store coconut oil in an airtight container away from heat and sunlight. It solidifies below 24°C but remains usable. For long-term storage, keep it in a cool pantry or fridge."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store coconut oil in an airtight container away from heat and sunlight. It solidifies below 24°C but remains usable. For long-term storage, keep it in a cool pantry or fridge."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the best way to clean coconut oil from my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use warm, soapy water or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> to remove coconut oil residue. Avoid harsh scrubs to protect non-stick coatings. Regular cleaning ensures optimal performance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use warm, soapy water or our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> to remove coconut oil residue. Avoid harsh scrubs to protect non-stick coatings. Regular cleaning ensures optimal performance."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 610 ml of Coconut Oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 610 ml of Coconut Oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil",
     "description": "Learn how to convert 610 ml of coconut oil to cups for perfect baking and air frying every time. Get precise measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 610 ml of Coconut Oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-610-ml-of-coconut-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>610 ml of coconut oil is approximately 2.57 cups. Whether you're baking or using your air fryer, precise measurements ensure the best results. Coconut oil is a staple in many recipes, from crispy roasted vegetables to moist cakes. Knowing how to convert millilitres to cups can save time and avoid kitchen mishaps. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we make conversions simple so you can focus on cooking.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar"
-        },
-        "headline": "Quick Answer: How Many Cups Is 300 Grams of Icing Sugar?",
-        "description": "Discover how to convert 300 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar"
+    },
+    "headline": "Quick Answer: How Many Cups Is 300 Grams of Icing Sugar?",
+    "description": "Discover how to convert 300 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-icing-sugar.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-300-grams-of-icing-sugar.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 300 grams of icing sugar the same in UK and US cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, there's a slight difference. In the UK, 300 grams of icing sugar equals about 2.4 cups, while in the US, it's approximately 2.5 cups. This is because UK and US cup sizes vary slightly (250ml vs. 240ml). Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, there's a slight difference. In the UK, 300 grams of icing sugar equals about 2.4 cups, while in the US, it's approximately 2.5 cups. This is because UK and US cup sizes vary slightly (250ml vs. 240ml). Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular cup to measure 300 grams of icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While you can use a standard measuring cup, a kitchen scale is more accurate for weighing 300 grams of icing sugar. If using a cup, spoon the sugar in and level it off without packing it down. Over-packing can lead to incorrect measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While you can use a standard measuring cup, a kitchen scale is more accurate for weighing 300 grams of icing sugar. If using a cup, spoon the sugar in and level it off without packing it down. Over-packing can lead to incorrect measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What recipes commonly use 300 grams of icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "300 grams of icing sugar is often used in frosting, glazes, or dusting desserts like cakes and cookies. It's a key ingredient in buttercream, royal icing, and many air fryer dessert recipes. Check <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for inspiration."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "300 grams of icing sugar is often used in frosting, glazes, or dusting desserts like cakes and cookies. It's a key ingredient in buttercream, royal icing, and many air fryer dessert recipes. Check <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> for inspiration."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I prevent clumping when measuring icing sugar?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store icing sugar in an airtight container to avoid moisture exposure. If it clumps, sift it before measuring. This ensures smooth, even results in your baking. Proper storage keeps your sugar fresh and easy to work with."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store icing sugar in an airtight container to avoid moisture exposure. If it clumps, sift it before measuring. This ensures smooth, even results in your baking. Proper storage keeps your sugar fresh and easy to work with."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 300 Grams of Icing Sugar?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 300 Grams of Icing Sugar?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar",
     "description": "Discover how to convert 300 grams of icing sugar to cups for perfect baking results every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 300 Grams of Icing Sugar?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-300-grams-of-icing-sugar"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>300 grams of icing sugar is approximately 2.4 cups in the UK and 2.5 cups in the US. This conversion is essential for baking, especially when using an air fryer for desserts like cakes or cookies. Getting the measurement right ensures your recipes turn out perfectly every time.</p>  

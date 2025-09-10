@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast"
-        },
-        "headline": "Quick Guide: Convert 425 Grams of Chicken Breast to Cups Easily",
-        "description": "Learn how to convert 425 grams of chicken breast to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast"
+    },
+    "headline": "Quick Guide: Convert 425 Grams of Chicken Breast to Cups Easily",
+    "description": "Learn how to convert 425 grams of chicken breast to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-26T21:34:06.484Z",
-        "dateModified": "2025-07-26T21:34:06.484Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-425-grams-of-chicken-breast.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-26T21:34:06.484Z",
+    "dateModified": "2025-07-26T21:34:06.484Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-425-grams-of-chicken-breast.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use frozen chicken breast for the 425-gram measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "It’s best to thaw frozen chicken breast before measuring 425 grams, as frozen pieces can vary in density and water content. Thawing ensures accuracy and even cooking in the air fryer. If you must cook from frozen, increase the cooking time by 5–7 minutes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It’s best to thaw frozen chicken breast before measuring 425 grams, as frozen pieces can vary in density and water content. Thawing ensures accuracy and even cooking in the air fryer. If you must cook from frozen, increase the cooking time by 5–7 minutes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many servings does 425 grams of chicken breast provide?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "425 grams of chicken breast yields about 3–4 servings, depending on portion size. For a main dish, plan for 100–150 grams per person. In salads or wraps, it can stretch further. The air fryer makes it easy to cook in batches for meal prep."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "425 grams of chicken breast yields about 3–4 servings, depending on portion size. For a main dish, plan for 100–150 grams per person. In salads or wraps, it can stretch further. The air fryer makes it easy to cook in batches for meal prep."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does shredded chicken measure differently than diced for 425 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, shredded chicken is fluffier and may fill more cups than diced for the same weight (425 grams). Lightly pack shredded chicken into the measuring cup for accuracy. Diced chicken is denser, so 425 grams will take up slightly less volume."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, shredded chicken is fluffier and may fill more cups than diced for the same weight (425 grams). Lightly pack shredded chicken into the measuring cup for accuracy. Diced chicken is denser, so 425 grams will take up slightly less volume."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute chicken thighs for 425 grams of chicken breast?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, but thighs have more fat and may cook differently. Use the same weight (425 grams), but adjust air fryer time slightly—thighs may need 2–3 extra minutes. They’ll yield a richer flavour but measure similarly in cups when chopped."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, but thighs have more fat and may cook differently. Use the same weight (425 grams), but adjust air fryer time slightly—thighs may need 2–3 extra minutes. They’ll yield a richer flavour but measure similarly in cups when chopped."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 425 Grams of Chicken Breast?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 425 Grams of Chicken Breast?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast",
     "description": "Learn how to convert 425 grams of chicken breast to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-26T21:34:06.484000+00:00",
     "dateModified": "2025-07-26T21:34:06.484000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 425 Grams of Chicken Breast?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-425-grams-of-chicken-breast"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>425 grams of chicken breast is roughly equivalent to 2.5 cups when chopped or shredded. This conversion is handy for air fryer recipes where precise measurements can make all the difference. Whether you're preparing a quick weeknight dinner or meal prepping for the week, knowing how many cups 425 grams of chicken breast yields ensures consistent results. For more air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>

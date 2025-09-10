@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk"
-        },
-        "headline": "Quick Guide: Convert 385 ml of Buttermilk to Cups Easily",
-        "description": "Learn how to convert 385 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk"
+    },
+    "headline": "Quick Guide: Convert 385 ml of Buttermilk to Cups Easily",
+    "description": "Learn how to convert 385 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T00:26:06.873Z",
-        "dateModified": "2025-08-01T00:26:06.873Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-buttermilk.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T00:26:06.873Z",
+    "dateModified": "2025-08-01T00:26:06.873Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-385-ml-of-buttermilk.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 385 ml of buttermilk the same in US and UK cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 385 ml of buttermilk equals about 1.63 US cups (240 ml per cup) or 1.35 UK cups (284 ml per cup). This difference matters in baking, especially for air fryer recipes where precision affects cooking results. Always check which measurement system your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 385 ml of buttermilk equals about 1.63 US cups (240 ml per cup) or 1.35 UK cups (284 ml per cup). This difference matters in baking, especially for air fryer recipes where precision affects cooking results. Always check which measurement system your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular measuring cup for 385 ml of buttermilk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use a liquid measuring cup marked in millilitres for 385 ml of buttermilk. If using US cups, measure to just over 1½ cups. For UK cups, it's slightly more than 1¼ cups. For air fryer baking, we recommend using millilitre measurements when possible for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use a liquid measuring cup marked in millilitres for 385 ml of buttermilk. If using US cups, measure to just over 1½ cups. For UK cups, it's slightly more than 1¼ cups. For air fryer baking, we recommend using millilitre measurements when possible for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What if my recipe calls for cups but I only have ml measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If your recipe calls for cups but you have ml measurements, remember that 385 ml equals about 1.63 US cups or 1.35 UK cups of buttermilk. This conversion is particularly important for air fryer baking, where precise liquid measurements affect cooking time and texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If your recipe calls for cups but you have ml measurements, remember that 385 ml equals about 1.63 US cups or 1.35 UK cups of buttermilk. This conversion is particularly important for air fryer baking, where precise liquid measurements affect cooking time and texture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does buttermilk affect air fryer baking compared to regular milk?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Buttermilk's acidity helps tenderize baked goods and promotes browning in air fryer recipes. When converting 385 ml of buttermilk to cups (1.63 US or 1.35 UK), you're ensuring the right moisture level for air fryer baking. Buttermilk typically yields softer, more flavorful results than regular milk in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buttermilk's acidity helps tenderize baked goods and promotes browning in air fryer recipes. When converting 385 ml of buttermilk to cups (1.63 US or 1.35 UK), you're ensuring the right moisture level for air fryer baking. Buttermilk typically yields softer, more flavorful results than regular milk in air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 385 ml of Buttermilk?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 385 ml of Buttermilk?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk",
     "description": "Learn how to convert 385 ml of buttermilk to cups for perfect baking results every time. Includes UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T00:26:06.873000+00:00",
     "dateModified": "2025-08-01T00:26:06.873000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 385 ml of Buttermilk?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-385-ml-of-buttermilk"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>385 ml of buttermilk is approximately 1.63 cups in the US measurement system and roughly 1.35 cups in the UK measurement system. This conversion is essential for anyone using recipes that switch between metric and imperial measurements, especially when baking with an air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we understand how precise measurements can make or break your air fryer creations.</p>

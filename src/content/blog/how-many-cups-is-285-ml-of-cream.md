@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream"
-        },
-        "headline": "Quick Guide: Convert 285 ml of Cream to Cups Easily",
-        "description": "Learn how to convert 285 ml of cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream"
+    },
+    "headline": "Quick Guide: Convert 285 ml of Cream to Cups Easily",
+    "description": "Learn how to convert 285 ml of cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 285 ml of cream the same as 1 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 285 ml of cream is slightly more than 1 cup. In the US, 1 cup equals 240 ml, so 285 ml is about 1.2 cups. In the UK, where a cup is 250 ml, it’s roughly 1.14 cups. Always check your recipe’s measurements for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 285 ml of cream is slightly more than 1 cup. In the US, 1 cup equals 240 ml, so 285 ml is about 1.2 cups. In the UK, where a cup is 250 ml, it’s roughly 1.14 cups. Always check your recipe’s measurements for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 285 ml of cream in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 285 ml of cream works well in many air fryer recipes, from sauces to desserts. Just ensure you’re using the right measurements to avoid overflow or uneven cooking. For best results, refer to trusted recipes like those on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 285 ml of cream works well in many air fryer recipes, from sauces to desserts. Just ensure you’re using the right measurements to avoid overflow or uneven cooking. For best results, refer to trusted recipes like those on <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 285 ml of cream without a measuring cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a measuring cup, use a tablespoon. Since 1 tablespoon is about 15 ml, you’ll need 19 tablespoons to reach 285 ml. Alternatively, fill a standard mug (about 300 ml) almost to the top for a close estimate."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a measuring cup, use a tablespoon. Since 1 tablespoon is about 15 ml, you’ll need 19 tablespoons to reach 285 ml. Alternatively, fill a standard mug (about 300 ml) almost to the top for a close estimate."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the type of cream affect the conversion from ml to cups?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, the type of cream (single, double, or whipping) doesn’t change the volume conversion. 285 ml of any cream will still be roughly 1.2 cups. However, thicker creams may weigh slightly more, so for baking, it’s best to measure by volume unless the recipe specifies weight."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, the type of cream (single, double, or whipping) doesn’t change the volume conversion. 285 ml of any cream will still be roughly 1.2 cups. However, thicker creams may weigh slightly more, so for baking, it’s best to measure by volume unless the recipe specifies weight."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 285 ml of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 285 ml of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream",
     "description": "Learn how to convert 285 ml of cream to cups for perfect baking and cooking every time. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 285 ml of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>285 ml of cream is approximately 1.2 cups. This conversion is essential for anyone who loves baking or cooking, especially when using an air fryer. Whether you're whipping up a dessert or adding cream to a sauce, knowing the exact measurement ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we’re all about making cooking simpler with precise conversions and delicious recipes.</p>

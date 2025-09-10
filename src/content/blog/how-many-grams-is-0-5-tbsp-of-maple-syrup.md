@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup"
-        },
-        "headline": "Quick Answer: 0.5 tbsp of maple syrup to grams UK",
-        "description": "Discover exactly how many grams are in 0.5 tbsp of maple syrup with our easy UK conversion guide. Perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup"
+    },
+    "headline": "Quick Answer: 0.5 tbsp of maple syrup to grams UK",
+    "description": "Discover exactly how many grams are in 0.5 tbsp of maple syrup with our easy UK conversion guide. Perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-maple-syrup.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-0-5-tbsp-of-maple-syrup.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 0.5 tbsp of maple syrup the same as 10.5 grams in all brands?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 0.5 tbsp of maple syrup generally equals 10.5 grams, slight variations can occur between brands due to density differences. Pure maple syrup tends to be more consistent than syrup blends. For absolute precision in air fryer recipes, weighing is always best."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 0.5 tbsp of maple syrup generally equals 10.5 grams, slight variations can occur between brands due to density differences. Pure maple syrup tends to be more consistent than syrup blends. For absolute precision in air fryer recipes, weighing is always best."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I substitute honey for maple syrup in the same measurement?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Honey can substitute maple syrup in most recipes, but remember it's slightly denser. 0.5 tbsp of honey weighs about 11 grams. You may need to adjust other liquids slightly in your air fryer recipe to compensate for this small difference."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Honey can substitute maple syrup in most recipes, but remember it's slightly denser. 0.5 tbsp of honey weighs about 11 grams. You may need to adjust other liquids slightly in your air fryer recipe to compensate for this small difference."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How should I store maple syrup for accurate measuring?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store maple syrup at room temperature for easiest measuring. If refrigerated, warm it slightly to return to proper viscosity before measuring 0.5 tbsp portions. Always stir well if separation occurs to ensure consistent density throughout."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store maple syrup at room temperature for easiest measuring. If refrigerated, warm it slightly to return to proper viscosity before measuring 0.5 tbsp portions. Always stir well if separation occurs to ensure consistent density throughout."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK recipes often use grams for liquid ingredients like maple syrup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "UK recipes favour grams for liquids because it provides more consistent results than volume measurements. This is especially important in air fryer cooking where precise ratios affect texture and caramelisation. Measuring 0.5 tbsp of maple syrup by weight (10.5g) eliminates variables like syrup temperature or meniscus errors."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "UK recipes favour grams for liquids because it provides more consistent results than volume measurements. This is especially important in air fryer cooking where precise ratios affect texture and caramelisation. Measuring 0.5 tbsp of maple syrup by weight (10.5g) eliminates variables like syrup temperature or meniscus errors."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 0.5 tbsp of maple syrup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup",
+    "@type": "WebPage",
+    "name": "How many grams is 0.5 tbsp of maple syrup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup",
     "description": "Discover exactly how many grams are in 0.5 tbsp of maple syrup with our easy UK conversion guide. Perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 0.5 tbsp of maple syrup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-0-5-tbsp-of-maple-syrup"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.5 tbsp of maple syrup equals approximately 10.5 grams. This conversion is essential for precision in air fryer cooking, where exact measurements can make or break a recipe. Whether you’re glazing salmon or sweetening desserts, knowing this conversion ensures consistent results every time. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we focus on making kitchen conversions effortless for home cooks.</p>

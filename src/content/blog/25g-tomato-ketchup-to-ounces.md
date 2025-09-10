@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces"
-        },
-        "headline": "Quick Guide: Convert 25g of Tomato Ketchup to Ounces Easily",
-        "description": "Learn how to convert 25g of tomato ketchup to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces"
+    },
+    "headline": "Quick Guide: Convert 25g of Tomato Ketchup to Ounces Easily",
+    "description": "Learn how to convert 25g of tomato ketchup to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-08T21:33:21.570Z",
-        "dateModified": "2025-08-08T21:33:21.570Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-tomato-ketchup-to-ounces.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-08T21:33:21.570Z",
+    "dateModified": "2025-08-08T21:33:21.570Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-tomato-ketchup-to-ounces.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 25g of tomato ketchup without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use 2 level tablespoons for roughly 25g (0.88 oz). Lightly greasing the spoon helps ketchup slide off cleanly. For thicker sauces, this method is more reliable than volume measurements."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use 2 level tablespoons for roughly 25g (0.88 oz). Lightly greasing the spoon helps ketchup slide off cleanly. For thicker sauces, this method is more reliable than volume measurements."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 25g of tomato ketchup for air fryer marinades?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 25g (0.88 oz) of ketchup works well as a base for marinades. Mix it with spices, vinegar, or honey for a quick glaze. It’s enough to coat 4-6 chicken wings or a small batch of veggies."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 25g (0.88 oz) of ketchup works well as a base for marinades. Mix it with spices, vinegar, or honey for a quick glaze. It’s enough to coat 4-6 chicken wings or a small batch of veggies."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 25g of tomato ketchup the same in US and UK ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 25g converts to 0.88 ounces in both systems. The UK uses the same avoirdupois ounce as the US for weight measurements, so no adjustment is needed for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 25g converts to 0.88 ounces in both systems. The UK uses the same avoirdupois ounce as the US for weight measurements, so no adjustment is needed for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How many calories are in 25g of tomato ketchup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "25g (0.88 oz) contains about 25-30 calories, depending on the brand. If you’re tracking intake, weigh ketchup instead of using volume measures for accuracy. It’s easy to over-pour with squeezy bottles."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "25g (0.88 oz) contains about 25-30 calories, depending on the brand. If you’re tracking intake, weigh ketchup instead of using volume measures for accuracy. It’s easy to over-pour with squeezy bottles."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 25g of tomato ketchup?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces",
+    "@type": "WebPage",
+    "name": "How many ounces is 25g of tomato ketchup?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces",
     "description": "Learn how to convert 25g of tomato ketchup to ounces for perfect air fryer recipes. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-08T21:33:21.570000+00:00",
     "dateModified": "2025-08-08T21:33:21.570000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 25g of tomato ketchup?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-ketchup-to-ounces"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>25g of tomato ketchup equals approximately 0.88 ounces. This conversion is handy when following air fryer recipes that use metric or imperial measurements. Whether you’re whipping up crispy fries or saucy wings, getting the right amount of ketchup ensures perfect flavour balance.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream"
-        },
-        "headline": "Quick Answer: How Many ml Is 1.75 Cups of Single Cream?",
-        "description": "Discover the exact ml measurement for 1.75 cups of single cream with our easy conversion guide—perfect for air fryer recipes!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream"
+    },
+    "headline": "Quick Answer: How Many ml Is 1.75 Cups of Single Cream?",
+    "description": "Discover the exact ml measurement for 1.75 cups of single cream with our easy conversion guide—perfect for air fryer recipes!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-28T21:44:47.470Z",
-        "dateModified": "2025-07-28T21:44:47.470Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-75-cups-of-single-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-28T21:44:47.470Z",
+    "dateModified": "2025-07-28T21:44:47.470Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-1-75-cups-of-single-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 1.75 cups of single cream the same in the UK and US?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 1.75 cups of single cream equals approximately 414 ml in both the UK and US. While cup sizes can vary slightly by country, the ml measurement remains consistent for liquids like single cream. Always use a jug with ml markings for accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 1.75 cups of single cream equals approximately 414 ml in both the UK and US. While cup sizes can vary slightly by country, the ml measurement remains consistent for liquids like single cream. Always use a jug with ml markings for accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use double cream instead of single cream in the same quantity?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, double cream has a higher fat content and thicker consistency, so substituting it 1:1 may alter your recipe's texture. If replacing single cream with double, reduce the amount slightly or dilute it with milk. Check our conversion chart for precise adjustments."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, double cream has a higher fat content and thicker consistency, so substituting it 1:1 may alter your recipe's texture. If replacing single cream with double, reduce the amount slightly or dilute it with milk. Check our conversion chart for precise adjustments."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 1.75 cups of single cream without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don’t have a jug, use a standard 240 ml cup and measure 1 full cup plus 3/4 of another cup to reach 414 ml. For smaller increments, a tablespoon (15 ml) can help fine-tune the measurement. However, a jug is recommended for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don’t have a jug, use a standard 240 ml cup and measure 1 full cup plus 3/4 of another cup to reach 414 ml. For smaller increments, a tablespoon (15 ml) can help fine-tune the measurement. However, a jug is recommended for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my single cream sometimes curdle in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Curdling often happens if the cream overheats or is mixed with acidic ingredients. To prevent this, heat creamy dishes gradually and stir occasionally. For air fryer recipes, adding the cream later in the cooking process can help maintain a smooth texture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Curdling often happens if the cream overheats or is mixed with acidic ingredients. To prevent this, heat creamy dishes gradually and stir occasionally. For air fryer recipes, adding the cream later in the cooking process can help maintain a smooth texture."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many ml Is 1.75 Cups of Single Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream",
+    "@type": "WebPage",
+    "name": "How Many ml Is 1.75 Cups of Single Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream",
     "description": "Discover the exact ml measurement for 1.75 cups of single cream with our easy conversion guide—perfect for air fryer recipes!",
     "inLanguage": "en",
     "datePublished": "2025-07-28T21:44:47.470000+00:00",
     "dateModified": "2025-07-28T21:44:47.470000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many ml Is 1.75 Cups of Single Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-1-75-cups-of-single-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1.75 cups of single cream is equivalent to approximately 414 ml. This conversion is essential for precise measurements in recipes, especially when using an air fryer where accuracy can impact cooking results. Whether you're whipping up a creamy sauce or baking a dessert, knowing this conversion ensures your dish turns out perfectly every time.</p>  

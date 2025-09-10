@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven"
-        },
-        "headline": "140 C to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Learn how to convert 140 C to fan oven settings for baking and air frying. Perfect for precise cooking with your air fryer or convection oven.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven"
+    },
+    "headline": "140 C to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 140 C to fan oven settings for baking and air frying. Perfect for precise cooking with your air fryer or convection oven.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T13:18:32.394Z",
-        "dateModified": "2025-07-21T13:18:32.394Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/140-c-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T13:18:32.394Z",
+    "dateModified": "2025-07-21T13:18:32.394Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/140-c-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 140 C in an air fryer instead of a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use 140 C in an air fryer as it functions similarly to a fan oven. However, cooking times may be slightly shorter due to the air fryer’s compact size and rapid heating."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use 140 C in an air fryer as it functions similarly to a fan oven. However, cooking times may be slightly shorter due to the air fryer’s compact size and rapid heating."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 140 C to a fan oven setting for baking?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 140 C to a fan oven, reduce the temperature by 20 C, resulting in 120 C. This adjustment ensures even cooking without overbrowning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 140 C to a fan oven, reduce the temperature by 20 C, resulting in 120 C. This adjustment ensures even cooking without overbrowning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 140 C suitable for reheating food in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 140 C is ideal for reheating as it warms food gently without drying it out. This setting works well for leftovers like pizza or roasted vegetables."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 140 C is ideal for reheating as it warms food gently without drying it out. This setting works well for leftovers like pizza or roasted vegetables."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What’s the difference between 140 C in a fan oven and a conventional oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "A fan oven at 140 C cooks faster and more evenly than a conventional oven due to circulating hot air. For equivalent results, reduce the temperature by 20 C when using a fan oven."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A fan oven at 140 C cooks faster and more evenly than a conventional oven due to circulating hot air. For equivalent results, reduce the temperature by 20 C when using a fan oven."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "140 C to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven",
+    "@type": "WebPage",
+    "name": "140 C to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven",
     "description": "Learn how to convert 140 C to fan oven settings for baking and air frying. Perfect for precise cooking with your air fryer or convection oven.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T13:18:32.394000+00:00",
     "dateModified": "2025-07-21T13:18:32.394000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "140 C to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/140-c-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>140 C in a fan oven is equivalent to approximately 120 C in a conventional oven. This conversion is essential for baking and air frying, as fan ovens circulate hot air for even cooking. If you're using an air fryer, which works similarly to a fan oven, you can often use the same temperature settings. For more tips on air fryer conversions, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  

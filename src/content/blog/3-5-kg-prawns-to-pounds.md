@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds"
-        },
-        "headline": "Quick 3.5 kg Prawns to Pounds Conversion Guide",
-        "description": "Convert 3.5 kg prawns to pounds instantly. Perfect for air fryer recipes and portion planning. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds"
+    },
+    "headline": "Quick 3.5 kg Prawns to Pounds Conversion Guide",
+    "description": "Convert 3.5 kg prawns to pounds instantly. Perfect for air fryer recipes and portion planning. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-23T23:54:12.977Z",
-        "dateModified": "2025-08-23T23:54:12.977Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-prawns-to-pounds.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-23T23:54:12.977Z",
+    "dateModified": "2025-08-23T23:54:12.977Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/3-5-kg-prawns-to-pounds.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
     {
-    "@context": "https://schema.org",
-            "@type": "FAQPage",
-    "mainEntity": [
+                  "@context": "https://schema.org",
+                          "@type": "FAQPage",
+                  "mainEntity": [
     {
-            "@type": "Question",
-            "name": "Why do I need to convert 3.5 kg prawns to pounds for air frying?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "Why do I need to convert 3.5 kg prawns to pounds for air frying?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "Converting 3.5 kg prawns to pounds is essential because many air fryer recipes and manufacturer guidelines use imperial measurements. Knowing that 3.5 kg is approximately 7.72 pounds helps you portion correctly to avoid overcrowding the basket, which ensures proper air circulation and even cooking. This is key to achieving crispy, perfectly cooked prawns every time."
-        }
-        },
+                                    }
+                      },
     {
-            "@type": "Question",
-            "name": "Is the conversion the same for all types of prawns?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "Is the conversion the same for all types of prawns?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "Yes, the weight conversion from kilograms to pounds is consistent regardless of prawn size or variety. Whether you're using king prawns, tiger prawns, or smaller varieties, 3.5 kg always equals roughly 7.72 pounds. The conversion is based purely on mass, so it applies uniformly across all types."
-        }
-        },
+                                    }
+                      },
     {
-            "@type": "Question",
-            "name": "How do I convert 3.5 kg prawns to pounds and ounces?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "How do I convert 3.5 kg prawns to pounds and ounces?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "To convert 3.5 kg prawns to pounds and ounces, first multiply 3.5 by 2.20462 to get pounds (7.71617). The whole number is 7 pounds. Multiply the decimal part (0.71617) by 16 to get ounces, which is approximately 11.46 ounces. So, 3.5 kg is about 7 pounds and 11.5 ounces."
-        }
-        },
+                                    }
+                      },
     {
-            "@type": "Question",
-            "name": "Can I use an online converter for 3.5 kg prawns to pounds?",
-    "acceptedAnswer": {
-            "@type": "Answer",
+                          "@type": "Question",
+                          "name": "Can I use an online converter for 3.5 kg prawns to pounds?",
+                                "acceptedAnswer": {
+                          "@type": "Answer",
     "text": "Absolutely! Online converters are a quick and reliable way to convert 3.5 kg prawns to pounds without manual calculation. Simply enter "3.5 kg to pounds" into a trusted converter tool or search engine, and you'll get an instant result. This is especially handy if you need to convert multiple quantities or prefer to avoid maths."
-        }
-        }
+                                    }
+                                    }
     ]
-        }
+                                    }
     </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "3.5 kg prawns to pounds",
-            "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds",
+    "@type": "WebPage",
+    "name": "3.5 kg prawns to pounds",
+    "url": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds",
     "description": "Convert 3.5 kg prawns to pounds instantly. Perfect for air fryer recipes and portion planning. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-23T23:54:12.977000+00:00",
     "dateModified": "2025-08-23T23:54:12.977000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "3.5 kg prawns to pounds",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/3-5-kg-prawns-to-pounds"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>3.5 kg of prawns is equal to approximately 7.72 pounds. This conversion is essential for anyone using recipes that list ingredients in pounds, especially when preparing seafood dishes in an air fryer. Knowing how to convert 3.5 kg prawns to pounds ensures you use the correct amount for perfect results every time. Whether you're meal prepping or cooking for a crowd, accurate measurements make all the difference. For more handy conversion tips, check out our <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a>.</p>

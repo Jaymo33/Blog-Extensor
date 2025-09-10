@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste"
-        },
-        "headline": "Quick Guide: Convert 0.25 Cup of Tikka Paste to Ounces Easily",
-        "description": "Learn how to convert 0.25 cup of tikka paste to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste"
+    },
+    "headline": "Quick Guide: Convert 0.25 Cup of Tikka Paste to Ounces Easily",
+    "description": "Learn how to convert 0.25 cup of tikka paste to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-15T23:40:45.481Z",
-        "dateModified": "2025-08-15T23:40:45.481Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-tikka-paste.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-15T23:40:45.481Z",
+    "dateModified": "2025-08-15T23:40:45.481Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-25-cup-of-tikka-paste.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use grams instead of ounces for tikka paste measurements?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 0.25 cup (2 oz) of tikka paste is about 57 grams. Many UK scales default to grams, making this a convenient alternative. For air fryer recipes, either unit works—just stay consistent."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 0.25 cup (2 oz) of tikka paste is about 57 grams. Many UK scales default to grams, making this a convenient alternative. For air fryer recipes, either unit works—just stay consistent."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the brand of tikka paste affect the weight per 0.25 cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Slight variations exist between brands due to ingredient density. However, most tikka pastes weigh close to 2 oz per 0.25 cup. For precision, check the label or weigh your preferred brand once to confirm."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Slight variations exist between brands due to ingredient density. However, most tikka pastes weigh close to 2 oz per 0.25 cup. For precision, check the label or weigh your preferred brand once to confirm."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How long should I marinate chicken with 0.25 cup of tikka paste in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For best results, marinate chicken for at least 30 minutes (or overnight) before air frying. The 0.25 cup (2 oz) quantity coats 500g of chicken evenly. Cook at 180°C for 15–18 minutes, flipping halfway."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For best results, marinate chicken for at least 30 minutes (or overnight) before air frying. The 0.25 cup (2 oz) quantity coats 500g of chicken evenly. Cook at 180°C for 15–18 minutes, flipping halfway."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I freeze leftover tikka paste measured in 0.25 cup portions?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Freeze 0.25 cup (2 oz) portions in ice cube trays or small containers. Thaw in the fridge before use. This prevents waste and lets you grab pre-measured amounts for quick air fryer meals."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Freeze 0.25 cup (2 oz) portions in ice cube trays or small containers. Thaw in the fridge before use. This prevents waste and lets you grab pre-measured amounts for quick air fryer meals."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 0.25 cup of tikka paste?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste",
+    "@type": "WebPage",
+    "name": "How many ounces is 0.25 cup of tikka paste?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste",
     "description": "Learn how to convert 0.25 cup of tikka paste to ounces for perfect air fryer recipes every time. Get accurate measurements now!",
     "inLanguage": "en",
     "datePublished": "2025-08-15T23:40:45.481000+00:00",
     "dateModified": "2025-08-15T23:40:45.481000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 0.25 cup of tikka paste?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-25-cup-of-tikka-paste"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>0.25 cup of tikka paste equals approximately 2 ounces (oz). This conversion ensures your air fryer recipes, like marinated chicken or spiced vegetables, turn out perfectly every time. Whether you're using a UK or US measuring cup, this weight remains consistent for tikka paste, a staple in many dishes featured on <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>.</p>

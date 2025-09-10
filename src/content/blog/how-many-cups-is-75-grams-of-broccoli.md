@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli"
-        },
-        "headline": "Quick Answer: How Many Cups Is 75 Grams of Broccoli?",
-        "description": "Discover how to convert 75 grams of broccoli to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli"
+    },
+    "headline": "Quick Answer: How Many Cups Is 75 Grams of Broccoli?",
+    "description": "Discover how to convert 75 grams of broccoli to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T19:05:43.270Z",
-        "dateModified": "2025-07-27T19:05:43.270Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-broccoli.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T19:05:43.270Z",
+    "dateModified": "2025-07-27T19:05:43.270Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-75-grams-of-broccoli.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 75 grams of frozen broccoli instead of fresh in air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can substitute frozen broccoli for fresh. Just thaw and pat it dry to remove excess moisture before air frying. Frozen broccoli may cook slightly faster, so keep an eye on it to prevent overcooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can substitute frozen broccoli for fresh. Just thaw and pat it dry to remove excess moisture before air frying. Frozen broccoli may cook slightly faster, so keep an eye on it to prevent overcooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover 75-gram portions of broccoli?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Store cooked broccoli in an airtight container in the fridge for up to 3 days. Reheat it in the air fryer for 2–3 minutes to restore crispiness. For longer storage, freeze it in portioned bags for up to a month."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Store cooked broccoli in an airtight container in the fridge for up to 3 days. Reheat it in the air fryer for 2–3 minutes to restore crispiness. For longer storage, freeze it in portioned bags for up to a month."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my 75 grams of broccoli turn out soggy in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Sogginess usually happens from overcrowding or excess moisture. Spread the broccoli in a single layer and pat it dry before cooking. Also, avoid adding too much oil, as it can create steam instead of crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sogginess usually happens from overcrowding or excess moisture. Spread the broccoli in a single layer and pat it dry before cooking. Also, avoid adding too much oil, as it can create steam instead of crispiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 75 grams of broccoli enough for one serving?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 75 grams (about 1.5 cups) is a standard single serving, perfect as a side dish or part of a larger meal. For heartier portions, pair it with protein or grains from our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a>."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 75 grams (about 1.5 cups) is a standard single serving, perfect as a side dish or part of a larger meal. For heartier portions, pair it with protein or grains from our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a>."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 75 Grams of Broccoli?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 75 Grams of Broccoli?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli",
     "description": "Discover how to convert 75 grams of broccoli to cups for perfect air fryer recipes. Get accurate measurements and cooking tips in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-07-27T19:05:43.270000+00:00",
     "dateModified": "2025-07-27T19:05:43.270000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 75 Grams of Broccoli?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-75-grams-of-broccoli"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>75 grams of broccoli is roughly equivalent to 1.5 cups when chopped. This measurement can vary slightly depending on how finely the broccoli is cut, but it’s a reliable starting point for air fryer recipes. Whether you’re whipping up a quick side dish or adding broccoli to a larger meal, knowing this conversion ensures consistent results every time.</p>  

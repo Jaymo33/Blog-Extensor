@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer"
-        },
-        "headline": "Can You Air Fry Breaded Nuggets? Safety & Tips",
-        "description": "Wondering if breaded nuggets work in an air fryer? Discover how to safely cook, reheat, and avoid common pitfalls with our expert guide.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer"
+    },
+    "headline": "Can You Air Fry Breaded Nuggets? Safety & Tips",
+    "description": "Wondering if breaded nuggets work in an air fryer? Discover how to safely cook, reheat, and avoid common pitfalls with our expert guide.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-22T22:38:02.529Z",
-        "dateModified": "2025-07-22T22:38:02.529Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-breaded-nuggets-in-an-air-fryer.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Frozen"
-        },
-        "articleSection": "Frozen",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-22T22:38:02.529Z",
+    "dateModified": "2025-07-22T22:38:02.529Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-breaded-nuggets-in-an-air-fryer.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Frozen"
+    },
+    "articleSection": "Frozen",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I cook frozen breaded nuggets directly in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! Frozen breaded nuggets go straight into the air fryer – no thawing needed. Just add 1-2 minutes to the cooking time and shake the basket halfway through for even browning."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! Frozen breaded nuggets go straight into the air fryer – no thawing needed. Just add 1-2 minutes to the cooking time and shake the basket halfway through for even browning."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air-fried nuggets sometimes come out dry?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Dry nuggets usually mean overcooking. Try reducing the temperature by 10°C and checking 2 minutes earlier. Using lean chicken breast nuggets? Spritz lightly with oil before cooking to retain moisture."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dry nuggets usually mean overcooking. Try reducing the temperature by 10°C and checking 2 minutes earlier. Using lean chicken breast nuggets? Spritz lightly with oil before cooking to retain moisture."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is it safe to put breaded fish nuggets in the air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, fish nuggets work great – just cook at 180°C for 8-10 minutes. The lower temperature prevents the delicate fish from drying out while still crisping the coating beautifully."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, fish nuggets work great – just cook at 180°C for 8-10 minutes. The lower temperature prevents the delicate fish from drying out while still crisping the coating beautifully."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I cook homemade breaded nuggets in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Definitely! For homemade versions, chill the breaded nuggets for 20 minutes before cooking to help the coating adhere. Cook at 190°C for 10-12 minutes, flipping once for perfect crunch."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Definitely! For homemade versions, chill the breaded nuggets for 20 minutes before cooking to help the coating adhere. Cook at 190°C for 10-12 minutes, flipping once for perfect crunch."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "Can You Put Breaded Nuggets in an Air Fryer?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer",
+    "@type": "WebPage",
+    "name": "Can You Put Breaded Nuggets in an Air Fryer?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer",
     "description": "Wondering if breaded nuggets work in an air fryer? Discover how to safely cook, reheat, and avoid common pitfalls with our expert guide.",
     "inLanguage": "en",
     "datePublished": "2025-07-22T22:38:02.529000+00:00",
     "dateModified": "2025-07-22T22:38:02.529000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "Can You Put Breaded Nuggets in an Air Fryer?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-breaded-nuggets-in-an-air-fryer"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>Yes, you can safely put breaded nuggets in an air fryer – they cook evenly at 190°C for 10-12 minutes, turning halfway. The rapid hot air circulation gives them a satisfying crunch without the oiliness of deep frying. Whether you’re using frozen supermarket brands or homemade versions, your air fryer handles them brilliantly. Just space them out in a single layer for optimal crispiness. For more air fryer conversion tips, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>handy temperature chart</a>.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey"
-        },
-        "headline": "Quick Answer: How many grams is 1 tbsp of honey? UK Guide",
-        "description": "Discover the exact weight of 1 tbsp of honey in grams for perfect air fryer recipes. Get UK conversions and tips for accurate measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey"
+    },
+    "headline": "Quick Answer: How many grams is 1 tbsp of honey? UK Guide",
+    "description": "Discover the exact weight of 1 tbsp of honey in grams for perfect air fryer recipes. Get UK conversions and tips for accurate measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-honey.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-1-tbsp-of-honey.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Does the type of honey affect the weight per tablespoon?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While different honey varieties (like manuka, wildflower, or clover) have slightly varying densities, the weight difference per tablespoon is minimal. Most types will weigh approximately 21 grams per UK tablespoon. The main variation comes from temperature - warmer honey is slightly less dense but the difference is negligible for home cooking purposes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While different honey varieties (like manuka, wildflower, or clover) have slightly varying densities, the weight difference per tablespoon is minimal. Most types will weigh approximately 21 grams per UK tablespoon. The main variation comes from temperature - warmer honey is slightly less dense but the difference is negligible for home cooking purposes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use American tablespoon measurements for UK recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, American tablespoons are slightly larger (14.8ml vs 15ml in the UK), which could affect precision in baking. For air fryer recipes where quantities matter, always use UK measurements or convert to grams. Our 21-gram measurement applies specifically to UK tablespoons to ensure recipe accuracy."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, American tablespoons are slightly larger (14.8ml vs 15ml in the UK), which could affect precision in baking. For air fryer recipes where quantities matter, always use UK measurements or convert to grams. Our 21-gram measurement applies specifically to UK tablespoons to ensure recipe accuracy."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure honey without making a sticky mess?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Lightly oil your measuring spoon first - the honey will slide right off. Alternatively, use a silicone spatula to scrape honey from the spoon cleanly. For larger quantities, weigh directly in your mixing bowl using digital scales. Always have a damp cloth handy to wipe spills immediately before they harden."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lightly oil your measuring spoon first - the honey will slide right off. Alternatively, use a silicone spatula to scrape honey from the spoon cleanly. For larger quantities, weigh directly in your mixing bowl using digital scales. Always have a damp cloth handy to wipe spills immediately before they harden."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe with honey keep burning?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Honey burns easily due to its high sugar content. In air fryers, which cook quickly at high heat, add honey glazes during the last 2-3 minutes of cooking. You can also dilute honey with a little water or oil to reduce burning risk. Always monitor closely as cooking times may vary between air fryer models."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Honey burns easily due to its high sugar content. In air fryers, which cook quickly at high heat, add honey glazes during the last 2-3 minutes of cooking. You can also dilute honey with a little water or oil to reduce burning risk. Always monitor closely as cooking times may vary between air fryer models."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 1 tbsp of honey?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey",
+    "@type": "WebPage",
+    "name": "How many grams is 1 tbsp of honey?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey",
     "description": "Discover the exact weight of 1 tbsp of honey in grams for perfect air fryer recipes. Get UK conversions and tips for accurate measurements.",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 1 tbsp of honey?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-1-tbsp-of-honey"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>1 tablespoon (tbsp) of honey weighs approximately 21 grams in the UK. This measurement is essential for air fryer recipes where precision can make or break your dish. Whether you’re drizzling honey over roasted vegetables or using it to sweeten baked goods, knowing the exact weight ensures consistent results. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we focus on accurate conversions to help you cook with confidence. Keep reading to learn more about measuring honey and its uses in air frying.</p>

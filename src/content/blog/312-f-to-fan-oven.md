@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven"
-        },
-        "headline": "312 F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Convert 312 F to fan oven settings easily. Learn the exact temperature and how it impacts air fryer cooking for perfect results every time.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven"
+    },
+    "headline": "312 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Convert 312 F to fan oven settings easily. Learn the exact temperature and how it impacts air fryer cooking for perfect results every time.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T19:59:54.203Z",
-        "dateModified": "2025-07-21T19:59:54.203Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/312-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T19:59:54.203Z",
+    "dateModified": "2025-07-21T19:59:54.203Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/312-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 312 F in my air fryer if it only shows Celsius?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes! Set your air fryer to 155 C, which is the exact fan oven equivalent of 312 F. Most air fryers default to Celsius in the UK, so this conversion ensures accurate cooking."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes! Set your air fryer to 155 C, which is the exact fan oven equivalent of 312 F. Most air fryers default to Celsius in the UK, so this conversion ensures accurate cooking."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my food cook faster at 312 F in the air fryer than in the oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate heat more efficiently than conventional ovens, similar to fan ovens. At 312 F (155 C), the intense airflow speeds up cooking, so always check food 5-10 minutes earlier than the recipe suggests."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate heat more efficiently than conventional ovens, similar to fan ovens. At 312 F (155 C), the intense airflow speeds up cooking, so always check food 5-10 minutes earlier than the recipe suggests."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Is 312 F the same as Gas Mark 2 or 3?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "312 F falls between Gas Mark 2 (150 C) and Gas Mark 3 (160 C), but fan ovens and air fryers are more precise. Stick to 155 C for consistent results, especially with baked goods."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "312 F falls between Gas Mark 2 (150 C) and Gas Mark 3 (160 C), but fan ovens and air fryers are more precise. Stick to 155 C for consistent results, especially with baked goods."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 312 F to a convection oven setting?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Convection ovens and fan ovens work similarly, so 312 F equals 155 C in both. If your convection oven uses Fahrenheit, simply set it to 312 F—no conversion needed. For air fryers, use 155 C."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Convection ovens and fan ovens work similarly, so 312 F equals 155 C in both. If your convection oven uses Fahrenheit, simply set it to 312 F—no conversion needed. For air fryers, use 155 C."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "312 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "312 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven",
     "description": "Convert 312 F to fan oven settings easily. Learn the exact temperature and how it impacts air fryer cooking for perfect results every time.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T19:59:54.203000+00:00",
     "dateModified": "2025-07-21T19:59:54.203000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "312 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/312-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>312 F converts to approximately 155 C in a fan oven. This is the standard conversion for most recipes, ensuring your air fryer dishes cook evenly and efficiently. Whether you're adjusting an American recipe or fine-tuning your air fryer settings, knowing this conversion is key. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in making these conversions simple for home cooks. Let’s dive deeper into why this matters for air fryer cooking.</p>

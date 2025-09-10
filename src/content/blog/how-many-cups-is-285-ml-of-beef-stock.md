@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock"
-        },
-        "headline": "Quick Answer: How Many Cups Is 285 ml of Beef Stock?",
-        "description": "Discover how to convert 285 ml of beef stock to cups for perfect recipes every time. Get precise measurements for cooking and baking.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock"
+    },
+    "headline": "Quick Answer: How Many Cups Is 285 ml of Beef Stock?",
+    "description": "Discover how to convert 285 ml of beef stock to cups for perfect recipes every time. Get precise measurements for cooking and baking.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-30T23:32:39.600Z",
-        "dateModified": "2025-07-30T23:32:39.600Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-beef-stock.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-30T23:32:39.600Z",
+    "dateModified": "2025-07-30T23:32:39.600Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-285-ml-of-beef-stock.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 285 ml of beef stock the same as 285 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, millilitres (ml) measure volume, while grams measure weight. The weight of 285 ml of beef stock can vary slightly depending on its density, but it's roughly equivalent to 285 grams for practical cooking purposes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, millilitres (ml) measure volume, while grams measure weight. The weight of 285 ml of beef stock can vary slightly depending on its density, but it's roughly equivalent to 285 grams for practical cooking purposes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use water instead of beef stock in my air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can substitute water, but beef stock adds depth of flavour. If replacing, consider adding herbs or spices to compensate. For best results, stick to the recipe's recommended 285 ml measurement."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can substitute water, but beef stock adds depth of flavour. If replacing, consider adding herbs or spices to compensate. For best results, stick to the recipe's recommended 285 ml measurement."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I store leftover beef stock after measuring 285 ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Pour unused stock into an airtight container and refrigerate for up to 4 days. For longer storage, freeze in ice cube trays or portioned containers. Always label with the date and amount."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pour unused stock into an airtight container and refrigerate for up to 4 days. For longer storage, freeze in ice cube trays or portioned containers. Always label with the date and amount."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do some recipes use ml and others use cups for beef stock?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Metric (ml) measurements are more precise, while cups are more common in some countries. Always check which system your recipe uses. Our conversion guide helps bridge the gap between the two."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Metric (ml) measurements are more precise, while cups are more common in some countries. Always check which system your recipe uses. Our conversion guide helps bridge the gap between the two."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 285 ml of Beef Stock?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 285 ml of Beef Stock?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock",
     "description": "Discover how to convert 285 ml of beef stock to cups for perfect recipes every time. Get precise measurements for cooking and baking.",
     "inLanguage": "en",
     "datePublished": "2025-07-30T23:32:39.600000+00:00",
     "dateModified": "2025-07-30T23:32:39.600000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 285 ml of Beef Stock?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-285-ml-of-beef-stock"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>285 ml of beef stock is approximately 1.2 cups in the US measurement system and 1.14 cups in the UK. This conversion is essential for recipes requiring precise liquid measurements, especially when using an air fryer for dishes like stews or gravies. Whether you're following a recipe from <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a> or adapting a traditional dish, knowing this conversion ensures consistency.</p>  

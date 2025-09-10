@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark"
-        },
-        "headline": "369 F to Gas Mark Conversion for Air Fryers & Ovens",
-        "description": "Convert 369°F to Gas Mark for perfect air fryer & oven cooking. Includes UK conversion charts, tips, and recipe adjustments.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark"
+    },
+    "headline": "369 F to Gas Mark Conversion for Air Fryers & Ovens",
+    "description": "Convert 369°F to Gas Mark for perfect air fryer & oven cooking. Includes UK conversion charts, tips, and recipe adjustments.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-20T21:01:50.722Z",
-        "dateModified": "2025-07-20T21:01:50.722Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/369-f-to-gas-mark.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "GasMark"
-        },
-        "articleSection": "GasMark",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-20T21:01:50.722Z",
+    "dateModified": "2025-07-20T21:01:50.722Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/369-f-to-gas-mark.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "GasMark"
+    },
+    "articleSection": "GasMark",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 369 F to Gas Mark 5 for all air fryer recipes?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "While 369 F (Gas Mark 5) works for many recipes, some foods require higher or lower temperatures. Delicate items like fish might need lower heat, while crispy foods like chips often benefit from higher temperatures around 200°C (Gas Mark 6)."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While 369 F (Gas Mark 5) works for many recipes, some foods require higher or lower temperatures. Delicate items like fish might need lower heat, while crispy foods like chips often benefit from higher temperatures around 200°C (Gas Mark 6)."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 369 F to Gas Mark for a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "For fan ovens, 369 F still converts to Gas Mark 5, but you should reduce the temperature by 20°C (about 68 F) when using the fan setting. This adjustment compensates for the fan's more efficient heat distribution."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For fan ovens, 369 F still converts to Gas Mark 5, but you should reduce the temperature by 20°C (about 68 F) when using the fan setting. This adjustment compensates for the fan's more efficient heat distribution."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook faster at 369 F than my gas oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers circulate hot air more efficiently than conventional ovens, cooking food faster at the same temperature. The compact size also means heat doesn't have to travel as far to reach your food, resulting in quicker cooking times."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers circulate hot air more efficiently than conventional ovens, cooking food faster at the same temperature. The compact size also means heat doesn't have to travel as far to reach your food, resulting in quicker cooking times."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What's the best way to clean my air fryer after cooking at 369 F?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "After cooking at 369 F, let your air fryer cool completely, then wipe with a damp cloth. For tougher residue, use our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> and a soft brush to maintain your appliance."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After cooking at 369 F, let your air fryer cool completely, then wipe with a damp cloth. For tougher residue, use our recommended <a href=https://www.airfryerrecipe.co.uk/air-fryer-cleaner>air fryer cleaner</a> and a soft brush to maintain your appliance."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "369 F to Gas Mark",
-            "url": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark",
+    "@type": "WebPage",
+    "name": "369 F to Gas Mark",
+    "url": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark",
     "description": "Convert 369°F to Gas Mark for perfect air fryer & oven cooking. Includes UK conversion charts, tips, and recipe adjustments.",
     "inLanguage": "en",
     "datePublished": "2025-07-20T21:01:50.722000+00:00",
     "dateModified": "2025-07-20T21:01:50.722000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "369 F to Gas Mark",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/369-f-to-gas-mark"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>369°F converts to Gas Mark 5 in UK ovens and air fryers. This moderate heat setting works perfectly for roasting vegetables, baking cakes, or cooking poultry in your air fryer. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we specialise in helping you adapt traditional oven recipes for modern appliances.</p>

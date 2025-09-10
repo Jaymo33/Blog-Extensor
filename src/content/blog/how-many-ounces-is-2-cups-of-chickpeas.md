@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas"
-        },
-        "headline": "Quick Answer: How many ounces is 2 cups of chickpeas?",
-        "description": "Find out exactly how many ounces are in 2 cups of chickpeas for perfect air fryer recipes every time. Includes UK conversions and tips!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas"
+    },
+    "headline": "Quick Answer: How many ounces is 2 cups of chickpeas?",
+    "description": "Find out exactly how many ounces are in 2 cups of chickpeas for perfect air fryer recipes every time. Includes UK conversions and tips!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-14T23:44:02.193Z",
-        "dateModified": "2025-08-14T23:44:02.193Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-chickpeas.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-14T23:44:02.193Z",
+    "dateModified": "2025-08-14T23:44:02.193Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-cups-of-chickpeas.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 2 cups of chickpeas the same as one can of chickpeas?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Not quite. A standard 400g can of chickpeas (drained) yields about 1.5 cups or 9 ounces, slightly less than 2 cups (12 ounces). Always check the can size and drain well before measuring for air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not quite. A standard 400g can of chickpeas (drained) yields about 1.5 cups or 9 ounces, slightly less than 2 cups (12 ounces). Always check the can size and drain well before measuring for air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Do cooked and uncooked chickpeas weigh the same per cup?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, uncooked chickpeas are denser. Two cups of dried chickpeas weigh about 12 ounces but will expand when cooked. For cooked chickpeas, 2 cups equal roughly 12 ounces after draining."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, uncooked chickpeas are denser. Two cups of dried chickpeas weigh about 12 ounces but will expand when cooked. For cooked chickpeas, 2 cups equal roughly 12 ounces after draining."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use this conversion for other beans in my air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Most beans have similar densities, but always verify for specific types. For example, 2 cups of black beans weigh about 13 ounces. When in doubt, weigh them for precision in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most beans have similar densities, but always verify for specific types. For example, 2 cups of black beans weigh about 13 ounces. When in doubt, weigh them for precision in air fryer recipes."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do my air-fried chickpeas sometimes turn out uneven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Overcrowding the basket is a common culprit. For 2 cups (12 ounces) of chickpeas, cook in batches if your air fryer is small. Also, shake the basket halfway through cooking for even crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overcrowding the basket is a common culprit. For 2 cups (12 ounces) of chickpeas, cook in batches if your air fryer is small. Also, shake the basket halfway through cooking for even crispiness."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many ounces is 2 cups of chickpeas?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas",
+    "@type": "WebPage",
+    "name": "How many ounces is 2 cups of chickpeas?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas",
     "description": "Find out exactly how many ounces are in 2 cups of chickpeas for perfect air fryer recipes every time. Includes UK conversions and tips!",
     "inLanguage": "en",
     "datePublished": "2025-08-14T23:44:02.193000+00:00",
     "dateModified": "2025-08-14T23:44:02.193000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many ounces is 2 cups of chickpeas?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-cups-of-chickpeas"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>2 cups of chickpeas weigh approximately 12 ounces (340 grams) when measured in standard UK or US cups. This conversion is essential for air fryer recipes, ensuring your dishes turn out perfectly every time. Whether you’re roasting chickpeas for a crunchy snack or adding them to a hearty meal, accurate measurements matter. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we help you nail these details for flawless cooking.</p>

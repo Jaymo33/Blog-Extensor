@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven"
-        },
-        "headline": "270 F to Fan Oven Conversion Guide | Air Fryer Tips",
-        "description": "Learn how to convert 270 F to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven"
+    },
+    "headline": "270 F to Fan Oven Conversion Guide | Air Fryer Tips",
+    "description": "Learn how to convert 270 F to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-21T19:02:28.332Z",
-        "dateModified": "2025-07-21T19:02:28.332Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/270-f-to-fan-oven.png"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "FanOven"
-        },
-        "articleSection": "FanOven",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-21T19:02:28.332Z",
+    "dateModified": "2025-07-21T19:02:28.332Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/270-f-to-fan-oven.png"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "FanOven"
+    },
+    "articleSection": "FanOven",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use 270 F in an air fryer instead of a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, you can use the 270 F (132 C) equivalent in your air fryer, but reduce cooking times by 10-15%. The concentrated heat circulation in air fryers cooks food faster than conventional fan ovens, even at the same temperature setting."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, you can use the 270 F (132 C) equivalent in your air fryer, but reduce cooking times by 10-15%. The concentrated heat circulation in air fryers cooks food faster than conventional fan ovens, even at the same temperature setting."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What types of food cook best at 270 F in a fan oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "270 F works well for slow roasting vegetables, dehydrating fruits, proofing dough, or keeping cooked dishes warm. It's not ideal for crisping or browning - those tasks require higher temperatures around 180-200 C in fan ovens."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "270 F works well for slow roasting vegetables, dehydrating fruits, proofing dough, or keeping cooked dishes warm. It's not ideal for crisping or browning - those tasks require higher temperatures around 180-200 C in fan ovens."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I convert 270 F to Celsius for my UK oven?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "To convert 270 F to Celsius for a UK fan oven, subtract 32, multiply by 5, then divide by 9. This gives you approximately 132 C. Most fan ovens will have this temperature marked clearly on their dials or digital displays."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To convert 270 F to Celsius for a UK fan oven, subtract 32, multiply by 5, then divide by 9. This gives you approximately 132 C. Most fan ovens will have this temperature marked clearly on their dials or digital displays."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer cook faster than my fan oven at 270 F?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Air fryers cook faster because they're smaller appliances with more intense air circulation. The compact space means heat transfers more efficiently to food surfaces. Always check doneness earlier than recipe times suggest when using air fryer equivalents."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Air fryers cook faster because they're smaller appliances with more intense air circulation. The compact space means heat transfers more efficiently to food surfaces. Always check doneness earlier than recipe times suggest when using air fryer equivalents."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "270 F to Fan Oven",
-            "url": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven",
+    "@type": "WebPage",
+    "name": "270 F to Fan Oven",
+    "url": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven",
     "description": "Learn how to convert 270 F to fan oven settings for perfect air frying. Includes temperature charts and cooking tips for UK kitchens.",
     "inLanguage": "en",
     "datePublished": "2025-07-21T19:02:28.332000+00:00",
     "dateModified": "2025-07-21T19:02:28.332000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "270 F to Fan Oven",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/270-f-to-fan-oven"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>270 F converts to approximately 132 C in a fan oven. This is a common temperature for slow roasting, dehydrating, or keeping dishes warm in an air fryer. Understanding this conversion helps when adapting recipes between traditional ovens and modern air fryers.</p>

@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil"
-        },
-        "headline": "Quick Guide: Convert 5 tbsp of sesame oil to grams",
-        "description": "Discover how to convert 5 tbsp of sesame oil into grams for precise air fryer cooking. Get accurate measurements in seconds!",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil"
+    },
+    "headline": "Quick Guide: Convert 5 tbsp of sesame oil to grams",
+    "description": "Discover how to convert 5 tbsp of sesame oil into grams for precise air fryer cooking. Get accurate measurements in seconds!",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-04T22:47:35.785Z",
-        "dateModified": "2025-08-04T22:47:35.785Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-sesame-oil.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Measurement"
-        },
-        "articleSection": "Measurement",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-04T22:47:35.785Z",
+    "dateModified": "2025-08-04T22:47:35.785Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-5-tbsp-sesame-oil.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Measurement"
+    },
+    "articleSection": "Measurement",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Can I use toasted sesame oil instead of light sesame oil for the same weight?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, toasted and light sesame oil have similar densities, so 5 tablespoons will still weigh around 68 grams. However, toasted sesame oil has a stronger flavour, so adjust quantities based on taste preferences."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, toasted and light sesame oil have similar densities, so 5 tablespoons will still weigh around 68 grams. However, toasted sesame oil has a stronger flavour, so adjust quantities based on taste preferences."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why does my air fryer recipe specify grams instead of tablespoons for sesame oil?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Grams provide a more accurate measurement, especially for oils, as tablespoon volumes can vary slightly. This precision ensures consistent results in air fryer cooking, where even small differences can affect texture and crispiness."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Grams provide a more accurate measurement, especially for oils, as tablespoon volumes can vary slightly. This precision ensures consistent results in air fryer cooking, where even small differences can affect texture and crispiness."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 5 tbsp of sesame oil without a scale?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Use a standard UK tablespoon (15ml) and fill it level with sesame oil. Five level tablespoons will give you approximately 68 grams. For sticky oils like sesame, lightly grease the spoon first for easier pouring."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a standard UK tablespoon (15ml) and fill it level with sesame oil. Five level tablespoons will give you approximately 68 grams. For sticky oils like sesame, lightly grease the spoon first for easier pouring."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Does the temperature of sesame oil affect its weight in grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, sesame oil’s weight remains consistent regardless of temperature. However, cold sesame oil may be thicker and harder to measure accurately, so room temperature is ideal for precise conversions."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, sesame oil’s weight remains consistent regardless of temperature. However, cold sesame oil may be thicker and harder to measure accurately, so room temperature is ideal for precise conversions."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How many grams is 5 tbsp of sesame oil?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil",
+    "@type": "WebPage",
+    "name": "How many grams is 5 tbsp of sesame oil?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil",
     "description": "Discover how to convert 5 tbsp of sesame oil into grams for precise air fryer cooking. Get accurate measurements in seconds!",
     "inLanguage": "en",
     "datePublished": "2025-08-04T22:47:35.785000+00:00",
     "dateModified": "2025-08-04T22:47:35.785000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How many grams is 5 tbsp of sesame oil?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-5-tbsp-sesame-oil"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>5 tablespoons of sesame oil is approximately 68 grams. This conversion is essential for air fryer recipes where precise measurements ensure perfect results. Whether you're frying, roasting, or baking, knowing the exact weight helps maintain consistency. For more air fryer tips, check out <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>.</p>  

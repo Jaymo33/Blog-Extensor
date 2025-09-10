@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream"
-        },
-        "headline": "Quick Guide: Convert 885 ml of Cream to Cups Easily",
-        "description": "Learn how to convert 885 ml of cream to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream"
+    },
+    "headline": "Quick Guide: Convert 885 ml of Cream to Cups Easily",
+    "description": "Learn how to convert 885 ml of cream to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-08-01T23:32:10.358Z",
-        "dateModified": "2025-08-01T23:32:10.358Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-885-ml-of-cream.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-08-01T23:32:10.358Z",
+    "dateModified": "2025-08-01T23:32:10.358Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-885-ml-of-cream.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 885 ml of cream the same as 885 grams?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "No, 885 ml of cream is not the same as 885 grams. The weight of cream can vary slightly depending on its fat content, but generally, 885 ml of cream weighs around 900 grams. Always check the specific density if precision is crucial for your recipe."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, 885 ml of cream is not the same as 885 grams. The weight of cream can vary slightly depending on its fat content, but generally, 885 ml of cream weighs around 900 grams. Always check the specific density if precision is crucial for your recipe."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use 885 ml of cream in an air fryer recipe?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Absolutely! 885 ml of cream works well in many air fryer recipes, from creamy sauces to desserts. Just ensure you're using the right cup conversion (3.74 UK cups or 3.5 US cups) to match your recipe's requirements. Always follow the recipe's instructions for best results."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Absolutely! 885 ml of cream works well in many air fryer recipes, from creamy sauces to desserts. Just ensure you're using the right cup conversion (3.74 UK cups or 3.5 US cups) to match your recipe's requirements. Always follow the recipe's instructions for best results."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How do I measure 885 ml of cream without a measuring jug?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "If you don't have a measuring jug, you can use standard cups. In the UK, 885 ml is roughly 3.74 cups (using 250 ml per cup). In the US, it's about 3.5 cups (using 240 ml per cup). For accuracy, fill the cups to the brim and level off the top with a knife."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "If you don't have a measuring jug, you can use standard cups. In the UK, 885 ml is roughly 3.74 cups (using 250 ml per cup). In the US, it's about 3.5 cups (using 240 ml per cup). For accuracy, fill the cups to the brim and level off the top with a knife."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "What can I make with 885 ml of cream in an air fryer?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "You can make a variety of dishes with 885 ml of cream in an air fryer, such as creamy pasta bakes, custards, or even whipped cream for desserts. Check out our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a> for inspiration and step-by-step guides."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can make a variety of dishes with 885 ml of cream in an air fryer, such as creamy pasta bakes, custards, or even whipped cream for desserts. Check out our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a> for inspiration and step-by-step guides."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 885 ml of Cream?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 885 ml of Cream?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream",
     "description": "Learn how to convert 885 ml of cream to cups for perfect baking and cooking every time. Includes UK and US measurements for accuracy.",
     "inLanguage": "en",
     "datePublished": "2025-08-01T23:32:10.358000+00:00",
     "dateModified": "2025-08-01T23:32:10.358000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 885 ml of Cream?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-885-ml-of-cream"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>885 ml of cream is approximately 3.74 cups in the UK and 3.5 cups in the US. This conversion is essential for baking, cooking, or preparing air fryer recipes where precise measurements matter. Whether you're whipping up a dessert or a savoury dish, knowing how to convert millilitres to cups ensures consistency and perfect results every time.</p>

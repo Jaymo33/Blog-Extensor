@@ -9,184 +9,184 @@ author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
 {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water"
-        },
-        "headline": "Quick Answer: How Many Cups Is 500 Grams of Water?",
-        "description": "Find out exactly how many cups 500 grams of water equals for perfect air fryer recipes every time. Simple conversions for UK and US measurements.",
-        "author": {
-            "@type": "Person",
-            "name": "AirFryerRecipes.co.uk",
-            "url": "https://www.airfryerrecipe.co.uk/about",
-            "image": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water"
+    },
+    "headline": "Quick Answer: How Many Cups Is 500 Grams of Water?",
+    "description": "Find out exactly how many cups 500 grams of water equals for perfect air fryer recipes every time. Simple conversions for UK and US measurements.",
+    "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipes.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
             "@type": "ImageObject",
             "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
         }
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Air Fryer Recipe",
-    "logo": {
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
             "@type": "ImageObject",
             "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
         }
-        },
-        "datePublished": "2025-07-27T08:17:58.380Z",
-        "dateModified": "2025-07-27T08:17:58.380Z",
-        "image": {
-            "@type": "ImageObject",
-            "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-water.webp"
-        },
-        "about": {
-            "@type": "Thing",
-            "name": "Volume"
-        },
-        "articleSection": "Volume",
-        "inLanguage": "en-GB"
+    },
+    "datePublished": "2025-07-27T08:17:58.380Z",
+    "dateModified": "2025-07-27T08:17:58.380Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-500-grams-of-water.webp"
+    },
+    "about": {
+        "@type": "Thing",
+        "name": "Volume"
+    },
+    "articleSection": "Volume",
+    "inLanguage": "en-GB"
 }
 </script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "FAQPage",
+    "@type": "FAQPage",
     "mainEntity": [
-    {
+        {
             "@type": "Question",
             "name": "Is 500 grams of water the same as 500ml?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Yes, 500 grams of water is equivalent to 500ml, as water has a density of 1 gram per millilitre. This makes it easy to measure by volume or weight. However, this only applies to water—other liquids like oil or milk have different densities."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, 500 grams of water is equivalent to 500ml, as water has a density of 1 gram per millilitre. This makes it easy to measure by volume or weight. However, this only applies to water—other liquids like oil or milk have different densities."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Why do UK and US cup measurements differ for water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "UK and US cup measurements differ slightly because they use different standards. A UK cup is 236.6ml, while a US cup is 240ml. This small difference means 500 grams of water is about 2.11 cups in the UK and 2.1 cups in the US. Always check which standard your recipe uses."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "UK and US cup measurements differ slightly because they use different standards. A UK cup is 236.6ml, while a US cup is 240ml. This small difference means 500 grams of water is about 2.11 cups in the UK and 2.1 cups in the US. Always check which standard your recipe uses."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "Can I use a regular mug to measure 500 grams of water?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Using a regular mug isn’t recommended for accuracy, as mug sizes vary widely. For precise measurements, use a kitchen scale for grams or a standard measuring cup for millilitres. This ensures your air fryer recipes turn out perfectly every time."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Using a regular mug isn’t recommended for accuracy, as mug sizes vary widely. For precise measurements, use a kitchen scale for grams or a standard measuring cup for millilitres. This ensures your air fryer recipes turn out perfectly every time."
+            }
         },
-    {
+        {
             "@type": "Question",
             "name": "How does water measurement affect air fryer cooking times?",
-    "acceptedAnswer": {
-            "@type": "Answer",
-    "text": "Water content affects cooking times because it influences heat transfer and moisture levels. Too much water can extend cooking times, while too little may dry out food. Measuring 500 grams of water accurately helps maintain consistent results in air fryer recipes."
-        }
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Water content affects cooking times because it influences heat transfer and moisture levels. Too much water can extend cooking times, while too little may dry out food. Measuring 500 grams of water accurately helps maintain consistent results in air fryer recipes."
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "How Many Cups Is 500 Grams of Water?",
-            "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water",
+    "@type": "WebPage",
+    "name": "How Many Cups Is 500 Grams of Water?",
+    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water",
     "description": "Find out exactly how many cups 500 grams of water equals for perfect air fryer recipes every time. Simple conversions for UK and US measurements.",
     "inLanguage": "en",
     "datePublished": "2025-07-27T08:17:58.380000+00:00",
     "dateModified": "2025-07-27T08:17:58.380000+00:00"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "BreadcrumbList",
-            "name": "Breadcrumbs",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water#breadcrumbs",
+    "@type": "BreadcrumbList",
+    "name": "Breadcrumbs",
+    "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water#breadcrumbs",
     "itemListElement": [
-    {
+        {
             "@type": "ListItem",
-    "position": 1,
+            "position": 1,
             "name": "Home",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 2,
+            "position": 2,
             "name": "blogs",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog"
+            }
         },
-    {
+        {
             "@type": "ListItem",
-    "position": 3,
+            "position": 3,
             "name": "How Many Cups Is 500 Grams of Water?",
-    "item": {
-            "@type": "WebPage",
-            "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water"
-        }
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-500-grams-of-water"
+            }
         }
     ]
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.airfryerrecipe.co.uk",
-            "name": "Air Fryer Recipes",
+    "@type": "WebSite",
+    "url": "https://www.airfryerrecipe.co.uk",
+    "name": "Air Fryer Recipes",
     "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
     "inLanguage": "en"
-        }
-    </script>
+}
+</script>
 
     <script type="application/ld+json">
-    {
+{
     "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Air Fryer Recipes",
-            "url": "https://www.airfryerrecipe.co.uk",
+    "@type": "Organization",
+    "name": "Air Fryer Recipes",
+    "url": "https://www.airfryerrecipe.co.uk",
     "logo": {
-            "@type": "ImageObject",
-            "url": "https://www.airfryerrecipe.co.uk/brand"
-        },
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+    },
     "areaServed": [
-    {
+        {
             "@type": "Country",
             "name": "United Kingdom"
         },
-    {
+        {
             "@type": "Country",
             "name": "United States"
         }
     ],
     "contactPoint": {
-            "@type": "ContactPoint",
-    "contactType": "customer support",
-    "areaServed": [
-    "GB",
-    "US"
-    ],
-    "availableLanguage": [
-    "English"
-    ],
-    "email": "support@airfryerrecipe.co.uk"
-        }
-        }
-    </script>
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": [
+            "GB",
+            "US"
+        ],
+        "availableLanguage": [
+            "English"
+        ],
+        "email": "support@airfryerrecipe.co.uk"
+    }
+}
+</script>
 ---
 
 <p>500 grams of water equals approximately 2.11 cups in the UK or 2.1 cups in the US. This conversion is essential for air fryer recipes where precise measurements matter. Whether you’re baking a cake or preparing a savoury dish, knowing how to convert grams to cups ensures perfect results every time. At <a href=https://www.airfryerrecipe.co.uk/>airfryerrecipe.co.uk</a>, we make these conversions easy so you can focus on cooking.</p>
