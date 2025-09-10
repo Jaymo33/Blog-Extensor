@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-4-quart-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-4-quart-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/what-size-liners-fit-4-quart-air-fryer"
-    },
-    "headline": "Best 4 Quart Air Fryer Liners – Perfect Fit Guide & Tips",
-    "description": "Discover the perfect liner size for your 4 quart air fryer with our expert guide. Find reusable, silicone, or paper liners for easy cooking and cleaning.",
-    "author": {
+  },
+  "headline": "Best 4 Quart Air Fryer Liners – Perfect Fit Guide & Tips",
+  "description": "Discover the perfect liner size for your 4 quart air fryer with our expert guide. Find reusable, silicone, or paper liners for easy cooking and cleaning.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-28T20:10:54.552000+00:00",
-    "dateModified": "2025-07-28T20:10:54.552000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-28T20:10:54.552Z",
+  "dateModified": "2025-07-28T20:10:54.552Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/what-size-liners-fit-4-quart-air-fryer.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Liner"
-    },
-    "articleSection": "Liner",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Liner",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

@@ -8,42 +8,42 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/156-c-to-f",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/156-c-to-f",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/156-c-to-f"
-    },
-    "headline": "How Do You Convert 156 C to F?",
-    "description": "Wondering what 156 C is in Fahrenheit for your air fryer? It's about 312.8 F! Discover how this conversion helps with precise cooking to make your air frying journey easier.",
-    "author": {
+  },
+  "headline": "How Do You Convert 156 C to F?",
+  "description": "Wondering what 156 C is in Fahrenheit for your air fryer? It's about 312.8 F! Discover how this conversion helps with precise cooking to make your air frying journey easier.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-20T12:06:15.087000+00:00",
-    "dateModified": "2025-07-20T12:06:15.087000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-20T12:06:15.087Z",
+  "dateModified": "2025-07-20T12:06:15.087Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/156-c-to-f.png"
-    },
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

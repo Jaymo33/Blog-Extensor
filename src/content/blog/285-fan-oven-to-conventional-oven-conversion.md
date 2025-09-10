@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/285-fan-oven-to-conventional-oven-conversion",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/285-fan-oven-to-conventional-oven-conversion",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/285-fan-oven-to-conventional-oven-conversion"
-    },
-    "headline": "Quick 285 Fan Oven to Conventional Oven Conversion Guide",
-    "description": "Learn how to convert 285°F in a fan oven to a conventional oven easily. Perfect for baking and air frying with accurate results every time.",
-    "author": {
+  },
+  "headline": "Quick 285 Fan Oven to Conventional Oven Conversion Guide",
+  "description": "Learn how to convert 285°F in a fan oven to a conventional oven easily. Perfect for baking and air frying with accurate results every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-25T17:54:50.373000+00:00",
-    "dateModified": "2025-07-25T17:54:50.373000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-25T17:54:50.373Z",
+  "dateModified": "2025-07-25T17:54:50.373Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/285-fan-oven-to-conventional-oven-conversion.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "FanOven"
-    },
-    "articleSection": "FanOven",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "FanOven",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

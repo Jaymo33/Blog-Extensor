@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-chicken-broth",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-chicken-broth",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-510-ml-of-chicken-broth"
-    },
-    "headline": "Quick Answer: How Many Cups Is 510 ml of Chicken Broth?",
-    "description": "Discover how to convert 510 ml of chicken broth to cups for perfect air fryer recipes every time. Get precise measurements now!",
-    "author": {
+  },
+  "headline": "Quick Answer: How Many Cups Is 510 ml of Chicken Broth?",
+  "description": "Discover how to convert 510 ml of chicken broth to cups for perfect air fryer recipes every time. Get precise measurements now!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-01T00:26:06.873000+00:00",
-    "dateModified": "2025-08-01T00:26:06.873000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-01T00:26:06.873Z",
+  "dateModified": "2025-08-01T00:26:06.873Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-510-ml-of-chicken-broth.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Volume"
-    },
-    "articleSection": "Volume",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Volume",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "What air fryer recipes use 510 ml of chicken broth?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Dishes like air-fried risotto, braised meats, or vegetable stews often call for 510 ml of chicken broth. It’s also great for deglazing or creating sauces. Check <a href=\"https://www.airfryerrecipe.co.uk/recipes\">our recipes</a> for inspiration."
+    "text": "Dishes like air-fried risotto, braised meats, or vegetable stews often call for 510 ml of chicken broth. It’s also great for deglazing or creating sauces. Check <a href="https://www.airfryerrecipe.co.uk/recipes">our recipes</a> for inspiration."
     }
     }
     ]

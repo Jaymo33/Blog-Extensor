@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/191-fan-oven-to-conventional-oven-conversion-fahrenheit",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/191-fan-oven-to-conventional-oven-conversion-fahrenheit",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/191-fan-oven-to-conventional-oven-conversion-fahrenheit"
-    },
-    "headline": "Quick 191 Fan Oven to Fahrenheit Conversion Guide for Perfect Baking",
-    "description": "Learn how to convert 191 fan oven to Fahrenheit for flawless baking results with our easy temperature guide and air fryer tips.",
-    "author": {
+  },
+  "headline": "Quick 191 Fan Oven to Fahrenheit Conversion Guide for Perfect Baking",
+  "description": "Learn how to convert 191 fan oven to Fahrenheit for flawless baking results with our easy temperature guide and air fryer tips.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-23T23:21:44.275000+00:00",
-    "dateModified": "2025-07-23T23:21:44.275000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-23T23:21:44.275Z",
+  "dateModified": "2025-07-23T23:21:44.275Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/191-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "FanOven"
-    },
-    "articleSection": "FanOven",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "FanOven",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

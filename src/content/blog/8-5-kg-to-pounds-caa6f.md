@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/8-5-kg-to-pounds-caa6f",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/8-5-kg-to-pounds-caa6f",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/8-5-kg-to-pounds-caa6f"
-    },
-    "headline": "Quick 8.5 kg to Pounds Conversion for Air Fryer Cooking",
-    "description": "Convert 8.5 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
-    "author": {
+  },
+  "headline": "Quick 8.5 kg to Pounds Conversion for Air Fryer Cooking",
+  "description": "Convert 8.5 kg to pounds instantly for perfect air fryer portions. Get accurate measurements and cooking tips for better results every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-21T17:56:15.635000+00:00",
-    "dateModified": "2025-08-21T17:56:15.635000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-21T17:56:15.635Z",
+  "dateModified": "2025-08-21T17:56:15.635Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-5-kg-to-pounds-caa6f.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Are there any tools that can automatically convert 8.5 kg to pounds for me?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Yes, many tools can automatically convert 8.5 kg to pounds for you. Most modern digital kitchen scales have a unit conversion button that switches between kilograms and pounds instantly. Smartphone calculators and voice assistants like Siri or Google Assistant can also perform this conversion if you ask \"what is 8.5 kg in pounds.\" There are also numerous conversion apps and websites dedicated to kitchen measurements that can handle this calculation quickly and accurately."
+    "text": "Yes, many tools can automatically convert 8.5 kg to pounds for you. Most modern digital kitchen scales have a unit conversion button that switches between kilograms and pounds instantly. Smartphone calculators and voice assistants like Siri or Google Assistant can also perform this conversion if you ask "what is 8.5 kg in pounds." There are also numerous conversion apps and websites dedicated to kitchen measurements that can handle this calculation quickly and accurately."
     }
     }
     ]

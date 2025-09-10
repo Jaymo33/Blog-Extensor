@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/1-kg-prawns-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/1-kg-prawns-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/1-kg-prawns-to-pounds"
-    },
-    "headline": "Quick 1 kg Prawns to Pounds Conversion for Perfect Air Frying",
-    "description": "Convert 1 kg prawns to pounds instantly for accurate air fryer cooking. Get perfect results every time with our easy guide and handy conversion chart.",
-    "author": {
+  },
+  "headline": "Quick 1 kg Prawns to Pounds Conversion for Perfect Air Frying",
+  "description": "Convert 1 kg prawns to pounds instantly for accurate air fryer cooking. Get perfect results every time with our easy guide and handy conversion chart.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T23:54:12.977000+00:00",
-    "dateModified": "2025-08-23T23:54:12.977000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T23:54:12.977Z",
+  "dateModified": "2025-08-23T23:54:12.977Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-kg-prawns-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Should I weigh prawns with or without shells when converting 1 kg to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "When converting 1 kg prawns to pounds, you should weigh them as purchased, which typically includes the shells unless specifically stated otherwise. Most recipes that provide weight measurements for prawns assume the weight includes shells, as this is how they're commonly sold. If your recipe calls for peeled prawns, you'll need to account for the weight reduction after shelling, which usually amounts to about 30-40% of the total weight.\n\nRemember that if a recipe specifies \"peeled weight,\" you'll need to start with more prawns to end up with the required amount after shell removal. This is particularly important for air fryer cooking, where precise quantities affect cooking times and results."
+    "text": "When converting 1 kg prawns to pounds, you should weigh them as purchased, which typically includes the shells unless specifically stated otherwise. Most recipes that provide weight measurements for prawns assume the weight includes shells, as this is how they're commonly sold. If your recipe calls for peeled prawns, you'll need to account for the weight reduction after shelling, which usually amounts to about 30-40% of the total weight.\n\nRemember that if a recipe specifies "peeled weight," you'll need to start with more prawns to end up with the required amount after shell removal. This is particularly important for air fryer cooking, where precise quantities affect cooking times and results."
     }
     },
     {

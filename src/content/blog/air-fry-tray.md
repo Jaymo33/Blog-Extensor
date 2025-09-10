@@ -8,42 +8,42 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/air-fry-tray",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/air-fry-tray",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/air-fry-tray"
-    },
-    "headline": "What is an air fry tray and why do you need one?",
-    "description": "An air fry tray is a must-have accessory for any air fryer enthusiast. It helps cook food more evenly and gives you extra space for batches. Whether you're making salmon, chicken, or veggies, this simple gadget transforms your air frying game.",
-    "author": {
+  },
+  "headline": "What is an air fry tray and why do you need one?",
+  "description": "An air fry tray is a must-have accessory for any air fryer enthusiast. It helps cook food more evenly and gives you extra space for batches. Whether you're making salmon, chicken, or veggies, this simple gadget transforms your air frying game.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-20T12:06:15.087000+00:00",
-    "dateModified": "2025-07-20T12:06:15.087000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-20T12:06:15.087Z",
+  "dateModified": "2025-07-20T12:06:15.087Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/air-fry-tray.png"
-    },
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

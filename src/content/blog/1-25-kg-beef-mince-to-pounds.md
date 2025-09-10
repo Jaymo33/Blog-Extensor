@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-beef-mince-to-pounds"
-    },
-    "headline": "Quick 1.25 kg Beef Mince to Pounds Conversion Guide",
-    "description": "Convert 1.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer meals every time. Easy guide inside!",
-    "author": {
+  },
+  "headline": "Quick 1.25 kg Beef Mince to Pounds Conversion Guide",
+  "description": "Convert 1.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer meals every time. Easy guide inside!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T19:48:49.567000+00:00",
-    "dateModified": "2025-08-23T19:48:49.567000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T19:48:49.567Z",
+  "dateModified": "2025-08-23T19:48:49.567Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-25-kg-beef-mince-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "How does 1.25 kg of beef mince compare to typical supermarket packaging?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "1.25 kg is a very common pack size for beef mince in UK supermarkets, often sold as a \"family pack.\" You will frequently find trays labelled as 1.25kg, or sometimes as 1.2kg or 1.3kg. Knowing that 1.25kg is approximately 2.76 pounds helps if you are using an American recipe that calls for a specific weight in pounds, allowing you to buy the correct amount."
+    "text": "1.25 kg is a very common pack size for beef mince in UK supermarkets, often sold as a "family pack." You will frequently find trays labelled as 1.25kg, or sometimes as 1.2kg or 1.3kg. Knowing that 1.25kg is approximately 2.76 pounds helps if you are using an American recipe that calls for a specific weight in pounds, allowing you to buy the correct amount."
     }
     },
     {

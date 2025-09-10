@@ -8,42 +8,42 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/jamie-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/jamie-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/jamie-air-fryer"
-    },
-    "headline": "What’s the Deal with Jamie Oliver’s Air Fryer Adventures?",
-    "description": "Jamie Oliver has fully embraced the air fryer revolution with books, TV shows, and mouthwatering recipes. From his jamie air fryer book to his popular TV programme, he’s making quick meals effortless. Whether you’re after crispy chicken or healthy veg, Jamie’s got you covered.",
-    "author": {
+  },
+  "headline": "What’s the Deal with Jamie Oliver’s Air Fryer Adventures?",
+  "description": "Jamie Oliver has fully embraced the air fryer revolution with books, TV shows, and mouthwatering recipes. From his jamie air fryer book to his popular TV programme, he’s making quick meals effortless. Whether you’re after crispy chicken or healthy veg, Jamie’s got you covered.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-20T12:06:15.087000+00:00",
-    "dateModified": "2025-07-20T12:06:15.087000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-20T12:06:15.087Z",
+  "dateModified": "2025-07-20T12:06:15.087Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/jamie-air-fryer.png"
-    },
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

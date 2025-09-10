@@ -8,42 +8,42 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/air-fryer-with-glass",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/air-fryer-with-glass",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/air-fryer-with-glass"
-    },
-    "headline": "What is an air fryer with glass and is it worth buying?",
-    "description": "Glass air fryers let you watch food crisp up without lifting the lid. These sleek appliances combine rapid air circulation with transparent cooking chambers. We'll explore if they're right for your kitchen and share top UK recommendations.",
-    "author": {
+  },
+  "headline": "What is an air fryer with glass and is it worth buying?",
+  "description": "Glass air fryers let you watch food crisp up without lifting the lid. These sleek appliances combine rapid air circulation with transparent cooking chambers. We'll explore if they're right for your kitchen and share top UK recommendations.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-20T12:06:15.087000+00:00",
-    "dateModified": "2025-07-20T12:06:15.087000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-20T12:06:15.087Z",
+  "dateModified": "2025-07-20T12:06:15.087Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/air-fryer-with-glass.png"
-    },
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

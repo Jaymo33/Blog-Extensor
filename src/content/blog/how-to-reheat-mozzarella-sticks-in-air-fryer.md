@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-mozzarella-sticks-in-air-fryer"
-    },
-    "headline": "Reheat Mozzarella Sticks in Air Fryer - Crispy & Gooey Results",
-    "description": "Learn the best way to reheat mozzarella sticks in an air fryer for crispy exteriors and melted cheese inside. Quick, easy method with perfect results.",
-    "author": {
+  },
+  "headline": "Reheat Mozzarella Sticks in Air Fryer - Crispy & Gooey Results",
+  "description": "Learn the best way to reheat mozzarella sticks in an air fryer for crispy exteriors and melted cheese inside. Quick, easy method with perfect results.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-22T19:59:55.735000+00:00",
-    "dateModified": "2025-07-22T19:59:55.735000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-22T19:59:55.735Z",
+  "dateModified": "2025-07-22T19:59:55.735Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-mozzarella-sticks-in-air-fryer.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Reheat"
-    },
-    "articleSection": "Reheat",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Reheat",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

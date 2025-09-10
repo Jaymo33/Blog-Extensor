@@ -1,0 +1,126 @@
+{
+  "moved": [
+    {
+      "slug": "0-1-kg-to-pounds",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/0-1-kg-to-pounds",
+      "newSlug": "conversions/kg-to-pounds/0-1-kg-to-pounds",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/conversions/kg-to-pounds/0-1-kg-to-pounds",
+      "category": "conversions",
+      "hub": "kg-to-pounds",
+      "filePath": "src\\content\\blog\\0-1-kg-to-pounds.md",
+      "contentLength": "15862",
+      "newPath": "src\\content\\blog\\conversions\\kg-to-pounds\\0-1-kg-to-pounds.md",
+      "timestamp": "2025-09-10T10:27:20.946Z"
+    },
+    {
+      "slug": "0-125-cup-crushed-garlic-to-ounces",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/0-125-cup-crushed-garlic-to-ounces",
+      "newSlug": "conversions/cups-to-ounces/0-125-cup-crushed-garlic-to-ounces",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/conversions/cups-to-ounces/0-125-cup-crushed-garlic-to-ounces",
+      "category": "conversions",
+      "hub": "cups-to-ounces",
+      "filePath": "src\\content\\blog\\0-125-cup-crushed-garlic-to-ounces.md",
+      "contentLength": "9965",
+      "newPath": "src\\content\\blog\\conversions\\cups-to-ounces\\0-125-cup-crushed-garlic-to-ounces.md",
+      "timestamp": "2025-09-10T10:27:20.959Z"
+    },
+    {
+      "slug": "11-liter-air-fryer",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/11-liter-air-fryer",
+      "newSlug": "products/air-fryers/models/11-liter-air-fryer",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/products/air-fryers/models/11-liter-air-fryer",
+      "category": "products/air-fryers",
+      "hub": "models",
+      "filePath": "src\\content\\blog\\11-liter-air-fryer.md",
+      "contentLength": "8037",
+      "newPath": "src\\content\\blog\\products\\air-fryers\\models\\11-liter-air-fryer.md",
+      "timestamp": "2025-09-10T10:27:20.962Z"
+    },
+    {
+      "slug": "2-qt-air-fryer",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/2-qt-air-fryer",
+      "newSlug": "products/air-fryers/models/2-qt-air-fryer",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/products/air-fryers/models/2-qt-air-fryer",
+      "category": "products/air-fryers",
+      "hub": "models",
+      "filePath": "src\\content\\blog\\2-qt-air-fryer.md",
+      "contentLength": "8474",
+      "newPath": "src\\content\\blog\\products\\air-fryers\\models\\2-qt-air-fryer.md",
+      "timestamp": "2025-09-10T10:27:20.965Z"
+    },
+    {
+      "slug": "acrylamide-air-fryer",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/acrylamide-air-fryer",
+      "newSlug": "health/air-fryer-health/acrylamide-air-fryer",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/acrylamide-air-fryer",
+      "category": "health",
+      "hub": "air-fryer-health",
+      "filePath": "src\\content\\blog\\acrylamide-air-fryer.md",
+      "contentLength": "11666",
+      "newPath": "src\\content\\blog\\health\\air-fryer-health\\acrylamide-air-fryer.md",
+      "timestamp": "2025-09-10T10:27:20.968Z"
+    },
+    {
+      "slug": "actifry-air-fryer",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/actifry-air-fryer",
+      "newSlug": "products/brands/actifry/models/actifry-air-fryer",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/products/brands/actifry/models/actifry-air-fryer",
+      "category": "products/brands",
+      "hub": "actifry/models",
+      "filePath": "src\\content\\blog\\actifry-air-fryer.md",
+      "contentLength": "10648",
+      "newPath": "src\\content\\blog\\products\\brands\\actifry\\models\\actifry-air-fryer.md",
+      "timestamp": "2025-09-10T10:27:20.971Z"
+    },
+    {
+      "slug": "air-fryer-accessories-for-tower",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/air-fryer-accessories-for-tower",
+      "newSlug": "products/brands/tower/air-fryer-accessories-for-tower",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/products/brands/tower/air-fryer-accessories-for-tower",
+      "category": "products/brands",
+      "hub": "tower",
+      "filePath": "src\\content\\blog\\air-fryer-accessories-for-tower.md",
+      "contentLength": "8973",
+      "newPath": "src\\content\\blog\\products\\brands\\tower\\air-fryer-accessories-for-tower.md",
+      "timestamp": "2025-09-10T10:27:20.974Z"
+    },
+    {
+      "slug": "can-you-put-baking-tin-in-air-fryer",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/can-you-put-baking-tin-in-air-fryer",
+      "newSlug": "safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer",
+      "category": "safety",
+      "hub": "can-you-air-fry-it",
+      "filePath": "src\\content\\blog\\can-you-put-baking-tin-in-air-fryer.md",
+      "contentLength": "10289",
+      "newPath": "src\\content\\blog\\safety\\can-you-air-fry-it\\can-you-put-baking-tin-in-air-fryer.md",
+      "timestamp": "2025-09-10T10:27:20.976Z"
+    },
+    {
+      "slug": "can-you-put-baking-tin-in-an-air-fryer",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/can-you-put-baking-tin-in-an-air-fryer",
+      "newSlug": "safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer",
+      "category": "safety",
+      "hub": "can-you-air-fry-it",
+      "filePath": "src\\content\\blog\\can-you-put-baking-tin-in-an-air-fryer.md",
+      "contentLength": "10064",
+      "newPath": "src\\content\\blog\\safety\\can-you-air-fry-it\\can-you-put-baking-tin-in-an-air-fryer.md",
+      "timestamp": "2025-09-10T10:27:20.979Z"
+    },
+    {
+      "slug": "can-you-put-oil-spray-in-an-air-fryer",
+      "oldUrl": "https://www.airfryerrecipe.co.uk/blog/can-you-put-oil-spray-in-an-air-fryer",
+      "newSlug": "health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer",
+      "newUrl": "https://www.airfryerrecipe.co.uk/blog/health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer",
+      "category": "health",
+      "hub": "air-fryer-health",
+      "filePath": "src\\content\\blog\\can-you-put-oil-spray-in-an-air-fryer.md",
+      "contentLength": "10289",
+      "newPath": "src\\content\\blog\\health\\air-fryer-health\\can-you-put-oil-spray-in-an-air-fryer.md",
+      "timestamp": "2025-09-10T10:27:20.982Z"
+    }
+  ],
+  "failed": [],
+  "currentBatch": 1
+}

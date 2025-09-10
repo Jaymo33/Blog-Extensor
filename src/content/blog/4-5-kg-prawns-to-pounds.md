@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-prawns-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-prawns-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/4-5-kg-prawns-to-pounds"
-    },
-    "headline": "Easy 4.5 kg prawns to pounds conversion for perfect air frying",
-    "description": "Convert 4.5 kg prawns to pounds quickly for accurate air fryer cooking. Get perfect results every time with our simple guide and tips.",
-    "author": {
+  },
+  "headline": "Easy 4.5 kg prawns to pounds conversion for perfect air frying",
+  "description": "Convert 4.5 kg prawns to pounds quickly for accurate air fryer cooking. Get perfect results every time with our simple guide and tips.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T23:54:12.977000+00:00",
-    "dateModified": "2025-08-23T23:54:12.977000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T23:54:12.977Z",
+  "dateModified": "2025-08-23T23:54:12.977Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-5-kg-prawns-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Where can I find more air fryer recipes for prawns?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "You can find a wide variety of air fryer prawn recipes on our website, <a href=\"https://www.airfryerrecipe.co.uk\">airfryerrecipe.co.uk</a>. We have everything from simple garlic prawns to more elaborate dishes. Our recipe categories are regularly updated with new ideas and tips. Cooking prawns in the air fryer is quick, healthy, and delicious."
+    "text": "You can find a wide variety of air fryer prawn recipes on our website, <a href="https://www.airfryerrecipe.co.uk">airfryerrecipe.co.uk</a>. We have everything from simple garlic prawns to more elaborate dishes. Our recipe categories are regularly updated with new ideas and tips. Cooking prawns in the air fryer is quick, healthy, and delicious."
     }
     }
     ]

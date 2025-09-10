@@ -8,42 +8,42 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-long-do-sausages-take-in-the-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-long-do-sausages-take-in-the-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-long-do-sausages-take-in-the-air-fryer"
-    },
-    "headline": "How Long do Sausages Take in the Air Fryer",
-    "description": "Getting sausages spot-on in the air fryer is simpler than you think — and quicker than the oven. Whether you're cooking classic British sausages, chipolatas, or meat-free alternatives, most varieties are ready in just 10 to 15 minutes at 180°C. The trick is spacing: give them room to breathe so the heat can circulate evenly, turning once halfway through for a crisp, golden finish all over.",
-    "author": {
+  },
+  "headline": "How Long do Sausages Take in the Air Fryer",
+  "description": "Getting sausages spot-on in the air fryer is simpler than you think — and quicker than the oven. Whether you're cooking classic British sausages, chipolatas, or meat-free alternatives, most varieties are ready in just 10 to 15 minutes at 180°C. The trick is spacing: give them room to breathe so the heat can circulate evenly, turning once halfway through for a crisp, golden finish all over.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-20T12:06:15.087000+00:00",
-    "dateModified": "2025-07-20T12:06:15.087000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-20T12:06:15.087Z",
+  "dateModified": "2025-07-20T12:06:15.087Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-long-do-sausages-take-in-the-air-fryer.png"
-    },
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

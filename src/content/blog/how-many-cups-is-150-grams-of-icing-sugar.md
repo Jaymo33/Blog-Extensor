@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-icing-sugar",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-icing-sugar",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-cups-is-150-grams-of-icing-sugar"
-    },
-    "headline": "How Many Cups Is 150 Grams of Icing Sugar? – Quick Conversion Guide | AirFryerRecipe.co.uk",
-    "description": "Find out exactly how many cups 150 grams of icing sugar equals for perfect baking every time. Includes UK/US conversions and air fryer tips for precise measurements.",
-    "author": {
+  },
+  "headline": "How Many Cups Is 150 Grams of Icing Sugar? – Quick Conversion Guide | AirFryerRecipe.co.uk",
+  "description": "Find out exactly how many cups 150 grams of icing sugar equals for perfect baking every time. Includes UK/US conversions and air fryer tips for precise measurements.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-22T16:02:09.139000+00:00",
-    "dateModified": "2025-07-22T16:02:09.139000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-22T16:02:09.139Z",
+  "dateModified": "2025-07-22T16:02:09.139Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-cups-is-150-grams-of-icing-sugar.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

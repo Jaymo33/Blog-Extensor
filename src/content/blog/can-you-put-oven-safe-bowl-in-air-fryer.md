@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-oven-safe-bowl-in-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/can-you-put-oven-safe-bowl-in-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/can-you-put-oven-safe-bowl-in-air-fryer"
-    },
-    "headline": "Oven-Safe Bowl in Air Fryer: Safety & Tips | UK Guide",
-    "description": "Wondering if oven-safe bowls work in air fryers? Discover safety tips, compatibility checks, and best practices for UK air fryer users.",
-    "author": {
+  },
+  "headline": "Oven-Safe Bowl in Air Fryer: Safety & Tips | UK Guide",
+  "description": "Wondering if oven-safe bowls work in air fryers? Discover safety tips, compatibility checks, and best practices for UK air fryer users.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-22T23:30:57.071000+00:00",
-    "dateModified": "2025-07-22T23:30:57.071000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-22T23:30:57.071Z",
+  "dateModified": "2025-07-22T23:30:57.071Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/can-you-put-oven-safe-bowl-in-air-fryer.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Safety"
-    },
-    "articleSection": "Safety",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Safety",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

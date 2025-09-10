@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-25-cups-tomato-sauce",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-25-cups-tomato-sauce",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-0-25-cups-tomato-sauce"
-    },
-    "headline": "Quick Answer: How Many ml Is 0.25 Cups of Tomato Sauce?",
-    "description": "Discover the exact ml measurement for 0.25 cups of tomato sauce with our easy conversion guide—perfect for air fryer recipes!",
-    "author": {
+  },
+  "headline": "Quick Answer: How Many ml Is 0.25 Cups of Tomato Sauce?",
+  "description": "Discover the exact ml measurement for 0.25 cups of tomato sauce with our easy conversion guide—perfect for air fryer recipes!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-28T20:10:54.895000+00:00",
-    "dateModified": "2025-07-28T20:10:54.895000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-28T20:10:54.895Z",
+  "dateModified": "2025-07-28T20:10:54.895Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-0-25-cups-tomato-sauce.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -60,7 +60,7 @@ schema: |
     "name": "Is 0.25 cups of tomato sauce the same in the UK and USA?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Yes, 0.25 cups equals 59 ml in both UK and US measurements. Cup sizes are standardized in cooking, though some regional recipes may use different tomato sauce thicknesses. Always check if your recipe specifies \"UK cups\" (rare) or standard cups."
+    "text": "Yes, 0.25 cups equals 59 ml in both UK and US measurements. Cup sizes are standardized in cooking, though some regional recipes may use different tomato sauce thicknesses. Always check if your recipe specifies "UK cups" (rare) or standard cups."
     }
     },
     {

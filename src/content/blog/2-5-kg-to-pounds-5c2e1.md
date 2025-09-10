@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-to-pounds-5c2e1",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-to-pounds-5c2e1",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/2-5-kg-to-pounds-5c2e1"
-    },
-    "headline": "Quick 2.5 kg to pounds conversion for air fryer cooking",
-    "description": "Convert 2.5 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and meal prep with our easy guide.",
-    "author": {
+  },
+  "headline": "Quick 2.5 kg to pounds conversion for air fryer cooking",
+  "description": "Convert 2.5 kg to pounds instantly for perfect air fryer portions. Get accurate measurements for recipes and meal prep with our easy guide.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-21T16:38:42.976000+00:00",
-    "dateModified": "2025-08-21T16:38:42.976000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-21T16:38:42.976Z",
+  "dateModified": "2025-08-21T16:38:42.976Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-5-kg-to-pounds-5c2e1.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

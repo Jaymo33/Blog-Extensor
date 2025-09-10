@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-agave-syrup",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-agave-syrup",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-100g-of-agave-syrup"
-    },
-    "headline": "Quick Answer: How many ounces is 100g of agave syrup?",
-    "description": "Find out exactly how many ounces 100g of agave syrup is with our simple conversion guide. Perfect for air fryer recipes and precise measurements.",
-    "author": {
+  },
+  "headline": "Quick Answer: How many ounces is 100g of agave syrup?",
+  "description": "Find out exactly how many ounces 100g of agave syrup is with our simple conversion guide. Perfect for air fryer recipes and precise measurements.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-08T21:33:21.570000+00:00",
-    "dateModified": "2025-08-08T21:33:21.570000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-08T21:33:21.570Z",
+  "dateModified": "2025-08-08T21:33:21.570Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-100g-of-agave-syrup.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "Is agave syrup healthier than sugar for air fryer recipes?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Agave syrup has a lower glycemic index than sugar, making it a popular choice for healthier recipes. However, it’s still high in fructose, so moderation is key. In air fryer cooking, agave syrup can provide a smoother sweetness without the granular texture of sugar, but it’s not necessarily \"healthier\" in large quantities."
+    "text": "Agave syrup has a lower glycemic index than sugar, making it a popular choice for healthier recipes. However, it’s still high in fructose, so moderation is key. In air fryer cooking, agave syrup can provide a smoother sweetness without the granular texture of sugar, but it’s not necessarily "healthier" in large quantities."
     }
     },
     {

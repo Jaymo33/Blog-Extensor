@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/25g-tomato-paste-to-ounces"
-    },
-    "headline": "Quick 25g tomato paste to ounces conversion for air fryer recipes",
-    "description": "Convert 25g of tomato paste to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
-    "author": {
+  },
+  "headline": "Quick 25g tomato paste to ounces conversion for air fryer recipes",
+  "description": "Convert 25g of tomato paste to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise cooking measurements.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-08T21:33:21.570000+00:00",
-    "dateModified": "2025-08-08T21:33:21.570000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-08T21:33:21.570Z",
+  "dateModified": "2025-08-08T21:33:21.570Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/25g-tomato-paste-to-ounces.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Why is weight measurement better than volume for tomato paste?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Weight measurement is more accurate for tomato paste because it's so dense and sticky. Volume measurements can vary based on how the paste is packed into the spoon. 25g will always be 25g, but a \"tablespoon\" could range from 15g to 20g depending on how it's measured."
+    "text": "Weight measurement is more accurate for tomato paste because it's so dense and sticky. Volume measurements can vary based on how the paste is packed into the spoon. 25g will always be 25g, but a "tablespoon" could range from 15g to 20g depending on how it's measured."
     }
     }
     ]

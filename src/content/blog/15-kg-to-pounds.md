@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/15-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/15-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/15-kg-to-pounds"
-    },
-    "headline": "Quick 15.0 kg to Pounds Conversion for Air Fryer Cooking",
-    "description": "Convert 15.0 kg to pounds instantly for perfect air fryer portions. Master weight conversions for better cooking results and easy recipe scaling.",
-    "author": {
+  },
+  "headline": "Quick 15.0 kg to Pounds Conversion for Air Fryer Cooking",
+  "description": "Convert 15.0 kg to pounds instantly for perfect air fryer portions. Master weight conversions for better cooking results and easy recipe scaling.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T19:54:05.768000+00:00",
-    "dateModified": "2025-08-20T19:54:05.768000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T19:54:05.768Z",
+  "dateModified": "2025-08-20T19:54:05.768Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/15-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Where can I find more air fryer recipes that use these conversions?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "You can find a huge variety of air fryer recipes that might use kilogram or pound measurements on dedicated cooking websites like <a href=\"https://www.airfryerrecipe.co.uk/\">airfryerrecipe.co.uk</a>. Their extensive recipe collection includes everything from simple sides to elaborate main courses, often with clear measurements and portion guides. Exploring their categories, such as <a href=\"https://www.airfryerrecipe.co.uk/recipe-category/chicken\">chicken</a> or <a href=\"https://www.airfryerrecipe.co.uk/recipe-category/potatoes\">potatoes</a>, is a great way to put your conversion skills to the test."
+    "text": "You can find a huge variety of air fryer recipes that might use kilogram or pound measurements on dedicated cooking websites like <a href="https://www.airfryerrecipe.co.uk/">airfryerrecipe.co.uk</a>. Their extensive recipe collection includes everything from simple sides to elaborate main courses, often with clear measurements and portion guides. Exploring their categories, such as <a href="https://www.airfryerrecipe.co.uk/recipe-category/chicken">chicken</a> or <a href="https://www.airfryerrecipe.co.uk/recipe-category/potatoes">potatoes</a>, is a great way to put your conversion skills to the test."
     }
     }
     ]

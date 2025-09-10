@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/4-6-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/4-6-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/4-6-kg-to-pounds"
-    },
-    "headline": "Quick 4.6 kg to Pounds Conversion for Air Fryer Cooking",
-    "description": "Convert 4.6 kg to pounds instantly for perfect air fryer meal prep. Get accurate weight conversions and cooking tips in seconds.",
-    "author": {
+  },
+  "headline": "Quick 4.6 kg to Pounds Conversion for Air Fryer Cooking",
+  "description": "Convert 4.6 kg to pounds instantly for perfect air fryer meal prep. Get accurate weight conversions and cooking tips in seconds.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T00:27:11.141000+00:00",
-    "dateModified": "2025-08-20T00:27:11.141000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T00:27:11.141Z",
+  "dateModified": "2025-08-20T00:27:11.141Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/4-6-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversion"
-    },
-    "articleSection": "Conversion",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversion",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

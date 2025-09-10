@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-almond-milk",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-almond-milk",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-almond-milk"
-    },
-    "headline": "Quick Answer: 0.375 Cup Almond Milk to Ounces UK",
-    "description": "Convert 0.375 cup of almond milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
-    "author": {
+  },
+  "headline": "Quick Answer: 0.375 Cup Almond Milk to Ounces UK",
+  "description": "Convert 0.375 cup of almond milk to ounces in seconds with our easy guide. Perfect for air fryer recipes and precise measurements.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-10T23:45:58.474000+00:00",
-    "dateModified": "2025-08-10T23:45:58.474000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-10T23:45:58.474Z",
+  "dateModified": "2025-08-10T23:45:58.474Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-almond-milk.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "Does the brand of almond milk affect the 0.375 cup to ounces conversion?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "No, the conversion remains the same regardless of brand. 0.375 cup of any almond milk (sweetened, unsweetened, or flavoured) equals 3 fluid ounces. However, thicker \"barista blend\" almond milks might weigh slightly more by volume, so for baking in your air fryer, stick to standard varieties unless specified."
+    "text": "No, the conversion remains the same regardless of brand. 0.375 cup of any almond milk (sweetened, unsweetened, or flavoured) equals 3 fluid ounces. However, thicker "barista blend" almond milks might weigh slightly more by volume, so for baking in your air fryer, stick to standard varieties unless specified."
     }
     },
     {

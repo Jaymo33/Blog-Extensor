@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-rolled-oats",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-rolled-oats",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-3-cups-rolled-oats"
-    },
-    "headline": "Quick Answer: How Many Grams Is 3.0 Cups of Rolled Oats?",
-    "description": "Convert 3.0 cups of rolled oats to grams with ease. Perfect for air fryer recipes and precise baking measurements.",
-    "author": {
+  },
+  "headline": "Quick Answer: How Many Grams Is 3.0 Cups of Rolled Oats?",
+  "description": "Convert 3.0 cups of rolled oats to grams with ease. Perfect for air fryer recipes and precise baking measurements.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-28T20:10:54.672000+00:00",
-    "dateModified": "2025-07-28T20:10:54.672000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-28T20:10:54.672Z",
+  "dateModified": "2025-07-28T20:10:54.672Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-3-cups-rolled-oats.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Why do some sources give different gram weights for 3.0 cups of rolled oats?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Variations occur due to measuring techniques and oat processing methods. Some recipes use \"lightly packed\" cups (closer to 225g for 3.0 cups), while others measure uncompressed (240g). Environmental factors like humidity can also slightly alter weight. For air fryer recipes, we recommend the 240g standard for consistent results."
+    "text": "Variations occur due to measuring techniques and oat processing methods. Some recipes use "lightly packed" cups (closer to 225g for 3.0 cups), while others measure uncompressed (240g). Environmental factors like humidity can also slightly alter weight. For air fryer recipes, we recommend the 240g standard for consistent results."
     }
     }
     ]

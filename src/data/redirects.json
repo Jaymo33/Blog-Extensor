@@ -1,3 +1,12 @@
 {
-  "0-5-kg-chicken-wings-to-pounds": "kg-to-lb/0-5-kg-chicken-wings-to-pounds"
+  "0-1-kg-to-pounds": "conversions/kg-to-pounds/0-1-kg-to-pounds",
+  "0-125-cup-crushed-garlic-to-ounces": "conversions/cups-to-ounces/0-125-cup-crushed-garlic-to-ounces",
+  "11-liter-air-fryer": "products/air-fryers/models/11-liter-air-fryer",
+  "2-qt-air-fryer": "products/air-fryers/models/2-qt-air-fryer",
+  "acrylamide-air-fryer": "health/air-fryer-health/acrylamide-air-fryer",
+  "actifry-air-fryer": "products/brands/actifry/models/actifry-air-fryer",
+  "air-fryer-accessories-for-tower": "products/brands/tower/air-fryer-accessories-for-tower",
+  "can-you-put-baking-tin-in-air-fryer": "safety/can-you-air-fry-it/can-you-put-baking-tin-in-air-fryer",
+  "can-you-put-baking-tin-in-an-air-fryer": "safety/can-you-air-fry-it/can-you-put-baking-tin-in-an-air-fryer",
+  "can-you-put-oil-spray-in-an-air-fryer": "health/air-fryer-health/can-you-put-oil-spray-in-an-air-fryer"
 }

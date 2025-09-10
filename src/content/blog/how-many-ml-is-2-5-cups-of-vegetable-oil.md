@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-vegetable-oil",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-vegetable-oil",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ml-is-2-5-cups-of-vegetable-oil"
-    },
-    "headline": "Quick Guide: Convert 2.5 Cups of Vegetable Oil to ml Easily",
-    "description": "Learn how to convert 2.5 cups of vegetable oil to ml for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
-    "author": {
+  },
+  "headline": "Quick Guide: Convert 2.5 Cups of Vegetable Oil to ml Easily",
+  "description": "Learn how to convert 2.5 cups of vegetable oil to ml for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-30T08:54:42.156000+00:00",
-    "dateModified": "2025-07-30T08:54:42.156000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-30T08:54:42.156Z",
+  "dateModified": "2025-07-30T08:54:42.156Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ml-is-2-5-cups-of-vegetable-oil.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Volume"
-    },
-    "articleSection": "Volume",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Volume",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Can I use 591.47 ml of vegetable oil for deep frying in an air fryer?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Air fryers typically require minimal oil for \"deep frying\" effects. While 591.47 ml is precise, most recipes use far less. For traditional deep frying, a standard fryer is better suited."
+    "text": "Air fryers typically require minimal oil for "deep frying" effects. While 591.47 ml is precise, most recipes use far less. For traditional deep frying, a standard fryer is better suited."
     }
     },
     {

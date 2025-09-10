@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-soft-cheese",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-soft-cheese",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-half-cup-soft-cheese"
-    },
-    "headline": "Quick Answer: How Many Ounces is 0.5 Cup of Soft Cheese?",
-    "description": "Get the exact ounce conversion for 0.5 cup of soft cheese to perfect your air fryer recipes. No more guesswork, just delicious results.",
-    "author": {
+  },
+  "headline": "Quick Answer: How Many Ounces is 0.5 Cup of Soft Cheese?",
+  "description": "Get the exact ounce conversion for 0.5 cup of soft cheese to perfect your air fryer recipes. No more guesswork, just delicious results.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T00:27:11.141000+00:00",
-    "dateModified": "2025-08-20T00:27:11.141000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T00:27:11.141Z",
+  "dateModified": "2025-08-20T00:27:11.141Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-half-cup-soft-cheese.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Why is my air fryer recipe not working even though I measured 0.5 cup of cheese?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "If your recipe is failing, the issue might be with how you measured the 0.5 cup rather than the conversion itself. Did you pack the cheese into the cup or simply scoop it? Packing it down will add extra weight and throw off the recipe's balance. The intense heat of the air fryer magnifies measurement errors. Always use the \"spoon and level\" method for soft cheese or, better yet, switch to weighing it for guaranteed accuracy."
+    "text": "If your recipe is failing, the issue might be with how you measured the 0.5 cup rather than the conversion itself. Did you pack the cheese into the cup or simply scoop it? Packing it down will add extra weight and throw off the recipe's balance. The intense heat of the air fryer magnifies measurement errors. Always use the "spoon and level" method for soft cheese or, better yet, switch to weighing it for guaranteed accuracy."
     }
     }
     ]

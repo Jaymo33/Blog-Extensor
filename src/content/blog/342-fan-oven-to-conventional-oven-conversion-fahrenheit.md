@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/342-fan-oven-to-conventional-oven-conversion-fahrenheit",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/342-fan-oven-to-conventional-oven-conversion-fahrenheit",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/342-fan-oven-to-conventional-oven-conversion-fahrenheit"
-    },
-    "headline": "Easy 342 Fan Oven to Conventional Oven Conversion Guide",
-    "description": "Learn how to convert 342 fan oven to conventional oven in Fahrenheit with our simple guide. Perfect for air fryer and oven cooking adjustments.",
-    "author": {
+  },
+  "headline": "Easy 342 Fan Oven to Conventional Oven Conversion Guide",
+  "description": "Learn how to convert 342 fan oven to conventional oven in Fahrenheit with our simple guide. Perfect for air fryer and oven cooking adjustments.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-25T20:15:10.431000+00:00",
-    "dateModified": "2025-07-25T20:15:10.431000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-25T20:15:10.431Z",
+  "dateModified": "2025-07-25T20:15:10.431Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/342-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "FanOven"
-    },
-    "articleSection": "FanOven",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "FanOven",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "How do I know if my oven is a fan or conventional oven?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Most modern ovens in the UK are fan ovens, often labeled as \"fan-assisted\" or with a fan symbol. Conventional ovens lack a fan and are sometimes called \"static\" ovens. Check your oven's manual or look for a fan setting to confirm."
+    "text": "Most modern ovens in the UK are fan ovens, often labeled as "fan-assisted" or with a fan symbol. Conventional ovens lack a fan and are sometimes called "static" ovens. Check your oven's manual or look for a fan setting to confirm."
     }
     },
     {

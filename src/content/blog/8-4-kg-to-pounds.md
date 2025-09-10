@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/8-4-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/8-4-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/8-4-kg-to-pounds"
-    },
-    "headline": "Quickly Convert 8.4 kg to Pounds for Your Air Fryer Recipes",
-    "description": "Easily convert 8.4 kg to pounds for perfect air fryer cooking. Get accurate measurements for ingredients and portions with our simple guide.",
-    "author": {
+  },
+  "headline": "Quickly Convert 8.4 kg to Pounds for Your Air Fryer Recipes",
+  "description": "Easily convert 8.4 kg to pounds for perfect air fryer cooking. Get accurate measurements for ingredients and portions with our simple guide.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T00:27:11.141000+00:00",
-    "dateModified": "2025-08-20T00:27:11.141000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T00:27:11.141Z",
+  "dateModified": "2025-08-20T00:27:11.141Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/8-4-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Can I use an online calculator to convert 8.4 kg to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Absolutely, online calculators are a quick and reliable way to convert 8.4 kg to pounds. Simply enter \"8.4\" in the kilograms field, and it will display the equivalent in pounds (approximately 18.52). This is handy for double-checking manual calculations or when you're short on time.\n\nHowever, understanding the basic conversion (1 kg ≈ 2.20462 pounds) helps you verify results and builds confidence for future cooking endeavors. For consistent success, bookmark a trusted resource like airfryerrecipe.co.uk for all your conversion needs."
+    "text": "Absolutely, online calculators are a quick and reliable way to convert 8.4 kg to pounds. Simply enter "8.4" in the kilograms field, and it will display the equivalent in pounds (approximately 18.52). This is handy for double-checking manual calculations or when you're short on time.\n\nHowever, understanding the basic conversion (1 kg ≈ 2.20462 pounds) helps you verify results and builds confidence for future cooking endeavors. For consistent success, bookmark a trusted resource like airfryerrecipe.co.uk for all your conversion needs."
     }
     }
     ]

@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-5-to-celsius",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/gas-mark-5-to-celsius",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/gas-mark-5-to-celsius"
-    },
-    "headline": "Gas Mark 5 to Celsius Conversion Guide | Air Fryer Tips",
-    "description": "Convert Gas Mark 5 to Celsius (190°C) for perfect air fryer cooking. Includes temperature charts and baking tips for UK kitchens.",
-    "author": {
+  },
+  "headline": "Gas Mark 5 to Celsius Conversion Guide | Air Fryer Tips",
+  "description": "Convert Gas Mark 5 to Celsius (190°C) for perfect air fryer cooking. Includes temperature charts and baking tips for UK kitchens.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-21T12:06:53.392000+00:00",
-    "dateModified": "2025-07-21T12:06:53.392000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-21T12:06:53.392Z",
+  "dateModified": "2025-07-21T12:06:53.392Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/gas-mark-5-to-celsius.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "GasMark"
-    },
-    "articleSection": "GasMark",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "GasMark",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

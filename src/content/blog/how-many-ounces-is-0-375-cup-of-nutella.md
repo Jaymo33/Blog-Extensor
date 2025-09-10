@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-nutella",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-nutella",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-0-375-cup-of-nutella"
-    },
-    "headline": "Quick Answer: How many ounces is 0.375 cup of Nutella?",
-    "description": "Find out exactly how many ounces are in 0.375 cup of Nutella with our simple conversion guide—perfect for air fryer recipes!",
-    "author": {
+  },
+  "headline": "Quick Answer: How many ounces is 0.375 cup of Nutella?",
+  "description": "Find out exactly how many ounces are in 0.375 cup of Nutella with our simple conversion guide—perfect for air fryer recipes!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-16T23:30:04.315000+00:00",
-    "dateModified": "2025-08-16T23:30:04.315000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-16T23:30:04.315Z",
+  "dateModified": "2025-08-16T23:30:04.315Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-0-375-cup-of-nutella.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "How do I measure Nutella without making a mess?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Use a spatula to scoop Nutella into a measuring cup or onto a kitchen scale. Lightly greasing the cup or spoon with oil helps it slide out cleanly. For sticky recipes, check our <a href=\"https://www.airfryerrecipe.co.uk/air-fryer-cleaner\">cleaning tips</a>."
+    "text": "Use a spatula to scoop Nutella into a measuring cup or onto a kitchen scale. Lightly greasing the cup or spoon with oil helps it slide out cleanly. For sticky recipes, check our <a href="https://www.airfryerrecipe.co.uk/air-fryer-cleaner">cleaning tips</a>."
     }
     },
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Can I substitute another spread for Nutella in air fryer recipes?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Yes, peanut butter or chocolate hazelnut spreads with similar thickness can work. Adjust measurements by weight (3 ounces per 0.375 cup) for best results. Explore alternatives in our <a href=\"https://www.airfryerrecipe.co.uk/recipe-category/dessert\">dessert recipes</a>."
+    "text": "Yes, peanut butter or chocolate hazelnut spreads with similar thickness can work. Adjust measurements by weight (3 ounces per 0.375 cup) for best results. Explore alternatives in our <a href="https://www.airfryerrecipe.co.uk/recipe-category/dessert">dessert recipes</a>."
     }
     }
     ]

@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bacon-rashers-in-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bacon-rashers-in-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-bacon-rashers-in-air-fryer"
-    },
-    "headline": "How to Reheat Bacon Rashers in an Air Fryer – Crispy & Quick | AirFryerRecipe.co.uk",
-    "description": "Learn how to reheat bacon rashers in an air fryer for crispy results without drying out. Get perfect timings, temperatures, and tips for delicious reheated bacon every time.",
-    "author": {
+  },
+  "headline": "How to Reheat Bacon Rashers in an Air Fryer – Crispy & Quick | AirFryerRecipe.co.uk",
+  "description": "Learn how to reheat bacon rashers in an air fryer for crispy results without drying out. Get perfect timings, temperatures, and tips for delicious reheated bacon every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-22T16:02:09.139000+00:00",
-    "dateModified": "2025-07-22T16:02:09.139000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-22T16:02:09.139Z",
+  "dateModified": "2025-07-22T16:02:09.139Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-bacon-rashers-in-air-fryer.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Reheat"
-    },
-    "articleSection": "Reheat",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Reheat",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

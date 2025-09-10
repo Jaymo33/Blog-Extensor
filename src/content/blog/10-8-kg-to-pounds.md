@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/10-8-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/10-8-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/10-8-kg-to-pounds"
-    },
-    "headline": "Quickly Convert 10.8 kg to Pounds for Perfect Air Fryer Portions",
-    "description": "Easily convert 10.8 kg to pounds for accurate air fryer cooking. Get precise measurements for perfect results every time with our simple guide.",
-    "author": {
+  },
+  "headline": "Quickly Convert 10.8 kg to Pounds for Perfect Air Fryer Portions",
+  "description": "Easily convert 10.8 kg to pounds for accurate air fryer cooking. Get precise measurements for perfect results every time with our simple guide.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T17:08:58.382000+00:00",
-    "dateModified": "2025-08-20T17:08:58.382000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T17:08:58.382Z",
+  "dateModified": "2025-08-20T17:08:58.382Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/10-8-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

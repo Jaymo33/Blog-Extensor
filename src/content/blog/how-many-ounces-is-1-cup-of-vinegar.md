@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-vinegar"
-    },
-    "headline": "Quick Guide: How Many Ounces in 1 Cup of Vinegar?",
-    "description": "Discover how many ounces are in 1 cup of vinegar for precise cooking. Perfect for air fryer recipes and UK measurements.",
-    "author": {
+  },
+  "headline": "Quick Guide: How Many Ounces in 1 Cup of Vinegar?",
+  "description": "Discover how many ounces are in 1 cup of vinegar for precise cooking. Perfect for air fryer recipes and UK measurements.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-12T23:23:28.664000+00:00",
-    "dateModified": "2025-08-12T23:23:28.664000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-12T23:23:28.664Z",
+  "dateModified": "2025-08-12T23:23:28.664Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-vinegar.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Volume"
-    },
-    "articleSection": "Volume",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Volume",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

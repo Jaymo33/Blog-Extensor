@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/6-25-kg-beef-mince-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/6-25-kg-beef-mince-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/6-25-kg-beef-mince-to-pounds"
-    },
-    "headline": "Quick 6.25 kg Beef Mince to Pounds Conversion Guide",
-    "description": "Convert 6.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer recipes and meal prep every time.",
-    "author": {
+  },
+  "headline": "Quick 6.25 kg Beef Mince to Pounds Conversion Guide",
+  "description": "Convert 6.25 kg beef mince to pounds instantly. Get accurate measurements for perfect air fryer recipes and meal prep every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T19:48:49.567000+00:00",
-    "dateModified": "2025-08-23T19:48:49.567000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T19:48:49.567Z",
+  "dateModified": "2025-08-23T19:48:49.567Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/6-25-kg-beef-mince-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Where can I find recipes that use 6.25 kg of beef mince?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "While most home recipes are designed for smaller quantities, you can find inspiration for using 6.25 kg of beef mince on websites that specialise in bulk cooking and meal prep. <a href=\"https://www.airfryerrecipe.co.uk/\">airfryerrecipe.co.uk</a> offers numerous beef recipes that can be scaled up to accommodate larger quantities. \n\nYou can also adapt standard recipes by multiplying the ingredients proportionally. Consider dividing the 6.25 kg (13.78 pounds) into portions for different dishes throughout the week, such as burgers, meatballs, bolognese, and cottage pie. This approach lets you enjoy variety while efficiently using your bulk purchase."
+    "text": "While most home recipes are designed for smaller quantities, you can find inspiration for using 6.25 kg of beef mince on websites that specialise in bulk cooking and meal prep. <a href="https://www.airfryerrecipe.co.uk/">airfryerrecipe.co.uk</a> offers numerous beef recipes that can be scaled up to accommodate larger quantities. \n\nYou can also adapt standard recipes by multiplying the ingredients proportionally. Consider dividing the 6.25 kg (13.78 pounds) into portions for different dishes throughout the week, such as burgers, meatballs, bolognese, and cottage pie. This approach lets you enjoy variety while efficiently using your bulk purchase."
     }
     }
     ]

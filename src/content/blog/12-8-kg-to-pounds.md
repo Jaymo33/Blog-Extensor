@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/12-8-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/12-8-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/12-8-kg-to-pounds"
-    },
-    "headline": "Quick 12.8 kg to Pounds Conversion for Air Fryer Cooking",
-    "description": "Convert 12.8 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better results every time.",
-    "author": {
+  },
+  "headline": "Quick 12.8 kg to Pounds Conversion for Air Fryer Cooking",
+  "description": "Convert 12.8 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better results every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T17:57:43.961000+00:00",
-    "dateModified": "2025-08-20T17:57:43.961000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T17:57:43.961Z",
+  "dateModified": "2025-08-20T17:57:43.961Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/12-8-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "Is there a difference between US pounds and imperial pounds when converting 12.8 kg?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "No, for practical purposes in cooking and everyday use, there is no difference between a US pound and an imperial pound when converting 12.8 kg. Both are defined as exactly 0.45359237 kilograms, making them identical units of mass. The term \"imperial pound\" is often used to distinguish it from the metric system, but it is the same as the pound used in the United States. Therefore, 12.8 kg will always convert to the same number of pounds regardless of whether you are in the UK, US, or elsewhere, ensuring your air fryer recipes turn out correctly."
+    "text": "No, for practical purposes in cooking and everyday use, there is no difference between a US pound and an imperial pound when converting 12.8 kg. Both are defined as exactly 0.45359237 kilograms, making them identical units of mass. The term "imperial pound" is often used to distinguish it from the metric system, but it is the same as the pound used in the United States. Therefore, 12.8 kg will always convert to the same number of pounds regardless of whether you are in the UK, US, or elsewhere, ensuring your air fryer recipes turn out correctly."
     }
     },
     {

@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-broccoli",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-broccoli",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-grams-is-2-cups-of-broccoli"
-    },
-    "headline": "Quick Answer: How Many Grams Is 2.0 Cups of Broccoli?",
-    "description": "Find out exactly how many grams 2.0 cups of broccoli weighs for perfect air fryer recipes. Includes UK/US conversions and cooking tips.",
-    "author": {
+  },
+  "headline": "Quick Answer: How Many Grams Is 2.0 Cups of Broccoli?",
+  "description": "Find out exactly how many grams 2.0 cups of broccoli weighs for perfect air fryer recipes. Includes UK/US conversions and cooking tips.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-27T23:33:52.667000+00:00",
-    "dateModified": "2025-07-27T23:33:52.667000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-27T23:33:52.667Z",
+  "dateModified": "2025-07-27T23:33:52.667Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-grams-is-2-cups-of-broccoli.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Does the weight change if I use broccoli florets vs. chopped broccoli?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Slightly. Florets alone may weigh a bit less than chopped broccoli, which includes stems. For accuracy, always measure after chopping if the recipe specifies \"chopped broccoli.\" In an air fryer, florets cook more evenly."
+    "text": "Slightly. Florets alone may weigh a bit less than chopped broccoli, which includes stems. For accuracy, always measure after chopping if the recipe specifies "chopped broccoli." In an air fryer, florets cook more evenly."
     }
     },
     {

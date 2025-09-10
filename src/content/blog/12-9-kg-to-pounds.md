@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/12-9-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/12-9-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/12-9-kg-to-pounds"
-    },
-    "headline": "Quickly Convert 12.9 kg to Pounds for Air Fryer Cooking",
-    "description": "Easily convert 12.9 kg to pounds for perfect air fryer recipes. Get accurate measurements and cook with confidence every time.",
-    "author": {
+  },
+  "headline": "Quickly Convert 12.9 kg to Pounds for Air Fryer Cooking",
+  "description": "Easily convert 12.9 kg to pounds for perfect air fryer recipes. Get accurate measurements and cook with confidence every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T17:57:43.961000+00:00",
-    "dateModified": "2025-08-20T17:57:43.961000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T17:57:43.961Z",
+  "dateModified": "2025-08-20T17:57:43.961Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/12-9-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Can I use an online calculator to convert 12.9 kg to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Yes, online calculators are a quick and accurate way to convert 12.9 kg to pounds. Simply enter \"12.9 kg to pounds\" into any search engine or conversion tool, and it will instantly give you the result of 28.44 pounds. This is especially handy when you're in the middle of cooking and need a reliable answer fast."
+    "text": "Yes, online calculators are a quick and accurate way to convert 12.9 kg to pounds. Simply enter "12.9 kg to pounds" into any search engine or conversion tool, and it will instantly give you the result of 28.44 pounds. This is especially handy when you're in the middle of cooking and need a reliable answer fast."
     }
     }
     ]

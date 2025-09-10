@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/0-25-kg-chicken-wings-to-pounds"
-    },
-    "headline": "Easy 0.25 kg chicken wings to pounds conversion guide",
-    "description": "Convert 0.25 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and tips for crispy wings every time.",
-    "author": {
+  },
+  "headline": "Easy 0.25 kg chicken wings to pounds conversion guide",
+  "description": "Convert 0.25 kg chicken wings to pounds instantly for perfect air fryer portions. Get cooking times and tips for crispy wings every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-22T20:06:59.565000+00:00",
-    "dateModified": "2025-08-22T20:06:59.565000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-22T20:06:59.565Z",
+  "dateModified": "2025-08-22T20:06:59.565Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-25-kg-chicken-wings-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversion"
-    },
-    "articleSection": "Conversion",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversion",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

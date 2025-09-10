@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/2-0-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/2-0-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/2-0-kg-to-pounds"
-    },
-    "headline": "Quick 2.0 kg to Pounds Conversion for Air Fryer Cooking",
-    "description": "Convert 2.0 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes.",
-    "author": {
+  },
+  "headline": "Quick 2.0 kg to Pounds Conversion for Air Fryer Cooking",
+  "description": "Convert 2.0 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T00:27:11.141000+00:00",
-    "dateModified": "2025-08-20T00:27:11.141000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T00:27:11.141Z",
+  "dateModified": "2025-08-20T00:27:11.141Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-0-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Why do some UK recipes use kg and others use pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "The UK uses a fascinating mix of metric and imperial measurements, often referred to as \"metrication.\" Officially, the UK adopted the metric system, which is why weights on packaged food are almost always in grams and kilograms. However, many traditional cookbooks, older recipes, and everyday speech still use imperial units like pounds and ounces for weight. This is why knowing how to convert 2.0 kg to pounds is so handy—it allows you to seamlessly use recipes from any source or era with your modern air fryer."
+    "text": "The UK uses a fascinating mix of metric and imperial measurements, often referred to as "metrication." Officially, the UK adopted the metric system, which is why weights on packaged food are almost always in grams and kilograms. However, many traditional cookbooks, older recipes, and everyday speech still use imperial units like pounds and ounces for weight. This is why knowing how to convert 2.0 kg to pounds is so handy—it allows you to seamlessly use recipes from any source or era with your modern air fryer."
     }
     },
     {

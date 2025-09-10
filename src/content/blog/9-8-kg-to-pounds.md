@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/9-8-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/9-8-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/9-8-kg-to-pounds"
-    },
-    "headline": "Quick 9.8 kg to Pounds Conversion for Air Fryer Cooking",
-    "description": "Convert 9.8 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better results every time.",
-    "author": {
+  },
+  "headline": "Quick 9.8 kg to Pounds Conversion for Air Fryer Cooking",
+  "description": "Convert 9.8 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better results every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T16:05:32.623000+00:00",
-    "dateModified": "2025-08-20T16:05:32.623000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T16:05:32.623Z",
+  "dateModified": "2025-08-20T16:05:32.623Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/9-8-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Is 9.8 kg a common weight for air fryer recipes?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "9.8 kg is a very large weight, more common for bulk meal prep or cooking for a big crowd rather than a standard family meal. You might encounter it with very large turkeys, big batches of potatoes for roasting, or when scaling up a recipe significantly. For most everyday air frying, you'll be dealing with smaller weights, but knowing how to convert 9.8 kg to pounds is a valuable skill for those special occasions where you need to cook a feast. You can find recipes suited for larger quantities on our <a href=\"https://www.airfryerrecipe.co.uk/recipes\">recipes page</a>."
+    "text": "9.8 kg is a very large weight, more common for bulk meal prep or cooking for a big crowd rather than a standard family meal. You might encounter it with very large turkeys, big batches of potatoes for roasting, or when scaling up a recipe significantly. For most everyday air frying, you'll be dealing with smaller weights, but knowing how to convert 9.8 kg to pounds is a valuable skill for those special occasions where you need to cook a feast. You can find recipes suited for larger quantities on our <a href="https://www.airfryerrecipe.co.uk/recipes">recipes page</a>."
     }
     },
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "What is the easiest way to convert 9.8 kilograms to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "The easiest way to convert 9.8 kilograms to pounds is to use the standard conversion factor of 2.20462. Simply multiply 9.8 by 2.20462 to get 21.6053 pounds. For a quick, rough estimate, you can multiply by 2.2, which gives you 21.56 pounds—close enough for most kitchen purposes. Even easier, just ask your smartphone's voice assistant or type \"9.8 kg to lbs\" into a search engine for an instant, accurate answer without any maths required."
+    "text": "The easiest way to convert 9.8 kilograms to pounds is to use the standard conversion factor of 2.20462. Simply multiply 9.8 by 2.20462 to get 21.6053 pounds. For a quick, rough estimate, you can multiply by 2.2, which gives you 21.56 pounds—close enough for most kitchen purposes. Even easier, just ask your smartphone's voice assistant or type "9.8 kg to lbs" into a search engine for an instant, accurate answer without any maths required."
     }
     },
     {

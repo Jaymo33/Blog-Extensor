@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-soft-cheese",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-soft-cheese",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-soft-cheese"
-    },
-    "headline": "Quick Guide: 1 Cup of Soft Cheese to Ounces Conversion UK",
-    "description": "Convert 1 cup of soft cheese to ounces easily with our UK guide. Perfect for air fryer recipes and accurate baking every time.",
-    "author": {
+  },
+  "headline": "Quick Guide: 1 Cup of Soft Cheese to Ounces Conversion UK",
+  "description": "Convert 1 cup of soft cheese to ounces easily with our UK guide. Perfect for air fryer recipes and accurate baking every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T00:27:11.141000+00:00",
-    "dateModified": "2025-08-20T00:27:11.141000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T00:27:11.141Z",
+  "dateModified": "2025-08-20T00:27:11.141Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-soft-cheese.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "I'm in the UK; is a US cup the same as a UK cup for measuring soft cheese?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "This is a common point of confusion. Historically, a UK imperial cup was slightly larger than a US customary cup, but in modern recipe writing, particularly online and in baking, the US cup measurement is almost universally used. When a recipe states \"1 cup,\" it is almost certainly referring to the US standard of 8 fluid ounces by volume.\n\nTherefore, for converting 1 cup of soft cheese to ounces in a UK kitchen, you should use the US measurement. The weight will be approximately 8 ounces for most standard soft cheeses. To avoid any doubt, using a digital scale set to ounces or grams is the most reliable method."
+    "text": "This is a common point of confusion. Historically, a UK imperial cup was slightly larger than a US customary cup, but in modern recipe writing, particularly online and in baking, the US cup measurement is almost universally used. When a recipe states "1 cup," it is almost certainly referring to the US standard of 8 fluid ounces by volume.\n\nTherefore, for converting 1 cup of soft cheese to ounces in a UK kitchen, you should use the US measurement. The weight will be approximately 8 ounces for most standard soft cheeses. To avoid any doubt, using a digital scale set to ounces or grams is the most reliable method."
     }
     },
     {

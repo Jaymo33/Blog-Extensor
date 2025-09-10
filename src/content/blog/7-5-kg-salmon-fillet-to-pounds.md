@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/7-5-kg-salmon-fillet-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/7-5-kg-salmon-fillet-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/7-5-kg-salmon-fillet-to-pounds"
-    },
-    "headline": "Quick 7.5 kg salmon fillet to pounds conversion guide",
-    "description": "Convert 7.5 kg salmon fillet to pounds instantly with our easy guide. Perfect for air fryer cooking and meal planning. Get the exact weight now.",
-    "author": {
+  },
+  "headline": "Quick 7.5 kg salmon fillet to pounds conversion guide",
+  "description": "Convert 7.5 kg salmon fillet to pounds instantly with our easy guide. Perfect for air fryer cooking and meal planning. Get the exact weight now.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T23:54:12.977000+00:00",
-    "dateModified": "2025-08-23T23:54:12.977000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T23:54:12.977Z",
+  "dateModified": "2025-08-23T23:54:12.977Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/7-5-kg-salmon-fillet-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Where can I find more air fryer recipes for salmon?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "You can find a wide variety of air fryer recipes for salmon on <a href=\"https://www.airfryerrecipe.co.uk/\">airfryerrecipe.co.uk</a>. The site offers recipes for different salmon weights, including tips on seasoning, marinating, and cooking times. Whether you have a small fillet or a large 7.5 kg one, there are recipes tailored to your needs. Explore the salmon category for inspiration and step-by-step guides."
+    "text": "You can find a wide variety of air fryer recipes for salmon on <a href="https://www.airfryerrecipe.co.uk/">airfryerrecipe.co.uk</a>. The site offers recipes for different salmon weights, including tips on seasoning, marinating, and cooking times. Whether you have a small fillet or a large 7.5 kg one, there are recipes tailored to your needs. Explore the salmon category for inspiration and step-by-step guides."
     }
     }
     ]

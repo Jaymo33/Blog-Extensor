@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/220-c-to-gas-mark",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/220-c-to-gas-mark",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/220-c-to-gas-mark"
-    },
-    "headline": "220 C to Gas Mark: Quick Conversion Guide for Ovens & Air Fryers",
-    "description": "Convert 220 C to Gas Mark (Gas Mark 7) for ovens & air fryers. Includes baking tips, temperature charts, and air fryer adjustments for perfect results.",
-    "author": {
+  },
+  "headline": "220 C to Gas Mark: Quick Conversion Guide for Ovens & Air Fryers",
+  "description": "Convert 220 C to Gas Mark (Gas Mark 7) for ovens & air fryers. Includes baking tips, temperature charts, and air fryer adjustments for perfect results.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-20T13:50:26.880000+00:00",
-    "dateModified": "2025-07-20T13:50:26.880000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-20T13:50:26.880Z",
+  "dateModified": "2025-07-20T13:50:26.880Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/220-c-to-gas-mark.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "GasMark"
-    },
-    "articleSection": "GasMark",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "GasMark",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

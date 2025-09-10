@@ -8,42 +8,42 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-cook-salmon-in-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-cook-salmon-in-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-cook-salmon-in-air-fryer"
-    },
-    "headline": "How to Cook Salmon in Air Fryer",
-    "description": "ing salmon in the air fryer couldn’t be easier, and it all starts with good prep. First, always preheat your air fryer to ensure even cooking—about 200°C (or 400°F) is ideal. If you're using skin-on fillets, place them skin side down to keep the meat moist and create that satisfying crisp underneath. Lightly coat the fillet with olive oil or use a quick nonstick spray to prevent sticking. Now comes the fun bit—flavour. A simple rub of garlic powder, paprika, and a pinch of seasoned salt does wonders, but you can also try a sweet and savoury twist with a honey-Dijon glaze.",
-    "author": {
+  },
+  "headline": "How to Cook Salmon in Air Fryer",
+  "description": "ing salmon in the air fryer couldn’t be easier, and it all starts with good prep. First, always preheat your air fryer to ensure even cooking—about 200°C (or 400°F) is ideal. If you're using skin-on fillets, place them skin side down to keep the meat moist and create that satisfying crisp underneath. Lightly coat the fillet with olive oil or use a quick nonstick spray to prevent sticking. Now comes the fun bit—flavour. A simple rub of garlic powder, paprika, and a pinch of seasoned salt does wonders, but you can also try a sweet and savoury twist with a honey-Dijon glaze.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-20T12:06:15.087000+00:00",
-    "dateModified": "2025-07-20T12:06:15.087000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-20T12:06:15.087Z",
+  "dateModified": "2025-07-20T12:06:15.087Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-cook-salmon-in-air-fryer.png"
-    },
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/0-5-kg-prawns-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/0-5-kg-prawns-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/0-5-kg-prawns-to-pounds"
-    },
-    "headline": "Easy 0.5 kg prawns to pounds conversion for perfect air frying",
-    "description": "Convert 0.5 kg prawns to pounds quickly for accurate air fryer recipes. Get perfect results every time with our simple guide and cooking tips.",
-    "author": {
+  },
+  "headline": "Easy 0.5 kg prawns to pounds conversion for perfect air frying",
+  "description": "Convert 0.5 kg prawns to pounds quickly for accurate air fryer recipes. Get perfect results every time with our simple guide and cooking tips.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T23:54:12.977000+00:00",
-    "dateModified": "2025-08-23T23:54:12.977000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T23:54:12.977Z",
+  "dateModified": "2025-08-23T23:54:12.977Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/0-5-kg-prawns-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Should I weigh prawns with or without shells when converting 0.5 kg to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "It depends on what your recipe specifies. Most recipes will indicate whether the weight should include shells or not. If the recipe calls for \"0.5 kg prawns, peeled,\" you should measure after removing shells. If it says \"0.5 kg prawns in shells,\" measure them with shells on. The conversion from 0.5 kg to pounds remains the same regardless, but the actual amount of edible prawn meat will differ."
+    "text": "It depends on what your recipe specifies. Most recipes will indicate whether the weight should include shells or not. If the recipe calls for "0.5 kg prawns, peeled," you should measure after removing shells. If it says "0.5 kg prawns in shells," measure them with shells on. The conversion from 0.5 kg to pounds remains the same regardless, but the actual amount of edible prawn meat will differ."
     }
     },
     {

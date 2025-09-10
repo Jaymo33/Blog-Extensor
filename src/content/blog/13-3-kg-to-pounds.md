@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/13-3-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/13-3-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/13-3-kg-to-pounds"
-    },
-    "headline": "Quickly Convert 13.3 kg to Pounds for Your Air Fryer",
-    "description": "Easily convert 13.3 kg to pounds for perfect air fryer portions and recipes. Get accurate results and cooking tips in seconds.",
-    "author": {
+  },
+  "headline": "Quickly Convert 13.3 kg to Pounds for Your Air Fryer",
+  "description": "Easily convert 13.3 kg to pounds for perfect air fryer portions and recipes. Get accurate results and cooking tips in seconds.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-20T17:57:43.961000+00:00",
-    "dateModified": "2025-08-20T17:57:43.961000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-20T17:57:43.961Z",
+  "dateModified": "2025-08-20T17:57:43.961Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/13-3-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "What's the easiest way to convert 13.3 kilograms to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "The easiest method is to use an online conversion tool or the calculator on your phone. Simply type \"13.3 kg to pounds\" into a search engine, and it will instantly give you the answer of 29.32 pounds. If you prefer to do it manually, remember the conversion factor: multiply the number of kilograms by 2.20462. So, 13.3 x 2.20462 = 29.32."
+    "text": "The easiest method is to use an online conversion tool or the calculator on your phone. Simply type "13.3 kg to pounds" into a search engine, and it will instantly give you the answer of 29.32 pounds. If you prefer to do it manually, remember the conversion factor: multiply the number of kilograms by 2.20462. So, 13.3 x 2.20462 = 29.32."
     }
     },
     {

@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/22-7-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/22-7-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/22-7-kg-to-pounds"
-    },
-    "headline": "Quickly Convert 22.7 kg to Pounds for Your Air Fryer",
-    "description": "Easily convert 22.7 kg to pounds for perfect air fryer portions. Get accurate results and cooking tips in seconds.",
-    "author": {
+  },
+  "headline": "Quickly Convert 22.7 kg to Pounds for Your Air Fryer",
+  "description": "Easily convert 22.7 kg to pounds for perfect air fryer portions. Get accurate results and cooking tips in seconds.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-21T07:21:09.538000+00:00",
-    "dateModified": "2025-08-21T07:21:09.538000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-21T07:21:09.538Z",
+  "dateModified": "2025-08-21T07:21:09.538Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/22-7-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Where can I find more air fryer conversion help and recipes?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "For all your conversion questions and fantastic recipe ideas, the best place to visit is airfryerrecipe.co.uk. The site features a dedicated <a href=\"https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart\">air fryer conversion chart</a> for quick reference, along with hundreds of recipes sorted by category, from <a href=\"https://www.airfryerrecipe.co.uk/recipe-category/chicken\">chicken</a> to <a href=\"https://www.airfryerrecipe.co.uk/recipe-category/vegetables\">vegetables</a>. It's a comprehensive resource designed to help you master your air fryer and make delicious meals with ease, no matter what units your recipe uses."
+    "text": "For all your conversion questions and fantastic recipe ideas, the best place to visit is airfryerrecipe.co.uk. The site features a dedicated <a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart">air fryer conversion chart</a> for quick reference, along with hundreds of recipes sorted by category, from <a href="https://www.airfryerrecipe.co.uk/recipe-category/chicken">chicken</a> to <a href="https://www.airfryerrecipe.co.uk/recipe-category/vegetables">vegetables</a>. It's a comprehensive resource designed to help you master your air fryer and make delicious meals with ease, no matter what units your recipe uses."
     }
     }
     ]

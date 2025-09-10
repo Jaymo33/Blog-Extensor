@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/22-9-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/22-9-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/22-9-kg-to-pounds"
-    },
-    "headline": "Easy 22.9 kg to Pounds Conversion for Your Air Fryer",
-    "description": "Convert 22.9 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes.",
-    "author": {
+  },
+  "headline": "Easy 22.9 kg to Pounds Conversion for Your Air Fryer",
+  "description": "Convert 22.9 kg to pounds instantly for perfect air fryer portions. Get accurate results and cooking tips for your favourite recipes.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-21T07:21:09.538000+00:00",
-    "dateModified": "2025-08-21T07:21:09.538000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-21T07:21:09.538Z",
+  "dateModified": "2025-08-21T07:21:09.538Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/22-9-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Can I use a standard calculator to convert 22.9 kg to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Yes, you can easily use a standard calculator for this conversion. Simply enter 22.9 and multiply it by 2.20462, which will give you the result of 50.485 pounds. For even quicker conversions, many smartphones have built-in unit converter tools or you can use a voice assistant by asking, \"What is 22.9 kilograms in pounds?\" However, for active cooking, a digital kitchen scale with a unit conversion button is the most efficient and hands-free tool."
+    "text": "Yes, you can easily use a standard calculator for this conversion. Simply enter 22.9 and multiply it by 2.20462, which will give you the result of 50.485 pounds. For even quicker conversions, many smartphones have built-in unit converter tools or you can use a voice assistant by asking, "What is 22.9 kilograms in pounds?" However, for active cooking, a digital kitchen scale with a unit conversion button is the most efficient and hands-free tool."
     }
     }
     ]

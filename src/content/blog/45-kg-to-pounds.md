@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/45-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/45-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/45-kg-to-pounds"
-    },
-    "headline": "Quick 45 kg to Pounds Conversion Guide for Air Fryer Cooking",
-    "description": "Convert 45 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better results every time.",
-    "author": {
+  },
+  "headline": "Quick 45 kg to Pounds Conversion Guide for Air Fryer Cooking",
+  "description": "Convert 45 kg to pounds instantly for perfect air fryer portions. Get easy weight conversions and cooking tips for better results every time.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-22T00:37:28.394000+00:00",
-    "dateModified": "2025-08-22T00:37:28.394000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-22T00:37:28.394Z",
+  "dateModified": "2025-08-22T00:37:28.394Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/45-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "Are there any tools that can help me convert 45 kg to pounds quickly?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Yes, several tools can help you convert 45 kg to pounds quickly and accurately. Digital kitchen scales with unit conversion features allow you to weigh ingredients directly in pounds without manual calculation. Many smartphone apps and online calculators provide instant conversions between kilograms and pounds with just a few taps.\n\nThe conversion chart available at airfryerrecipe.co.uk/air-fryer-conversion-chart offers a comprehensive reference for various measurements including 45 kg to pounds. Voice assistants like Alexa or Google Assistant can also provide instant conversions if you ask \"How many pounds is 45 kg?\" These tools make the conversion process effortless during meal preparation."
+    "text": "Yes, several tools can help you convert 45 kg to pounds quickly and accurately. Digital kitchen scales with unit conversion features allow you to weigh ingredients directly in pounds without manual calculation. Many smartphone apps and online calculators provide instant conversions between kilograms and pounds with just a few taps.\n\nThe conversion chart available at airfryerrecipe.co.uk/air-fryer-conversion-chart offers a comprehensive reference for various measurements including 45 kg to pounds. Voice assistants like Alexa or Google Assistant can also provide instant conversions if you ask "How many pounds is 45 kg?" These tools make the conversion process effortless during meal preparation."
     }
     },
     {

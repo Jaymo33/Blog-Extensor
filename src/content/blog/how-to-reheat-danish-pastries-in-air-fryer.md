@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-danish-pastries-in-air-fryer",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-danish-pastries-in-air-fryer",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-to-reheat-danish-pastries-in-air-fryer"
-    },
-    "headline": "Reheat Danish Pastries in Air Fryer – Quick & Crispy",
-    "description": "Learn the best way to reheat Danish pastries in an air fryer for a crispy, fresh taste. Perfect temperature and time settings included!",
-    "author": {
+  },
+  "headline": "Reheat Danish Pastries in Air Fryer – Quick & Crispy",
+  "description": "Learn the best way to reheat Danish pastries in an air fryer for a crispy, fresh taste. Perfect temperature and time settings included!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-22T18:06:35.548000+00:00",
-    "dateModified": "2025-07-22T18:06:35.548000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-22T18:06:35.548Z",
+  "dateModified": "2025-07-22T18:06:35.548Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-to-reheat-danish-pastries-in-air-fryer.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Reheat"
-    },
-    "articleSection": "Reheat",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Reheat",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {

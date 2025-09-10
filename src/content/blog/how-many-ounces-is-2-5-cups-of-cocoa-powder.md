@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-cocoa-powder",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-cocoa-powder",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-2-5-cups-of-cocoa-powder"
-    },
-    "headline": "Quick Guide: Convert 2.5 Cups of Cocoa Powder to Ounces",
-    "description": "Discover how to convert 2.5 cups of cocoa powder to ounces for perfect baking every time. Get accurate measurements for air fryer recipes!",
-    "author": {
+  },
+  "headline": "Quick Guide: Convert 2.5 Cups of Cocoa Powder to Ounces",
+  "description": "Discover how to convert 2.5 cups of cocoa powder to ounces for perfect baking every time. Get accurate measurements for air fryer recipes!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-14T23:44:02.193000+00:00",
-    "dateModified": "2025-08-14T23:44:02.193000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-14T23:44:02.193Z",
+  "dateModified": "2025-08-14T23:44:02.193Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-2-5-cups-of-cocoa-powder.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "Does sifting cocoa powder change the 2.5 cups to ounces conversion?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Sifting adds air, so 2.5 cups of sifted cocoa powder might weigh slightly less than 10 oz. For best results, measure after sifting if your recipe specifies \"sifted cocoa powder.\""
+    "text": "Sifting adds air, so 2.5 cups of sifted cocoa powder might weigh slightly less than 10 oz. For best results, measure after sifting if your recipe specifies "sifted cocoa powder.""
     }
     },
     {

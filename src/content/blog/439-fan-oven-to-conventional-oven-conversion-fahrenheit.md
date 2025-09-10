@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/439-fan-oven-to-conventional-oven-conversion-fahrenheit",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/439-fan-oven-to-conventional-oven-conversion-fahrenheit",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/439-fan-oven-to-conventional-oven-conversion-fahrenheit"
-    },
-    "headline": "Quick Guide: Convert 439 Fan Oven to Fahrenheit for Perfect Baking",
-    "description": "Learn how to convert 439 fan oven to Fahrenheit for conventional ovens with our easy guide. Get perfect results every time with accurate temperature conversions.",
-    "author": {
+  },
+  "headline": "Quick Guide: Convert 439 Fan Oven to Fahrenheit for Perfect Baking",
+  "description": "Learn how to convert 439 fan oven to Fahrenheit for conventional ovens with our easy guide. Get perfect results every time with accurate temperature conversions.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-07-25T21:48:02.255000+00:00",
-    "dateModified": "2025-07-25T21:48:02.255000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-07-25T21:48:02.255Z",
+  "dateModified": "2025-07-25T21:48:02.255Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/439-fan-oven-to-conventional-oven-conversion-fahrenheit.png"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "FanOven"
-    },
-    "articleSection": "FanOven",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "FanOven",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "How do I know if my oven is a fan oven or conventional oven?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Fan ovens have a fan symbol on the control panel, usually near the temperature settings. If your oven doesn’t have this symbol, it’s likely a conventional oven. You can also check the manual or look for terms like \"convection\" or \"forced air\" to identify a fan oven."
+    "text": "Fan ovens have a fan symbol on the control panel, usually near the temperature settings. If your oven doesn’t have this symbol, it’s likely a conventional oven. You can also check the manual or look for terms like "convection" or "forced air" to identify a fan oven."
     }
     },
     {

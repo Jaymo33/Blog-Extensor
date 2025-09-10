@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/21-4-kg-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/21-4-kg-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/21-4-kg-to-pounds"
-    },
-    "headline": "Quick 21.4 kg to pounds conversion for air fryer cooking",
-    "description": "Convert 21.4 kg to pounds instantly for perfect air fryer meal prep. Get accurate weight conversions for recipes, shopping, and portion control.",
-    "author": {
+  },
+  "headline": "Quick 21.4 kg to pounds conversion for air fryer cooking",
+  "description": "Convert 21.4 kg to pounds instantly for perfect air fryer meal prep. Get accurate weight conversions for recipes, shopping, and portion control.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-21T07:21:09.538000+00:00",
-    "dateModified": "2025-08-21T07:21:09.538000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-21T07:21:09.538Z",
+  "dateModified": "2025-08-21T07:21:09.538Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/21-4-kg-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "How can I convert 21.4 kg to pounds and ounces quickly?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "To convert 21.4 kg to pounds and ounces, first multiply 21.4 by 2.20462 to get pounds (47.18). Then, take the decimal part (0.18) and multiply it by 16 to get ounces (2.88). So, 21.4 kg is roughly 47 pounds and 2.88 ounces. For speed, use a digital kitchen scale that switches between units or an online converter—just type \"convert 21.4 kg to pounds and ounces\" for instant results."
+    "text": "To convert 21.4 kg to pounds and ounces, first multiply 21.4 by 2.20462 to get pounds (47.18). Then, take the decimal part (0.18) and multiply it by 16 to get ounces (2.88). So, 21.4 kg is roughly 47 pounds and 2.88 ounces. For speed, use a digital kitchen scale that switches between units or an online converter—just type "convert 21.4 kg to pounds and ounces" for instant results."
     }
     },
     {

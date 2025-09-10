@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-onion",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-onion",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/how-many-ounces-is-1-cup-of-onion"
-    },
-    "headline": "Quick Guide: How Many Ounces in 1 Cup of Onion?",
-    "description": "Learn how to convert 1 cup of onion to ounces for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
-    "author": {
+  },
+  "headline": "Quick Guide: How Many Ounces in 1 Cup of Onion?",
+  "description": "Learn how to convert 1 cup of onion to ounces for perfect air fryer recipes. Get precise measurements and cooking tips in seconds!",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-15T23:40:45.481000+00:00",
-    "dateModified": "2025-08-15T23:40:45.481000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-15T23:40:45.481Z",
+  "dateModified": "2025-08-15T23:40:45.481Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-1-cup-of-onion.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -76,7 +76,7 @@ schema: |
     "name": "How do I convert onion measurements for a UK recipe?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "UK recipes often use grams. Since 1 cup of onion is 128 grams (4.5 oz), you can use this for direct conversions. If a British recipe calls for \"1 small onion,\" assume it’s roughly 100 grams or 3.5 oz."
+    "text": "UK recipes often use grams. Since 1 cup of onion is 128 grams (4.5 oz), you can use this for direct conversions. If a British recipe calls for "1 small onion," assume it’s roughly 100 grams or 3.5 oz."
     }
     },
     {

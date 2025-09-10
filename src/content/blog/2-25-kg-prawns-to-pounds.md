@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/2-25-kg-prawns-to-pounds"
-    },
-    "headline": "Quick 2.25 kg Prawns to Pounds Conversion Guide",
-    "description": "Convert 2.25 kg prawns to pounds instantly. Get perfect air fryer portions and cooking times with our easy conversion chart and tips.",
-    "author": {
+  },
+  "headline": "Quick 2.25 kg Prawns to Pounds Conversion Guide",
+  "description": "Convert 2.25 kg prawns to pounds instantly. Get perfect air fryer portions and cooking times with our easy conversion chart and tips.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T23:54:12.977000+00:00",
-    "dateModified": "2025-08-23T23:54:12.977000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T23:54:12.977Z",
+  "dateModified": "2025-08-23T23:54:12.977Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/2-25-kg-prawns-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Conversions"
-    },
-    "articleSection": "Conversions",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Conversions",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Should I weigh prawns before or after peeling when converting 2.25 kg to pounds?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "You should always weigh prawns in their state as specified in your recipe. If the recipe calls for \"2.25 kg prawns\" without specification, it typically means the weight as purchased (with shells on). However, if your recipe specifies \"peeled prawns,\" then you should measure after peeling.\n\nThe shell accounts for approximately 30-40% of the total weight, so 2.25 kg of shell-on prawns will yield roughly 1.35-1.575 kg (approximately 3-3.5 pounds) of edible meat. For accurate results, always check whether your recipe weight includes shells or not."
+    "text": "You should always weigh prawns in their state as specified in your recipe. If the recipe calls for "2.25 kg prawns" without specification, it typically means the weight as purchased (with shells on). However, if your recipe specifies "peeled prawns," then you should measure after peeling.\n\nThe shell accounts for approximately 30-40% of the total weight, so 2.25 kg of shell-on prawns will yield roughly 1.35-1.575 kg (approximately 3-3.5 pounds) of edible meat. For accurate results, always check whether your recipe weight includes shells or not."
     }
     },
     {

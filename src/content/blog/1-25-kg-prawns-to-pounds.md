@@ -8,47 +8,47 @@ tags:
 author: "AirFryerRecipes.co.uk"
 schema: |
     <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-prawns-to-pounds",
-    "mainEntityOfPage": {
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-prawns-to-pounds",
+  "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.airfryerrecipe.co.uk/blog/1-25-kg-prawns-to-pounds"
-    },
-    "headline": "Easy 1.25 kg Prawns to Pounds Conversion Guide",
-    "description": "Convert 1.25 kg prawns to pounds instantly. Get perfect air fryer portions every time with our simple guide and handy conversion tips.",
-    "author": {
+  },
+  "headline": "Easy 1.25 kg Prawns to Pounds Conversion Guide",
+  "description": "Convert 1.25 kg prawns to pounds instantly. Get perfect air fryer portions every time with our simple guide and handy conversion tips.",
+  "author": {
     "@type": "Person",
     "name": "AirFryerRecipes.co.uk",
     "url": "https://www.airfryerrecipe.co.uk/about",
     "image": {
-    "@type": "ImageObject",
-    "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+      "@type": "ImageObject",
+      "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
     }
-    },
-    "publisher": {
+  },
+  "publisher": {
     "@type": "Organization",
     "name": "Air Fryer Recipe",
     "logo": {
-    "@type": "ImageObject",
-    "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
     }
-    },
-    "datePublished": "2025-08-23T23:54:12.977000+00:00",
-    "dateModified": "2025-08-23T23:54:12.977000+00:00",
-    "image": {
+  },
+  "datePublished": "2025-08-23T23:54:12.977Z",
+  "dateModified": "2025-08-23T23:54:12.977Z",
+  "image": {
     "@type": "ImageObject",
     "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/1-25-kg-prawns-to-pounds.webp"
-    },
-    "about": {
+  },
+  "about": {
     "@type": "Thing",
     "name": "Measurement"
-    },
-    "articleSection": "Measurement",
-    "inLanguage": "en-GB"
-    }
-    </script>
+  },
+  "articleSection": "Measurement",
+  "inLanguage": "en-GB"
+}
+</script>
 
     <script type="application/ld+json">
     {
@@ -68,7 +68,7 @@ schema: |
     "name": "Should I weigh prawns with or without shells when converting?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "It depends on your recipe. If the recipe specifies \"peeled\" or \"shelled\" prawns, you should use the weight after removing the shells. If it doesn't specify, assume it's the total weight including shells. Always check your recipe notes to avoid measurement errors and ensure your dish turns out as intended."
+    "text": "It depends on your recipe. If the recipe specifies "peeled" or "shelled" prawns, you should use the weight after removing the shells. If it doesn't specify, assume it's the total weight including shells. Always check your recipe notes to avoid measurement errors and ensure your dish turns out as intended."
     }
     },
     {
@@ -84,7 +84,7 @@ schema: |
     "name": "Where can I find more air fryer recipes for prawns?",
     "acceptedAnswer": {
     "@type": "Answer",
-    "text": "You can find a wide variety of prawn and shrimp recipes on our website. Head over to <a href=\"https://www.airfryerrecipe.co.uk/recipe-category/shrimp\">airfryerrecipe.co.uk/recipe-category/shrimp</a> for inspiration. From garlic prawns to spicy grilled options, we have recipes to suit every taste. Our collection is updated regularly with new, tried-and-tested ideas to make your air frying journey enjoyable and delicious."
+    "text": "You can find a wide variety of prawn and shrimp recipes on our website. Head over to <a href="https://www.airfryerrecipe.co.uk/recipe-category/shrimp">airfryerrecipe.co.uk/recipe-category/shrimp</a> for inspiration. From garlic prawns to spicy grilled options, we have recipes to suit every taste. Our collection is updated regularly with new, tried-and-tested ideas to make your air frying journey enjoyable and delicious."
     }
     }
     ]
