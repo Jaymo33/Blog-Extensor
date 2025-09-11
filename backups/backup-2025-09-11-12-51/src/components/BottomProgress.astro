@@ -1,0 +1,136 @@
+---
+// No props needed - this is a global component
+---
+
+<div id="bottom-progress" class="bottom-progress" aria-hidden="true">
+  <div class="progress-bar" id="bottom-progress-bar"></div>
+</div>
+
+<style>
+  .bottom-progress {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 4px; /* Back to original, less prominent height */
+    background: rgba(255, 107, 53, 0.2);
+    z-index: 1000;
+    transition: opacity 0.3s ease;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background: linear-gradient(270deg, #FF6B35 0%, #FF8C42 50%, #FF6B35 100%);
+    width: 0%;
+    transition: width 0.1s ease;
+    position: relative;
+    overflow: hidden;
+    margin-left: auto; /* This makes it grow from right to left */
+  }
+
+  .progress-bar::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+      270deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.3) 50%,
+      transparent 100%
+    );
+    animation: shimmer-reverse 2s infinite;
+  }
+
+  @keyframes shimmer-reverse {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+  /* Hide progress bar when at bottom */
+  .bottom-progress.hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  /* Show progress bar when scrolling */
+  .bottom-progress.visible {
+    opacity: 1;
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .bottom-progress {
+      height: 3px; /* Back to original mobile height */
+    }
+  }
+</style>
+
+<script>
+  // @ts-nocheck
+  document.addEventListener('DOMContentLoaded', () => {
+    const progressBar = document.getElementById('bottom-progress-bar');
+    const bottomProgress = document.getElementById('bottom-progress');
+    
+    if (!progressBar || !bottomProgress) return;
+
+    let ticking = false;
+
+    function updateBottomProgress() {
+      const article = document.querySelector('article') || document.querySelector('.post-content');
+      if (!article) return;
+
+      const articleTop = article.offsetTop;
+      const articleHeight = article.offsetHeight;
+      const windowHeight = window.innerHeight;
+      const scrollY = window.scrollY;
+      const documentHeight = document.documentElement.scrollHeight;
+
+      // Calculate how close we are to the bottom (reverse progress)
+      const scrollFromBottom = documentHeight - (scrollY + windowHeight);
+      const maxScrollFromBottom = documentHeight - windowHeight;
+      const progressFromBottom = Math.max(0, (maxScrollFromBottom - scrollFromBottom) / maxScrollFromBottom);
+      const progress = Math.min(100, progressFromBottom * 100);
+
+      // Update progress bar (grows from right to left)
+      if (progressBar) {
+        progressBar.style.width = `${progress}%`;
+      }
+
+      // Show/hide progress bar based on scroll position
+      const articleBottom = articleTop + articleHeight;
+      const scrollBottom = scrollY + windowHeight;
+      
+      if (bottomProgress) {
+        if (scrollBottom > articleTop && scrollY < articleBottom) {
+          bottomProgress.classList.remove('hidden');
+          bottomProgress.classList.add('visible');
+        } else {
+          bottomProgress.classList.remove('visible');
+          bottomProgress.classList.add('hidden');
+        }
+      }
+
+      ticking = false;
+    }
+
+    function onScroll() {
+      if (!ticking) {
+        requestAnimationFrame(updateBottomProgress);
+        ticking = true;
+      }
+    }
+
+    // Listen for scroll events
+    window.addEventListener('scroll', onScroll, { passive: true });
+    
+    // Initial update
+    updateBottomProgress();
+  });
+</script>

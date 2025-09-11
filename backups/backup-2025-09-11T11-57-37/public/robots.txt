@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://airfryerrecipe.co.uk/sitemap-index.xml
+
+# Allow all search engines to crawl the blog content
+Allow: /blog/
+
+# Disallow admin or private areas (if any exist in the future)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_astro/
+Disallow: /node_modules/
+
+# Crawl delay (optional - helps prevent server overload)
+Crawl-delay: 1

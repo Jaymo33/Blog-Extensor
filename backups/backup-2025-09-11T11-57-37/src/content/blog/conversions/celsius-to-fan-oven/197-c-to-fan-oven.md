@@ -1,0 +1,39 @@
+---
+title: "197 C to Fan Oven"
+description: "Convert 197°C to fan oven settings for perfect baking. Learn how this temperature translates to air fryers and convection cooking for UK kitchens."
+pubDate: 2025-07-21T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/197-c-to-fan-oven.png"
+tags:
+  - "fanoven"
+author: "AirFryerRecipe.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/conversions/celsius-to-fan-oven/197-c-to-fan-oven"
+schema: |
+  <!-- Schema will be generated automatically -->
+faqQ1: "How do I convert 197°C to fan oven for baking cakes?"
+faqA1: "For baking cakes, reduce 197°C by 20°C to get 177°C in a fan oven. This prevents over-browning while ensuring even cooking. Check cakes 5-10 minutes early as fan ovens cook faster."
+faqQ2: "Is the conversion different for air fryers compared to fan ovens?"
+faqA2: "No, the same 20°C reduction applies as both use convection heating. When converting 197°C to air fryer settings, use 177°C but reduce cooking time by about 20% for best results."
+faqQ3: "Why do some recipes not specify fan oven temperatures?"
+faqA3: "Older recipes or those from countries where fan ovens are less common often give conventional temperatures. Always convert 197°C to 177°C for fan ovens unless the recipe specifically states otherwise."
+faqQ4: "Can I use 197°C in my fan oven if I want crispier results?"
+faqA4: "Yes, for items like roast potatoes or crispy chicken, you might use the full 197°C in a fan oven. The circulating air prevents burning while enhancing crispiness, but monitor closely to avoid over-browning."
+---
+<p>197°C in a conventional oven converts to approximately 177°C in a fan oven. This 20°C reduction is standard for fan-assisted cooking, as the circulating air distributes heat more efficiently. When using an air fryer, which operates similarly to a fan oven, you'll typically follow the same conversion principle for best results.</p>
+
+<h2>Understanding Fan Oven Temperature Conversions</h2>
+<p>The general rule for converting conventional oven temperatures to fan oven settings is to reduce the temperature by 20°C. This means that 197°C becomes 177°C in a fan-assisted oven. The circulating hot air in fan ovens cooks food more evenly and efficiently, requiring less energy and shorter cooking times. Many modern recipes at <a href=https://www.airfryerrecipe.co.uk/recipes>airfryerrecipe.co.uk</a> now specify fan oven temperatures for this reason.</p>
+<p>When baking cakes or roasting meats at 197°C in a conventional recipe, the fan equivalent ensures similar results without over-browning. This conversion is particularly useful for delicate items like soufflés or precise baking where temperature control matters. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a> provides comprehensive guidance for all your cooking needs.</p>
+
+<h2>Applying 197°C Conversions to Air Fryers</h2>
+<p>Air fryers function similarly to convection ovens, making the 197°C to 177°C conversion directly applicable. The rapid air circulation in air fryers means they can achieve crispier results than traditional ovens at lower temperatures. For chicken recipes from our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken category</a>, this temperature conversion ensures perfectly cooked, juicy meat with crispy skin.</p>
+<p>When adapting conventional oven recipes for air fryers, remember that cooking times may need adjustment too. The efficient heat distribution often means reducing cooking time by about 20% when converting from 197°C conventional to fan or air fryer settings. Always check food a few minutes early to prevent overcooking.</p>
+
+<h3>Why 197°C Matters in Baking</h3>
+<p>197°C (converted to 177°C fan) is a sweet spot for many baked goods. This temperature allows proper rising without excessive browning, making it ideal for items like Victoria sponge cakes or scones. The slightly lower fan oven temperature prevents the outside from cooking too quickly while the inside catches up.</p>
+
+<h2>Special Considerations for Different Foods</h2>
+<p>While the 20°C reduction works for most foods, some exceptions exist. Dense items like <a href=https://www.airfryerrecipe.co.uk/recipe-category/potatoes>roast potatoes</a> might benefit from keeping the original 197°C in a fan oven for extra crispiness. Conversely, delicate items like meringues might need an additional 5-10°C reduction from the standard conversion.</p>
+<p>For frozen foods cooked at 197°C conventional, the fan oven conversion to 177°C helps prevent the outside from overcooking before the inside thaws completely. Our <a href=https://www.airfryerrecipe.co.uk/recipe-category/frozen-foods>frozen foods section</a> offers specific guidance for these conversions.</p>
+
+<h3>Temperature Accuracy and Calibration</h3>
+<p>Oven thermostats can vary, so it's wise to verify your fan oven's actual temperature with an independent thermometer. If your 177°C setting runs hot, you might need to adjust further when converting from 197°C conventional recipes.</p>

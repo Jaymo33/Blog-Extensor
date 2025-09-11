@@ -1,0 +1,23 @@
+{
+  "name": "static-pages-for-blog",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "dev:small": "astro dev --host",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^12.6.8",
+    "@astrojs/mdx": "^4.3.1",
+    "@astrojs/rss": "^4.0.12",
+    "@astrojs/sitemap": "^3.4.2",
+    "@supabase/supabase-js": "^2.57.2",
+    "astro": "^5.12.4",
+    "dotenv": "^17.2.2",
+    "glob": "^11.0.3",
+    "js-yaml": "^4.1.0"
+  }
+}

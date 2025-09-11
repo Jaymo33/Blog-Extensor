@@ -1,0 +1,1495 @@
+---
+// @ts-nocheck
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Layout from '../Layout.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+import RelatedPosts from '../../components/RelatedPosts.astro';
+import ReadingProgress from '../../components/ReadingProgress.astro';
+import BottomProgress from '../../components/BottomProgress.astro';
+
+type Props = {
+  post: CollectionEntry<'blog'>;
+};
+
+const { post } = Astro.props;
+// Ensure required fields are present and provide defaults
+const {
+  title = 'Untitled Post',
+  description = '',
+  pubDate = new Date(),
+  updatedDate,
+  heroImage,
+  tags = [],
+  author,
+  canonical,
+  schema,
+  // FAQ fields
+  faqQ1, faqA1, faqQ2, faqA2, faqQ3, faqA3, faqQ4, faqA4, faqQ5, faqA5,
+  faqQ6, faqA6, faqQ7, faqA7, faqQ8, faqA8, faqQ9, faqA9, faqQ10, faqA10
+} = post.data;
+
+// Generate optimized meta description from FAQ content
+let optimizedDescription = description;
+for (let i = 1; i <= 3; i++) {
+  const faqQ = post.data[`faqQ${i}`];
+  const faqA = post.data[`faqA${i}`];
+  if (faqQ && faqA && faqA.length > 20 && faqA.length < 120) {
+    optimizedDescription = `${faqA} ${title} - Air Fryer Recipe Guide`;
+    break;
+  }
+}
+
+// Format date for display
+const formattedPubDate = pubDate.toLocaleDateString('en-us', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+// Get related posts (for demo, we'll use the most recent posts)
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const relatedPosts = allPosts.slice(0, 3);
+
+// Generate the canonical URL
+const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
+
+// Generate schema programmatically
+function generateSchema() {
+  const baseUrl = 'https://www.airfryerrecipe.co.uk';
+  const currentUrl = new URL(Astro.url.pathname, baseUrl).href;
+  
+  // Extract category and hub from URL path
+  const pathParts = Astro.url.pathname.split('/').filter(Boolean);
+  const category = pathParts[1] || 'general';  // Fixed: category is pathParts[1], not [2]
+  const hub = pathParts[2] || 'uncategorized';
+  const slug = pathParts[pathParts.length - 1] || '';
+  
+  // Generate breadcrumb items
+  const breadcrumbItems = [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": {
+        "@type": "WebPage",
+        "@id": baseUrl
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": {
+        "@type": "WebPage",
+        "@id": `${baseUrl}/blog`
+      }
+    }
+  ];
+  
+  // Add category breadcrumb if not general
+  if (category !== 'general') {
+    breadcrumbItems.push({
+      "@type": "ListItem",
+      "position": breadcrumbItems.length + 1,
+      "name": category.charAt(0).toUpperCase() + category.slice(1),
+      "item": {
+        "@type": "WebPage",
+        "@id": `${baseUrl}/blog/${category}`
+      }
+    });
+  }
+  
+  // Add hub breadcrumb if not uncategorized
+  if (hub !== 'uncategorized') {
+    breadcrumbItems.push({
+      "@type": "ListItem",
+      "position": breadcrumbItems.length + 1,
+      "name": hub.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+      "item": {
+        "@type": "WebPage",
+        "@id": `${baseUrl}/blog/${category}/${hub}`
+      }
+    });
+  }
+  
+  // Add current page
+  breadcrumbItems.push({
+    "@type": "ListItem",
+    "position": breadcrumbItems.length + 1,
+    "name": title,
+    "item": {
+      "@type": "WebPage",
+      "@id": currentUrl
+    }
+  });
+  
+    // Build FAQ schema from frontmatter fields
+    const faqItems = [];
+    for (let i = 1; i <= 10; i++) {
+      const question = post.data[`faqQ${i}`];
+      const answer = post.data[`faqA${i}`];
+      if (question && answer) {
+        faqItems.push({
+          "@type": "Question",
+          "name": question,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": answer
+          }
+        });
+      }
+    }
+    const faqSchema = faqItems.length > 0 ? faqItems : null;
+    
+    // Build HowTo schema for instructional posts
+    let howToSchema = null;
+    if (category === 'how-to' || slug.includes('how-to') || slug.includes('reheat')) {
+      const steps = [];
+      
+      // Extract steps from FAQ content if available
+      for (let i = 1; i <= 5; i++) {
+        const stepQ = post.data[`faqQ${i}`];
+        const stepA = post.data[`faqA${i}`];
+        if (stepQ && stepA && stepQ.toLowerCase().includes('step')) {
+          steps.push({
+            "@type": "HowToStep",
+            "name": stepQ,
+            "text": stepA,
+            "position": i
+          });
+        }
+      }
+      
+      if (steps.length > 0) {
+        howToSchema = {
+          "@context": "https://schema.org",
+          "@type": "HowTo",
+          "name": title,
+          "description": description,
+          "image": heroImage ? {
+            "@type": "ImageObject",
+            "url": heroImage
+          } : undefined,
+          "totalTime": "PT10M", // Default 10 minutes, could be dynamic
+          "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": "0"
+          },
+          "step": steps
+        };
+      }
+    }
+    
+    // Build Review schema for conversion posts
+    let reviewSchema = null;
+    if (category === 'conversions' || slug.includes('how-many') || slug.includes('convert')) {
+      reviewSchema = {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "itemReviewed": {
+          "@type": "Thing",
+          "name": title.replace(/How many|Convert|to/gi, '').trim()
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "AirFryerRecipe.co.uk"
+        },
+        "reviewBody": description,
+        "datePublished": pubDate.toISOString(),
+        "publisher": {
+          "@type": "Organization",
+          "name": "Air Fryer Recipe"
+        }
+      };
+    }
+    
+  
+  return {
+    blogPosting: {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "url": currentUrl,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": currentUrl
+      },
+      "headline": title,
+      "description": description,
+      "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipe.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+      },
+      "datePublished": pubDate.toISOString(),
+      "dateModified": (updatedDate || pubDate).toISOString(),
+      "image": heroImage ? {
+        "@type": "ImageObject",
+        "url": heroImage
+      } : undefined,
+      "about": {
+        "@type": "Thing",
+        "name": category.charAt(0).toUpperCase() + category.slice(1)
+      },
+      "articleSection": category.charAt(0).toUpperCase() + category.slice(1),
+      "inLanguage": "en-GB"
+    },
+    article: {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "url": currentUrl,
+      "headline": title,
+      "description": description,
+      "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipe.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+      },
+      "datePublished": pubDate.toISOString(),
+      "dateModified": (updatedDate || pubDate).toISOString(),
+      "image": heroImage ? {
+        "@type": "ImageObject",
+        "url": heroImage
+      } : undefined,
+      "articleSection": category.charAt(0).toUpperCase() + category.slice(1),
+      "inLanguage": "en-GB"
+    },
+    faqPage: faqSchema && faqSchema.length > 0 ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqSchema
+    } : null,
+    howTo: howToSchema,
+    review: reviewSchema,
+    breadcrumb: {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "name": "Breadcrumbs",
+      "@id": `${currentUrl}#breadcrumbs`,
+      "itemListElement": breadcrumbItems
+    },
+    webPage: {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": title,
+      "url": currentUrl,
+      "description": description,
+      "inLanguage": "en",
+      "datePublished": pubDate.toISOString(),
+      "dateModified": (updatedDate || pubDate).toISOString()
+    },
+    webSite: {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": baseUrl,
+      "name": "Air Fryer Recipes",
+      "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+      "inLanguage": "en"
+    },
+    organization: {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Air Fryer Recipes",
+      "url": baseUrl,
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United Kingdom"
+        },
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": ["GB", "US"],
+        "availableLanguage": ["English"],
+        "email": "support@airfryerrecipe.co.uk"
+      }
+    }
+  };
+}
+
+// FAQ data is now loaded from frontmatter fields
+
+  const schemas = generateSchema();
+---
+
+<Layout currentTitle={title} description={optimizedDescription} schema={schemas}>
+  <!-- Removed the old breadcrumb navigation as it's replaced by SecondaryNav -->
+  <div class="blog-container">
+    <main class="blog-main" style="width: 92%;">
+      <article class="blog-post">
+        
+        {/* Reading Progress */}
+        <ReadingProgress />
+        
+        {/* Bottom Progress */}
+        <BottomProgress />
+        
+        {/* Post Header */}
+        <header class="post-header">
+         
+          <div class="header-grid">
+            <h1 class="post-title">{title}</h1>
+            {heroImage && (
+              <picture>
+                <source 
+                  srcset={`${heroImage}?w=300&h=300&f=webp&q=80 300w, ${heroImage}?w=600&h=600&f=webp&q=85 600w, ${heroImage}?w=900&h=900&f=webp&q=90 900w`}
+                  type="image/webp"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 300px"
+                />
+                <source 
+                  srcset={`${heroImage}?w=300&h=300&f=jpg&q=80 300w, ${heroImage}?w=600&h=600&f=jpg&q=85 600w, ${heroImage}?w=900&h=900&f=jpg&q=90 900w`}
+                  type="image/jpeg"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 300px"
+                />
+                <img
+                  src={`${heroImage}?w=600&h=600&f=jpg&q=85`}
+                  alt={title}
+                  width="300"
+                  height="300"
+                  class="header-image"
+                  loading="lazy"
+                  decoding="async"
+                  fetchpriority="high"
+                />
+              </picture>
+            )}
+          </div>
+        
+         
+         
+        </header>
+
+        {/* Table of Contents */}
+        <TableOfContents />
+
+        {/* Post Content */}
+        <div class="post-content">
+          <slot />
+        </div>
+
+        {/* Post Footer */}
+        
+        {/* Related Posts */}
+        <RelatedPosts currentPost={post} maxPosts={3} />
+        
+        
+      </article>
+    </main>
+
+ 
+  </div>
+</Layout>
+
+<style>
+  .blog-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    gap: 2rem;
+  }
+
+  @media (max-width: 768px) {
+  .blog-container {
+    padding: 0;
+  }
+}
+
+  .blog-main {
+    /* max-width: 800px; */
+    margin: 0 auto;
+  }
+
+  .featured-image {
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .post-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+
+  .post-image:hover {
+    transform: scale(1.02);
+  }
+
+  .post-header {
+    margin-bottom: 2rem !important;
+    width: 95%;
+    margin: 0 auto;
+  }
+
+  .post-meta {
+    color: #6b7280;
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .post-author {
+    margin-left: 0.75rem;
+    padding-left: 0.75rem;
+    border-left: 1px solid #e5e7eb;
+  }
+
+  .post-title {
+    font-size: 3.25rem;
+    font-weight: 800;
+    margin: 0.5rem 0 1rem;
+    margin-top: 100px;
+    color: #014E4E;
+    line-height: 1.2;
+  }
+@media (max-width: 768px) {
+   .post-title {
+    margin-top: 10px;
+  }
+}
+  .post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+
+  .tag {
+    display: inline-block;
+    background-color: #f3f4f6;
+    color: #4b5563;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .tag:hover {
+    background-color: #e5e7eb;
+    color: #1f2937;
+  }
+
+  .post-content {
+    line-height: 1.6;
+    color: #374151;
+    font-size: 1rem;
+    letter-spacing: -0.01em;
+  }
+
+  .post-content h2 {
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem;
+    font-weight: 600;
+    letter-spacing: -0.0125em;
+  }
+
+  .post-content p {
+    margin-bottom: 1.25rem;
+  }
+
+  .post-footer {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e5e7eb;
+  }
+
+  .post-share {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+  }
+
+  .social-share {
+    display: flex;
+    gap: 1rem;
+    margin-left: 1rem;
+  }
+
+  .social-icon {
+    color: #6b7280;
+    transition: color 0.2s;
+  }
+
+  .social-icon:hover {
+    color: #3b82f6;
+  }
+
+  .post-updated {
+    color: #6b7280;
+    font-size: 0.875rem;
+  }
+
+  /* Sidebar Styles */
+  .blog-sidebar {
+    position: sticky;
+    top: 2rem;
+    align-self: start;
+  }
+
+  .sidebar-section {
+    background-color: #f9fafb;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .sidebar-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+    color: #111827;
+  }
+
+  .related-posts {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .related-post {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    color: inherit;
+    transition: background-color 0.2s;
+    padding: 0.5rem;
+    border-radius: 6px;
+  }
+
+  .related-post:hover {
+    background-color: #f3f4f6;
+  }
+
+  .related-post-image {
+    width: 80px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  .related-post-content {
+    flex: 1;
+  }
+
+  .related-post-title {
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem;
+    line-height: 1.3;
+    color: #111827;
+  }
+
+  .related-post-date {
+    font-size: 0.75rem;
+    color: #6b7280;
+  }
+
+  /* Newsletter Section Styles */
+  .newsletter-section {
+    margin: 3rem auto;
+    padding: 0 1rem;
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .newsletter-card {
+    background: linear-gradient(135deg, #FFF8ED 0%, #FFE4CC 100%);
+    border: 2px solid #FF6B35;
+    border-radius: 24px;
+    padding: 2.5rem;
+    box-shadow: 0 12px 40px rgba(255, 107, 53, 0.2);
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+  }
+
+  .newsletter-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 60px rgba(255, 107, 53, 0.25);
+  }
+
+  .newsletter-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #FF6B35, #FF8C42, #FF6B35);
+  }
+
+  .newsletter-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .newsletter-icon {
+    background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+    color: white;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);
+    transition: transform 0.3s ease;
+  }
+
+  .newsletter-icon:hover {
+    transform: scale(1.05);
+  }
+
+  .newsletter-text {
+    width: 100%;
+  }
+
+  .newsletter-title {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #2D3748;
+    margin: 0 0 0.75rem 0;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  .newsletter-description {
+    font-size: 1.1rem;
+    color: #4A5568;
+    margin: 0;
+    line-height: 1.6;
+    font-weight: 400;
+  }
+
+  .newsletter-form {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .newsletter-button {
+    background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+    color: white;
+    border: none;
+    border-radius: 16px;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    min-width: 160px;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+    letter-spacing: 0.02em;
+    text-decoration: none;
+  }
+
+  .newsletter-button:hover {
+    background: linear-gradient(135deg, #e55a2b 0%, #e67e22 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);
+  }
+
+  .newsletter-button:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+  }
+
+  .button-icon {
+    transition: transform 0.2s ease;
+  }
+
+  .newsletter-button:hover .button-icon {
+    transform: translateX(2px);
+  }
+
+  .newsletter-benefits {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .benefit-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1rem;
+    color: #4A5568;
+    font-weight: 500;
+    padding: 0.5rem 0;
+  }
+
+  .benefit-item svg {
+    color: #FF6B35;
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .newsletter-section {
+      margin: 2rem 0;
+      padding: 0 1rem;
+      max-width: 100%;
+    }
+
+    .newsletter-card {
+      padding: 2rem 1.5rem;
+      border-radius: 20px;
+    }
+
+    .newsletter-content {
+      gap: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .newsletter-icon {
+      width: 56px;
+      height: 56px;
+    }
+
+    .newsletter-title {
+      font-size: 1.5rem;
+    }
+
+    .newsletter-description {
+      font-size: 1rem;
+    }
+
+    .newsletter-button {
+      min-width: auto;
+      padding: 0.875rem 1.5rem;
+      border-radius: 12px;
+    }
+
+    .newsletter-benefits {
+      gap: 0.75rem;
+      max-width: 100%;
+    }
+
+    .benefit-item {
+      font-size: 0.95rem;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .blog-container {
+      grid-template-columns: 1fr;
+    }
+
+    .blog-sidebar {
+      position: static;
+      margin-top: 3rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .header-grid {
+      grid-template-columns: none !important;
+    }
+  }
+
+  /* Breadcrumb */ 
+  .breadcrumb {
+    font-size: 0.875rem;
+    margin-bottom: 1.5rem;
+    color: #6b7280;
+  }
+  .breadcrumb a {
+    color: #6b7280;
+    text-decoration: none;
+  }
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+  .breadcrumb .sep {
+    margin: 0 0.5rem;
+  }
+  .breadcrumb .current {
+    color: #111827;
+    font-weight: 600;
+  }
+
+  /* Header grid */
+  .header-grid {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: start;
+    gap: 2rem;
+  }
+  .header-image {
+    min-width: 350px;
+    border-radius: 25px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    object-fit: cover;
+  }
+  
+  .header-image:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+  }
+  
+  /* Responsive image optimization */
+  picture {
+    display: block;
+    width: 100%;
+    max-width: 350px;
+  }
+
+@media (max-width: 768px) {
+   .header-image {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    min-width: 0;
+  }
+}
+
+/* Comment Section Styles - Brand Consistent */
+.comments-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--color-gray-light);
+  background: var(--color-background);
+}
+
+.comments-section h3 {
+  color: var(--color-primary);
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  letter-spacing: -0.0125em;
+}
+
+.comments-intro {
+  color: var(--color-gray);
+  margin-bottom: 2rem;
+  font-style: italic;
+  font-family: var(--font-family-base);
+  line-height: 1.6;
+}
+
+.comment-form {
+  background: #f8f9fa;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  margin-bottom: 2rem;
+  box-shadow: var(--box-shadow);
+  border: 1px solid var(--color-gray-light);
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: var(--color-text);
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid var(--color-gray-light);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+  background: white;
+  color: var(--color-text);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
+}
+
+.char-counter {
+  text-align: right;
+  font-size: 0.875rem;
+  color: var(--color-gray);
+  margin-top: 0.25rem;
+  font-family: var(--font-family-base);
+}
+
+.char-counter.warning {
+  color: #f59e0b;
+}
+
+.char-counter.error {
+  color: #ef4444;
+}
+
+.submit-btn {
+  background: var(--color-primary);
+  color: white;
+  padding: 0.75rem 2rem;
+  border: none;
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: var(--font-family-base);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(255, 107, 53, 0.2);
+}
+
+.submit-btn:hover {
+  background: #e55a2b;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(255, 107, 53, 0.3);
+}
+
+.submit-btn:active {
+  transform: translateY(0);
+}
+
+.comments-list {
+  margin-top: 2rem;
+}
+
+.no-comments {
+  text-align: center;
+  color: var(--color-gray);
+  font-style: italic;
+  padding: 2rem;
+  background: white;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-gray-light);
+  font-family: var(--font-family-base);
+}
+
+.comment-item {
+  background: white;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  border-left: 4px solid var(--color-primary);
+  border: 1px solid var(--color-gray-light);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.comment-item:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.comment-author {
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+}
+
+.comment-date {
+  font-size: 0.9rem;
+  color: var(--color-gray);
+  margin-bottom: 1rem;
+  font-family: var(--font-family-base);
+}
+
+.comment-text {
+  line-height: 1.6;
+  color: var(--color-text);
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+}
+
+/* Admin controls for comment moderation */
+.comment-admin-controls {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-gray-light);
+  display: flex;
+  gap: 0.5rem;
+}
+
+.admin-btn {
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--color-gray-light);
+  background: var(--color-background);
+  color: var(--color-text);
+  border-radius: 4px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-family-base);
+}
+
+.admin-btn:hover {
+  background: var(--color-gray-light);
+}
+
+.admin-btn.delete {
+  color: #dc3545;
+  border-color: #dc3545;
+}
+
+.admin-btn.delete:hover {
+  background: #dc3545;
+  color: white;
+}
+
+.admin-btn.pin {
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.admin-btn.pin:hover {
+  background: var(--color-primary);
+  color: white;
+}
+
+/* Reply functionality styles */
+.comment-actions {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reply-btn {
+  background: none;
+  border: 1px solid var(--color-primary);
+  color: var(--color-primary);
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-family-base);
+}
+
+.reply-btn:hover {
+  background: var(--color-primary);
+  color: white;
+}
+
+.reply-form {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: var(--color-background);
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-gray-light);
+}
+
+.reply-form textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid var(--color-gray-light);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-base);
+  font-size: 0.9rem;
+  background: white;
+  color: var(--color-text);
+  resize: vertical;
+  min-height: 80px;
+}
+
+.reply-form textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
+}
+
+.reply-actions {
+  margin-top: 0.75rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.reply-actions .submit-btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+}
+
+.cancel-btn {
+  background: var(--color-gray-light);
+  color: var(--color-text);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-family: var(--font-family-base);
+}
+
+.cancel-btn:hover {
+  background: var(--color-gray);
+  color: white;
+}
+
+.replies {
+  margin-top: 1rem;
+  margin-left: 2rem;
+  border-left: 2px solid var(--color-gray-light);
+  padding-left: 1rem;
+}
+
+.reply-item {
+  background: var(--color-background);
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-gray-light);
+}
+
+.reply-author {
+  font-weight: 600;
+  color: var(--color-primary);
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.reply-date {
+  font-size: 0.8rem;
+  color: var(--color-gray);
+  margin-bottom: 0.5rem;
+}
+
+.reply-text {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--color-text);
+}
+</style>
+
+<script is:inline>
+  // Function to insert newsletter after first paragraph
+  function insertNewsletterAfterFirstParagraph() {
+    console.log('Attempting to insert newsletter...');
+    
+    const postContent = document.querySelector('.post-content');
+    console.log('Post content found:', postContent);
+    
+    if (!postContent) {
+      console.error('Post content not found!');
+      return;
+    }
+    
+    const paragraphs = postContent.querySelectorAll('p');
+    console.log('Found paragraphs:', paragraphs.length);
+    
+    if (paragraphs.length === 0) {
+      console.error('No paragraphs found!');
+      return;
+    }
+    
+    const firstParagraph = paragraphs[0];
+    console.log('First paragraph:', firstParagraph);
+    
+    // Create newsletter HTML using string concatenation to avoid template literal issues
+    const newsletterHTML = '<div class="newsletter-section">' +
+      '<div class="newsletter-card">' +
+        '<div class="newsletter-content">' +
+          '<div class="newsletter-icon">' +
+            '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+              '<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>' +
+              '<polyline points="22,6 12,13 2,6"></polyline>' +
+            '</svg>' +
+          '</div>' +
+          '<div class="newsletter-text">' +
+            '<h3 class="newsletter-title">Get the Latest Air Fryer Tips & Recipes</h3>' +
+            '<p class="newsletter-description">Join thousands of air fryer enthusiasts and get weekly recipes, cooking tips, and exclusive content delivered straight to your inbox.</p>' +
+          '</div>' +
+        '</div>' +
+        '<div class="newsletter-form">' +
+          '<a href="https://airfryerrecipe.us1.list-manage.com/subscribe/post?u=f427e0d2759e5f56896249ba7&amp;id=d1bf86106e&amp;f_id=00b6c2e1f0" target="_blank" class="newsletter-button">' +
+            '<span class="button-text">Subscribe to Newsletter</span>' +
+            '<svg class="button-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+              '<line x1="5" y1="12" x2="19" y2="12"></line>' +
+              '<polyline points="12 5 19 12 12 19"></polyline>' +
+            '</svg>' +
+          '</a>' +
+        '</div>' +
+        '<div class="newsletter-benefits">' +
+          '<div class="benefit-item">' +
+            '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+              '<polyline points="20,6 9,17 4,12"></polyline>' +
+            '</svg>' +
+            '<span>Weekly recipe collections</span>' +
+          '</div>' +
+          '<div class="benefit-item">' +
+            '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+              '<polyline points="20,6 9,17 4,12"></polyline>' +
+            '</svg>' +
+            '<span>Cooking tips & techniques</span>' +
+          '</div>' +
+          '<div class="benefit-item">' +
+            '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+              '<polyline points="20,6 9,17 4,12"></polyline>' +
+            '</svg>' +
+            '<span>No spam, unsubscribe anytime</span>' +
+          '</div>' +
+        '</div>' +
+      '</div>' +
+    '</div>';
+    
+    // Create a temporary div to parse the HTML
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = newsletterHTML;
+    const newsletterElement = tempDiv.firstElementChild;
+    
+    console.log('Newsletter element created:', newsletterElement);
+    
+    // Apply styles directly to the newsletter element
+    applyNewsletterStyles(newsletterElement);
+    
+    // Insert after the first paragraph
+    firstParagraph.parentNode.insertBefore(newsletterElement, firstParagraph.nextSibling);
+    
+    console.log('Newsletter inserted successfully!');
+  }
+  
+  // Function to apply newsletter styles
+  function applyNewsletterStyles(newsletterElement) {
+    // Apply styles to the newsletter section
+    const newsletterSection = newsletterElement;
+    newsletterSection.style.cssText = `
+      margin: 3rem auto;
+      padding: 0 1rem;
+      max-width: 600px;
+      display: flex;
+      justify-content: center;
+    `;
+    
+    // Apply styles to the newsletter card
+    const newsletterCard = newsletterElement.querySelector('.newsletter-card');
+    newsletterCard.style.cssText = `
+      background: linear-gradient(135deg, #FFF8ED 0%, #FFE4CC 100%);
+      border: 2px solid #FF6B35;
+      border-radius: 24px;
+      padding: 2.5rem;
+      box-shadow: 0 12px 40px rgba(255, 107, 53, 0.2);
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      backdrop-filter: blur(10px);
+      transition: all 0.3s ease;
+    `;
+    
+    // Apply styles to newsletter content
+    const newsletterContent = newsletterElement.querySelector('.newsletter-content');
+    newsletterContent.style.cssText = `
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    `;
+    
+    // Apply styles to newsletter icon
+    const newsletterIcon = newsletterElement.querySelector('.newsletter-icon');
+    newsletterIcon.style.cssText = `
+      background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+      color: white;
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);
+      transition: transform 0.3s ease;
+    `;
+    
+    // Apply styles to newsletter text
+    const newsletterText = newsletterElement.querySelector('.newsletter-text');
+    newsletterText.style.cssText = `
+      width: 100%;
+    `;
+    
+    // Apply styles to newsletter title
+    const newsletterTitle = newsletterElement.querySelector('.newsletter-title');
+    newsletterTitle.style.cssText = `
+      font-size: 1.75rem;
+      font-weight: 800;
+      color: #2D3748;
+      margin: 0 0 0.75rem 0;
+      font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+    `;
+    
+    // Apply styles to newsletter description
+    const newsletterDescription = newsletterElement.querySelector('.newsletter-description');
+    newsletterDescription.style.cssText = `
+      font-size: 1.1rem;
+      color: #4A5568;
+      margin: 0;
+      line-height: 1.6;
+      font-weight: 400;
+    `;
+    
+    // Apply styles to newsletter form
+    const newsletterForm = newsletterElement.querySelector('.newsletter-form');
+    newsletterForm.style.cssText = `
+      margin-bottom: 2rem;
+      display: flex;
+      justify-content: center;
+    `;
+    
+    // Apply styles to newsletter button
+    const newsletterButton = newsletterElement.querySelector('.newsletter-button');
+    newsletterButton.style.cssText = `
+      background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+      color: white;
+      border: none;
+      border-radius: 16px;
+      padding: 1rem 2rem;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+      min-width: 160px;
+      justify-content: center;
+      box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+      letter-spacing: 0.02em;
+      text-decoration: none;
+    `;
+    
+    // Apply styles to newsletter benefits
+    const newsletterBenefits = newsletterElement.querySelector('.newsletter-benefits');
+    newsletterBenefits.style.cssText = `
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      max-width: 400px;
+      margin: 0 auto;
+    `;
+    
+    // Apply styles to benefit items
+    const benefitItems = newsletterElement.querySelectorAll('.benefit-item');
+    benefitItems.forEach(item => {
+      item.style.cssText = `
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        font-size: 1rem;
+        color: #4A5568;
+        font-weight: 500;
+        padding: 0.5rem 0;
+      `;
+      
+      // Style the SVG icons
+      const svg = item.querySelector('svg');
+      if (svg) {
+        svg.style.cssText = `
+          color: #FF6B35;
+          flex-shrink: 0;
+          width: 20px;
+          height: 20px;
+        `;
+      }
+    });
+    
+    // Add hover effects
+    newsletterButton.addEventListener('mouseenter', function() {
+      this.style.background = 'linear-gradient(135deg, #e55a2b 0%, #e67e22 100%)';
+      this.style.transform = 'translateY(-2px)';
+      this.style.boxShadow = '0 8px 20px rgba(255, 107, 53, 0.4)';
+    });
+    
+    newsletterButton.addEventListener('mouseleave', function() {
+      this.style.background = 'linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%)';
+      this.style.transform = 'translateY(0)';
+      this.style.boxShadow = '0 4px 12px rgba(255, 107, 53, 0.3)';
+    });
+    
+    newsletterIcon.addEventListener('mouseenter', function() {
+      this.style.transform = 'scale(1.05)';
+    });
+    
+    newsletterIcon.addEventListener('mouseleave', function() {
+      this.style.transform = 'scale(1)';
+    });
+    
+    console.log('Newsletter styles applied successfully!');
+  }
+  
+  // Run newsletter insertion immediately, independent of Supabase
+  document.addEventListener('DOMContentLoaded', function() {
+    // Insert newsletter after first paragraph
+    insertNewsletterAfterFirstParagraph();
+  });
+</script>
+
+<!-- Schema.org JSON-LD -->
+{schema && <div style="display: contents" set:html={schema} />}

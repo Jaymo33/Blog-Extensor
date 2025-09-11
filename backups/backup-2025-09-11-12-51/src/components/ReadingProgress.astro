@@ -1,0 +1,203 @@
+---
+// No props needed - this is a global component
+---
+
+<div id="reading-progress" class="reading-progress" aria-hidden="true">
+  <div class="progress-bar" id="progress-bar"></div>
+</div>
+
+<style>
+  .reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: rgba(255, 107, 53, 0.2);
+    z-index: 1000;
+    transition: opacity 0.3s ease;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #FF6B35 0%, #FF8C42 50%, #FF6B35 100%);
+    width: 0%;
+    transition: width 0.1s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .progress-bar::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.3) 50%,
+      transparent 100%
+    );
+    animation: shimmer 2s infinite;
+  }
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+
+  /* Hide progress bar when at top */
+  .reading-progress.hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  /* Show progress bar when scrolling */
+  .reading-progress.visible {
+    opacity: 1;
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .reading-progress {
+      height: 3px;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const progressBar = document.getElementById('progress-bar');
+    const readingProgress = document.getElementById('reading-progress');
+    
+    if (!progressBar || !readingProgress) return;
+
+    let ticking = false;
+    let lastScrollY = 0;
+
+    function updateReadingProgress() {
+      const article = document.querySelector('article') || document.querySelector('.post-content');
+      if (!article) return;
+
+      const articleTop = article.offsetTop;
+      const articleHeight = article.offsetHeight;
+      const windowHeight = window.innerHeight;
+      const scrollY = window.scrollY;
+
+      // Calculate reading progress
+      const scrollProgress = Math.max(0, scrollY - articleTop);
+      const maxScroll = articleHeight - windowHeight + 100; // 100px buffer
+      const progress = Math.min(100, (scrollProgress / maxScroll) * 100);
+
+      // Update progress bar
+      progressBar.style.width = `${progress}%`;
+
+      // Show/hide progress bar based on scroll position
+      if (scrollY > articleTop - 100) {
+        readingProgress.classList.remove('hidden');
+        readingProgress.classList.add('visible');
+      } else {
+        readingProgress.classList.remove('visible');
+        readingProgress.classList.add('hidden');
+      }
+
+      // Track reading progress in analytics
+      const progressRounded = Math.round(progress);
+      if (progressRounded % 25 === 0 && progressRounded > 0) { // Track at 25%, 50%, 75%, 100%
+        if (typeof gtag !== 'undefined') {
+          gtag('event', 'reading_progress', {
+            progress_percentage: progressRounded,
+            event_category: 'engagement',
+            event_label: 'reading_progress'
+          });
+        }
+
+        if (typeof abTesting !== 'undefined') {
+          abTesting.trackEvent('reading_progress', {
+            progress_percentage: progressRounded,
+            timestamp: new Date().toISOString()
+          });
+        }
+      }
+
+      lastScrollY = scrollY;
+      ticking = false;
+    }
+
+    function onScroll() {
+      if (!ticking) {
+        requestAnimationFrame(updateReadingProgress);
+        ticking = true;
+      }
+    }
+
+    // Listen for scroll events
+    window.addEventListener('scroll', onScroll, { passive: true });
+    
+    // Initial update
+    updateReadingProgress();
+
+    // Track time spent reading
+    let startTime = Date.now();
+    let timeTrackingInterval;
+
+    function startTimeTracking() {
+      startTime = Date.now();
+      timeTrackingInterval = setInterval(() => {
+        const timeSpent = Math.round((Date.now() - startTime) / 1000);
+        
+        // Track every 30 seconds
+        if (timeSpent % 30 === 0 && timeSpent > 0) {
+          if (typeof gtag !== 'undefined') {
+            gtag('event', 'reading_time', {
+              time_spent_seconds: timeSpent,
+              event_category: 'engagement',
+              event_label: 'reading_time'
+            });
+          }
+
+          if (typeof abTesting !== 'undefined') {
+            abTesting.trackEvent('reading_time', {
+              time_spent_seconds: timeSpent,
+              timestamp: new Date().toISOString()
+            });
+          }
+        }
+      }, 1000);
+    }
+
+    function stopTimeTracking() {
+      if (timeTrackingInterval) {
+        clearInterval(timeTrackingInterval);
+      }
+    }
+
+    // Start tracking when user starts reading
+    let hasStartedReading = false;
+    const article = document.querySelector('article') || document.querySelector('.post-content');
+    
+    if (article) {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting && !hasStartedReading) {
+            hasStartedReading = true;
+            startTimeTracking();
+          } else if (!entry.isIntersecting && hasStartedReading) {
+            stopTimeTracking();
+          }
+        });
+      }, { threshold: 0.1 });
+
+      observer.observe(article);
+    }
+
+    // Clean up on page unload
+    window.addEventListener('beforeunload', stopTimeTracking);
+  });
+</script>

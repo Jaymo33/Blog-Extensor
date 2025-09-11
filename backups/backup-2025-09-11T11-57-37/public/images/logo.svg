@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Air Fryer Icon -->
+  <rect x="20" y="25" width="60" height="50" rx="5" fill="#2ec4b6" />
+  <rect x="30" y="15" width="40" height="10" rx="3" fill="#2ec4b6" />
+  <circle cx="50" cy="50" r="20" fill="#fff" />
+  <circle cx="50" cy="50" r="15" fill="#f7c59f" stroke="#fff" stroke-width="2" />
+  <path d="M40,45 L60,45 M40,50 L60,50 M40,55 L60,55" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+  <rect x="25" y="75" width="50" height="5" rx="2" fill="#2ec4b6" />
+</svg>

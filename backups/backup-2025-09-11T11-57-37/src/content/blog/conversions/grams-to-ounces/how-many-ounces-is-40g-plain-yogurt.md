@@ -1,0 +1,37 @@
+---
+title: "How many ounces is 40g of plain yogurt?"
+description: "Find out exactly how many ounces 40g of plain yogurt equals and master air fryer measurements with our easy conversion guide."
+pubDate: 2025-08-10T00:00:00.000Z
+heroImage: "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/how-many-ounces-is-40g-plain-yogurt.webp"
+tags:
+  - "measurement"
+author: "AirFryerRecipe.co.uk"
+canonical: "https://www.airfryerrecipe.co.uk/blog/conversions/grams-to-ounces/how-many-ounces-is-40g-plain-yogurt"
+schema: |
+  <!-- Schema will be generated automatically -->
+faqQ1: "Can I use Greek yogurt instead of plain yogurt in air fryer recipes?"
+faqA1: "Yes, you can substitute Greek yogurt for plain yogurt, but keep in mind it’s thicker. If a recipe calls for 40g of plain yogurt (1.41 ounces), you’ll need to adjust liquids slightly to maintain the right consistency. Greek yogurt works well in marinades and dips."
+faqQ2: "How do I convert other yogurt amounts from grams to ounces?"
+faqA2: "To convert any amount of yogurt from grams to ounces, divide the grams by 28.35. For example, 100g of yogurt is about 3.53 ounces. Our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>conversion chart</a> makes this easy for all common measurements."
+faqQ3: "Why is my air fryer recipe too dry when using yogurt?"
+faqA3: "If your dish turns out dry, you may have used too little yogurt or overcooked it. Always measure accurately—40g (1.41 ounces) is key for moisture. Also, check your air fryer’s temperature settings, as overheating can dry out ingredients."
+faqQ4: "Can I freeze yogurt for later use in air fryer recipes?"
+faqA4: "Yes, but the texture may change slightly. Thawed yogurt works best in cooked dishes like marinades or baked goods. For precise measurements, weigh it after thawing—40g (1.41 ounces) is still the standard."
+---
+<p>40g of plain yogurt is approximately 1.41 ounces. This conversion is essential for air fryer recipes where precise measurements can make all the difference. Whether you're whipping up a marinade, baking a cake, or preparing a creamy dip, knowing how to convert grams to ounces ensures consistency. At <a href=https://www.airfryerrecipe.co.uk>airfryerrecipe.co.uk</a>, we help simplify these conversions so you can focus on cooking. Let’s dive deeper into why this matters for air fryer cooking.</p>
+
+<h2>Why accurate measurements matter in air fryer cooking</h2>  
+<p>Air fryers rely on precise cooking times and temperatures, and ingredient measurements play a crucial role. Using too much or too little yogurt can affect texture, moisture, and even cooking times. For example, adding 40g of plain yogurt (1.41 ounces) instead of an estimated amount could mean the difference between a fluffy cake and a dense one. Many of our <a href=https://www.airfryerrecipe.co.uk/recipes>air fryer recipes</a> call for exact measurements to ensure perfect results every time.</p>  
+
+<p>Yogurt is often used in air fryer recipes as a marinade base, a binding agent, or even a substitute for heavier ingredients like cream. If you’re converting from grams to ounces, a digital kitchen scale is your best friend. For more tips on air fryer measurements, check out our <a href=https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart>air fryer conversion chart</a>.</p>  
+
+<h3>How to measure 40g of plain yogurt without a scale</h3>  
+<p>If you don’t have a scale, you can still measure 40g of plain yogurt (1.41 ounces) using tablespoons. One tablespoon of plain yogurt weighs roughly 15g, so 40g would be just under 3 tablespoons. However, this method isn’t as precise as weighing, especially for baking. For best results, invest in a small digital scale—they’re affordable and incredibly useful for air fryer cooking.</p>  
+
+<h2>Common uses for 40g of plain yogurt in air fryer recipes</h2>  
+<p>Plain yogurt is a versatile ingredient in air fryer cooking. From marinades to baked goods, 40g (1.41 ounces) can go a long way. For example, our <a href=https://www.airfryerrecipe.co.uk/recipe-category/chicken>chicken recipes</a> often use yogurt to tenderise meat before air frying. It’s also great in dips, dressings, and even as a substitute for buttermilk in pancakes or muffins.</p>  
+
+<p>If you’re making a yogurt-based sauce, 40g is typically enough for two servings. For larger batches, simply scale up the measurement accordingly. Need inspiration? Browse our <a href=https://www.airfryerrecipe.co.uk/recipes>recipe collection</a> for delicious ways to use yogurt in your air fryer.</p>  
+
+<h3>Does yogurt weight change with fat content?</h3>  
+<p>The weight of yogurt doesn’t vary significantly based on fat content—40g of full-fat, low-fat, or fat-free plain yogurt will still be roughly 1.41 ounces. However, thicker yogurts (like Greek yogurt) may measure slightly differently by volume. Always weigh for accuracy, especially in baking.</p>
