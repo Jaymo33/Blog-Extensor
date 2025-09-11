@@ -1743,29 +1743,26 @@ function generateSchema() {
         emailInput.disabled = true;
 
         try {
-          const endpoint = '/api/subscribe';
-          console.log('Submitting to endpoint:', endpoint);
-          console.log('Email:', email);
+          // Client-side only newsletter subscription
+          // Store in localStorage for now (can be enhanced with third-party service later)
+          const subscribers = JSON.parse(localStorage.getItem('newsletter_subscribers') || '[]');
           
-          const response = await fetch(endpoint, {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({ email })
-          });
-          
-          console.log('Response status:', response.status);
-          console.log('Response ok:', response.ok);
-
-          const data = await response.json().catch(() => ({}));
-
-          if (response.ok && data?.ok) {
-            // Success state
+          if (subscribers.includes(email)) {
+            // Already subscribed
+            newsletterCard.classList.add('success');
+            buttonText.textContent = 'Already Subscribed!';
+            statusEl.textContent = 'You are already subscribed to our newsletter.';
+            statusEl.style.color = '#166534';
+          } else {
+            // New subscription
+            subscribers.push(email);
+            localStorage.setItem('newsletter_subscribers', JSON.stringify(subscribers));
+            
             newsletterCard.classList.add('success');
             buttonText.textContent = 'Subscribed!';
-            statusEl.textContent = 'Thank you for subscribing! Check your email for confirmation.';
+            statusEl.textContent = 'Thank you for subscribing! We\'ll be in touch soon.';
             statusEl.style.color = '#166534';
+            emailInput.value = '';
             
             // Track successful subscription
             if (typeof gtag !== 'undefined') {
@@ -1782,22 +1779,13 @@ function generateSchema() {
                 timestamp: new Date().toISOString()
               });
             }
-
-          } else {
-            // Error state
-            buttonText.textContent = 'Subscribe';
-            buttonIcon.style.display = 'block';
-            statusEl.textContent = data?.error || 'Something went wrong. Please try again.';
-            statusEl.style.color = '#dc2626';
-            emailInput.disabled = false;
-            emailInput.focus();
           }
 
         } catch (error) {
-          // Network error
+          // Error state
           buttonText.textContent = 'Subscribe';
           buttonIcon.style.display = 'block';
-          statusEl.textContent = 'Network error. Please check your connection and try again.';
+          statusEl.textContent = 'Something went wrong. Please try again.';
           statusEl.style.color = '#dc2626';
           emailInput.disabled = false;
           emailInput.focus();

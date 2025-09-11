@@ -312,16 +312,16 @@
     // Load all posts data
     async function loadPostsData() {
       try {
-        const response = await fetch('/api/search-data');
+        const response = await fetch('/search-data.json');
         if (response.ok) {
           allPosts = await response.json();
         } else {
-          // Fallback: load from static data
-          allPosts = await loadStaticPostsData();
+          // Fallback: empty array if no data available
+          allPosts = [];
         }
       } catch (error) {
         console.error('Error loading posts data:', error);
-        allPosts = await loadStaticPostsData();
+        allPosts = [];
       }
     }
 
