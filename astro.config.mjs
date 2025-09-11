@@ -15,7 +15,8 @@ const redirects = Object.fromEntries(
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://airfryerrecipes.co.uk',
+  site: 'https://airfryerrecipe.co.uk',
+  output: 'server',
   redirects,
   integrations: [
     mdx(),

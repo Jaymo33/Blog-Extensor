@@ -1,0 +1,895 @@
+---
+import Footer from '../components/Footer.astro';
+import SecondaryNav from '../components/SecondaryNav.astro';
+import NewsletterBanner from '../components/NewsletterBanner.astro';
+
+interface Props {
+	title?: string;
+	description?: string;
+	image?: string;
+	canonical?: string;
+	schema?: Record<string, any>;
+	currentTitle?: string;
+}
+
+const {
+	title = 'Air Fryer Recipes',
+	description = 'Delicious air fryer recipes and cooking tips',
+	image = '/images/default-og.jpg',
+	canonical = Astro.url.pathname,
+	schema,
+	currentTitle,
+} = Astro.props;
+
+const canonicalURL = new URL(canonical, Astro.site).href;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="robots" content="index, follow" />
+		<link rel="icon" type="image/png" href="https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Webflow%20Assets/Favicon.png" />
+		<meta name="generator" content={Astro.generator} />
+		<!-- Performance optimizations -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link rel="preconnect" href="https://klueoymssxwfnxsvcyhv.supabase.co" />
+		<link rel="preconnect" href="https://cdn.prod.website-files.com" />
+		<link rel="dns-prefetch" href="https://www.airfryerrecipe.co.uk" />
+		
+		<!-- Preload critical resources -->
+		<link rel="preload" href="https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/683dec578aea93bac7a5ac7a_airfryer.png" as="image" />
+		<link rel="preload" href="/css/blog-cards.css" as="style" />
+		
+		<!-- Supabase CDN for comment system -->
+		<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+		
+		<!-- A/B Testing Framework -->
+		<script src="/src/lib/ab-testing.js"></script>
+		<script src="/src/lib/ab-dashboard.js"></script>
+		
+		<!-- Google Analytics 4 -->
+		<script async src={`https://www.googletagmanager.com/gtag/js?id=${import.meta.env.PUBLIC_GA_MEASUREMENT_ID}`}></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', import.meta.env.PUBLIC_GA_MEASUREMENT_ID, {
+				page_title: document.title,
+				page_location: window.location.href,
+				custom_map: {
+					'custom_parameter_1': 'content_category',
+					'custom_parameter_2': 'content_type'
+				}
+			});
+			
+			// Track page views with enhanced parameters
+			gtag('event', 'page_view', {
+				page_title: document.title,
+				page_location: window.location.href,
+				content_category: window.location.pathname.includes('/conversions/') ? 'conversions' : 
+								 window.location.pathname.includes('/how-to/') ? 'how-to' : 'general',
+				content_type: 'blog_post',
+				country: 'GB', // Default to UK, can be enhanced with geo-detection
+				language: 'en-gb'
+			});
+			
+			// Track user engagement
+			gtag('event', 'user_engagement', {
+				engagement_time_msec: 0
+			});
+		</script>
+		
+		<!-- A/B Testing Implementation -->
+		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				// Initialize A/B testing
+				if (typeof ABTesting !== 'undefined') {
+					const abTesting = new ABTesting();
+					
+					// A/B Test 1: Meta Description Format
+					const metaDescTest = abTesting.registerTest('meta_description_format', [
+						{
+							name: 'question',
+							generate: (title, description, category) => {
+								if (category === 'conversions') {
+									return `How to convert ${title.toLowerCase()}? ${description}`;
+								}
+								return `How to ${title.toLowerCase()}? ${description}`;
+							}
+						},
+						{
+							name: 'statement',
+							generate: (title, description, category) => {
+								return description; // Original description
+							}
+						}
+					]);
+					
+					// Apply meta description variant
+					if (metaDescTest) {
+						const metaDesc = document.getElementById('meta-description');
+						const originalTitle = document.title;
+						const originalDesc = metaDesc.getAttribute('content');
+						const category = window.location.pathname.includes('/conversions/') ? 'conversions' : 
+										window.location.pathname.includes('/how-to/') ? 'how-to' : 'general';
+						
+						const newDesc = metaDescTest.generate(originalTitle, originalDesc, category);
+						metaDesc.setAttribute('content', newDesc);
+						
+						// Update Open Graph description too
+						const ogDesc = document.querySelector('meta[property="og:description"]');
+						if (ogDesc) ogDesc.setAttribute('content', newDesc);
+						
+						// Update Twitter description too
+						const twitterDesc = document.querySelector('meta[property="twitter:description"]');
+						if (twitterDesc) twitterDesc.setAttribute('content', newDesc);
+						
+						// Track the variant assignment
+						abTesting.trackEvent('meta_description_variant_applied', {
+							variant: metaDescTest.name,
+							original_description: originalDesc,
+							new_description: newDesc,
+							page_url: window.location.href
+						});
+					}
+					
+					// A/B Test 2: Headline Format
+					const headlineTest = abTesting.registerTest('headline_format', [
+						{
+							name: 'question',
+							generate: (originalTitle) => {
+								if (originalTitle.includes('to')) {
+									return `How to ${originalTitle.toLowerCase()}?`;
+								}
+								return `What is ${originalTitle.toLowerCase()}?`;
+							}
+						},
+						{
+							name: 'statement',
+							generate: (originalTitle) => {
+								return originalTitle; // Keep original
+							}
+						}
+					]);
+					
+					// Apply headline variant
+					if (headlineTest) {
+						const h1 = document.querySelector('h1.post-title');
+						if (h1) {
+							const originalTitle = h1.textContent;
+							const newTitle = headlineTest.generate(originalTitle);
+							h1.textContent = newTitle;
+							
+							// Update page title too
+							document.title = newTitle;
+							
+							// Update Open Graph title
+							const ogTitle = document.querySelector('meta[property="og:title"]');
+							if (ogTitle) ogTitle.setAttribute('content', newTitle);
+							
+							// Update Twitter title
+							const twitterTitle = document.querySelector('meta[property="twitter:title"]');
+							if (twitterTitle) twitterTitle.setAttribute('content', newTitle);
+							
+							// Track the variant assignment
+							abTesting.trackEvent('headline_variant_applied', {
+								variant: headlineTest.name,
+								original_title: originalTitle,
+								new_title: newTitle,
+								page_url: window.location.href
+							});
+						}
+					}
+					
+					// Track clicks on CTA buttons
+					document.addEventListener('click', function(e) {
+						if (e.target.matches('.submit-btn, .cta-button, .reply-btn')) {
+							abTesting.trackConversion('meta_description_format', 'button_click', 1);
+							abTesting.trackConversion('headline_format', 'button_click', 1);
+						}
+					});
+					
+					// Track time on page (engagement)
+					let startTime = Date.now();
+					window.addEventListener('beforeunload', function() {
+						const timeOnPage = Date.now() - startTime;
+						if (timeOnPage > 30000) { // More than 30 seconds
+							abTesting.trackConversion('meta_description_format', 'high_engagement', timeOnPage);
+							abTesting.trackConversion('headline_format', 'high_engagement', timeOnPage);
+						}
+					});
+				}
+			});
+		</script>
+		
+		<!-- Critical CSS inline for faster initial render -->
+		<style>
+			/* Critical above-the-fold styles */
+			.navbar-logo-left { background: #FFF8ED; position: sticky; top: 0; height: 120px; }
+			.container-2 { display: flex; align-items: center; padding: 0.75rem 2rem; max-width: 1000px; margin: auto; }
+			.image-21 { height: 100px; width: auto; }
+			.navbar-wrapper { margin-left: 250px; }
+			.nav-menu-two { display: flex; align-items: center; gap: 1.5rem; margin: 0; padding: 0; list-style: none; }
+			.nav-link { color: #1a1b1f; font-weight: 400; text-decoration: none; padding: 0.5rem; transition: color 0.3s ease; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; }
+			.blog-btn-nav .nav-link:hover { background-color: #D3EFE7 !important; color: #333 !important; border-radius: 20px; font-weight: bold !important; }
+		</style>
+		
+		<!-- Open Sans font for navigation -->
+		<link rel="preload" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+		<noscript><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet" /></noscript>
+		
+		<!-- Primary Meta Tags -->
+		<title>{title}</title>
+		<meta name="title" content={title} />
+		<meta name="description" content={description} id="meta-description" />
+		<link rel="canonical" href={canonicalURL} />
+		
+		<!-- Hreflang Tags for International SEO -->
+		<link rel="alternate" hreflang="en-gb" href={canonicalURL} />
+		<link rel="alternate" hreflang="en-us" href={canonicalURL.replace('airfryerrecipe.co.uk', 'airfryerrecipe.com')} />
+		<link rel="alternate" hreflang="en-ca" href={canonicalURL.replace('airfryerrecipe.co.uk', 'airfryerrecipe.ca')} />
+		<link rel="alternate" hreflang="en-au" href={canonicalURL.replace('airfryerrecipe.co.uk', 'airfryerrecipe.com.au')} />
+		<link rel="alternate" hreflang="en" href={canonicalURL} />
+		<link rel="alternate" hreflang="x-default" href={canonicalURL} />
+		
+		<!-- Enhanced Meta Tags for Performance -->
+		<meta name="referrer" content="strict-origin-when-cross-origin" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta name="theme-color" content="#FFF8ED" />
+		
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content={canonicalURL} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content={new URL(image, Astro.site)} />
+		
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content={canonicalURL} />
+		<meta property="twitter:title" content={title} />
+		<meta property="twitter:description" content={description} />
+		<meta property="twitter:image" content={new URL(image, Astro.site)} />
+		
+		<!-- JSON-LD Schema -->
+		{schema && (
+			<>
+				<script type="application/ld+json" set:html={JSON.stringify(schema.blogPosting, null, 4)} />
+				{schema.article && <script type="application/ld+json" set:html={JSON.stringify(schema.article, null, 4)} />}
+				{schema.faqPage && <script type="application/ld+json" set:html={JSON.stringify(schema.faqPage, null, 4)} />}
+				{schema.howTo && <script type="application/ld+json" set:html={JSON.stringify(schema.howTo, null, 4)} />}
+				{schema.review && <script type="application/ld+json" set:html={JSON.stringify(schema.review, null, 4)} />}
+				<script type="application/ld+json" set:html={JSON.stringify(schema.breadcrumb, null, 4)} />
+				<script type="application/ld+json" set:html={JSON.stringify(schema.webPage, null, 4)} />
+				<script type="application/ld+json" set:html={JSON.stringify(schema.webSite, null, 4)} />
+				<script type="application/ld+json" set:html={JSON.stringify(schema.organization, null, 4)} />
+				<!-- Debug: FAQ Schema Status -->
+				<!-- FAQ Schema exists: {schema.faqPage ? 'YES' : 'NO'} -->
+			</>
+		)}
+		
+		<!-- RSS Feed -->
+		<link rel="alternate" type="application/rss+xml" title="RSS Feed for Air Fryer Recipes" href="/rss.xml" />
+
+  </head>
+  <body>
+	<div id="NAV" class="navbar-logo-left">
+		<div class="navbar-logo-left-container shadow-three w-nav" 
+			 data-animation="default" data-collapse="medium" data-duration="400" 
+			 data-easing="ease" data-easing2="ease" role="banner">
+	  
+		  <div class="container-2">
+			<!-- Logo -->
+			<a href="https://www.airfryerrecipe.co.uk/" class="w-inline-block">
+			  <img src="https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/683dec578aea93bac7a5ac7a_airfryer.png" 
+				   loading="lazy" alt="Airfryer Logo" class="image-21">
+			</a>
+	  
+			<!-- Navbar -->
+			<div class="navbar-wrapper">
+			  <nav role="navigation" class="nav-menu-wrapper w-nav-menu">
+				<ul class="nav-menu-two w-list-unstyled">
+	  
+				  <!-- Resources Dropdown -->
+				  <li>
+					<div class="nav-dropdown-2 nav-link w-dropdown" data-delay="0" data-hover="true">
+					  <div class="nav-dropdown-toggle-2 w-dropdown-toggle" 
+						   id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" 
+						   aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
+						<div class="nav-dropdown-icon-2 w-icon-dropdown-toggle"></div>
+						<div class="nav-link">Resources</div>
+						<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7071 14.7071C12.3166 15.0976 11.6834 15.0976 11.2929 14.7071L6.29289 9.70711C5.90237 9.31658 5.90237 8.68342 6.29289 8.29289C6.68342 7.90237 7.31658 7.90237 7.70711 8.29289L12 12.5858L16.2929 8.29289C16.6834 7.90237 17.3166 7.90237 17.7071 8.29289C18.0976 8.68342 18.0976 9.31658 17.7071 9.70711L12.7071 14.7071Z" fill="#000000"/>
+</svg>
+					  </div>
+					  <nav class="nav-dropdown-list-2 shadow-three mobile-shadow-hide w-dropdown-list" 
+						   id="w-dropdown-list-0" aria-labelledby="w-dropdown-toggle-0">
+						<a href="https://www.airfryerrecipe.co.uk/recipes" class="nav-dropdown-link-2 nav-link">Recipes</a>
+						<a href="https://www.airfryerrecipe.co.uk/air-fryer-brands" class="nav-dropdown-link-2 nav-link">Air Fryer Brands</a>
+						<a href="https://www.airfryerrecipe.co.uk/air-fryer-conversion-chart" class="nav-dropdown-link-2 nav-link">Air Fryer Conversion Chart</a>
+						<a href="https://www.airfryerrecipe.co.uk/air-fryer-cleaner" class="nav-dropdown-link-2 nav-link">Air Fryer Cleaning Guide</a>
+						<a href="https://www.airfryerrecipe.co.uk/air-fryer-knowledge-library" class="nav-dropdown-link-2 nav-link">Air Fryer Knowledge Base</a>
+					  </nav>
+					</div>
+				  </li>
+	  
+				  <!-- Regular Links -->
+				  <li class="blog-btn-nav"><a href="/blog" class="nav-link w--current">Blog</a></li>
+				  <li><a href="https://www.airfryerrecipe.co.uk/about" class="nav-link">About Us</a></li>
+				  <li><a href="https://www.airfryerrecipe.co.uk/support" class="nav-link">Contact Us</a></li>
+				</ul>
+			  </nav>
+	  
+			  <!-- Mobile Menu Button -->
+			  <div class="menu-button w-nav-button" aria-label="menu" role="button" 
+				   tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
+				<div class="w-icon-nav-menu"></div>
+			  </div>
+			</div>
+		  </div>
+	  
+		  <!-- Mobile Menu Overlay -->
+		  <div class="w-nav-overlay" id="w-nav-overlay-0"></div>
+		</div>
+	  </div>
+	  <SecondaryNav currentTitle={currentTitle} />
+		  <main>
+			<slot />
+		</main>
+		<Footer />
+		<NewsletterBanner />
+	</body>
+</html>
+
+<style is:global>
+
+
+/* Navbar Container */
+.navbar-logo-left {
+  background: #FFF8ED;
+  position: sticky;
+  top: 0;
+  height: 120px;
+}
+
+/* Inner Container */
+.container-2 {
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+.navbar-wrapper{
+	margin-left: 250px;
+}
+
+/* Logo Image */
+.image-21 {
+  height: 100px;
+  width: auto;
+}
+
+/* Navigation Menu */
+.nav-menu-two {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-menu-two li {
+  list-style: none;
+}
+.nav-dropdown-link-2:hover{
+  background-color: #DAF5ED;
+  color: #4A5152;
+  font-weight: 600;
+  border-radius: 15px;
+}
+.nav-dropdown-link-2{
+	font-size: 16px;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	line-height: 20px;
+	color: #1a1b1f;
+}
+
+/* Add this new CSS rule for white background on dropdown hover */
+/* .nav-dropdown-list-2:hover {
+  background-color: white;
+} */
+
+.nav-link {
+  color: #1a1b1f; /* requested colour */
+  font-weight: 400; /* Normal */
+  text-decoration: none;
+  padding: 0.5rem;
+  transition: color 0.3s ease;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif; /* requested font */
+  font-size: 16px; /* Size */
+  line-height: 20px; /* Height */
+}
+
+.nav-link:hover,
+.nav-link.w--current {
+  color: #1a1b1f;
+}
+
+/* Dropdown Styles */
+.nav-dropdown-2 {
+  position: relative;
+}
+
+/* .blog-btn-nav{
+	border-radius: 20px;
+	 background-color:#D3EFE7;
+} */
+.blog-btn-nav .nav-link:hover {
+  background-color: #D3EFE7 !important;
+  color: #333 !important;
+  border-radius: 20px;
+  font-weight: bold !important;
+}
+.nav-dropdown-toggle-2 {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.nav-dropdown-list-2 {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  min-width: 250px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  border-radius: 6px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 4px 1px;
+}
+
+.nav-dropdown-list-2 a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+}
+
+
+/* .nav-dropdown-list-2 a:hover {
+  background: #D3EFE7;
+} */
+
+/* Show Dropdown on Hover */
+.nav-dropdown-2:hover .nav-dropdown-list-2 {
+  display: flex;
+}
+
+/* Mobile Menu Button */
+.menu-button {
+  display: none;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+  .navbar-logo-left {
+    height: 120px;
+    background: #FFF8ED;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .container-2 {
+    padding: 1rem 1.5rem;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    max-width: 100%;
+  }
+  
+  .image-21 {
+    height: 100px;
+    width: auto;
+  }
+  
+  .navbar-wrapper {
+    position: relative;
+    margin-left: 0;
+  }
+  
+  .nav-menu-two {
+    display: none;
+    flex-direction: column;
+    background: #FFF8ED;
+    width: 75vw;
+    padding: 0;
+    position: fixed;
+    top: 80px;
+    left: 30px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    max-height: calc(100vh - 80px);
+    overflow-y: auto;
+    border-top: 1px solid #e5e5e5;
+	border-radius: 15px;
+  }
+  
+  .nav-menu-two li {
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  
+  .nav-menu-two li:last-child {
+    border-bottom: none;
+  }
+  
+  .nav-link {
+    display: block;
+    font-size: 16px; /* Size */
+    color: #1a1b1f; /* Colour */
+    border-radius: 0;
+    font-weight: 400; /* Normal */
+    line-height: 20px; /* Height */
+    transition: background-color 0.2s ease;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  }
+  
+  .nav-link:hover {
+    color: #333;
+  }
+  
+  .nav-dropdown-2 {
+    width: 80%;
+  }
+  
+  .nav-dropdown-toggle-2 {
+    padding-left: 95px;
+    background: none;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+  }
+  
+  /* .nav-dropdown-toggle-2:hover {
+    background-color: #f0f0f0;
+  } */
+  
+  .nav-dropdown-list-2 {
+    position: static;
+    display: none;
+    flex-direction: column;
+    background: #f8f9fa;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #e5e5e5;
+	margin-left: 25px;
+  }
+  
+  .nav-dropdown-link-2 {
+    /* padding: 1rem 2.5rem; */
+    font-size: 16px;
+    line-height: 20px;
+    border-bottom: 1px solid #e9ecef;
+    color: #1a1b1f;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+  }
+  
+  .nav-dropdown-link-2:hover {
+    background-color: #DAF5ED;
+    color: #4A5152;
+  }
+  
+  .nav-dropdown-link-2:last-child {
+    border-bottom: none;
+  }
+  
+  .menu-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0.5rem;
+    background: none;
+    border: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .menu-button:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+  
+  .w-icon-nav-menu {
+    width: 24px;
+    height: 24px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23333' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cline x1='3' y1='6' x2='21' y2='6'%3e%3c/line%3e%3cline x1='3' y1='12' x2='21' y2='12'%3e%3c/line%3e%3cline x1='3' y1='18' x2='21' y2='18'%3e%3c/line%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+  
+  .w-nav-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 999;
+  }
+  
+  .blog-btn-nav .nav-link {
+    background-color: #D3EFE7;
+    color: #333;
+    margin: 0.5rem 1.5rem;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .blog-btn-nav .nav-link:hover {
+    background-color: #26a69a;
+    color: white;
+  }
+}
+
+	:root {
+		--color-primary: #ff6b35;
+		--color-secondary: #f7c59f;
+		--color-accent: #2ec4b6;
+		--color-background: #FFF8ED;
+		--color-text: #333333;
+		--color-light: #f5f5f5;
+		--color-dark: #222222;
+		--color-gray: #666666;
+		--color-gray-light: #dddddd;
+		--font-family-base: Georgia, 'Times New Roman', Times, serif;
+		--font-family-heading: Georgia, 'Times New Roman', Times, serif;
+		--box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+		--border-radius: 8px;
+		--max-width: 1200px;
+	}
+
+	html {
+		font-family: var(--font-family-base);
+		background-color: var(--color-background);
+		color: var(--color-text);
+		font-size: 16px;
+		font-weight: 400;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+
+	body {
+		padding: 0;
+		width: 100%;
+		min-height: 100vh;
+		display: flex;
+		flex-direction: column;
+		background-color: var(--color-background);
+	}
+	
+	.container {
+		width: 75%;
+		max-width: var(--max-width);
+		margin: 0 auto;
+		padding: 0.5rem 1rem;
+	}
+
+	main {
+		flex: 1;
+		width: 88%;
+		margin: 0 auto;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: var(--font-family-heading);
+		margin: 0 0 1rem 0;
+		line-height: 1.2;
+		font-weight: 600;
+	}
+
+	h1 {
+		font-size: 2.25rem;
+		letter-spacing: -0.025em;
+	}
+
+	h2 {
+		font-size: 1.75rem;
+		letter-spacing: -0.0125em;
+	}
+
+	h3 {
+		font-size: 1.5rem;
+		letter-spacing: -0.0125em;
+	}
+
+	a {
+		color: var(--color-primary);
+		text-decoration: none;
+		transition: color 0.2s ease;
+		font-weight: 500;
+	}
+
+	a:hover {
+		color: var(--color-accent);
+	}
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+
+	code {
+		font-family: 'Courier New', Courier, monospace;
+		background-color: var(--color-light);
+		padding: 0.2em 0.4em;
+		border-radius: 3px;
+		font-size: 0.9em;
+	}
+
+	pre {
+		background-color: var(--color-dark);
+		color: var(--color-light);
+		padding: 1rem;
+		border-radius: var(--border-radius);
+		overflow-x: auto;
+	}
+
+	pre code {
+		background-color: transparent;
+		padding: 0;
+		color: inherit;
+	}
+
+	blockquote {
+		border-left: 4px solid var(--color-accent);
+		margin: 1.5rem 0;
+		padding: 0.5rem 0 0.5rem 1.5rem;
+		font-style: italic;
+		color: var(--color-gray);
+	}
+
+	table {
+		width: 100%;
+		border-collapse: collapse;
+		margin: 1.5rem 0;
+	}
+
+	th, td {
+		padding: 0.75rem;
+		border: 1px solid var(--color-gray-light);
+	}
+
+	th {
+		background-color: var(--color-light);
+	}
+
+	header {
+		background-color: var(--color-background);
+		/* position: sticky; */
+		top: 0;
+		z-index: 100;
+		width: 100%;
+	}
+
+	nav {
+		display: flex;
+		justify-content: space-around;
+		
+		max-width: var(--max-width);
+		margin: 0 auto;
+	}
+
+	.logo a {
+		font-size: 1.5rem;
+		font-weight: bold;
+		color: #333;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.nav-links {
+		display: flex;
+		gap: 1rem;
+	}
+
+	.nav-links a {
+		color: #333;
+		font-weight: 500;
+		font-size: 1rem;
+		padding: 0.5rem 0.75rem;
+	}
+
+	.dropdown-arrow {
+		font-size: 0.75rem;
+		vertical-align: middle;
+		margin-left: 0.25rem;
+	}
+
+	/* Footer styles moved to Footer.astro component */
+
+	@media (max-width: 768px) {
+		nav {
+			flex-direction: column;
+			text-align: center;
+			gap: 1rem;
+		}
+
+		.nav-links {
+			justify-content: center;
+		}
+	}
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const menuButton = document.querySelector('.menu-button') as HTMLElement;
+    const navMenu = document.querySelector('.nav-menu-two') as HTMLElement;
+    const navOverlay = document.querySelector('.w-nav-overlay') as HTMLElement;
+    const dropdownToggles = document.querySelectorAll('.nav-dropdown-toggle-2');
+    
+    // Mobile menu toggle
+    if (menuButton && navMenu) {
+      menuButton.addEventListener('click', function() {
+        const isOpen = navMenu.style.display === 'flex';
+        
+        if (isOpen) {
+          navMenu.style.display = 'none';
+          if (navOverlay) navOverlay.style.display = 'none';
+          menuButton.setAttribute('aria-expanded', 'false');
+        } else {
+          navMenu.style.display = 'flex';
+          if (navOverlay) navOverlay.style.display = 'block';
+          menuButton.setAttribute('aria-expanded', 'true');
+        }
+      });
+      
+      // Close menu when clicking overlay
+      if (navOverlay) {
+        navOverlay.addEventListener('click', function() {
+          navMenu.style.display = 'none';
+          navOverlay.style.display = 'none';
+          menuButton.setAttribute('aria-expanded', 'false');
+        });
+      }
+    }
+    
+    // Mobile dropdown toggles
+    dropdownToggles.forEach((toggle: Element) => {
+      toggle.addEventListener('click', function(this: HTMLElement, e: Event) {
+        if (window.innerWidth <= 768) {
+          e.preventDefault();
+          const dropdownList = this.nextElementSibling as HTMLElement;
+          const isOpen = dropdownList?.style.display === 'flex';
+          
+          // Close all other dropdowns
+          document.querySelectorAll('.nav-dropdown-list-2').forEach((list: Element) => {
+            const listElement = list as HTMLElement;
+            if (listElement !== dropdownList) {
+              listElement.style.display = 'none';
+            }
+          });
+          
+          // Toggle current dropdown
+          if (dropdownList) {
+            dropdownList.style.display = isOpen ? 'none' : 'flex';
+          }
+        }
+      });
+    });
+  });
+</script>

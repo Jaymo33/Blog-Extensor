@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-10T17:35:02.344Z",
+  "totalFiles": 9283,
+  "backedUpFiles": 9283,
+  "backupDirectory": "backup-pre-migration-2025-09-10T17-34-55",
+  "sourceDirectory": "src/content/blog",
+  "description": "Complete backup of all markdown files before full URL migration"
+}

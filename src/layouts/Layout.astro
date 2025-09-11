@@ -1,7 +1,9 @@
 ---
 import Footer from '../components/Footer.astro';
 import SecondaryNav from '../components/SecondaryNav.astro';
-import NewsletterBanner from '../components/NewsletterBanner.astro';
+// import NewsletterBanner from '../components/NewsletterBanner.astro'; // Removed - using inline newsletter
+import ReadingProgress from '../components/ReadingProgress.astro';
+import SearchBox from '../components/SearchBox.astro';
 
 interface Props {
 	title?: string;
@@ -29,25 +31,241 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
+		<meta name="robots" content="index, follow" />
 		<link rel="icon" type="image/png" href="https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Webflow%20Assets/Favicon.png" />
 		<meta name="generator" content={Astro.generator} />
-		<!-- Open Sans font for navigation -->
+		<!-- Performance optimizations -->
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet" />
+		<link rel="preconnect" href="https://klueoymssxwfnxsvcyhv.supabase.co" />
+		<link rel="preconnect" href="https://cdn.prod.website-files.com" />
+		<link rel="dns-prefetch" href="https://www.airfryerrecipe.co.uk" />
+		
+		<!-- Preload critical resources -->
+		<link rel="preload" href="https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/683dec578aea93bac7a5ac7a_airfryer.png" as="image" />
+		<!-- blog-cards.css preload removed - not used on individual blog posts -->
+		
+		<!-- Supabase CDN for comment system -->
+		<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+		
+		<!-- A/B Testing Framework -->
+		<script src="/src/lib/ab-testing.js"></script>
+		<script src="/src/lib/ab-dashboard.js"></script>
+		
+		<!-- Google Analytics 4 -->
+		<script async src={`https://www.googletagmanager.com/gtag/js?id=${import.meta.env.PUBLIC_GA_MEASUREMENT_ID}`}></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', import.meta.env.PUBLIC_GA_MEASUREMENT_ID, {
+				page_title: document.title,
+				page_location: window.location.href,
+				custom_map: {
+					'custom_parameter_1': 'content_category',
+					'custom_parameter_2': 'content_type'
+				}
+			});
+			
+			// Track page views with enhanced parameters
+			gtag('event', 'page_view', {
+				page_title: document.title,
+				page_location: window.location.href,
+				content_category: window.location.pathname.includes('/conversions/') ? 'conversions' : 
+								 window.location.pathname.includes('/how-to/') ? 'how-to' : 'general',
+				content_type: 'blog_post',
+				country: 'GB', // Default to UK, can be enhanced with geo-detection
+				language: 'en-gb'
+			});
+			
+			// Track user engagement
+			gtag('event', 'user_engagement', {
+				engagement_time_msec: 0
+			});
+		</script>
+
+		<!-- Microsoft Clarity Heatmap Tracking - Disabled until project ID is configured -->
+		<!-- 
+		<script type="text/javascript">
+			(function(c,l,a,r,i,t,y){
+				c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+				t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+				y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+			})(window, document, "clarity", "script", "YOUR_CLARITY_PROJECT_ID");
+		</script>
+		-->
+		
+		<!-- A/B Testing Implementation -->
+		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				// Initialize A/B testing
+				if (typeof ABTesting !== 'undefined') {
+					const abTesting = new ABTesting();
+					
+					// A/B Test 1: Meta Description Format
+					const metaDescTest = abTesting.registerTest('meta_description_format', [
+						{
+							name: 'question',
+							generate: (title, description, category) => {
+								if (category === 'conversions') {
+									return `How to convert ${title.toLowerCase()}? ${description}`;
+								}
+								return `How to ${title.toLowerCase()}? ${description}`;
+							}
+						},
+						{
+							name: 'statement',
+							generate: (title, description, category) => {
+								return description; // Original description
+							}
+						}
+					]);
+					
+					// Apply meta description variant
+					if (metaDescTest) {
+						const metaDesc = document.getElementById('meta-description');
+						const originalTitle = document.title;
+						const originalDesc = metaDesc.getAttribute('content');
+						const category = window.location.pathname.includes('/conversions/') ? 'conversions' : 
+										window.location.pathname.includes('/how-to/') ? 'how-to' : 'general';
+						
+						const newDesc = metaDescTest.generate(originalTitle, originalDesc, category);
+						metaDesc.setAttribute('content', newDesc);
+						
+						// Update Open Graph description too
+						const ogDesc = document.querySelector('meta[property="og:description"]');
+						if (ogDesc) ogDesc.setAttribute('content', newDesc);
+						
+						// Update Twitter description too
+						const twitterDesc = document.querySelector('meta[property="twitter:description"]');
+						if (twitterDesc) twitterDesc.setAttribute('content', newDesc);
+						
+						// Track the variant assignment
+						abTesting.trackEvent('meta_description_variant_applied', {
+							variant: metaDescTest.name,
+							original_description: originalDesc,
+							new_description: newDesc,
+							page_url: window.location.href
+						});
+					}
+					
+					// A/B Test 2: Headline Format
+					const headlineTest = abTesting.registerTest('headline_format', [
+						{
+							name: 'question',
+							generate: (originalTitle) => {
+								if (originalTitle.includes('to')) {
+									return `How to ${originalTitle.toLowerCase()}?`;
+								}
+								return `What is ${originalTitle.toLowerCase()}?`;
+							}
+						},
+						{
+							name: 'statement',
+							generate: (originalTitle) => {
+								return originalTitle; // Keep original
+							}
+						}
+					]);
+					
+					// Apply headline variant
+					if (headlineTest) {
+						const h1 = document.querySelector('h1.post-title');
+						if (h1) {
+							const originalTitle = h1.textContent;
+							const newTitle = headlineTest.generate(originalTitle);
+							h1.textContent = newTitle;
+							
+							// Update page title too
+							document.title = newTitle;
+							
+							// Update Open Graph title
+							const ogTitle = document.querySelector('meta[property="og:title"]');
+							if (ogTitle) ogTitle.setAttribute('content', newTitle);
+							
+							// Update Twitter title
+							const twitterTitle = document.querySelector('meta[property="twitter:title"]');
+							if (twitterTitle) twitterTitle.setAttribute('content', newTitle);
+							
+							// Track the variant assignment
+							abTesting.trackEvent('headline_variant_applied', {
+								variant: headlineTest.name,
+								original_title: originalTitle,
+								new_title: newTitle,
+								page_url: window.location.href
+							});
+						}
+					}
+					
+					// Track clicks on CTA buttons
+					document.addEventListener('click', function(e) {
+						if (e.target.matches('.submit-btn, .cta-button, .reply-btn')) {
+							abTesting.trackConversion('meta_description_format', 'button_click', 1);
+							abTesting.trackConversion('headline_format', 'button_click', 1);
+						}
+					});
+					
+					// Track time on page (engagement)
+					let startTime = Date.now();
+					window.addEventListener('beforeunload', function() {
+						const timeOnPage = Date.now() - startTime;
+						if (timeOnPage > 30000) { // More than 30 seconds
+							abTesting.trackConversion('meta_description_format', 'high_engagement', timeOnPage);
+							abTesting.trackConversion('headline_format', 'high_engagement', timeOnPage);
+						}
+					});
+				}
+			});
+		</script>
+		
+		<!-- Critical CSS inline for faster initial render -->
+		<style>
+			/* Critical above-the-fold styles */
+			.navbar-logo-left { background: #FFF8ED; position: sticky; top: 0; height: 120px; }
+			.container-2 { display: flex; align-items: center; padding: 0.75rem 2rem; max-width: 1000px; margin: auto; }
+			.image-21 { height: 100px; width: auto; }
+			.navbar-wrapper { margin-left: 250px; }
+			.nav-menu-two { display: flex; align-items: center; gap: 1.5rem; margin: 0; padding: 0; list-style: none; }
+			.nav-link { color: #1a1b1f; font-weight: 400; text-decoration: none; padding: 0.5rem; transition: color 0.3s ease; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; }
+			.blog-btn-nav .nav-link:hover { background-color: #D3EFE7 !important; color: #333 !important; border-radius: 20px; font-weight: bold !important; }
+		</style>
+		
+		<!-- Open Sans font for navigation -->
+		<link rel="preload" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+		<noscript><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet" /></noscript>
 		
 		<!-- Primary Meta Tags -->
 		<title>{title}</title>
 		<meta name="title" content={title} />
-		<meta name="description" content={description} />
+		<meta name="description" content={description} id="meta-description" />
 		<link rel="canonical" href={canonicalURL} />
 		
+		<!-- Hreflang Tags for International SEO -->
+		<link rel="alternate" hreflang="en-gb" href={canonicalURL} />
+		<link rel="alternate" hreflang="en-us" href={canonicalURL.replace('airfryerrecipe.co.uk', 'airfryerrecipe.com')} />
+		<link rel="alternate" hreflang="en-ca" href={canonicalURL.replace('airfryerrecipe.co.uk', 'airfryerrecipe.ca')} />
+		<link rel="alternate" hreflang="en-au" href={canonicalURL.replace('airfryerrecipe.co.uk', 'airfryerrecipe.com.au')} />
+		<link rel="alternate" hreflang="en" href={canonicalURL} />
+		<link rel="alternate" hreflang="x-default" href={canonicalURL} />
+		
+		<!-- Enhanced Meta Tags for Performance -->
+		<meta name="referrer" content="strict-origin-when-cross-origin" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta name="theme-color" content="#FFF8ED" />
+		
 		<!-- Open Graph / Facebook -->
-		<meta property="og:type" content="website" />
+		<meta property="og:type" content="article" />
 		<meta property="og:url" content={canonicalURL} />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
 		<meta property="og:image" content={new URL(image, Astro.site)} />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content={title} />
+		<meta property="og:site_name" content="Air Fryer Recipe" />
+		<meta property="og:locale" content="en_GB" />
+		<meta property="article:author" content="AirFryerRecipe.co.uk" />
+		<meta property="article:publisher" content="https://www.facebook.com/airfryerrecipe" />
 		
 		<!-- Twitter -->
 		<meta property="twitter:card" content="summary_large_image" />
@@ -55,15 +273,33 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 		<meta property="twitter:title" content={title} />
 		<meta property="twitter:description" content={description} />
 		<meta property="twitter:image" content={new URL(image, Astro.site)} />
+		<meta property="twitter:image:alt" content={title} />
+		<meta property="twitter:site" content="@AirFryerRecipy" />
+		<meta property="twitter:creator" content="@AirFryerRecipy" />
+		
+		<!-- JSON-LD Schema -->
+		{schema && (
+			<>
+				<script type="application/ld+json" set:html={JSON.stringify(schema.blogPosting, null, 4)} />
+				{schema.article && <script type="application/ld+json" set:html={JSON.stringify(schema.article, null, 4)} />}
+				{schema.faqPage && <script type="application/ld+json" set:html={JSON.stringify(schema.faqPage, null, 4)} />}
+				{schema.howTo && <script type="application/ld+json" set:html={JSON.stringify(schema.howTo, null, 4)} />}
+				{schema.review && <script type="application/ld+json" set:html={JSON.stringify(schema.review, null, 4)} />}
+				<script type="application/ld+json" set:html={JSON.stringify(schema.breadcrumb, null, 4)} />
+				<script type="application/ld+json" set:html={JSON.stringify(schema.webPage, null, 4)} />
+				<script type="application/ld+json" set:html={JSON.stringify(schema.webSite, null, 4)} />
+				<script type="application/ld+json" set:html={JSON.stringify(schema.organization, null, 4)} />
+				<!-- Debug: FAQ Schema Status -->
+				<!-- FAQ Schema exists: {schema.faqPage ? 'YES' : 'NO'} -->
+			</>
+		)}
 		
 		<!-- RSS Feed -->
 		<link rel="alternate" type="application/rss+xml" title="RSS Feed for Air Fryer Recipes" href="/rss.xml" />
-		
-		<!-- Schema.org JSON-LD -->
-		{schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
 
   </head>
   <body>
+	<ReadingProgress />
 	<div id="NAV" class="navbar-logo-left">
 		<div class="navbar-logo-left-container shadow-three w-nav" 
 			 data-animation="default" data-collapse="medium" data-duration="400" 
@@ -109,6 +345,16 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 				  <li class="blog-btn-nav"><a href="/blog" class="nav-link w--current">Blog</a></li>
 				  <li><a href="https://www.airfryerrecipe.co.uk/about" class="nav-link">About Us</a></li>
 				  <li><a href="https://www.airfryerrecipe.co.uk/support" class="nav-link">Contact Us</a></li>
+				  
+				  <!-- Search Icon -->
+				  <li class="search-icon-nav">
+					<button class="search-toggle-btn" id="search-toggle-btn" aria-label="Search">
+					  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+						<circle cx="11" cy="11" r="8"></circle>
+						<path d="m21 21-4.35-4.35"></path>
+					  </svg>
+					</button>
+				  </li>
 				</ul>
 			  </nav>
 	  
@@ -125,11 +371,16 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 		</div>
 	  </div>
 	  <SecondaryNav currentTitle={currentTitle} />
+	  
+	  <!-- Search Box (Hidden by default) -->
+	  <div class="search-section" id="search-section" style="display: none;">
+		<SearchBox />
+	  </div>
 		  <main>
 			<slot />
 		</main>
 		<Footer />
-		<NewsletterBanner />
+		<!-- NewsletterBanner removed - now using inline newsletter in blog posts -->
 	</body>
 </html>
 
@@ -621,6 +872,56 @@ const canonicalURL = new URL(canonical, Astro.site).href;
 			justify-content: center;
 		}
 	}
+
+	/* Search Icon in Nav */
+	.search-icon-nav {
+		margin-left: 0.5rem;
+	}
+
+	.search-toggle-btn {
+		background: none;
+		border: none;
+		color: #1a1b1f;
+		cursor: pointer;
+		padding: 0.5rem;
+		border-radius: 6px;
+		transition: all 0.2s ease;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.search-toggle-btn:hover {
+		background: #FFE4CC;
+		color: #FF6B35;
+	}
+
+	.search-toggle-btn.active {
+		background: #FF6B35;
+		color: white;
+	}
+
+	/* Search Section */
+	.search-section {
+		background: #FFF8ED;
+		padding: 1.5rem 0;
+		border-bottom: 1px solid #FFE4CC;
+		transition: all 0.3s ease;
+	}
+
+	.search-section.show {
+		display: block !important;
+	}
+
+	@media (max-width: 768px) {
+		.search-section {
+			padding: 1rem 0;
+		}
+		
+		.search-icon-nav {
+			margin-left: 0;
+		}
+	}
 </style>
 
 <script>
@@ -645,6 +946,34 @@ const canonicalURL = new URL(canonical, Astro.site).href;
           menuButton.setAttribute('aria-expanded', 'true');
         }
       });
+
+      // Search toggle functionality
+      const searchToggleBtn = document.getElementById('search-toggle-btn');
+      const searchSection = document.getElementById('search-section');
+      
+      if (searchToggleBtn && searchSection) {
+        searchToggleBtn.addEventListener('click', function() {
+          const isVisible = searchSection.classList.contains('show');
+          
+          if (isVisible) {
+            searchSection.classList.remove('show');
+            searchToggleBtn.classList.remove('active');
+            searchSection.style.display = 'none';
+          } else {
+            searchSection.classList.add('show');
+            searchToggleBtn.classList.add('active');
+            searchSection.style.display = 'block';
+            
+            // Focus the search input when opened
+            setTimeout(() => {
+              const searchInput = document.getElementById('search-input');
+              if (searchInput) {
+                searchInput.focus();
+              }
+            }, 100);
+          }
+        });
+      }
       
       // Close menu when clicking overlay
       if (navOverlay) {

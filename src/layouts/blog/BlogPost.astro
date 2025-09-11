@@ -2,24 +2,43 @@
 // @ts-nocheck
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../Layout.astro';
+import RelatedPosts from '../../components/RelatedPosts.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+import InlineNewsletter from '../../components/InlineNewsletter.astro';
 
 type Props = {
   post: CollectionEntry<'blog'>;
 };
 
 const { post } = Astro.props;
+
+// Table of Contents will be generated dynamically from DOM headings
 // Ensure required fields are present and provide defaults
-const { 
-  title = 'Untitled Post', 
-  description = '', 
-  pubDate = new Date(), 
-  updatedDate, 
-  heroImage, 
-  tags = [], 
-  author, 
+const {
+  title = 'Untitled Post',
+  description = '',
+  pubDate = new Date(),
+  updatedDate,
+  heroImage,
+  tags = [],
+  author,
   canonical,
-  schema
+  schema,
+  // FAQ fields
+  faqQ1, faqA1, faqQ2, faqA2, faqQ3, faqA3, faqQ4, faqA4, faqQ5, faqA5,
+  faqQ6, faqA6, faqQ7, faqA7, faqQ8, faqA8, faqQ9, faqA9, faqQ10, faqA10
 } = post.data;
+
+// Generate optimized meta description from FAQ content
+let optimizedDescription = description;
+for (let i = 1; i <= 3; i++) {
+  const faqQ = post.data[`faqQ${i}`];
+  const faqA = post.data[`faqA${i}`];
+  if (faqQ && faqA && faqA.length > 20 && faqA.length < 120) {
+    optimizedDescription = `${faqA} ${title} - Air Fryer Recipe Guide`;
+    break;
+  }
+}
 
 // Format date for display
 const formattedPubDate = pubDate.toLocaleDateString('en-us', {
@@ -36,9 +55,302 @@ const relatedPosts = allPosts.slice(0, 3);
 
 // Generate the canonical URL
 const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
+
+// Generate schema programmatically
+function generateSchema() {
+  const baseUrl = 'https://www.airfryerrecipe.co.uk';
+  const currentUrl = new URL(Astro.url.pathname, baseUrl).href;
+  
+  // Extract category and hub from URL path
+  const pathParts = Astro.url.pathname.split('/').filter(Boolean);
+  const category = pathParts[1] || 'general';  // Fixed: category is pathParts[1], not [2]
+  const hub = pathParts[2] || 'uncategorized';
+  const slug = pathParts[pathParts.length - 1] || '';
+  
+  // Generate breadcrumb items
+  const breadcrumbItems = [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": {
+        "@type": "WebPage",
+        "@id": baseUrl
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": {
+        "@type": "WebPage",
+        "@id": `${baseUrl}/blog`
+      }
+    }
+  ];
+  
+  // Add category breadcrumb if not general
+  if (category !== 'general') {
+    breadcrumbItems.push({
+      "@type": "ListItem",
+      "position": breadcrumbItems.length + 1,
+      "name": category.charAt(0).toUpperCase() + category.slice(1),
+      "item": {
+        "@type": "WebPage",
+        "@id": `${baseUrl}/blog/${category}`
+      }
+    });
+  }
+  
+  // Add hub breadcrumb if not uncategorized
+  if (hub !== 'uncategorized') {
+    breadcrumbItems.push({
+      "@type": "ListItem",
+      "position": breadcrumbItems.length + 1,
+      "name": hub.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+      "item": {
+        "@type": "WebPage",
+        "@id": `${baseUrl}/blog/${category}/${hub}`
+      }
+    });
+  }
+  
+  // Add current page
+  breadcrumbItems.push({
+    "@type": "ListItem",
+    "position": breadcrumbItems.length + 1,
+    "name": title,
+    "item": {
+      "@type": "WebPage",
+      "@id": currentUrl
+    }
+  });
+  
+    // Build FAQ schema from frontmatter fields
+    const faqItems = [];
+    for (let i = 1; i <= 10; i++) {
+      const question = post.data[`faqQ${i}`];
+      const answer = post.data[`faqA${i}`];
+      if (question && answer) {
+        faqItems.push({
+          "@type": "Question",
+          "name": question,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": answer
+          }
+        });
+      }
+    }
+    const faqSchema = faqItems.length > 0 ? faqItems : null;
+    
+    // Build HowTo schema for instructional posts
+    let howToSchema = null;
+    if (category === 'how-to' || slug.includes('how-to') || slug.includes('reheat')) {
+      const steps = [];
+      
+      // Extract steps from FAQ content if available
+      for (let i = 1; i <= 5; i++) {
+        const stepQ = post.data[`faqQ${i}`];
+        const stepA = post.data[`faqA${i}`];
+        if (stepQ && stepA && stepQ.toLowerCase().includes('step')) {
+          steps.push({
+            "@type": "HowToStep",
+            "name": stepQ,
+            "text": stepA,
+            "position": i
+          });
+        }
+      }
+      
+      if (steps.length > 0) {
+        howToSchema = {
+          "@context": "https://schema.org",
+          "@type": "HowTo",
+          "name": title,
+          "description": description,
+          "image": heroImage ? {
+            "@type": "ImageObject",
+            "url": heroImage
+          } : undefined,
+          "totalTime": "PT10M", // Default 10 minutes, could be dynamic
+          "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "GBP",
+            "value": "0"
+          },
+          "step": steps
+        };
+      }
+    }
+    
+    // Build Review schema for conversion posts
+    let reviewSchema = null;
+    if (category === 'conversions' || slug.includes('how-many') || slug.includes('convert')) {
+      reviewSchema = {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "itemReviewed": {
+          "@type": "Thing",
+          "name": title.replace(/How many|Convert|to/gi, '').trim()
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "AirFryerRecipe.co.uk"
+        },
+        "reviewBody": description,
+        "datePublished": pubDate.toISOString(),
+        "publisher": {
+          "@type": "Organization",
+          "name": "Air Fryer Recipe"
+        }
+      };
+    }
+    
+  
+  return {
+    blogPosting: {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "url": currentUrl,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": currentUrl
+      },
+      "headline": title,
+      "description": description,
+      "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipe.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://klueoymssxwfnxsvcyhv.supabase.co/storage/v1/object/public/Shmucket/Me.jpg"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+      },
+      "datePublished": pubDate.toISOString(),
+      "dateModified": (updatedDate || pubDate).toISOString(),
+      "image": heroImage ? {
+        "@type": "ImageObject",
+        "url": heroImage
+      } : undefined,
+      "about": {
+        "@type": "Thing",
+        "name": category.charAt(0).toUpperCase() + category.slice(1)
+      },
+      "articleSection": category.charAt(0).toUpperCase() + category.slice(1),
+      "inLanguage": "en-GB"
+    },
+    article: {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "url": currentUrl,
+      "headline": title,
+      "description": description,
+      "author": {
+        "@type": "Person",
+        "name": "AirFryerRecipe.co.uk",
+        "url": "https://www.airfryerrecipe.co.uk/about"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Air Fryer Recipe",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cdn.prod.website-files.com/68224a465dfe9a7ab4f57570/6844191451a8b2f1e37e63cc_Untitled%20design%20-%202025-06-05T205644.948%20(1).png"
+        }
+      },
+      "datePublished": pubDate.toISOString(),
+      "dateModified": (updatedDate || pubDate).toISOString(),
+      "image": heroImage ? {
+        "@type": "ImageObject",
+        "url": heroImage
+      } : undefined,
+      "articleSection": category.charAt(0).toUpperCase() + category.slice(1),
+      "inLanguage": "en-GB"
+    },
+    faqPage: faqSchema && faqSchema.length > 0 ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqSchema
+    } : null,
+    howTo: howToSchema,
+    review: reviewSchema,
+    breadcrumb: {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "name": "Breadcrumbs",
+      "@id": `${currentUrl}#breadcrumbs`,
+      "itemListElement": breadcrumbItems
+    },
+    webPage: {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": title,
+      "url": currentUrl,
+      "description": description,
+      "inLanguage": "en",
+      "datePublished": pubDate.toISOString(),
+      "dateModified": (updatedDate || pubDate).toISOString()
+    },
+    webSite: {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": baseUrl,
+      "name": "Air Fryer Recipes",
+      "description": "Explore crispy, healthy, and quick air fryer recipes from around the world. Perfect for everyday meals.",
+      "inLanguage": "en"
+    },
+    organization: {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Air Fryer Recipes",
+      "url": baseUrl,
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.airfryerrecipe.co.uk/brand"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "United Kingdom"
+        },
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "areaServed": ["GB", "US"],
+        "availableLanguage": ["English"],
+        "email": "support@airfryerrecipe.co.uk"
+      }
+    }
+  };
+}
+
+// FAQ data is now loaded from frontmatter fields
+
+  const schemas = generateSchema();
 ---
 
-<Layout currentTitle={title}>
+<Layout currentTitle={title} description={optimizedDescription} schema={schemas}>
   <!-- Removed the old breadcrumb navigation as it's replaced by SecondaryNav -->
   <div class="blog-container">
     <main class="blog-main" style="width: 92%;">
@@ -50,14 +362,28 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
           <div class="header-grid">
             <h1 class="post-title">{title}</h1>
             {heroImage && (
-              <img
-                src={heroImage}
-                alt={title}
-                width="300"
-                height="300"
-                class="header-image"
-                loading="lazy"
-              />
+              <picture>
+                <source 
+                  srcset={`${heroImage}?w=300&h=300&f=webp&q=80 300w, ${heroImage}?w=600&h=600&f=webp&q=85 600w, ${heroImage}?w=900&h=900&f=webp&q=90 900w`}
+                  type="image/webp"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 300px"
+                />
+                <source 
+                  srcset={`${heroImage}?w=300&h=300&f=jpg&q=80 300w, ${heroImage}?w=600&h=600&f=jpg&q=85 600w, ${heroImage}?w=900&h=900&f=jpg&q=90 900w`}
+                  type="image/jpeg"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 300px"
+                />
+                <img
+                  src={`${heroImage}?w=600&h=600&f=jpg&q=85`}
+                  alt={title}
+                  width="300"
+                  height="300"
+                  class="header-image"
+                  loading="lazy"
+                  decoding="async"
+                  fetchpriority="high"
+                />
+              </picture>
             )}
           </div>
         
@@ -65,12 +391,45 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
          
         </header>
 
+        {/* Table of Contents */}
+        <TableOfContents title="Jump to Section" />
+
         {/* Post Content */}
         <div class="post-content">
           <slot />
+          
+          {/* Inline Newsletter - appears after first paragraph via JavaScript */}
+          <div id="newsletter-insertion-point"></div>
         </div>
 
         {/* Post Footer */}
+        
+        <!-- Comment Section -->
+        <section class="comments-section">
+          <h3>Comments & Questions</h3>
+          <p class="comments-intro">Have a question about this conversion or cooking tip? Share your experience or ask for help!</p>
+          
+          <div class="comment-form">
+            <form id="comment-form">
+              <div class="form-group">
+                <label for="comment-message">Your comment or question *</label>
+                <textarea id="comment-message" name="message" rows="4" maxlength="200" required placeholder="Share your experience, ask a question, or provide feedback... (200 characters max)"></textarea>
+                <div class="char-counter">
+                  <span id="char-count">0</span>/200 characters
+                </div>
+              </div>
+              <button type="submit" class="submit-btn cta-button" data-test="comment_cta">Post Comment</button>
+            </form>
+          </div>
+          
+          <div class="comments-list" id="comments-list">
+            <!-- Comments will be loaded here -->
+            <div class="no-comments">No comments yet. Be the first to share your thoughts!</div>
+          </div>
+        </section>
+        
+        {/* Related Posts */}
+        <RelatedPosts currentPost={post} maxPosts={3} />
         
       </article>
     </main>
@@ -178,11 +537,299 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
     letter-spacing: -0.01em;
   }
 
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6 {
+    scroll-margin-top: 2rem;
+  }
+
   .post-content h2 {
     font-size: 1.5rem;
     margin: 2rem 0 1rem;
     font-weight: 600;
     letter-spacing: -0.0125em;
+  }
+
+  .post-content h3 {
+    font-size: 1.25rem;
+    margin: 1.5rem 0 0.75rem;
+    font-weight: 600;
+    letter-spacing: -0.0125em;
+  }
+
+  .post-content h4 {
+    font-size: 1.1rem;
+    margin: 1.25rem 0 0.5rem;
+    font-weight: 600;
+  }
+
+  /* Inline Newsletter Styles */
+  .inline-newsletter {
+    margin: 3rem auto;
+    padding: 0 1rem;
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .newsletter-card {
+    background: linear-gradient(135deg, #FFF8ED 0%, #FFE4CC 100%);
+    border: 2px solid #FF6B35;
+    border-radius: 24px;
+    padding: 2.5rem;
+    box-shadow: 0 12px 40px rgba(255, 107, 53, 0.2);
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+  }
+
+  .newsletter-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 60px rgba(255, 107, 53, 0.25);
+  }
+
+  .newsletter-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #FF6B35, #FF8C42, #FF6B35);
+  }
+
+  .newsletter-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .newsletter-icon {
+    background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+    color: white;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);
+    transition: transform 0.3s ease;
+  }
+
+  .newsletter-icon:hover {
+    transform: scale(1.05);
+  }
+
+  .newsletter-text {
+    width: 100%;
+  }
+
+  .newsletter-title {
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #2D3748;
+    margin: 0 0 0.75rem 0;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  .newsletter-description {
+    font-size: 1.1rem;
+    color: #4A5568;
+    margin: 0;
+    line-height: 1.6;
+    font-weight: 400;
+  }
+
+  .newsletter-form {
+    margin-bottom: 2rem;
+  }
+
+  .form-group {
+    display: flex;
+    gap: 1rem;
+    align-items: stretch;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .newsletter-input {
+    flex: 1;
+    padding: 1rem 1.25rem;
+    border: 2px solid #E2E8F0;
+    border-radius: 16px;
+    font-size: 1rem;
+    background: white;
+    color: #2D3748;
+    transition: all 0.3s ease;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+
+  .newsletter-input:focus {
+    outline: none;
+    border-color: #FF6B35;
+    box-shadow: 0 0 0 4px rgba(255, 107, 53, 0.1), 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .newsletter-input::placeholder {
+    color: #A0AEC0;
+    font-weight: 400;
+  }
+
+  .newsletter-button {
+    background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+    color: white;
+    border: none;
+    border-radius: 16px;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    min-width: 160px;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+    letter-spacing: 0.02em;
+  }
+
+  .newsletter-button:hover {
+    background: linear-gradient(135deg, #e55a2b 0%, #e67e22 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);
+  }
+
+  .newsletter-button:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+  }
+
+  .button-icon {
+    transition: transform 0.2s ease;
+  }
+
+  .newsletter-button:hover .button-icon {
+    transform: translateX(2px);
+  }
+
+  .newsletter-status {
+    margin-top: 0.75rem;
+    font-size: 0.9rem;
+    min-height: 1.25rem;
+    font-weight: 500;
+  }
+
+  .newsletter-benefits {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .benefit-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1rem;
+    color: #4A5568;
+    font-weight: 500;
+    padding: 0.5rem 0;
+  }
+
+  .benefit-item svg {
+    color: #FF6B35;
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+  }
+
+  /* Success state */
+  .newsletter-card.success {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    border-color: #22c55e;
+  }
+
+  .newsletter-card.success .newsletter-icon {
+    background: #22c55e;
+  }
+
+  .newsletter-card.success .newsletter-title {
+    color: #166534;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .inline-newsletter {
+      margin: 2rem 0;
+      padding: 0 1rem;
+      max-width: 100%;
+    }
+
+    .newsletter-card {
+      padding: 2rem 1.5rem;
+      border-radius: 20px;
+    }
+
+    .newsletter-content {
+      gap: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .newsletter-icon {
+      width: 56px;
+      height: 56px;
+    }
+
+    .newsletter-title {
+      font-size: 1.5rem;
+    }
+
+    .newsletter-description {
+      font-size: 1rem;
+    }
+
+    .form-group {
+      flex-direction: column;
+      gap: 0.75rem;
+      max-width: 100%;
+    }
+
+    .newsletter-input {
+      padding: 0.875rem 1rem;
+      border-radius: 12px;
+    }
+
+    .newsletter-button {
+      min-width: auto;
+      padding: 0.875rem 1.5rem;
+      border-radius: 12px;
+    }
+
+    .newsletter-benefits {
+      gap: 0.75rem;
+      max-width: 100%;
+    }
+
+    .benefit-item {
+      font-size: 0.95rem;
+    }
   }
 
   .post-content p {
@@ -366,7 +1013,22 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
     min-width: 350px;
     border-radius: 25px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    object-fit: cover;
   }
+  
+  .header-image:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+  }
+  
+  /* Responsive image optimization */
+  picture {
+    display: block;
+    width: 100%;
+    max-width: 350px;
+  }
+
 @media (max-width: 768px) {
    .header-image {
     width: 100%;
@@ -375,7 +1037,1164 @@ const canonicalURL = canonical || new URL(Astro.url.pathname, Astro.site).href;
     min-width: 0;
   }
 }
+
+/* Comment Section Styles - Brand Consistent */
+.comments-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--color-gray-light);
+  background: var(--color-background);
+}
+
+.comments-section h3 {
+  color: var(--color-primary);
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  letter-spacing: -0.0125em;
+}
+
+.comments-intro {
+  color: var(--color-gray);
+  margin-bottom: 2rem;
+  font-style: italic;
+  font-family: var(--font-family-base);
+  line-height: 1.6;
+}
+
+.comment-form {
+  background: #FFF8ED !important;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  margin-bottom: 2rem;
+  box-shadow: var(--box-shadow);
+  border: 1px solid var(--color-gray-light);
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: var(--color-text);
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid var(--color-gray-light);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+  background: white;
+  color: var(--color-text);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
+}
+
+.char-counter {
+  text-align: right;
+  font-size: 0.875rem;
+  color: var(--color-gray);
+  margin-top: 0.25rem;
+  font-family: var(--font-family-base);
+}
+
+.char-counter.warning {
+  color: #f59e0b;
+}
+
+.char-counter.error {
+  color: #ef4444;
+}
+
+.submit-btn {
+  background: var(--color-primary);
+  color: white;
+  padding: 0.75rem 2rem;
+  border: none;
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: var(--font-family-base);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(255, 107, 53, 0.2);
+}
+
+.submit-btn:hover {
+  background: #e55a2b;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(255, 107, 53, 0.3);
+}
+
+.submit-btn:active {
+  transform: translateY(0);
+}
+
+.comments-list {
+  margin-top: 2rem;
+}
+
+.no-comments {
+  text-align: center;
+  color: var(--color-gray);
+  font-style: italic;
+  padding: 2rem;
+  background: white;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-gray-light);
+  font-family: var(--font-family-base);
+}
+
+.comment-item {
+  background: white;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  border-left: 4px solid var(--color-primary);
+  border: 1px solid var(--color-gray-light);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.comment-item:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.comment-author {
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+}
+
+.comment-date {
+  font-size: 0.9rem;
+  color: var(--color-gray);
+  margin-bottom: 1rem;
+  font-family: var(--font-family-base);
+}
+
+.comment-text {
+  line-height: 1.6;
+  color: var(--color-text);
+  font-family: var(--font-family-base);
+  font-size: 1rem;
+}
+
+/* Admin controls for comment moderation */
+.comment-admin-controls {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-gray-light);
+  display: flex;
+  gap: 0.5rem;
+}
+
+.admin-btn {
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--color-gray-light);
+  background: var(--color-background);
+  color: var(--color-text);
+  border-radius: 4px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-family-base);
+}
+
+.admin-btn:hover {
+  background: var(--color-gray-light);
+}
+
+.admin-btn.delete {
+  color: #dc3545;
+  border-color: #dc3545;
+}
+
+.admin-btn.delete:hover {
+  background: #dc3545;
+  color: white;
+}
+
+.admin-btn.pin {
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.admin-btn.pin:hover {
+  background: var(--color-primary);
+  color: white;
+}
+
+/* Reply functionality styles */
+.comment-actions {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reply-btn {
+  background: none;
+  border: 1px solid var(--color-primary);
+  color: var(--color-primary);
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-family-base);
+}
+
+.reply-btn:hover {
+  background: var(--color-primary);
+  color: white;
+}
+
+.reply-form {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: var(--color-background);
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-gray-light);
+}
+
+.reply-form textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid var(--color-gray-light);
+  border-radius: var(--border-radius);
+  font-family: var(--font-family-base);
+  font-size: 0.9rem;
+  background: white;
+  color: var(--color-text);
+  resize: vertical;
+  min-height: 80px;
+}
+
+.reply-form textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
+}
+
+.reply-actions {
+  margin-top: 0.75rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.reply-actions .submit-btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+}
+
+.cancel-btn {
+  background: var(--color-gray-light);
+  color: var(--color-text);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-family: var(--font-family-base);
+}
+
+.cancel-btn:hover {
+  background: var(--color-gray);
+  color: white;
+}
+
+.replies {
+  margin-top: 1rem;
+  margin-left: 2rem;
+  border-left: 2px solid var(--color-gray-light);
+  padding-left: 1rem;
+}
+
+.reply-item {
+  background: var(--color-background);
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-gray-light);
+}
+
+.reply-author {
+  font-weight: 600;
+  color: var(--color-primary);
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.reply-date {
+  font-size: 0.8rem;
+  color: var(--color-gray);
+  margin-bottom: 0.5rem;
+}
+
+.reply-text {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--color-text);
+}
 </style>
+
+<script is:inline>
+  // Initialize Supabase client - will be done after DOM loads
+  let supabaseClient = null;
+  
+  document.addEventListener('DOMContentLoaded', async function() {
+    // Initialize Supabase client after DOM loads
+    console.log('Checking Supabase availability...');
+    console.log('typeof supabase:', typeof supabase);
+    console.log('supabase object:', supabase);
+    
+    if (typeof supabase !== 'undefined' && supabase.createClient) {
+      try {
+        const supabaseUrl = 'https://klueoymssxwfnxsvcyhv.supabase.co';
+        const supabaseKey = 'sb_publishable_Cu5c222DltMHeWlA2sLhvw_hsZrRaED';
+        supabaseClient = supabase.createClient(supabaseUrl, supabaseKey);
+        console.log('Supabase client created successfully:', supabaseClient);
+      } catch (error) {
+        console.log('Supabase error:', error);
+        console.log('Supabase not available, comments will be disabled');
+      }
+    } else {
+      console.log('Supabase not available, comments will be disabled');
+      console.log('supabase is undefined or createClient not available');
+    }
+    
+    // Apply modern styling to newsletter
+    function applyNewsletterStyling(newsletterDiv) {
+      newsletterDiv.className = 'inline-newsletter';
+      newsletterDiv.style.cssText = `
+        margin: 3rem auto;
+        padding: 0 1rem;
+        max-width: 600px;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        z-index: 10;
+      `;
+      
+      const newsletterCard = newsletterDiv.querySelector('.newsletter-card');
+      if (newsletterCard) {
+        newsletterCard.style.cssText = `
+          background: linear-gradient(135deg, #FFF8ED 0%, #FFE4CC 100%);
+          border: 2px solid #FF6B35;
+          border-radius: 24px;
+          padding: 2.5rem;
+          box-shadow: 0 12px 40px rgba(255, 107, 53, 0.2);
+          position: relative;
+          overflow: hidden;
+          width: 100%;
+          backdrop-filter: blur(10px);
+          transition: all 0.3s ease;
+        `;
+      }
+      
+      // Style the content to be centered
+      const newsletterContent = newsletterDiv.querySelector('.newsletter-content');
+      if (newsletterContent) {
+        newsletterContent.style.cssText = `
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+          gap: 1.5rem;
+          margin-bottom: 2rem;
+        `;
+      }
+      
+      // Style the icon to be circular and modern
+      const newsletterIcon = newsletterDiv.querySelector('.newsletter-icon');
+      if (newsletterIcon) {
+        newsletterIcon.style.cssText = `
+          background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+          color: white;
+          width: 64px;
+          height: 64px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-shrink: 0;
+          box-shadow: 0 8px 20px rgba(255, 107, 53, 0.4);
+          transition: transform 0.3s ease;
+        `;
+      }
+      
+      // Style the title
+      const newsletterTitle = newsletterDiv.querySelector('.newsletter-title');
+      if (newsletterTitle) {
+        newsletterTitle.style.cssText = `
+          font-size: 1.75rem;
+          font-weight: 800;
+          color: #2D3748;
+          margin: 0 0 0.75rem 0;
+          font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+          line-height: 1.2;
+          letter-spacing: -0.02em;
+        `;
+      }
+      
+      // Style the description
+      const newsletterDescription = newsletterDiv.querySelector('.newsletter-description');
+      if (newsletterDescription) {
+        newsletterDescription.style.cssText = `
+          font-size: 1.1rem;
+          color: #4A5568;
+          margin: 0;
+          line-height: 1.6;
+          font-weight: 400;
+        `;
+      }
+      
+      // Style the form
+      const formGroup = newsletterDiv.querySelector('.form-group');
+      if (formGroup) {
+        formGroup.style.cssText = `
+          display: flex;
+          gap: 1rem;
+          align-items: stretch;
+          max-width: 500px;
+          margin: 0 auto;
+        `;
+      }
+      
+      // Style the input
+      const newsletterInput = newsletterDiv.querySelector('.newsletter-input');
+      if (newsletterInput) {
+        newsletterInput.style.cssText = `
+          flex: 1;
+          padding: 1rem 1.25rem;
+          border: 2px solid #E2E8F0;
+          border-radius: 16px;
+          font-size: 1rem;
+          background: white;
+          color: #2D3748;
+          transition: all 0.3s ease;
+          font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        `;
+      }
+      
+      // Style the button
+      const newsletterButton = newsletterDiv.querySelector('.newsletter-button');
+      if (newsletterButton) {
+        newsletterButton.style.cssText = `
+          background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%);
+          color: white;
+          border: none;
+          border-radius: 16px;
+          padding: 1rem 2rem;
+          font-size: 1rem;
+          font-weight: 700;
+          cursor: pointer;
+          transition: all 0.3s ease;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+          font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+          min-width: 160px;
+          justify-content: center;
+          box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+          letter-spacing: 0.02em;
+        `;
+      }
+      
+      // Style the benefits
+      const newsletterBenefits = newsletterDiv.querySelector('.newsletter-benefits');
+      if (newsletterBenefits) {
+        newsletterBenefits.style.cssText = `
+          display: flex;
+          flex-direction: column;
+          gap: 1rem;
+          max-width: 400px;
+          margin: 0 auto;
+        `;
+      }
+      
+      // Style benefit items
+      const benefitItems = newsletterDiv.querySelectorAll('.benefit-item');
+      benefitItems.forEach(item => {
+        item.style.cssText = `
+          display: flex;
+          align-items: center;
+          gap: 0.75rem;
+          font-size: 1rem;
+          color: #4A5568;
+          font-weight: 500;
+          padding: 0.5rem 0;
+        `;
+      });
+    }
+
+    // Newsletter HTML template
+    function getNewsletterHTML() {
+      return `
+        <div class="inline-newsletter" id="inline-newsletter">
+          <div class="newsletter-card">
+            <div class="newsletter-content">
+              <div class="newsletter-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                  <polyline points="22,6 12,13 2,6"></polyline>
+                </svg>
+              </div>
+              <div class="newsletter-text">
+                <h3 class="newsletter-title">Get the Latest Air Fryer Tips & Recipes</h3>
+                <p class="newsletter-description">Join thousands of air fryer enthusiasts and get weekly recipes, cooking tips, and exclusive content delivered straight to your inbox.</p>
+              </div>
+            </div>
+            
+            <form class="newsletter-form" id="inline-newsletter-form" novalidate>
+              <div class="form-group">
+                <input 
+                  type="email" 
+                  id="inline-newsletter-email" 
+                  class="newsletter-input" 
+                  placeholder="Enter your email address" 
+                  required 
+                  aria-describedby="inline-newsletter-status"
+                />
+                <button type="submit" class="newsletter-button">
+                  <span class="button-text">Subscribe</span>
+                  <svg class="button-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                  </svg>
+                </button>
+              </div>
+              <p id="inline-newsletter-status" class="newsletter-status" role="status" aria-live="polite"></p>
+            </form>
+            
+            <div class="newsletter-benefits">
+              <div class="benefit-item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="20,6 9,17 4,12"></polyline>
+                </svg>
+                <span>Weekly recipe collections</span>
+              </div>
+              <div class="benefit-item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="20,6 9,17 4,12"></polyline>
+                </svg>
+                <span>Cooking tips & techniques</span>
+              </div>
+              <div class="benefit-item">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="20,6 9,17 4,12"></polyline>
+                </svg>
+                <span>No spam, unsubscribe anytime</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    // Insert newsletter after first paragraph
+    function insertNewsletterAfterFirstParagraph() {
+      console.log('=== NEWSLETTER INSERTION FUNCTION CALLED ===');
+      console.log('Looking for post content...');
+      const postContent = document.querySelector('.post-content');
+      if (!postContent) {
+        console.log('No post-content found!');
+        return;
+      }
+      console.log('Found post content');
+
+      const paragraphs = postContent.querySelectorAll('p');
+      console.log('Found paragraphs:', paragraphs.length);
+      
+      if (paragraphs.length === 0) {
+        console.log('No paragraphs found, using insertion point');
+        const insertionPoint = document.getElementById('newsletter-insertion-point');
+        if (insertionPoint) {
+          console.log('Found insertion point, inserting newsletter');
+          // Insert newsletter directly at the insertion point
+          const newsletterDiv = document.createElement('div');
+          newsletterDiv.innerHTML = getNewsletterHTML();
+          insertionPoint.parentNode.insertBefore(newsletterDiv, insertionPoint);
+          insertionPoint.remove();
+          initializeInlineNewsletter();
+        } else {
+          console.log('No insertion point, appending to post content');
+          // Fallback: insert at the end of post content
+          const newsletterDiv = document.createElement('div');
+          newsletterDiv.innerHTML = getNewsletterHTML();
+          postContent.appendChild(newsletterDiv);
+          initializeInlineNewsletter();
+        }
+        return;
+      }
+
+      const firstParagraph = paragraphs[0];
+      const insertionPoint = document.getElementById('newsletter-insertion-point');
+      
+      if (firstParagraph && insertionPoint) {
+        console.log('Inserting newsletter after first paragraph with insertion point');
+        // Create newsletter element
+        const newsletterDiv = document.createElement('div');
+        newsletterDiv.innerHTML = getNewsletterHTML();
+
+        // Insert after first paragraph
+        firstParagraph.parentNode.insertBefore(newsletterDiv, firstParagraph.nextSibling);
+        
+        // Remove the insertion point
+        insertionPoint.remove();
+        
+        // Apply modern styling
+        applyNewsletterStyling(newsletterDiv);
+        
+        // Initialize newsletter functionality
+        initializeInlineNewsletter();
+        console.log('Newsletter inserted successfully');
+        
+        // Newsletter successfully inserted and styled
+        console.log('Newsletter element inserted:', newsletterDiv);
+      } else if (firstParagraph) {
+        console.log('Inserting newsletter after first paragraph without insertion point');
+        // Fallback: insert after first paragraph even without insertion point
+        const newsletterDiv = document.createElement('div');
+        newsletterDiv.innerHTML = getNewsletterHTML();
+        firstParagraph.parentNode.insertBefore(newsletterDiv, firstParagraph.nextSibling);
+        
+        // Apply modern styling
+        applyNewsletterStyling(newsletterDiv);
+        
+        initializeInlineNewsletter();
+        console.log('Newsletter inserted successfully (fallback)');
+      } else {
+        console.log('Final fallback: inserting at end of post content');
+        // Final fallback: insert at end of post content
+        const newsletterDiv = document.createElement('div');
+        newsletterDiv.innerHTML = getNewsletterHTML();
+        postContent.appendChild(newsletterDiv);
+        
+        // Apply modern styling
+        applyNewsletterStyling(newsletterDiv);
+        
+        initializeInlineNewsletter();
+        console.log('Newsletter inserted successfully (final fallback)');
+      }
+    }
+
+    // Initialize inline newsletter functionality
+    function initializeInlineNewsletter() {
+      const form = document.getElementById('inline-newsletter-form');
+      const emailInput = document.getElementById('inline-newsletter-email');
+      const statusEl = document.getElementById('inline-newsletter-status');
+      const newsletterCard = document.querySelector('.newsletter-card');
+      const buttonText = document.querySelector('.button-text');
+      const buttonIcon = document.querySelector('.button-icon');
+
+      if (!form || !emailInput || !statusEl) return;
+
+      // Email validation
+      function isValidEmail(email) {
+        return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+      }
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        
+        const email = emailInput.value.trim();
+        
+        if (!email) {
+          statusEl.textContent = 'Please enter your email address.';
+          statusEl.style.color = '#dc2626';
+          emailInput.focus();
+          return;
+        }
+
+        if (!isValidEmail(email)) {
+          statusEl.textContent = 'Please enter a valid email address.';
+          statusEl.style.color = '#dc2626';
+          emailInput.focus();
+          return;
+        }
+
+        // Show loading state
+        buttonText.textContent = 'Subscribing...';
+        buttonIcon.style.display = 'none';
+        statusEl.textContent = 'Subscribing...';
+        statusEl.style.color = '#666';
+        emailInput.disabled = true;
+
+        try {
+          const endpoint = '/api/subscribe';
+          console.log('Submitting to endpoint:', endpoint);
+          console.log('Email:', email);
+          
+          const response = await fetch(endpoint, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ email })
+          });
+          
+          console.log('Response status:', response.status);
+          console.log('Response ok:', response.ok);
+
+          const data = await response.json().catch(() => ({}));
+
+          if (response.ok && data?.ok) {
+            // Success state
+            newsletterCard.classList.add('success');
+            buttonText.textContent = 'Subscribed!';
+            statusEl.textContent = 'Thank you for subscribing! Check your email for confirmation.';
+            statusEl.style.color = '#166534';
+            
+            // Track successful subscription
+            if (typeof gtag !== 'undefined') {
+              gtag('event', 'newsletter_subscribe', {
+                event_category: 'engagement',
+                event_label: 'inline_newsletter',
+                value: 1
+              });
+            }
+
+            if (typeof abTesting !== 'undefined') {
+              abTesting.trackEvent('newsletter_subscribe', {
+                location: 'inline_newsletter',
+                timestamp: new Date().toISOString()
+              });
+            }
+
+          } else {
+            // Error state
+            buttonText.textContent = 'Subscribe';
+            buttonIcon.style.display = 'block';
+            statusEl.textContent = data?.error || 'Something went wrong. Please try again.';
+            statusEl.style.color = '#dc2626';
+            emailInput.disabled = false;
+            emailInput.focus();
+          }
+
+        } catch (error) {
+          // Network error
+          buttonText.textContent = 'Subscribe';
+          buttonIcon.style.display = 'block';
+          statusEl.textContent = 'Network error. Please check your connection and try again.';
+          statusEl.style.color = '#dc2626';
+          emailInput.disabled = false;
+          emailInput.focus();
+        }
+      });
+    }
+
+    // Insert newsletter after first paragraph with a small delay to ensure DOM is ready
+    setTimeout(() => {
+      console.log('Starting newsletter insertion...');
+      
+      // Newsletter insertion working - test element removed
+      
+      try {
+        insertNewsletterAfterFirstParagraph();
+        console.log('Newsletter insertion completed');
+      } catch (error) {
+        console.error('Newsletter insertion error:', error);
+      }
+    }, 100);
+
+    const commentForm = document.getElementById('comment-form');
+    const commentsList = document.getElementById('comments-list');
+    const postSlug = window.location.pathname.split('/').pop();
+    
+    if (!commentForm) {
+      console.error('Comment form not found!');
+      return;
+    }
+    
+    // Load existing comments from Supabase
+    await loadComments();
+    
+    // Setup character counter
+    setupCharacterCounter();
+    
+    // Handle form submission
+    commentForm.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      
+      if (!supabaseClient) {
+        showMessage('Comments are temporarily unavailable. Please try again later.', 'error');
+        return;
+      }
+      
+      const formData = new FormData(commentForm);
+      const message = formData.get('message').trim();
+      
+      if (!message) {
+        showMessage('Please enter a comment.', 'error');
+        return;
+      }
+      
+      // Show loading state
+      const submitBtn = commentForm.querySelector('.submit-btn');
+      const originalText = submitBtn.textContent;
+      submitBtn.textContent = 'Posting...';
+      submitBtn.disabled = true;
+      
+      try {
+        // Save comment to Supabase
+        const { data, error } = await supabaseClient
+          .from('comments')
+          .insert([
+            {
+              post_slug: postSlug,
+              message: message,
+              author: 'Anonymous',
+              created_at: new Date().toISOString(),
+              approved: true,
+              pinned: false
+            }
+          ])
+          .select();
+        
+        if (error) {
+          throw error;
+        }
+        
+        // Add to display
+        addCommentToDisplay(data[0]);
+        
+        // Clear form
+        commentForm.reset();
+        
+        // Show success message
+        showMessage('Thank you for your comment!', 'success');
+        
+      } catch (error) {
+        console.error('Error saving comment:', error);
+        showMessage('Sorry, there was an error posting your comment. Please try again.', 'error');
+      } finally {
+        // Reset button
+        submitBtn.textContent = originalText;
+        submitBtn.disabled = false;
+      }
+    });
+    
+    async function loadComments() {
+      if (!supabaseClient) {
+        commentsList.innerHTML = '<div class="no-comments">Comments temporarily unavailable.</div>';
+        return;
+      }
+      
+      try {
+        const { data: comments, error } = await supabaseClient
+          .from('comments')
+          .select('*')
+          .eq('post_slug', postSlug)
+          .eq('approved', true)
+          .order('pinned', { ascending: false })
+          .order('created_at', { ascending: false });
+        
+        if (error) {
+          throw error;
+        }
+        
+        if (comments.length === 0) {
+          commentsList.innerHTML = '<div class="no-comments">No comments yet. Be the first to share your thoughts!</div>';
+        } else {
+          commentsList.innerHTML = '';
+          comments.forEach(comment => addCommentToDisplay(comment));
+        }
+      } catch (error) {
+        console.error('Error loading comments:', error);
+        commentsList.innerHTML = '<div class="no-comments">Unable to load comments. Please refresh the page.</div>';
+      }
+    }
+    
+    function addCommentToDisplay(comment) {
+      const commentDiv = document.createElement('div');
+      commentDiv.className = 'comment-item';
+      commentDiv.dataset.commentId = comment.id;
+      
+      // Check if user is admin
+      const isAdmin = checkIfAdmin();
+      
+      commentDiv.innerHTML = `
+        <div class="comment-author">Anonymous</div>
+        <div class="comment-date">${new Date(comment.created_at).toLocaleDateString()}</div>
+        <div class="comment-text">${escapeHtml(comment.message)}</div>
+        <div class="comment-actions">
+          <button class="reply-btn cta-button" onclick="showReplyForm(${comment.id})" data-test="reply_cta">Reply</button>
+          ${isAdmin ? `
+            <div class="comment-admin-controls">
+              <button class="admin-btn pin" onclick="togglePin(${comment.id})">${comment.pinned ? 'Unpin' : 'Pin'}</button>
+              <button class="admin-btn delete" onclick="deleteComment(${comment.id})">Delete</button>
+            </div>
+          ` : ''}
+        </div>
+        <div class="reply-form" id="reply-form-${comment.id}" style="display: none;">
+          <form onsubmit="submitReply(event, ${comment.id})">
+            <textarea name="reply" placeholder="Write a reply... (200 characters max)" maxlength="200" required></textarea>
+            <div class="char-counter">
+              <span id="reply-char-count-${comment.id}">0</span>/200 characters
+            </div>
+            <div class="reply-actions">
+              <button type="submit" class="submit-btn cta-button" data-test="reply_submit">Post Reply</button>
+              <button type="button" class="cancel-btn" onclick="hideReplyForm(${comment.id})">Cancel</button>
+            </div>
+          </form>
+        </div>
+        <div class="replies" id="replies-${comment.id}"></div>
+      `;
+      
+      if (commentsList.querySelector('.no-comments')) {
+        commentsList.innerHTML = '';
+      }
+      
+      // Add pinned comments at the top
+      if (comment.pinned) {
+        commentsList.insertBefore(commentDiv, commentsList.firstChild);
+      } else {
+        commentsList.appendChild(commentDiv);
+      }
+      
+      // Load replies for this comment
+      loadReplies(comment.id);
+    }
+    
+    function checkIfAdmin() {
+      return window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    }
+    
+    async function togglePin(commentId) {
+      try {
+        const { data: comment } = await supabaseClient
+          .from('comments')
+          .select('pinned')
+          .eq('id', commentId)
+          .single();
+        
+        const { error } = await supabaseClient
+          .from('comments')
+          .update({ pinned: !comment.pinned })
+          .eq('id', commentId);
+        
+        if (error) throw error;
+        
+        await loadComments(); // Reload to reorder
+      } catch (error) {
+        console.error('Error toggling pin:', error);
+        showMessage('Error updating comment.', 'error');
+      }
+    }
+    
+    async function deleteComment(commentId) {
+      if (confirm('Are you sure you want to delete this comment?')) {
+        try {
+          const { error } = await supabaseClient
+            .from('comments')
+            .delete()
+            .eq('id', commentId);
+          
+          if (error) throw error;
+          
+          await loadComments(); // Reload to update display
+          showMessage('Comment deleted.', 'success');
+        } catch (error) {
+          console.error('Error deleting comment:', error);
+          showMessage('Error deleting comment.', 'error');
+        }
+      }
+    }
+    
+    // Reply functionality
+    async function submitReply(event, parentId) {
+      event.preventDefault();
+      
+      const form = event.target;
+      const formData = new FormData(form);
+      const message = formData.get('reply').trim();
+      
+      if (!message) {
+        showMessage('Please enter a reply.', 'error');
+        return;
+      }
+      
+      try {
+        const { data, error } = await supabaseClient
+          .from('comments')
+          .insert([
+            {
+              post_slug: postSlug,
+              message: message,
+              author: 'Anonymous',
+              created_at: new Date().toISOString(),
+              approved: true,
+              pinned: false,
+              parent_id: parentId
+            }
+          ])
+          .select();
+        
+        if (error) throw error;
+        
+        // Add reply to display
+        addReplyToDisplay(data[0], parentId);
+        
+        // Clear form and hide it
+        form.reset();
+        hideReplyForm(parentId);
+        
+        showMessage('Reply posted!', 'success');
+        
+      } catch (error) {
+        console.error('Error posting reply:', error);
+        showMessage('Error posting reply. Please try again.', 'error');
+      }
+    }
+    
+    function showReplyForm(commentId) {
+      const replyForm = document.getElementById(`reply-form-${commentId}`);
+      replyForm.style.display = 'block';
+      const textarea = replyForm.querySelector('textarea');
+      textarea.focus();
+      
+      // Setup character counter for this reply form
+      setupReplyCharacterCounter(commentId);
+    }
+    
+    function hideReplyForm(commentId) {
+      const replyForm = document.getElementById(`reply-form-${commentId}`);
+      replyForm.style.display = 'none';
+    }
+    
+    function addReplyToDisplay(reply, parentId) {
+      const repliesContainer = document.getElementById(`replies-${parentId}`);
+      
+      const replyDiv = document.createElement('div');
+      replyDiv.className = 'reply-item';
+      replyDiv.innerHTML = `
+        <div class="reply-author">Anonymous</div>
+        <div class="reply-date">${new Date(reply.created_at).toLocaleDateString()}</div>
+        <div class="reply-text">${escapeHtml(reply.message)}</div>
+      `;
+      
+      repliesContainer.appendChild(replyDiv);
+    }
+    
+    // Load replies for each comment
+    async function loadReplies(commentId) {
+      try {
+        const { data: replies, error } = await supabaseClient
+          .from('comments')
+          .select('*')
+          .eq('parent_id', commentId)
+          .eq('approved', true)
+          .order('created_at', { ascending: true });
+        
+        if (error) throw error;
+        
+        const repliesContainer = document.getElementById(`replies-${commentId}`);
+        if (replies && replies.length > 0) {
+          replies.forEach(reply => addReplyToDisplay(reply, commentId));
+        }
+      } catch (error) {
+        console.error('Error loading replies:', error);
+      }
+    }
+    
+    // Character counter functionality
+    function setupCharacterCounter() {
+      const textarea = document.getElementById('comment-message');
+      const charCount = document.getElementById('char-count');
+      const charCounter = charCount.parentElement;
+      
+      textarea.addEventListener('input', function() {
+        const length = this.value.length;
+        charCount.textContent = length;
+        
+        // Update counter color based on length
+        charCounter.classList.remove('warning', 'error');
+        if (length > 180) {
+          charCounter.classList.add('error');
+        } else if (length > 150) {
+          charCounter.classList.add('warning');
+        }
+      });
+    }
+    
+    function setupReplyCharacterCounter(commentId) {
+      const textarea = document.querySelector(`#reply-form-${commentId} textarea`);
+      const charCount = document.getElementById(`reply-char-count-${commentId}`);
+      const charCounter = charCount.parentElement;
+      
+      textarea.addEventListener('input', function() {
+        const length = this.value.length;
+        charCount.textContent = length;
+        
+        // Update counter color based on length
+        charCounter.classList.remove('warning', 'error');
+        if (length > 180) {
+          charCounter.classList.add('error');
+        } else if (length > 150) {
+          charCounter.classList.add('warning');
+        }
+      });
+    }
+    
+    // Make functions global for onclick handlers
+    window.togglePin = togglePin;
+    window.deleteComment = deleteComment;
+    window.showReplyForm = showReplyForm;
+    window.hideReplyForm = hideReplyForm;
+    window.submitReply = submitReply;
+    
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+    
+    function showMessage(message, type) {
+      const messageDiv = document.createElement('div');
+      messageDiv.className = `message message-${type}`;
+      messageDiv.textContent = message;
+      messageDiv.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background: ${type === 'success' ? '#4CAF50' : '#f44336'};
+        color: white;
+        padding: 1rem 2rem;
+        border-radius: 6px;
+        z-index: 1000;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      `;
+      
+      document.body.appendChild(messageDiv);
+      
+      setTimeout(() => {
+        messageDiv.remove();
+      }, 3000);
+    }
+  });
+</script>
 
 <!-- Schema.org JSON-LD -->
 {schema && <div style="display: contents" set:html={schema} />}

@@ -1,0 +1,412 @@
+---
+// No props needed - this is an inline newsletter component
+---
+
+<div class="inline-newsletter" id="inline-newsletter">
+  <div class="newsletter-card">
+    <div class="newsletter-content">
+      <div class="newsletter-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+          <polyline points="22,6 12,13 2,6"></polyline>
+        </svg>
+      </div>
+      <div class="newsletter-text">
+        <h3 class="newsletter-title">Get the Latest Air Fryer Tips & Recipes</h3>
+        <p class="newsletter-description">Join thousands of air fryer enthusiasts and get weekly recipes, cooking tips, and exclusive content delivered straight to your inbox.</p>
+      </div>
+    </div>
+    
+    <form class="newsletter-form" id="inline-newsletter-form" novalidate>
+      <div class="form-group">
+        <input 
+          type="email" 
+          id="inline-newsletter-email" 
+          class="newsletter-input" 
+          placeholder="Enter your email address" 
+          required 
+          aria-describedby="inline-newsletter-status"
+        />
+        <button type="submit" class="newsletter-button">
+          <span class="button-text">Subscribe</span>
+          <svg class="button-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg>
+        </button>
+      </div>
+      <p id="inline-newsletter-status" class="newsletter-status" role="status" aria-live="polite"></p>
+    </form>
+    
+    <div class="newsletter-benefits">
+      <div class="benefit-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="20,6 9,17 4,12"></polyline>
+        </svg>
+        <span>Weekly recipe collections</span>
+      </div>
+      <div class="benefit-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="20,6 9,17 4,12"></polyline>
+        </svg>
+        <span>Cooking tips & techniques</span>
+      </div>
+      <div class="benefit-item">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="20,6 9,17 4,12"></polyline>
+        </svg>
+        <span>No spam, unsubscribe anytime</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .inline-newsletter {
+    margin: 3rem 0;
+    padding: 0 1rem;
+  }
+
+  .newsletter-card {
+    background: linear-gradient(135deg, #FFF8ED 0%, #FFE4CC 100%);
+    border: 2px solid #FF6B35;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 8px 32px rgba(255, 107, 53, 0.15);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .newsletter-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #FF6B35, #FF8C42, #FF6B35);
+  }
+
+  .newsletter-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .newsletter-icon {
+    background: #FF6B35;
+    color: white;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+  }
+
+  .newsletter-text {
+    flex: 1;
+  }
+
+  .newsletter-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #333;
+    margin: 0 0 0.5rem 0;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    line-height: 1.3;
+  }
+
+  .newsletter-description {
+    font-size: 1rem;
+    color: #666;
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .newsletter-form {
+    margin-bottom: 1.5rem;
+  }
+
+  .form-group {
+    display: flex;
+    gap: 0.75rem;
+    align-items: stretch;
+  }
+
+  .newsletter-input {
+    flex: 1;
+    padding: 0.875rem 1rem;
+    border: 2px solid #e5e5e5;
+    border-radius: 8px;
+    font-size: 1rem;
+    background: white;
+    color: #333;
+    transition: all 0.2s ease;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  }
+
+  .newsletter-input:focus {
+    outline: none;
+    border-color: #FF6B35;
+    box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
+  }
+
+  .newsletter-input::placeholder {
+    color: #999;
+  }
+
+  .newsletter-button {
+    background: #FF6B35;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0.875rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    min-width: 140px;
+    justify-content: center;
+  }
+
+  .newsletter-button:hover {
+    background: #e55a2b;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
+  }
+
+  .newsletter-button:active {
+    transform: translateY(0);
+  }
+
+  .button-icon {
+    transition: transform 0.2s ease;
+  }
+
+  .newsletter-button:hover .button-icon {
+    transform: translateX(2px);
+  }
+
+  .newsletter-status {
+    margin-top: 0.75rem;
+    font-size: 0.9rem;
+    min-height: 1.25rem;
+    font-weight: 500;
+  }
+
+  .newsletter-benefits {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .benefit-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: #666;
+    font-weight: 500;
+  }
+
+  .benefit-item svg {
+    color: #FF6B35;
+    flex-shrink: 0;
+  }
+
+  /* Success state */
+  .newsletter-card.success {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    border-color: #22c55e;
+  }
+
+  .newsletter-card.success .newsletter-icon {
+    background: #22c55e;
+  }
+
+  .newsletter-card.success .newsletter-title {
+    color: #166534;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .inline-newsletter {
+      margin: 2rem 0;
+      padding: 0 0.5rem;
+    }
+
+    .newsletter-card {
+      padding: 1.5rem;
+    }
+
+    .newsletter-content {
+      flex-direction: column;
+      text-align: center;
+      gap: 1rem;
+    }
+
+    .newsletter-icon {
+      align-self: center;
+    }
+
+    .newsletter-title {
+      font-size: 1.25rem;
+    }
+
+    .form-group {
+      flex-direction: column;
+    }
+
+    .newsletter-button {
+      min-width: auto;
+    }
+
+    .newsletter-benefits {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+    }
+  }
+
+  /* Animation */
+  @keyframes slideInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .inline-newsletter {
+    animation: slideInUp 0.6s ease-out;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('inline-newsletter-form');
+    const emailInput = document.getElementById('inline-newsletter-email');
+    const statusEl = document.getElementById('inline-newsletter-status');
+    const newsletterCard = document.querySelector('.newsletter-card');
+    const buttonText = document.querySelector('.button-text');
+    const buttonIcon = document.querySelector('.button-icon');
+
+    if (!form || !emailInput || !statusEl) return;
+
+    // Email validation
+    function isValidEmail(email) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    }
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      
+      const email = emailInput.value.trim();
+      
+      if (!email) {
+        statusEl.textContent = 'Please enter your email address.';
+        statusEl.style.color = '#dc2626';
+        emailInput.focus();
+        return;
+      }
+
+      if (!isValidEmail(email)) {
+        statusEl.textContent = 'Please enter a valid email address.';
+        statusEl.style.color = '#dc2626';
+        emailInput.focus();
+        return;
+      }
+
+      // Show loading state
+      buttonText.textContent = 'Subscribing...';
+      buttonIcon.style.display = 'none';
+      statusEl.textContent = 'Subscribing...';
+      statusEl.style.color = '#666';
+      emailInput.disabled = true;
+
+      try {
+        const endpoint = import.meta.env.PUBLIC_NEWSLETTER_ENDPOINT || '/subscribe';
+        const response = await fetch(endpoint, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ email })
+        });
+
+        const data = await response.json().catch(() => ({}));
+
+        if (response.ok && data?.ok) {
+          // Success state
+          newsletterCard.classList.add('success');
+          buttonText.textContent = 'Subscribed!';
+          statusEl.textContent = 'Thank you for subscribing! Check your email for confirmation.';
+          statusEl.style.color = '#166534';
+          
+          // Track successful subscription
+          if (typeof gtag !== 'undefined') {
+            gtag('event', 'newsletter_subscribe', {
+              event_category: 'engagement',
+              event_label: 'inline_newsletter',
+              value: 1
+            });
+          }
+
+          if (typeof abTesting !== 'undefined') {
+            abTesting.trackEvent('newsletter_subscribe', {
+              location: 'inline_newsletter',
+              timestamp: new Date().toISOString()
+            });
+          }
+
+        } else {
+          // Error state
+          buttonText.textContent = 'Subscribe';
+          buttonIcon.style.display = 'block';
+          statusEl.textContent = data?.error || 'Something went wrong. Please try again.';
+          statusEl.style.color = '#dc2626';
+          emailInput.disabled = false;
+          emailInput.focus();
+        }
+
+      } catch (error) {
+        // Network error
+        buttonText.textContent = 'Subscribe';
+        buttonIcon.style.display = 'block';
+        statusEl.textContent = 'Network error. Please check your connection and try again.';
+        statusEl.style.color = '#dc2626';
+        emailInput.disabled = false;
+        emailInput.focus();
+      }
+    });
+
+    // Track newsletter visibility
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          if (typeof gtag !== 'undefined') {
+            gtag('event', 'newsletter_view', {
+              event_category: 'engagement',
+              event_label: 'inline_newsletter'
+            });
+          }
+        }
+      });
+    }, { threshold: 0.5 });
+
+    const newsletterElement = document.getElementById('inline-newsletter');
+    if (newsletterElement) {
+      observer.observe(newsletterElement);
+    }
+  });
+</script>

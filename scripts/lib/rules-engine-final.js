@@ -136,6 +136,11 @@ function classifyPost(slug) {
     return { category: 'conversions', hub: 'grams-to-tablespoons' };
   }
   
+  // --- "How many grams is X tbsp" pattern ---
+  if (/\bhow[- ]*many\b.*?\bgrams?\b.*?\bis\b.*?\b\d*\s*(tbsp|tablespoons?)\b/.test(txt)) {
+    return { category: 'conversions', hub: 'tablespoons-to-grams' };
+  }
+  
   // --- 'How many' phrasing - COMPREHENSIVE PATTERNS ---
   if (/\bhow[- ]*many\b.*?\bounces?\b.*?\b(cups?|cup)\b/.test(txt)) {
     return { category: 'conversions', hub: 'cups-to-ounces' };
