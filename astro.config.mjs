@@ -2,8 +2,8 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
+import cloudflare from '@astrojs/cloudflare';
 import redirectsData from './src/data/redirects.json';
-// Cloudflare adapter removed to restore static build
 
 // Convert the JSON to Astro redirects format
 const redirects = Object.fromEntries(
@@ -17,6 +17,7 @@ const redirects = Object.fromEntries(
 export default defineConfig({
   site: 'https://airfryerrecipe.co.uk',
   output: 'server',
+  adapter: cloudflare(),
   redirects,
   integrations: [
     mdx(),
